@@ -1,4 +1,4 @@
-# MIUIAndroid MIUI7 Vietnamese Translations.
+# MIUIAndroid MIUI8 Vietnamese Translations.
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
