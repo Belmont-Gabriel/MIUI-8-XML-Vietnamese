@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_magazine_title">Màn hình khóa hàng ngày</string>
+    <string name="lockscreen_magazine_summary">Thể loại</string>
+    <string name="lockscreen_magazine_system_title">Ngoại tuyến</string>
+    <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
+    <string name="theme_apply_failured">Không thể áp dụng, hãy thử lại sau</string>
+    <string name="theme_applying">Đang áp dụng…</string>
+    <string name="app_name">Màn hình khóa hàng ngày</string>
+    <string name="declaration_title">Điều khoản và Điều kiện</string>
+    <string name="declaration_lockscreen_title">Màn hình khóa hàng ngày</string>
+    <string name="declaration">Nhận hình nền mới cho màn hình khóa miễn phí mỗi ngày.</string>
+    <string name="cancel">Hủy</string>
+    <string name="no_long_show">Không hiển thị lại</string>
+    <string name="resource_apply">Áp dụng</string>
+    <string name="resource_no_network_text">Không thể kết nối mạng.</string>
+    <string name="setting_head">Cài đặt</string>
+    <string name="wlan_download">Cập nhật qua Wi-Fi</string>
+    <string name="change_time">Đổi hình nền</string>
+    <string name="hour_1">Mỗi giờ</string>
+    <string name="hour_3">Mỗi 3 giờ</string>
+    <string name="day">Mỗi ngày một lần</string>
+    <string name="minutes_15">Mỗi 15 phút</string>
+    <string name="auto_interval">Tự động</string>
+    <string name="summary">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
+    <string name="at_least_one">Chọn ít nhất một thể loại</string>
+    <string name="ok_network">Đồng ý</string>
+    <string name="ok_lockscreen">OK</string>
+    <string name="ok_international">Đồng ý</string>
+    <string name="cancel_international">Hủy</string>
+    <string name="summary_international">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
+    <string name="wlan_download_cn">Cập nhật qua Wi-Fi</string>
+</resources>

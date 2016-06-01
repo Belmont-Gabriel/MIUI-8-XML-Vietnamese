@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lõi Bảo Mật MIUI.VN</string>
+    <string name="hello_world">Việt hóa bởi ๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Tencent">Tencent</string>
+    <string name="AVL">AVL</string>
+    <string name="Mi">Mi</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="DesAVL">AVL</string>
+    <string name="DesMi">Mi</string>
+    <string name="tencent_dialog_title">Chính sách bảo mật của Tencent</string>
+    <string name="tencent_dialog_header">"Tính năng này sẽ mã hóa và tải lên ID thiết bị của bạn với máy chủ của Tencent (%s)."</string>
+    <string name="tencent_dialog_policy">xem Chính sách bảo mật</string>
+    <string name="tencent_dialog_cloudscan">Tải lên và quét tên ứng dụng và chi tiết sử dụng các định nghĩa virus trực tuyến.</string>
+    <string name="tencent_dialog_dbupdate">Cập nhật định nghĩa virus tự động</string>
+    <string name="avl_dialog_title">Chính sách bảo mật của AVL</string>
+    <string name="avl_dialog_header">"Tính năng này sẽ mã hóa và tải lên ID thiết bị của bạn với máy chủ của AVL (%s)."</string>
+    <string name="avl_dialog_policy">Xem Chính sách bảo mật</string>
+</resources>

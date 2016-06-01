@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ bảo mật</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Hủy</string>
+    <string name="privacy_declare_dialog_title">Điều khoản Dịch vụ</string>
+    <string name="privacy_prompt_traffic_purchase_message">Chi tiết số điện thoại và nhà mạng của bạn sẽ được mã hóa và tải lên máy chủ Mi để nhận thêm thông tin về các tùy chọn mua dữ liệu.</string>
+    <string name="miuishare_title_more">Thêm</string>
+    <string name="miuishare_title_share">Chia sẻ</string>
+    <string name="miuishare_wechat_timeline_title">Khoảnh khắc Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Không thể kết nối mạng</string>
+    <string name="no_network_btn">Thử lại</string>
+    <string name="main_toolbar_purchase">Nạp tiền</string>
+    <string name="usage_sorted_loading_text">Vui lòng chờ…</string>
+    <string name="month_report_activity_label">Báo cáo hàng tháng</string>
+    <string name="month_report_disconnect_tip">Không thể kết nối mạng</string>
+    <string name="month_report_click_reconnect_network">Thử lại</string>
+    <string name="month_report_warning_dialog_title">Báo cáo bảo mật hàng tháng</string>
+    <string name="month_report_warning_dialog_description">Để xem báo cáo hàng tháng, bật chức năng này trong Cài đặt của ứng dụng Bảo mật.</string>
+    <string name="month_report_warning_dialog_positive">Bật</string>
+    <string name="month_report_history_activity_label">Lịch sử báo cáo</string>
+    <string name="month_report_result_share">Chia sẻ</string>
+    <string name="month_report_share_img_fail">Không thể chia sẻ</string>
+    <string name="month_report_share_loading">Đang tải…</string>
+    <string name="month_report_network_dialog_title">Không thể nhận thông tin báo cáo</string>
+    <string name="month_report_network_dialog_description">Cho phép ứng dụng này kết nối internet để lấy thông tin báo cáo?</string>
+    <string name="month_report_network_dialog_positive">Cho phép</string>
+    <string name="month_report_follow_service_title">Cập nhật bảo mật</string>
+    <string name="month_report_follow_service_summary">Luôn cập nhật tin tức và thông tin bảo mật bằng cách theo dõi tài khoản chính thức của ứng dụng Bảo mật MIUI.</string>
+    <string name="month_report_follow_service_positive">Theo dõi</string>
+    <string name="month_report_follow_service_negative">Không, cảm ơn</string>
+    <string name="app_not_installed_toast">Ứng dụng chưa được cài đặt trên thiết bị của bạn.</string>
+    <string name="empty">" "</string>
+    <string name="share">Chia sẻ</string>
+    <string name="open_browser">Mở trong trình duyệt</string>
+    <string name="title_share_link">Chia sẻ URL</string>
+    <string name="pm_lable_name">Giới thiệu truy cập root</string>
+</resources>
