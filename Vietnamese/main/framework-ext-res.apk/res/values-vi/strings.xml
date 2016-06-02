@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_toggle_ac">Khóa ứng dụng</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_auto_brightness">Độ sáng</string>
     <string name="status_bar_toggle_data">Dữ liệu</string>
@@ -8,7 +7,6 @@
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Khóa</string>
     <string name="status_bar_toggle_mute">Im lặng</string>
-    <string name="status_bar_toggle_privacy_mode">C.độ Khách</string>
     <string name="status_bar_toggle_rotate">Tắt xoay</string>
     <string name="status_bar_toggle_screen_button">Phím</string>
     <string name="status_bar_toggle_screenshot">Chụp m.hình</string>
@@ -21,6 +19,7 @@
     <string name="status_bar_toggle_quiet_mode">K.làm phiền</string>
     <string name="status_bar_toggle_paper_mode">Đọc sách</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_cast">Cast</string>
     <string name="screen_rotation_freeze_message">Đã tắt tự động xoay.</string>
     <string name="screen_button_disabled_message">Phím điều hướng đã bị vô hiệu hóa. Để bật lại, chạm đồng thời phím Trang chính và nút Nguồn.</string>
     <string name="screen_button_enabled_message">Phím điều hướng đã được bật.</string>
@@ -32,7 +31,11 @@
     <string name="copy">Sao chép</string>
     <string name="paste">Dán</string>
     <string name="replace">Thay thế</string>
+    <string name="frequent_phrases">Cụm từ thường xuyên</string>
+    <string name="add_frequent_phrases">Thêm cụm từ thường xuyên</string>
     <string name="alwaysUsePrompt">Nhớ lựa chọn của tôi</string>
+    <string name="translation_query_error">Không tìm thấy kết quả</string>
+    <string name="translation_query_error_network">Không thể kết nối vào mạng. Kiểm tra cài đặt và thử lại.</string>
     <string name="auto_start_warning_title">Cho phép %s tự khởi chạy?</string>
     <string name="auto_start_warning_allow">Cho phép</string>
     <string name="auto_start_warning_deny">Từ chối</string>
@@ -106,10 +109,6 @@
     <string name="group_name_friends">Bạn bè</string>
     <string name="group_name_family">Gia đình</string>
     <string name="group_name_coworkers">Đồng nghiệp</string>
-    <string name="fp_nav_center_action_choose_dlg_title">Chạm nhanh quay lại Màn hình chính</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Bạn có thể quay lại Màn hình chính bằng cách chạm nhẹ vào phím Trang chính. Chỉ cần vào Cài đặt > Cài đặt bổ sung > Phím và bật Chạm để quay lại Màn hình chính.</string>
-    <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vào Cài đặt</string>
-    <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Không phải bây giờ</string>
     <string name="auto_disable_screenbuttons_float_text">Chạm để tắt phím điều hướng</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Phím điều hướng đã được bật</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Phím điều hướng đã tắt, nhấp đôi phím bất kỳ để bật</string>
@@ -117,4 +116,18 @@
     <string name="auto_disable_screenbuttons_prompts_message">Nhấp đôi phím bất kỳ để bật điều hướng.</string>
     <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
     <string name="auto_disable_screenbuttons_prompts_not_show_again">Không hiển thị lại</string>
+    <string name="fp_nav_center_action_choose_dlg_title">Chạm nhanh quay lại Màn hình chính</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Bạn có thể quay lại Màn hình chính bằng cách chạm nhẹ vào phím Trang chính. Chỉ cần vào Cài đặt > Cài đặt bổ sung > Phím và bật Chạm để quay lại Màn hình chính.</string>
+    <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vào Cài đặt</string>
+    <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Không phải bây giờ</string>
+    <string name="start_security_permission_verify_text">Xác nhận quyền với tài khoản Mi của bạn</string>
+    <string name="security_permission_denied_text">Truy cập bị từ chối</string>
+    <string name="security_permission_failed_text">Lỗi nội bộ, thử lại sau</string>
+    <string name="security_permission_xiaomi_account_missed_text">Nhập ID tài khoản Mi của bạn</string>
+    <string name="security_permission_validate_warning">Cảm ơn bạn đã giúp làm cho MIUI tốt hơn!</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi và dữ liệu di động đã bật</string>
+    <string name="xspace_resolver_activity_title">Chọn ứng dụng</string>
+    <string name="user_switching_dialog_text">Đang chuyển…</string>
+    <string name="status_bar_toggle_ac">Khóa ứng dụng</string>
+    <string name="status_bar_toggle_privacy_mode">C.độ Khách</string>
 </resources>
