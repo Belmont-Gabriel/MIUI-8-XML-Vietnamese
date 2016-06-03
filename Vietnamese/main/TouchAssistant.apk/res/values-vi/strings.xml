@@ -18,9 +18,9 @@
     <string name="name_music_prev_song">Bài trước</string>
     <string name="name_music_toggle">Phát/Tạm dừng nhạc</string>
     <string name="name_payment_code">Thanh toán nhanh</string>
-    <string name="name_press_back_key">Back</string>
-    <string name="name_press_home_key">Home</string>
-    <string name="name_press_menu_key">Menu</string>
+    <string name="name_press_back_key">Quay lại</string>
+    <string name="name_press_home_key">Trang chính</string>
+    <string name="name_press_menu_key">Trình đơn</string>
     <string name="name_quick_lock">Khóa</string>
     <string name="name_quick_search">Tìm kiếm</string>
     <string name="name_scan_to_pay">Quét để trả</string>

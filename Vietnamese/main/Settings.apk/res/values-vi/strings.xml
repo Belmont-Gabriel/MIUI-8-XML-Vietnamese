@@ -98,8 +98,8 @@
     <string name="music_hifi_title">Âm thanh Hi-Fi</string>
     <string name="music_hifi_volume">Âm lượng Hi-Fi</string>
     <string name="music_hifi_summary">Giảm tiếng ồn và biến dạng để tăng chất lượng âm thanh</string>
-    <string name="music_mi_effect_title">Tăng cường Mi Sound</string>
-    <string name="music_mi_effect_summary">Sử dụng Tăng cường Mi Sound khi sử dụng tai nghe</string>
+    <string name="music_mi_effect_title">Tăng cường Âm thanh Mi</string>
+    <string name="music_mi_effect_summary">Sử dụng Tăng cường Âm thanh Mi khi sử dụng tai nghe</string>
     <string name="music_headphone_settings">Chọn loại tai nghe</string>
     <string name="music_dirac_control">Tối ưu chất lượng âm thanh</string>
     <string name="music_dirac_mode_off">Dirac tắt</string>
@@ -145,7 +145,6 @@
     <string name="status_bar_settings_notification_led">Đèn thông báo</string>
     <string name="status_bar_settings_notification_bar">Thanh thông báo</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Thu gọn sau khi chạm</string>
-    <string name="status_bar_settings_show_screenshot_notification">Hiện thông báo chụp ảnh màn hình</string>
     <string name="status_bar_settings_status_bar">Thanh trạng thái</string>
     <string name="status_bar_settings_show_notification_icon">Hiển thị biểu tượng thông báo</string>
     <string name="status_bar_settings_show_network_speed">Hiển thị tốc độ kết nối</string>
@@ -166,13 +165,18 @@
     <string name="status_bar_settings_show_wifi_name">Hiển thị Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Chỉnh sửa tên Wi-Fi</string>
     <string name="status_bar_settings_toggle_position">Vị trí phím nhanh</string>
-    <string name="status_bar_settings_long_click_sort">Chạm &amp; giữ để sắp xếp phím nhanh</string>
+    <string name="status_bar_settings_long_click_sort">Nhấn &amp; giữ để sắp xếp phím nhanh</string>
     <string name="status_bar_screen_button_key">Phím ảo</string>
     <string name="status_bar_key_position_custom">Tùy chỉnh vị trí phím</string>
-    <string name="status_bar_screen_key_menu">Phím Menu</string>
+    <string name="status_bar_screen_key_menu">Phím Trình đơn</string>
     <string name="status_bar_screen_key_home">Phím Trang chính</string>
     <string name="status_bar_screen_key_recent_apps">Phím các ứng dụng gần đây</string>
     <string name="status_bar_screen_key_back">Phím Quay lại</string>
+    <string name="settings_toggle_position_divider_page">%1$d phím nhanh được đặt trên thanh đang hoạt động</string>
+    <string name="settings_toggle_position_divider_list">Phím nhanh được đặt trên thanh đang hoạt động</string>
+    <string name="status_bar_style_list">Kết hợp</string>
+    <string name="status_bar_style_page">Tách rời</string>
+    <string name="status_bar_settings_style">Thông báo &amp; bố trí Phím nhanh</string>
     <string name="yes">Có</string>
     <string name="no">Không</string>
     <string name="create">Tạo</string>
@@ -223,14 +227,14 @@
     <string name="radioInfo_display_asu">asu</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_cid">CID</string>
-    <string name="sdcard_unmount">Tháo thẻ SD</string>
-    <string name="sdcard_format">Xóa thẻ SD</string>
+    <string name="sdcard_unmount">Tháo lưu trữ USB</string>
+    <string name="sdcard_format">Xóa lưu trữ USB</string>
     <string name="small_font">Nhỏ</string>
     <string name="medium_font">Vừa</string>
     <string name="large_font">Lớn</string>
     <string name="font_size_preview_text">Phục vụ người đàn ông này một ly bia và kiwi.</string>
     <string name="font_size_save">OK</string>
-    <string name="sdcard_setting">Thẻ SD</string>
+    <string name="sdcard_setting">Lưu trữ USB</string>
     <string name="battery_info_status_unknown">Không xác định</string>
     <string name="battery_info_status_charging">Đang sạc</string>
     <string name="battery_info_status_charging_ac">Đang sạc qua AC</string>
@@ -311,11 +315,9 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="proxy_clear_text">Xóa</string>
     <string name="proxy_port_label">Cổng</string>
     <string name="proxy_exclusionlist_label">Không sử dụng địa chỉ mạng</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_defaultView_text">Khôi phục mặc định</string>
     <string name="proxy_action_text">Xong</string>
     <string name="proxy_hostname_label">Tên máy chủ</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Chú ý</string>
     <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_invalid_host">Tên máy chủ lưu trữ bạn nhập không hợp lệ.</string>
@@ -350,7 +352,7 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="radio_info_network_type_label">Loại mạng:</string>
     <string name="radio_info_set_perferred_label">Đặt loại mạng ưa thích:</string>
     <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
-    <string name="radio_info_ping_hostname">Ping Tên máy chủ lưu trữ(www.google.com.vn):</string>
+    <string name="radio_info_ping_hostname">Ping Tên máy chủ lưu trữ (www.google.com.vn):</string>
     <string name="radio_info_http_client_test">Kiểm tra Máy khách HTTP:</string>
     <string name="ping_test_label">Chạy kiểm tra ping</string>
     <string name="radio_info_smsc_label">SMSC:</string>
@@ -366,14 +368,14 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="sdcard_changes_instructions">Thay đổi có hiệu lực khi cáp USB được kết nối lại.</string>
     <string name="sdcard_settings_screen_mass_storage_text">Bật thiết bị lưu trữ USB</string>
     <string name="sdcard_settings_total_bytes_label">Tổng số byte:</string>
-    <string name="sdcard_settings_not_present_status">Không có thẻ SD.</string>
+    <string name="sdcard_settings_not_present_status">Lưu trữ USB chưa được gắn kết.</string>
     <string name="sdcard_settings_available_bytes_label">Số byte khả dụng:</string>
-    <string name="sdcard_settings_mass_storage_status">Thẻ SD đang được sử dụng làm thiết bị lưu trữ dung lượng lớn.</string>
-    <string name="sdcard_settings_unmounted_status">Bây giờ đã an toàn để tháo thẻ SD.</string>
-    <string name="sdcard_settings_bad_removal_status">Thẻ SD đã bị tháo trong khi vẫn đang sử dụng!</string>
+    <string name="sdcard_settings_mass_storage_status">Lưu trữ USB đang được sử dụng làm thiết bị lưu trữ dung lượng lớn.</string>
+    <string name="sdcard_settings_unmounted_status">Bây giờ đã an toàn để tháo lưu trữ USB.</string>
+    <string name="sdcard_settings_bad_removal_status">Lưu trữ USB đã bị tháo trong khi vẫn đang sử dụng!</string>
     <string name="sdcard_settings_used_bytes_label">Số byte đã sử dụng:</string>
-    <string name="sdcard_settings_scanning_status">Đang quét thẻ SD để tìm phương tiện…</string>
-    <string name="sdcard_settings_read_only_status">Thẻ SD được lắp ở chế độ chỉ đọc.</string>
+    <string name="sdcard_settings_scanning_status">Đang quét lưu trữ USB để tìm phương tiện…</string>
+    <string name="sdcard_settings_read_only_status">Lưu trữ USB được lắp ở chế độ chỉ đọc.</string>
     <string name="skip_label">Bỏ qua</string>
     <string name="next_label">Tiếp theo</string>
     <string name="language_picker_title">Ngôn ngữ</string>
@@ -382,7 +384,7 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="device_info_label">Thông tin thiết bị</string>
     <string name="display_label">Màn hình</string>
     <string name="phone_info_label">Thông tin điện thoại</string>
-    <string name="sd_card_settings_label">Thẻ SD</string>
+    <string name="sd_card_settings_label">Lưu trữ USB</string>
     <string name="proxy_settings_label">Cài đặt proxy</string>
     <string name="cancel">Hủy</string>
     <string name="okay">OK</string>
@@ -552,14 +554,22 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu b�
     <string name="unlock_setup_wizard_fingerprint_details">Sau khi thiết lập khóa màn hình, bạn cũng có thể thiết lập vân tay của mình trong Cài đặt và bảo mật.</string>
     <string name="unlock_disable_lock_title">Tắt khóa màn hình</string>
     <string name="unlock_disable_frp_warning_title">Xóa tính năng bảo vệ thiết bị?</string>
-    <string name="unlock_disable_frp_warning_content_pattern">Các tính năng bảo vệ thiết bị sẽ không hoạt động mà không có mẫu của bạn.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Các tính năng bảo vệ thiết bị sẽ không hoạt động mà không có mẫu của bạn. Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị này và bạn sẽ không thể mở khóa điện thoại, ủy quyền mua hay đăng nhập vào các ứng dụng bằng dấu vân tay\".</string>
-    <string name="unlock_disable_frp_warning_content_pin">Các tính năng bảo vệ thiết bị sẽ không hoạt động mà không có mã PIN của bạn.</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint">Các tính năng bảo vệ thiết bị sẽ không hoạt động mà không có mã PIN của bạn. Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị này và bạn sẽ không thể mở khóa điện thoại, ủy quyền mua hoặc đăng nhập vào các ứng dụng bằng dấu vân tay\".</string>
-    <string name="unlock_disable_frp_warning_content_password">Các tính năng bảo vệ thiết bị sẽ không hoạt động mà không có mật khẩu của bạn.</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint">Các tính năng bảo vệ thiết bị sẽ không hoạt động mà không có mật khẩu của bạn. Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị này và bạn sẽ không thể mở khóa điện thoại, ủy quyền mua hay đăng nhập vào các ứng dụng bằng dấu vân tay.\"</string>
-    <string name="unlock_disable_frp_warning_content_unknown">Các tính năng bảo vệ thiết bị sẽ không hoạt động mà không có khóa màn hình của bạn.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Các tính năng bảo vệ thiết bị sẽ không hoạt động mà không có khóa màn hình của bạn. Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị này và bạn sẽ không thể mở khóa điện thoại, ủy quyền mua hoặc đăng nhập vào các ứng dụng bằng dấu vân tay\".</string>
+    <string name="unlock_disable_frp_warning_content_pattern">Các tính năng bảo vệ thiết bị sẽ không hoạt động nếu không có hình mở khóa của bạn.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Các tính năng bảo vệ thiết bị sẽ không hoạt động nếu không có hình mở khóa của bạn.
+	
+Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị này và bạn sẽ không thể mở khóa điện thoại, ủy quyền mua hay đăng nhập vào các ứng dụng bằng dấu vân tay."</string>
+    <string name="unlock_disable_frp_warning_content_pin">Các tính năng bảo vệ thiết bị sẽ không hoạt động nếu không có mã PIN của bạn.</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Các tính năng bảo vệ thiết bị sẽ không hoạt động nếu không có mã PIN của bạn.
+	
+Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị này và bạn sẽ không thể mở khóa điện thoại, ủy quyền mua hoặc đăng nhập vào các ứng dụng bằng dấu vân tay."</string>
+    <string name="unlock_disable_frp_warning_content_password">Các tính năng bảo vệ thiết bị sẽ không hoạt động nếu không có mật khẩu của bạn.</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Các tính năng bảo vệ thiết bị sẽ không hoạt động nếu không có mật khẩu của bạn.
+	
+Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị này và bạn sẽ không thể mở khóa điện thoại, ủy quyền mua hay đăng nhập vào các ứng dụng bằng dấu vân tay."</string>
+    <string name="unlock_disable_frp_warning_content_unknown">Các tính năng bảo vệ thiết bị sẽ không hoạt động nếu không có khóa màn hình của bạn.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Các tính năng bảo vệ thiết bị sẽ không hoạt động nếu không có khóa màn hình của bạn.
+	
+Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị này và bạn sẽ không thể mở khóa điện thoại, ủy quyền mua hoặc đăng nhập vào các ứng dụng bằng dấu vân tay."</string>
     <string name="unlock_disable_frp_warning_ok">Có, xóa</string>
     <string name="unlock_change_lock_pattern_title">Thay đổi hình mở khóa</string>
     <string name="unlock_change_lock_pin_title">Thay đổi mã PIN</string>
@@ -709,7 +719,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu b�
     <string name="wifi_automatically_connect_summary">Cho phép Trợ lý Wi‑Fi tự động kết nối với mạng mở được xác định là có chất lượng cao</string>
     <string name="wifi_select_assistant_dialog_title">Chọn trợ lý</string>
     <string name="wifi_install_credentials">Cài đặt chứng chỉ</string>
-    <string name="wifi_scan_notify_text">Để nâng cao độ chính xác về vị trí, các ứng dụng và dịch vụ hệ thống có thể vẫn quét để tìm mạng Wi‑Fi. Bạn có thể thay đổi tùy chọn này trong LINK_BEGINcài đặt quétLINK_END.</string>
+    <string name="wifi_scan_notify_text">Để nâng cao độ chính xác về vị trí, các ứng dụng và dịch vụ hệ thống có thể vẫn quét để tìm mạng Wi‑Fi. Bạn có thể thay đổi tùy chọn này trong LINK_BEGIN cài đặt quét LINK_END.</string>
     <string name="wifi_scan_notify_remember_choice">Không hiển thị nữa</string>
     <string name="wifi_setting_sleep_policy_title">Bật Wi-Fi khi ngủ</string>
     <string name="wifi_setting_on_during_sleep_title">Bật Wi-Fi khi ở chế độ ngủ</string>
@@ -1022,7 +1032,7 @@ Có thể mã PIN không đúng."</string>
     <string name="storage_settings">Bộ nhớ</string>
     <string name="storage_usb_settings">Bộ nhớ và USB</string>
     <string name="storage_settings_title">Cài đặt bộ nhớ</string>
-    <string name="storage_settings_summary">Tháo thẻ SD, xem dung lượng còn trống</string>
+    <string name="storage_settings_summary">Tháo lưu trữ USB, xem dung lượng còn trống</string>
     <string name="status_imei">IMEI</string>
     <string name="status_imei_sv">IMEI SV</string>
     <string name="status_number">Số điện thoại của tôi</string>
@@ -1045,7 +1055,7 @@ Có thể mã PIN không đúng."</string>
     <string name="status_up_time">Thời gian hoạt động</string>
     <string name="status_awake_time">Thời gian thức</string>
     <string name="internal_memory">Bộ nhớ trong</string>
-    <string name="sd_memory">Thẻ SD</string>
+    <string name="sd_memory">Lưu trữ USB</string>
     <string name="memory_available">Còn trống</string>
     <string name="memory_available_read_only">Khả dụng (chỉ đọc)</string>
     <string name="memory_size">Tổng dung lượng</string>
@@ -1057,21 +1067,21 @@ Có thể mã PIN không đúng."</string>
     <string name="memory_music_usage">Âm thanh (âm nhạc, nhạc chuông, podcast, v.v).</string>
     <string name="memory_media_misc_usage">Tệp khác</string>
     <string name="memory_media_cache_usage">Dữ liệu đã lưu trong bộ nhớ cache</string>
-    <string name="sd_eject">Tháo thẻ SD</string>
-    <string name="sd_eject_summary">Ngắt kết nối thẻ SD để bạn có thể tháo thẻ một cách an toàn</string>
-    <string name="sd_insert_summary">Lắp thẻ SD để gắn</string>
-    <string name="sd_mount">Lắp thẻ SD</string>
+    <string name="sd_eject">Tháo lưu trữ USB</string>
+    <string name="sd_eject_summary">Ngắt kết nối lưu trữ USB để bạn có thể tháo thẻ một cách an toàn</string>
+    <string name="sd_insert_summary">Lắp lưu trữ USB để gắn</string>
+    <string name="sd_mount">Lắp lưu trữ USB</string>
     <string name="sd_mount_summary" />
-    <string name="sd_format">Xóa thẻ SD</string>
-    <string name="sd_format_summary">Xóa tất cả dữ liệu trên thẻ SD, chẳng hạn như nhạc và ảnh</string>
+    <string name="sd_format">Xóa lưu trữ USB</string>
+    <string name="sd_format_summary">Xóa tất cả dữ liệu trên lưu trữ USB, chẳng hạn như nhạc và ảnh</string>
     <string name="memory_clear_cache_title">Xóa dữ liệu đã lưu trong bộ nhớ cache?</string>
     <string name="memory_clear_cache_message">Xóa dữ liệu lưu trong cache cho tất cả ứng dụng.</string>
     <string name="mtp_ptp_mode_summary">Chức năng MTP hoặc PTP đang hoạt động</string>
-    <string name="dlg_confirm_unmount_title">Tháo thẻ SD?</string>
-    <string name="dlg_confirm_unmount_text">Nếu bạn tháo thẻ SD, một số ứng dụng bạn đang sử dụng sẽ ngừng và có thể không khả dụng cho tới khi bạn lắp lại thẻ SD.</string>
+    <string name="dlg_confirm_unmount_title">Tháo lưu trữ USB?</string>
+    <string name="dlg_confirm_unmount_text">Nếu bạn tháo lưu trữ USB, một số ứng dụng bạn đang sử dụng sẽ ngừng và có thể không khả dụng cho tới khi bạn lắp lại lưu trữ USB.</string>
     <string name="dlg_error_unmount_title" />
-    <string name="dlg_error_unmount_text">Không thể tháo thẻ SD. Vui lòng thử lại sau.</string>
-    <string name="unmount_inform_text">Thẻ SD sẽ được ngắt kết nối.</string>
+    <string name="dlg_error_unmount_text">Không thể tháo lưu trữ USB. Vui lòng thử lại sau.</string>
+    <string name="unmount_inform_text">Lưu trữ USB sẽ được ngắt kết nối.</string>
     <string name="sd_ejecting_title">Đang tháo</string>
     <string name="sd_ejecting_summary">Đang tháo thẻ</string>
     <string name="storage_low_title">Sắp hết dung lượng lưu trữ</string>
@@ -1278,9 +1288,9 @@ Có người dùng khác trên thiết bị này.
 "<li>Dữ liệu người dùng khác</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Đồng thời, để xóa nhạc, hình ảnh và dữ liệu người dùng khác, cần xóa "<b>thẻ SD</b>.</string>
-    <string name="erase_external_storage">Xóa thẻ SD</string>
-    <string name="erase_external_storage_description">Xóa tất cả dữ liệu trên thẻ SD, chẳng hạn như nhạc hoặc ảnh</string>
+Đồng thời, để xóa nhạc, hình ảnh và dữ liệu người dùng khác, cần xóa "<b>Lưu trữ USB</b>.</string>
+    <string name="erase_external_storage">Xóa lưu trữ USB</string>
+    <string name="erase_external_storage_description">Xóa tất cả dữ liệu trên lưu trữ USB, chẳng hạn như nhạc hoặc ảnh</string>
     <string name="master_clear_button_text">Đặt lại điện thoại</string>
     <string name="master_clear_final_desc">Xóa tất cả thông tin cá nhân và ứng dụng đã tải xuống của bạn? Bạn không thể hoàn tác thao tác này!</string>
     <string name="master_clear_final_button_text">Xóa mọi thứ</string>
@@ -1454,7 +1464,7 @@ Có người dùng khác trên thiết bị này.
     <string name="application_size_label">Ứng dụng</string>
     <string name="external_code_size_label">Ứng dụng bộ lưu trữ USB</string>
     <string name="data_size_label">Dữ liệu</string>
-    <string name="external_data_size_label">Thẻ SD</string>
+    <string name="external_data_size_label">Lưu trữ USB</string>
     <string name="uninstall_text">Gỡ cài đặt</string>
     <string name="uninstall_all_users_text">Gỡ cài đặt đối với tất cả người dùng</string>
     <string name="install_text">Cài đặt</string>
@@ -1494,13 +1504,13 @@ Có người dùng khác trên thiết bị này.
     <string name="filter_apps_disabled">Đã tắt</string>
     <string name="filter_apps_third_party">Đã tải xuống</string>
     <string name="filter_apps_running">Đang hoạt động</string>
-    <string name="filter_apps_onsdcard">Thẻ SD</string>
+    <string name="filter_apps_onsdcard">Lưu trữ USB</string>
     <string name="disabled">Đã tắt</string>
     <string name="not_installed">Chưa c.đặt cho người dùng này</string>
     <string name="no_applications">Không có ứng dụng.</string>
     <string name="internal_storage">Bộ nhớ trong</string>
     <string name="internal_storage_sentence">bộ nhớ trong</string>
-    <string name="sd_card_storage">Thẻ SD</string>
+    <string name="sd_card_storage">Lưu trữ USB</string>
     <string name="recompute_size">Đang tính toán lại kích thước…</string>
     <string name="clear_data_dlg_title">Xóa dữ liệu ứng dụng?</string>
     <string name="clear_data_dlg_text">Tất cả dữ liệu của ứng dụng này sẽ bị xóa vĩnh viễn, bao gồm tất cả các tệp, cài đặt, tài khoản, cơ sở dữ liệu, v.v.</string>
@@ -1527,7 +1537,7 @@ Có người dùng khác trên thiết bị này.
     <string name="version_text">phiên bản %1$s</string>
     <string name="move_app">Chuyển</string>
     <string name="move_app_to_internal">Chuyển sang điện thoại</string>
-    <string name="move_app_to_sdcard">Chuyển sang thẻ SD</string>
+    <string name="move_app_to_sdcard">Chuyển sang lưu trữ USB</string>
     <string name="moving">Đang chuyển</string>
     <string name="insufficient_storage">Không đủ dung lượng lưu trữ.</string>
     <string name="does_not_exist">Ứng dụng không tồn tại.</string>
@@ -1709,10 +1719,10 @@ Thêm từ bằng cách chạm vào phím Thêm (+)"</string>
     <string name="dev_settings_warning_message">Những cài đặt này chỉ dành cho mục đích phát triển. Chúng có thể làm cho thiết bị và ứng dụng trên thiết bị của bạn bị lỗi và hoạt động sai.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra các ứng dụng được cài đặt qua ADB/ADT để xem có hoạt động gây hại hay không.</string>
-    <string name="enforce_read_external_title">Bảo vệ thẻ SD</string>
-    <string name="enforce_read_external_summary">Các ứng dụng phải yêu cầu quyền đọc thẻ SD</string>
-    <string name="enforce_read_external_confirm_title">Bảo vệ thẻ SD?</string>
-    <string name="enforce_read_external_confirm_message">"Khi thẻ SD được bảo vệ, các ứng dụng phải yêu cầu quyền đọc dữ liệu từ bộ nhớ ngoài.
+    <string name="enforce_read_external_title">Bảo vệ lưu trữ USB</string>
+    <string name="enforce_read_external_summary">Các ứng dụng phải yêu cầu quyền đọc lưu trữ USB</string>
+    <string name="enforce_read_external_confirm_title">Bảo vệ lưu trữ USB?</string>
+    <string name="enforce_read_external_confirm_message">"Khi lưu trữ USB được bảo vệ, các ứng dụng phải yêu cầu quyền đọc dữ liệu từ bộ nhớ ngoài.
 
 Một số ứng dụng có thể không hoạt động cho đến khi được nhà phát triển cập nhật."</string>
     <string name="enable_terminal_title">Dòng lệnh cục bộ</string>
@@ -1745,8 +1755,8 @@ Một số ứng dụng có thể không hoạt động cho đến khi được 
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<ul><li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
+"<li><ul>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -1928,7 +1938,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="battery_action_bluetooth">Cài đặt Bluetooth</string>
     <string name="battery_desc_voice">Pin được các cuộc gọi thoại sử dụng</string>
     <string name="battery_desc_standby">Pin được sử dụng khi điện thoại ở chế độ rảnh</string>
-    <string name="battery_desc_radio">Pin được vô tuyến tế bào sử dụng</string>
+    <string name="battery_desc_radio">Pin được vô tuyến sử dụng</string>
     <string name="battery_sugg_radio">Chuyển sang chế độ trên máy bay để tiết kiệm pin trong khu vực không có phủ sóng điện thoại di động</string>
     <string name="battery_desc_flashlight">Lượng pin đèn nháy tiêu thụ</string>
     <string name="battery_desc_camera">Lượng pin máy ảnh đã sử dụng</string>
@@ -3038,6 +3048,10 @@ Nhận dạng quảng cáo là một ID vĩnh viễn duy nhất cho thiết bị
 
 Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số tiền quảng cáo sẽ không bị giảm, nhưng số lượng quảng cáo hữu ích cho bạn sẽ giảm đáng kể."</string>
     <string name="confirm_reset_aaid">OK</string>
+    <string name="recommend_item_1">Flip</string>
+    <string name="recommend_item_2">Mi Band</string>
+    <string name="recommend_item_3">Sạc dự phòng</string>
+    <string name="recommend_item_4">Tai nghe bluetooth</string>
     <string name="do_not_disturb_mode">Không làm phiền</string>
     <string name="dndm_notification">Không làm phiền được bật</string>
     <string name="dndm_open">Không làm phiền</string>
@@ -3097,42 +3111,90 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="quiet_group">Không làm phiền</string>
     <string name="zen_mode_from_call">"Gọi từ "</string>
     <string name="zen_mode_from_sms">"Nhắn tin từ "</string>
-    <string name="search_airplane">chế độ máy bay</string>
-    <string name="search_network">mạng</string>
-    <string name="search_wifi">wifi</string>
-    <string name="search_bluetooth">bluetooth</string>
-    <string name="search_android_beam">chuyển</string>
-    <string name="search_vpn">vpn</string>
-    <string name="search_tether">kết nối</string>
-    <string name="search_brightness">độ sáng</string>
-    <string name="search_wallpaper">hình nền</string>
-    <string name="search_accelerometer">gia tốc kế</string>
-    <string name="search_screen_timeout">thời gian chờ màn hình</string>
+    <string name="search_network">Thẻ SIM &amp; mạng di động;Dữ liệu di động;Chuyển vùng quốc tế;Nhận MMS;Tên điểm truy cập;Loại mạng ưu tiên;Mạng di động</string>
+    <string name="search_apn_settings">APN;Tên điểm truy cập</string>
+    <string name="search_preferred_network_type_title">Loại mạng ưu tiên</string>
+    <string name="search_networks_title">Mạng di động</string>
+    <string name="search_wifi">Wifi;Wi-Fi;Cài đặt nâng cao</string>
+    <string name="search_wifi_enable">Wifi;Wi-Fi</string>
+    <string name="search_wifi_advanced_settings">Cài đặt nâng cao;Wifi</string>
+    <string name="search_wifi_setting_sleep_policy_title">Giữ Wi-Fi khi ngủ</string>
+    <string name="search_wifi_scan_always_available">Luôn quét</string>
+    <string name="search_wifi_setting_frequency_band_title">Băng tần mạng Wi-Fi</string>
+    <string name="search_wifi_install_credentials">Cài đặt các chứng chỉ</string>
+    <string name="search_wifi_advanced_mac_address_title">Địa chỉ MAC Wi-Fi</string>
+    <string name="search_wifi_advanced_ip_address_title">Địa chỉ IP</string>
+    <string name="search_wifi_menu_p2p">Wi-Fi Direct</string>
+    <string name="search_wifi_wapi_cert_install">Cài đặt chứng chỉ WAPI</string>
+    <string name="search_wifi_wapi_cert_uninstall">Gỡ cài đặt chứng chỉ WAPI</string>
+    <string name="search_wps_connect_title">Nút nhấn WPS</string>
+    <string name="search_wifi_menu_wps_pin">Nhập mã PIN WPS</string>
+    <string name="search_bluetooth">Bluetooth;Tên thiết bị;Có thể phát hiện</string>
+    <string name="search_bluetooth_enable">Bluetooth</string>
+    <string name="search_bluetooth_device_searchable">Có thể phát hiện</string>
+    <string name="search_bluetooth_device_name">Tên thiết bị</string>
+    <string name="search_tether">Techering &amp; điểm phát sóng di động</string>
+    <string name="search_wifi_tether_checkbox">Điểm phát sóng di động</string>
+    <string name="search_wifi_tether_configure_ap_text">Thiết lập điểm phát sóng di động</string>
+    <string name="search_wifi_more_settings">Thêm;Chế độ máy bay;VPN;Techering &amp; điểm phát sóng di động;hiển thị Wi-Fi;Dữ liệu di động quốc tế;NFC;Android Beam;Vị trí phần tử bảo mật</string>
+    <string name="search_airplane">Chế độ máy bay</string>
+    <string name="search_tether_settings_title_usb">USB tethering</string>
+    <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
+    <string name="search_restriction_nfc_enable_title">NFC</string>
+    <string name="search_android_beam">NFC;Android Beam</string>
+    <string name="search_vpn">VPN</string>
+    <string name="search_vpn_settings_password">Mật khẩu VPN</string>
+    <string name="search_vpn_enable">VPN</string>
+    <string name="search_wifi_display">Hiển thị Wi-Fi</string>
+    <string name="search_virtual_sim">Dữ liệu di động quốc tế</string>
+    <string name="search_nfc_se_route_title">Vị trí phần tử bảo mật</string>
+    <string name="search_status_bar">Thông báo ứng dụng;Vị trí phím nhanh;Tốc độ kết nối;Tên nhà mạng;Thông báo chụp màn hình;Màn hình khóa</string>
+    <string name="search_notification_app_list_settings">Thông báo ứng dụng</string>
+    <string name="search_toggle_position">Vị trí phím nhanh</string>
+    <string name="search_status_bar_settings_style">Kiểu thanh trạng thái</string>
+    <string name="search_status_bar_settings_show_notification_icon">Hiển thị biểu tượng thông báo</string>
+    <string name="search_status_bar_settings_show_network_speed">Hiển thị tốc độ kết nối</string>
+    <string name="search_status_bar_settings_show_carrier">Hiển thị tên nhà mạng</string>
+    <string name="search_status_bar_settings_custom_carrier">Sửa tên nhà mạng</string>
+    <string name="search_status_bar_settings_show_screenshot_notification">Hiển thị thông báo chụp màn hình</string>
+    <string name="search_status_bar_settings_toggle_collapse_after_clicked">Thu gọn sau khi chạm</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">Hiển thị trên màn hình khóa</string>
+    <string name="search_wallpaper">Hình nền</string>
+    <string name="search_theme_settings">Chủ đề</string>
+    <string name="search_font">Phông chữ hệ thống</string>
+    <string name="search_page_layout_settings">Kích thước văn bản</string>
+    <string name="search_display">Hiển thị;Độ sáng;Độ bão hòa;Chế độ găng tay;Bảo vệ màn hình;Tự động xoay màn hình</string>
+    <string name="search_accelerometer">Tự động xoay màn hình</string>
+    <string name="search_brightness">Độ sáng</string>
     <string name="search_ring_volume">âm lượng nhạc chuông</string>
     <string name="search_ringtone">nhạc chuông</string>
     <string name="search_sms_received">sms đã nhận</string>
-    <string name="search_silent">im lặng</string>
     <string name="search_unlock_set">cài đặt mở khóa</string>
+    <string name="search_screen_timeout">thời gian chờ màn hình</string>
     <string name="search_access_control">kiểm soát truy cập</string>
-    <string name="search_gps">gps</string>
-    <string name="search_status_bar">thanh trạng thái</string>
-    <string name="search_sync">đồng bộ</string>
-    <string name="search_battery_indicator">Hiển thị pin</string>
-    <string name="search_key">từ khóa</string>
-    <string name="search_led">đèn led</string>
     <string name="search_date_time">ngày giờ</string>
     <string name="search_language">ngôn ngữ</string>
-    <string name="search_about">thông tin</string>
+    <string name="search_handy_mode">chế độ một tay</string>
+    <string name="search_battery">pin</string>
+    <string name="search_storage">lưu trữ</string>
+    <string name="search_key">từ khóa</string>
+    <string name="search_led">đèn led</string>
+    <string name="search_accessibility">khả năng truy cập</string>
+    <string name="search_privacy">riêng tư</string>
+    <string name="search_gps">gps</string>
+    <string name="search_battery_indicator">Hiển thị pin</string>
     <string name="search_power_mode">chế độ pin</string>
+    <string name="search_about">thông tin</string>
     <string name="debug_log">Chương trình Trải nghiệm Người dùng</string>
     <string name="upload_debug_log_title">Chương trình Trải nghiệm Người dùng</string>
     <string name="upload_debug_log_summary">Giúp cải thiện MIUI bằng cách gửi dữ liệu ẩn danh</string>
     <string name="sound_vibrate_settings">Âm thanh &amp; rung</string>
     <string name="device_miui_version">Phiên bản MIUI</string>
+    <string name="cmcc_hardware_version">Phiên bản phần cứng</string>
     <string name="device_cpu">CPU</string>
     <string name="device_memory">RAM</string>
     <string name="device_internal_memory">Bộ nhớ trong</string>
-    <string name="device_sd_memory">Thẻ SD</string>
+    <string name="device_sd_memory">Lưu trữ USB</string>
     <string name="device_cpu2_info">"Hai nhân "</string>
     <string name="device_cpu6_info">"Sáu nhân "</string>
     <string name="device_cpu4_info">"Bốn nhân "</string>
@@ -3330,7 +3392,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="wifi_wapi_cert_mgmt_subdir_exist">Thư mục với tên này đã tồn tại.</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Không thể tạo thư mục.</string>
     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Nhập tên chứng chỉ AS</string>
-    <string name="wifi_wapi_cert_mgmt_as_dont_exist">Không có chứng chỉ AS trên thẻ SD.</string>
+    <string name="wifi_wapi_cert_mgmt_as_dont_exist">Không có chứng chỉ AS trên lưu trữ USB.</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Định dạng chứng chỉ AS không chính xác.</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Định dạng chứng chỉ người dùng là không chính xác.</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Nhập tên chứng chỉ người dùng</string>
@@ -3370,7 +3432,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="confirm_erase">Xóa</string>
     <string name="master_clear_personal_data">Bạn có muốn xóa hết thông tin cá nhân? Lưu ý: Thao tác này không thể khôi phục lại!</string>
     <string name="master_clear_personal_data_application">Bạn có muốn xóa hết thông tin cá nhân và những ứng dụng đã cài đặt? Lưu ý: Thao tác này không thể khôi phục lại!</string>
-    <string name="master_clear_personal_data_sdcard">Bạn có muốn xóa hết thông tin cá nhân và định dạng lại thẻ SD? Lưu ý: Thao tác này không thể khôi phục lại.</string>
+    <string name="master_clear_personal_data_sdcard">Bạn có muốn xóa hết thông tin cá nhân và định dạng lại lưu trữ USB? Lưu ý: Thao tác này không thể khôi phục lại.</string>
     <string name="master_clear_all">Bạn có chắc chắn muốn xóa tất cả dữ liệu từ bộ nhớ trong của điện thoại? Lưu ý: Thao tác này không thể khôi phục lại!</string>
     <string name="master_clear_erase_application_progress">Đang xóa ứng dụng…</string>
     <string name="erase_internal_storage">Xóa bộ nhớ máy</string>
@@ -3646,7 +3708,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="wifi_share_add">Chia sẻ mạng Wi-Fi công cộng</string>
     <string name="wifi_share_count">Đã chia sẻ %d mạng</string>
     <string name="wifi_share_notification_summary">MIUI đã kết nối bạn đến mạng Wi-Fi công cộng.</string>
-    <string name="wifi_share_add_summary">"Khi bạn chia sẻ mạng Wi-Fi công cộng, bạn có thể sử dụng các mạng được chia sẻ của người dùng khác"</string>
+    <string name="wifi_share_add_summary">Khi bạn chia sẻ mạng Wi-Fi công cộng, bạn có thể sử dụng các mạng được chia sẻ của người dùng khác</string>
     <string name="wifi_share_login">Chia sẻ mạng Wi-Fi</string>
     <string name="wifi_share_login_summary">Nếu đây là mạng công cộng, bạn có thể chia sẻ với người dùng MIUI khác.</string>
     <string name="wifi_share_connected_title">MIUI đã chia sẻ Wi-Fi</string>
@@ -3792,6 +3854,13 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="local_auto_backup_section_title">Tự động sao lưu</string>
     <string name="local_auto_backup_on">Bật</string>
     <string name="local_auto_backup_off">Tắt</string>
+    <string name="cloud_backup_section_title">Sao lưu Mi Cloud</string>
+    <string name="cloud_restore_section_title">Khôi phục từ Mi Cloud</string>
+    <string name="cloud_restore_section_summary">Khôi phục ứng dụng, bố cục Màn hình chính, và cài đặt hệ thống</string>
+    <string name="cloud_backup_settings_section_title">Cài đặt sao lưu</string>
+    <string name="login_account_dialog_title">Đăng nhập bằng Tài khoản Mi</string>
+    <string name="login_account_dialog_message">Đăng nhập Tài khoản Mi của bạn và bật đồng bộ với Mi Cloud.</string>
+    <string name="login_action">Đăng nhập</string>
     <string name="other_advanced_settings">Cài đặt bổ sung</string>
     <string name="recent_location_requests_title">Truy cập vị trí</string>
     <string name="recent_location_requests_summary">Xem các ứng dụng yêu cầu truy cập thông tin vị trí gần đây</string>
@@ -3829,7 +3898,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="reset_legacy_password_settings_preface_text">Bạn cần phải đặt lại mật khẩu màn hình khóa.</string>
     <string name="priority_storage_title">Cài đặt bộ nhớ</string>
     <string name="priority_storage_summary">Chọn nơi để lưu dữ liệu</string>
-    <string name="priority_storage_settings_summary">Nếu không phát hiện thẻ SD, dữ liệu người dùng sẽ được lưu tự động vào bộ nhớ trong điện thoại của bạn</string>
+    <string name="priority_storage_settings_summary">Nếu không phát hiện lưu trữ USB, dữ liệu người dùng sẽ được lưu tự động vào bộ nhớ trong điện thoại của bạn</string>
     <string name="priority_storage_app_settings">Dữ liệu sẽ được lưu vào %1$s</string>
     <string name="enable_mobile_data_when_opening_hotspot">Bật kết nối dữ liệu di động?</string>
     <string name="free_wifi_agreement_remind_never">Không hiển thị lại</string>
@@ -4080,22 +4149,13 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="onekey_migrate">Mi Mover</string>
     <string name="confirm_fingerprint_msg">Hãy đặt ngón tay của bạn trên cảm biến vân tay</string>
     <string name="forget_password_button_text"><u>Quên mật khẩu</u></string>
-    <string name="storage_usb">Thẻ SD</string>
-    <string name="usb_eject">Ngắt kết nối thẻ SD</string>
-    <string name="usb_eject_summary">Gỡ thẻ SD để ngắt kết nối thiết bị an toàn</string>
-    <string name="usb_format">Xóa thẻ SD</string>
-    <string name="usb_format_summary">Xóa tất cả dữ liệu trên thẻ SD (ví dụ: nhạc và ảnh)</string>
-    <string name="usb_mount">Kết nối thẻ SD</string>
-    <string name="usb_insert_summary">Kết nối thẻ SD</string>
-    <string name="fp_nav_center_back_to_home_title">Chạm nút Trang chính để quay lại Màn hình chính</string>
-    <string name="convenience_key_category_title">Phím tắt</string>
-    <string name="settings_forbidden_message">Thiết lập này đã bị tắt</string>
-    <string name="auto_disable_screenbuttons_title">Tự động tắt phím đều hướng</string>
-    <string name="auto_disable_screenbuttons_summary">Tự động tắt phím đều hướng khi sử dụng ứng dụng đã chọn. Nhấp đúp vào phím bất kỳ để bật lại.</string>
-    <string name="auto_disable_screenbuttons_ask">Hỏi để tắt</string>
-    <string name="auto_disable_screenbuttons_auto">Luôn tắt</string>
-    <string name="auto_disable_screenbuttons_no">Không bao giờ tắt</string>
-    <string name="auto_disable_screenbuttons_cancel">Hủy</string>
+    <string name="storage_usb">Lưu trữ USB</string>
+    <string name="usb_eject">Ngắt kết nối lưu trữ USB</string>
+    <string name="usb_eject_summary">Gỡ lưu trữ USB để ngắt kết nối thiết bị an toàn</string>
+    <string name="usb_format">Xóa lưu trữ USB</string>
+    <string name="usb_format_summary">Xóa tất cả dữ liệu trên lưu trữ USB (ví dụ: nhạc và ảnh)</string>
+    <string name="usb_mount">Kết nối lưu trữ USB</string>
+    <string name="usb_insert_summary">Kết nối lưu trữ USB</string>
     <string name="bootloader">Chế độ Fastboot</string>
     <string name="bootloader_summary">Flash thiết bị của bạn qua USB</string>
     <string name="button_text_accept">Chấp nhận</string>
@@ -4109,6 +4169,21 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="bootloader_apply_step_3">Dữ liệu (Vd mật khẩu, tin nhắn) trên thiết bị có thể được truy cập khi chưa có sự cho phép của bạn.</string>
     <string name="bootloader_apply_step_4">Việc này có thể dẫn đến dữ liệu bị rò rỉ hoặc mất mát, hoặc thậm chí dẫn đến hư hỏng phần cứng không thể sửa chữa.</string>
     <string name="bootloader_apply_step_5">Hãy đảm bảo rằng bạn biết cách sử dụng chế độ Fastboot trước khi bật.</string>
+    <string name="settings_forbidden_message">Thiết lập này đã bị tắt</string>
+    <string name="add_fingerprint_failed_retry_text">Không thể thêm vân tay, hãy thử lại</string>
+    <string name="fingerprint_for_keyguard_disabled">Vân tay đã bị vô hiệu hóa bởi cài đặt bảo mật.</string>
+    <string name="fingerprint_removal_failed">Không thể xóa vân tay, hãy thử lại</string>
+    <string name="fp_nav_center_back_to_home_title">Chạm nút Trang chính để quay lại Màn hình chính</string>
+    <string name="convenience_key_category_title">Phím tắt</string>
+    <string name="status_bar_settings_show_screenshot_notification">Hiện thông báo chụp ảnh màn hình</string>
+    <string name="search_silent">im lặng</string>
+    <string name="search_sync">đồng bộ</string>
+    <string name="auto_disable_screenbuttons_title">Tự động tắt phím đều hướng</string>
+    <string name="auto_disable_screenbuttons_summary">Tự động tắt phím đều hướng khi sử dụng ứng dụng đã chọn. Nhấp đúp vào phím bất kỳ để bật lại.</string>
+    <string name="auto_disable_screenbuttons_ask">Hỏi để tắt</string>
+    <string name="auto_disable_screenbuttons_auto">Luôn tắt</string>
+    <string name="auto_disable_screenbuttons_no">Không bao giờ tắt</string>
+    <string name="auto_disable_screenbuttons_cancel">Hủy</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Hãy chuyển đổi vị trí ngón tay của bạn.</string>
     <string name="miui_experience_optimization">Bật tối ưu hóa MIUI</string>
     <string name="open_miui_optimization_title">Bật tối ưu hóa MIUI</string>
@@ -4118,9 +4193,11 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="optimization_close">Tắt &amp; khởi động lại</string>
     <string name="optimization_open">Bật</string>
     <string name="optimization_cancel">Hủy</string>
-    <string name="add_fingerprint_failed_retry_text">Không thể thêm vân tay, hãy thử lại</string>
-    <string name="fingerprint_for_keyguard_disabled">Vân tay đã bị vô hiệu hóa bởi cài đặt bảo mật.</string>
-    <string name="fingerprint_removal_failed">Không thể xóa vân tay, hãy thử lại</string>
+    <string name="title_dolby_control">Âm thanh Dolby</string>
+    <string name="virtual_sim_search_title">SIM ảo</string>
+    <string name="experience_optimization_category">Chương trình Trải nghiệm Người dùng</string>
+    <string name="quiet_mode">Chế độ không làm phiền</string>
+    <string name="zen_mode_miui_disturb_category">Không làm phiền</string>
     <string name="dirac_control">Tối ưu chất lượng âm thanh</string>
     <string name="dirac_mode_off">Dirac tắt</string>
     <string name="dirac_mode_in_ear">Tai nghe Mi in-ear rút gọn</string>
@@ -4134,7 +4211,6 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="dirac_mode_piston_youth">Mi piston-youth</string>
     <string name="location_access_on">Bật</string>
     <string name="location_access_off">Tắt</string>
-    <string name="title_dolby_control">Âm thanh Dolby</string>
     <string name="dolby_mode_off">Tắt</string>
     <string name="dolby_mode_music">Nhạc</string>
     <string name="dolby_mode_movie">Video</string>
@@ -4181,29 +4257,14 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="uicc_media_format_final_desc">Tất cả tập tin trên lưu trữ UICC sẽ bị xóa vĩnh viễn.</string>
     <string name="usb_media_format_gesture_explanation">Bạn cần vẽ hình mở khóa để xác nhận muốn xóa lưu trữ USB.</string>
     <string name="uicc_media_format_gesture_explanation">Bạn cần vẽ hình mở khóa để xác nhận muốn xóa lưu trữ UICC.</string>
-    <string name="dndm_wristband_detailed2">Tắt Không làm phiền nếu Mi Band phát hiện bạn đã thức dậy trong vòng 1 giờ trước thời gian kết thúc dự kiến</string>
-    <string name="cmcc_hardware_version">Phiên bản phần cứng</string>
-    <string name="virtual_sim_search_title">SIM ảo</string>
     <string name="privacy_mode_title">Thiết lập riêng tư</string>
     <string name="privacy_mode_summary">Khóa ứng dụng cá nhân hoặc ẩn thông tin cá nhân</string>
-    <string name="cloud_backup_section_title">Sao lưu Mi Cloud</string>
-    <string name="cloud_restore_section_title">Khôi phục từ Mi Cloud</string>
-    <string name="cloud_restore_section_summary">Khôi phục ứng dụng, bố cục Màn hình chính, và cài đặt hệ thống</string>
-    <string name="cloud_backup_settings_section_title">Cài đặt sao lưu</string>
-    <string name="login_account_dialog_title">Đăng nhập bằng Tài khoản Mi</string>
-    <string name="login_account_dialog_message">Đăng nhập Tài khoản Mi của bạn và bật đồng bộ với Mi Cloud.</string>
-    <string name="login_action">Đăng nhập</string>
     <string name="device_security_settings_title">Bảo mật</string>
     <string name="enable_crypt_keeper_encrypt">Bật mã hóa</string>
     <string name="cell_broadcast_settings_summary">Chọn loại cảnh báo khẩn cấp để hiển thị</string>
-    <string name="experience_optimization_category">Chương trình Trải nghiệm Người dùng</string>
     <string name="advanced_text_layout">Bật bố trí văn bản nâng cao</string>
     <string name="print_enable">Bật in</string>
     <string name="print_remind">Bật in trước</string>
-    <string name="quiet_mode">Chế độ không làm phiền</string>
-    <string name="miui_silent_title">Chế độ im lặng</string>
-    <string name="zen_mode_miui_disturb_category">Không làm phiền</string>
-    <string name="miui_disturb_title">Không làm phiền</string>
     <string name="miracast_settings_category">Thiết lập hiển thị Wi-Fi</string>
     <string name="miracast_display_category">Hiển thị</string>
     <string name="miracast_menu_search">Tìm kiếm</string>
@@ -4233,26 +4294,20 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="miracast_PC2THOR_streaming_on">Miracast không khả dụng bởi vì PC đang truyền đến thiết bị này</string>
     <string name="miracast_disable_dhcp">Tắt HDCP</string>
     <string name="miracast_enable_dhcp">Bật HDCP</string>
-    <string name="miui_screensaver_state_on">Bật</string>
-    <string name="miui_screensaver_state_off">Tắt</string>
-    <string name="miui_screensaver_title">Màn hình chờ</string>
     <string name="activate_miui_screensaver">Màn hình chờ trong khi ngủ</string>
-    <string name="picture_source">Nguồn hình ảnh</string>
-    <string name="only_when_charging">Chỉ khi sạc</string>
+    <string name="alert_show_screensaver_when_not_charging_msg">Hiển thị màn hình chờ sẽ làm tăng sử dụng pin.</string>
+    <string name="alert_show_screensaver_when_not_charging_title">Sử dụng pin</string>
+    <string name="dndm_wristband_detailed2">Tắt Không làm phiền nếu Mi Band phát hiện bạn đã thức dậy trong vòng 1 giờ trước thời gian kết thúc dự kiến</string>
+    <string name="enable_quickboot_summary">Đặt thiết bị vào chế độ khởi động nhanh thay vì tắt bình thường</string>
+    <string name="enable_quickboot_title">Bật chế độ khởi động nhanh</string>
+    <string name="miui_disturb_title">Không làm phiền</string>
     <string name="miui_screensaver_show_time">Thời gian</string>
     <string name="miui_screensaver_show_time_select_title">Đặt thời gian trình chiếu</string>
+    <string name="miui_screensaver_state_off">Tắt</string>
+    <string name="miui_screensaver_state_on">Bật</string>
+    <string name="miui_screensaver_title">Màn hình chờ</string>
     <string name="miui_screensaver_usage">Màn hình chờ sẽ bắt đầu sau khi màn hình tắt 5 giây</string>
-    <string name="alert_show_screensaver_when_not_charging_title">Sử dụng pin</string>
-    <string name="alert_show_screensaver_when_not_charging_msg">Hiển thị màn hình chờ sẽ làm tăng sử dụng pin.</string>
-    <string name="enable_quickboot_title">Bật chế độ khởi động nhanh</string>
-    <string name="enable_quickboot_summary">Đặt thiết bị vào chế độ khởi động nhanh thay vì tắt bình thường</string>
-    <string name="search_virtual_sim">SIM ảo</string>
-    <string name="search_wifi_display">hiển thị wifi</string>
-    <string name="search_display">hiển thị</string>
-    <string name="search_font">phông chữ</string>
-    <string name="search_handy_mode">chế độ một tay</string>
-    <string name="search_battery">pin</string>
-    <string name="search_storage">lưu trữ</string>
-    <string name="search_accessibility">khả năng truy cập</string>
-    <string name="search_privacy">riêng tư</string>
+    <string name="miui_silent_title">Chế độ im lặng</string>
+    <string name="only_when_charging">Chỉ khi sạc</string>
+    <string name="picture_source">Nguồn hình ảnh</string>
 </resources>
