@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Xóa %1$d tập tin</item>
+        <item quantity="zero">Xóa %1$d tập tin</item>
+        <item quantity="one">Xóa %1$d tập tin</item>
+        <item quantity="two">Xóa %1$d tập tin</item>
+        <item quantity="few">Xóa %1$d tập tin</item>
+        <item quantity="many">Xóa %1$d tập tin</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" và %1$d thư mục?"</item>
+        <item quantity="zero">" và %1$d thư mục?"</item>
+        <item quantity="one">" và %1$d thư mục?"</item>
+        <item quantity="two">" và %1$d thư mục?"</item>
+        <item quantity="few">" và %1$d thư mục?"</item>
+        <item quantity="many">" và %1$d thư mục?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d mục</item>
+        <item quantity="zero">%d mục</item>
+        <item quantity="one">%d mục</item>
+        <item quantity="two">%d mục</item>
+        <item quantity="few">%d mục</item>
+        <item quantity="many">%d mục</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d tập tin còn lại cần tải xuống</item>
+        <item quantity="zero">%1$d tập tin còn lại cần tải xuống</item>
+        <item quantity="one">%1$d tập tin còn lại cần tải xuống</item>
+        <item quantity="two">%1$d tập tin còn lại cần tải xuống</item>
+        <item quantity="few">%1$d tập tin còn lại cần tải xuống</item>
+        <item quantity="many">%1$d tập tin còn lại cần tải xuống</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d tập tin còn lại cần tải lên</item>
+        <item quantity="zero">%1$d tập tin còn lại cần tải lên</item>
+        <item quantity="one">%1$d tập tin còn lại cần tải lên</item>
+        <item quantity="two">%1$d tập tin còn lại cần tải lên</item>
+        <item quantity="few">%1$d tập tin còn lại cần tải lên</item>
+        <item quantity="many">%1$d tập tin còn lại cần tải lên</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d mục đã chọn</item>
+        <item quantity="zero">%1$d mục đã chọn</item>
+        <item quantity="one">%1$d mục đã chọn</item>
+        <item quantity="two">%1$d mục đã chọn</item>
+        <item quantity="few">%1$d mục đã chọn</item>
+        <item quantity="many">%1$d mục đã chọn</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d tập tin)</item>
+        <item quantity="zero"> (%1$d tập tin)</item>
+        <item quantity="one"> (%1$d tập tin)</item>
+        <item quantity="two"> (%1$d tập tin)</item>
+        <item quantity="few"> (%1$d tập tin)</item>
+        <item quantity="many"> (%1$d tập tin)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d ảnh)</item>
+        <item quantity="zero"> (%1$d ảnh)</item>
+        <item quantity="one"> (%1$d ảnh)</item>
+        <item quantity="two"> (%1$d ảnh)</item>
+        <item quantity="few"> (%1$d ảnh)</item>
+        <item quantity="many"> (%1$d ảnh)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d tập tin</item>
+        <item quantity="zero"> %1$d tập tin</item>
+        <item quantity="one"> %1$d tập tin</item>
+        <item quantity="two"> %1$d tập tin</item>
+        <item quantity="few"> %1$d tập tin</item>
+        <item quantity="many"> %1$d tập tin</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">Tập tin liên quan đến ứng dụng \"%1$s\" (%2$d mục)</item>
+        <item quantity="zero">Tập tin liên quan đến ứng dụng \"%1$s\" (%2$d mục)</item>
+        <item quantity="one">Tập tin liên quan đến ứng dụng \"%1$s\" (%2$d mục)</item>
+        <item quantity="two">Tập tin liên quan đến ứng dụng \"%1$s\" (%2$d mục)</item>
+        <item quantity="few">Tập tin liên quan đến ứng dụng \"%1$s\" (%2$d mục)</item>
+        <item quantity="many">Tập tin liên quan đến ứng dụng \"%1$s\" (%2$d mục)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Tập tin liên quan đến \"%1$s\" (%2$d mục)</item>
+        <item quantity="zero">Tập tin liên quan đến \"%1$s\" (%2$d mục)</item>
+        <item quantity="one">Tập tin liên quan đến \"%1$s\" (%2$d mục)</item>
+        <item quantity="two">Tập tin liên quan đến \"%1$s\" (%2$d mục)</item>
+        <item quantity="few">Tập tin liên quan đến \"%1$s\" (%2$d mục)</item>
+        <item quantity="many">Tập tin liên quan đến \"%1$s\" (%2$d mục)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Tập tin liên quan đến thẻ \"%1$s\" (%2$d mục)</item>
+        <item quantity="zero">Tập tin liên quan đến thẻ \"%1$s\" (%2$d mục)</item>
+        <item quantity="one">Tập tin liên quan đến thẻ \"%1$s\" (%2$d mục)</item>
+        <item quantity="two">Tập tin liên quan đến thẻ \"%1$s\" (%2$d mục)</item>
+        <item quantity="few">Tập tin liên quan đến thẻ \"%1$s\" (%2$d mục)</item>
+        <item quantity="many">Tập tin liên quan đến thẻ \"%1$s\" (%2$d mục)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d phút trước</item>
+        <item quantity="zero">%1$d phút trước</item>
+        <item quantity="one">%1$d phút trước</item>
+        <item quantity="two">%1$d phút trước</item>
+        <item quantity="few">%1$d phút trước</item>
+        <item quantity="many">%1$d phút trước</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d giờ trước</item>
+        <item quantity="zero">%1$d giờ trước</item>
+        <item quantity="one">%1$d giờ trước</item>
+        <item quantity="two">%1$d giờ trước</item>
+        <item quantity="few">%1$d giờ trước</item>
+        <item quantity="many">%1$d giờ trước</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d ngày trước</item>
+        <item quantity="zero">%1$d ngày trước</item>
+        <item quantity="one">%1$d ngày trước</item>
+        <item quantity="two">%1$d ngày trước</item>
+        <item quantity="few">%1$d ngày trước</item>
+        <item quantity="many">%1$d ngày trước</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Tìm thấy %1$d tập tin mới</item>
+        <item quantity="zero">Tìm thấy %1$d tập tin mới</item>
+        <item quantity="one">Tìm thấy %1$d tập tin mới</item>
+        <item quantity="two">Tìm thấy %1$d tập tin mới</item>
+        <item quantity="few">Tìm thấy %1$d tập tin mới</item>
+        <item quantity="many">Tìm thấy %1$d tập tin mới</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Đã nhận %1$d tập tin của Ứng dụng %2$s</item>
+        <item quantity="zero">Đã nhận %1$d tập tin của Ứng dụng %2$s</item>
+        <item quantity="one">Đã nhận %1$d tập tin của Ứng dụng %2$s</item>
+        <item quantity="two">Đã nhận %1$d tập tin của Ứng dụng %2$s</item>
+        <item quantity="few">Đã nhận %1$d tập tin của Ứng dụng %2$s</item>
+        <item quantity="many">Đã nhận %1$d tập tin của Ứng dụng %2$s</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Đã nhận %1$d tập tin của Wechat</item>
+        <item quantity="zero">Đã nhận %1$d tập tin của Wechat</item>
+        <item quantity="one">Đã nhận %1$d tập tin của Wechat</item>
+        <item quantity="two">Đã nhận %1$d tập tin của Wechat</item>
+        <item quantity="few">Đã nhận %1$d tập tin của Wechat</item>
+        <item quantity="many">Đã nhận %1$d tập tin của Wechat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d video WeChat sắp hết hạn</item>
+        <item quantity="zero">%1$d video WeChat sắp hết hạn</item>
+        <item quantity="one">%1$d video WeChat sắp hết hạn</item>
+        <item quantity="two">%1$d video WeChat sắp hết hạn</item>
+        <item quantity="few">%1$d video WeChat sắp hết hạn</item>
+        <item quantity="many">%1$d video WeChat sắp hết hạn</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
+        <item quantity="zero">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
+        <item quantity="one">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
+        <item quantity="two">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
+        <item quantity="few">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
+        <item quantity="many">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d biểu tượng WeChat mới hôm nay</item>
+        <item quantity="zero">%1$d biểu tượng WeChat mới hôm nay</item>
+        <item quantity="one">%1$d biểu tượng WeChat mới hôm nay</item>
+        <item quantity="two">%1$d biểu tượng WeChat mới hôm nay</item>
+        <item quantity="few">%1$d biểu tượng WeChat mới hôm nay</item>
+        <item quantity="many">%1$d biểu tượng WeChat mới hôm nay</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Đã sao lưu %1$d video WeChat.</item>
+        <item quantity="zero">Đã sao lưu %1$d video WeChat.</item>
+        <item quantity="one">Đã sao lưu 1 video WeChat.</item>
+        <item quantity="two">Đã sao lưu %1$d video WeChat.</item>
+        <item quantity="few">Đã sao lưu %1$d video WeChat.</item>
+        <item quantity="many">Đã sao lưu %1$d video WeChat.</item>
+    </plurals>
+    <plurals name="remote_video_update">
+        <item quantity="other">Tìm thấy %1$s video mới</item>
+        <item quantity="zero">Tìm thấy %1$s video mới</item>
+        <item quantity="one">Tìm thấy %1$s video mới</item>
+        <item quantity="two">Tìm thấy %1$s video mới</item>
+        <item quantity="few">Tìm thấy %1$s video mới</item>
+        <item quantity="many">Tìm thấy %1$s video mới</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other">Tải xuống</item>
+        <item quantity="zero">Tải xuống</item>
+        <item quantity="one">Tải xuống</item>
+        <item quantity="two">Tải xuống</item>
+        <item quantity="few">Tải xuống</item>
+        <item quantity="many">Tải xuống</item>
+    </plurals>
+</resources>

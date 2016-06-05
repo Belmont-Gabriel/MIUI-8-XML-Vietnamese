@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d chưa đọc</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Lưu %1$d hội thoại này?</item>
+        <item quantity="zero">Lưu %1$d hội thoại này?</item>
+        <item quantity="one">Lưu cuộc hội thoại này?</item>
+        <item quantity="two">Lưu %1$d hội thoại này?</item>
+        <item quantity="few">Lưu %1$d hội thoại này?</item>
+        <item quantity="many">Lưu %1$d hội thoại này?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Xóa %1$d hội thoại này?</item>
+        <item quantity="zero">Xóa %1$d hội thoại này?</item>
+        <item quantity="one">Xóa cuộc hội thoại này?</item>
+        <item quantity="two">Xóa %1$d hội thoại này?</item>
+        <item quantity="few">Xóa %1$d hội thoại này?</item>
+        <item quantity="many">Xóa %1$d hội thoại này?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Cuộc hội thoại này chứa các mục đã sát nhập. Xóa chúng không?</item>
+        <item quantity="zero">Cuộc hội thoại này chứa các mục đã sát nhập. Xóa chúng không?</item>
+        <item quantity="one">Cuộc hội thoại này chứa các mục đã sát nhập. Xóa chúng không?</item>
+        <item quantity="two">Cuộc hội thoại này chứa các mục đã sát nhập. Xóa chúng không?</item>
+        <item quantity="few">Cuộc hội thoại này chứa các mục đã sát nhập. Xóa chúng không?</item>
+        <item quantity="many">Cuộc hội thoại này chứa các mục đã sát nhập. Xóa chúng không?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Đã chọn %d liên hệ</item>
+        <item quantity="zero">Đã chọn %d liên hệ</item>
+        <item quantity="one">Đã chọn %d liên hệ</item>
+        <item quantity="two">Đã chọn %d liên hệ</item>
+        <item quantity="few">Đã chọn %d liên hệ</item>
+        <item quantity="many">Đã chọn %d liên hệ</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> hội thoại đã lưu trữ.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> hội thoại đã lưu trữ.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> hội thoại đã xóa.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> hội thoại đã xóa.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Đã đổi thư mục.</item>
+        <item quantity="one">Đã đổi thư mục.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> hội thoại đã tắt âm.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> hội thoại đã tắt âm.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> thư đã xóa khỏi mục quan trọng"</item>
+        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> thư đã xóa khỏi mục quan trọng"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> khỏi mục thư rác"</item>
+        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> khỏi mục thư rác"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> thư được báo cáo là thư rác</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> thư được báo cáo là thư rác</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> thư được đánh dấu là thư rác</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> thư được đánh dấu là thư rác</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Thư nháp</item>
+        <item quantity="one">Thư nháp</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d thư sẽ bị xóa vĩnh viễn.</item>
+        <item quantity="zero">%1$d thư sẽ bị xóa vĩnh viễn.</item>
+        <item quantity="one">%1$d thư sẽ bị xóa vĩnh viễn.</item>
+        <item quantity="two">%1$d thư sẽ bị xóa vĩnh viễn.</item>
+        <item quantity="few">%1$d thư sẽ bị xóa vĩnh viễn.</item>
+        <item quantity="many">%1$d thư sẽ bị xóa vĩnh viễn.</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Di chuyển %1$d hội thoại</item>
+        <item quantity="zero">Di chuyển %1$d hội thoại</item>
+        <item quantity="one">Di chuyển hội thoại này</item>
+        <item quantity="two">Di chuyển %1$d hội thoại</item>
+        <item quantity="few">Di chuyển %1$d hội thoại</item>
+        <item quantity="many">Di chuyển %1$d hội thoại</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Hiển thị %1$d thư mới.</item>
+        <item quantity="zero">Hiển thị %1$d thư mới.</item>
+        <item quantity="one">Hiển thị %1$d thư mới.</item>
+        <item quantity="two">Hiển thị %1$d thư mới.</item>
+        <item quantity="few">Hiển thị %1$d thư mới.</item>
+        <item quantity="many">Hiển thị %1$d thư mới.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d mục đã chọn</item>
+        <item quantity="zero">%d mục đã chọn</item>
+        <item quantity="one">%d mục đã chọn</item>
+        <item quantity="two">%d mục đã chọn</item>
+        <item quantity="few">%d mục đã chọn</item>
+        <item quantity="many">%d mục đã chọn</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d thư cũ hơn</item>
+        <item quantity="zero">%1$d thư cũ hơn</item>
+        <item quantity="one">%1$d thư cũ hơn</item>
+        <item quantity="two">%1$d thư cũ hơn</item>
+        <item quantity="few">%1$d thư cũ hơn</item>
+        <item quantity="many">%1$d thư cũ hơn</item>
+    </plurals>
+</resources>

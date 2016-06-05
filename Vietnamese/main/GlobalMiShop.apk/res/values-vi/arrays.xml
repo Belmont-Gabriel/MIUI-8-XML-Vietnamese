@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="report_options">
+        <item>Báo cáo lỗi</item>
+        <item>Gửi phản hồi</item>
+    </string-array>
+</resources>

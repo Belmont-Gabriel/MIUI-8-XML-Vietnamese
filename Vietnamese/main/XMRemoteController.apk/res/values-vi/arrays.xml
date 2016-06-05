@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Làm lạnh</item>
+        <item>Làm ấm</item>
+        <item>Hút ẩm</item>
+        <item>Quạt</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Thiết bị của bạn chỉ được ghép nối với Mi TV, Mi Box, và số ít thiết bị Android khác qua Wi-Fi.</item>
+        <item>Hãy chắc là bạn đã chọn đúng loại điều hòa trong quá trình ghép nối. Làm theo hướng dẫn trên thiết bị cho đến khi quá trình ghép nối hoàn tất.</item>
+        <item>Không. Hiện tại bạn có thể sử dụng Mi4, Mi 4c, và Redmi Note 2 làm điều khiển hồng ngoại.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Chủ nhật</item>
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+    </string-array>
+    <string-array name="question">
+        <item>Tại sao điện thoại của tôi luôn tìm kiếm thiết bị không dây?</item>
+        <item>Tại sao tôi chỉ có thể bật mà không thể tắt điều hòa?</item>
+        <item>Tôi có thể sử dụng Mi 3, Mi 2 và Redmi làm điều khiển hồng ngoại không?</item>
+    </string-array>
+</resources>

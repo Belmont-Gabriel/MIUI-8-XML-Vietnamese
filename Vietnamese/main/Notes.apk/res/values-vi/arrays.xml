@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Tên</item>
+        <item>Biệt danh</item>
+        <item>Điện thoại</item>
+        <item>E-mail</item>
+        <item>Tổ chức</item>
+        <item>IM</item>
+        <item>Điện thoại SIP</item>
+        <item>Sinh nhật</item>
+        <item>Trang web</item>
+        <item>Địa chỉ</item>
+        <item>Ghi chú</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+        <item>Đại</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Chạm để tạo ghi chú
+"</item>
+        <item>"Để thêm ảnh hoặc hiển thị hộp đánh dấu, hãy nhấn vào nút bên dưới 
+"</item>
+        <item>"Bấm và giữ ghi chú để ghim, di chuyển, hoặc xóa 
+"</item>
+        <item>"Và nhiều tính năng tuyệt vời hơn!
+ - Đồng bộ với Mi Cloud
+ - Thiết lập nhắc nhở
+
+Nếu có thắc mắc, hãy truy cập diễn đàn MIUI Việt Nam:
+http://miui.vn/
+"</item>
+    </string-array>
+</resources>

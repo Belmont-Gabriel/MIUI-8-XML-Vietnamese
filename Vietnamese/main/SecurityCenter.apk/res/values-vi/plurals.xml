@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Không theo dõi việc sử dụng dữ liệu của %d ứng dụng</item>
+        <item quantity="one">Không theo dõi việc sử dụng dữ liệu của %d ứng dụng</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Theo dõi việc sử dụng dữ liệu của %d ứng dụng</item>
+        <item quantity="one">Theo dõi việc sử dụng dữ liệu của %d ứng dụng</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Đã tối ưu %d ứng dụng</item>
+        <item quantity="one">Đã tối ưu %d ứng dụng</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">Có thể tối ưu %d ứng dụng</item>
+        <item quantity="one">Có thể tối ưu %d ứng dụng</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d ứng dụng đang sử dụng tiết kiệm dữ liệu</item>
+        <item quantity="one">%d ứng dụng đang sử dụng tiết kiệm dữ liệu</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d ứng dụng không sử dụng tiết kiệm dữ liệu</item>
+        <item quantity="one">%d ứng dụng không sử dụng tiết kiệm dữ liệu</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Được sử dụng %d ngày trước</item>
+        <item quantity="one">Được sử dụng hôm qua</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Tìm %d ứng dụng</item>
+        <item quantity="one">Tìm %d ứng dụng</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d ứng dụng có thể sử dụng dữ liệu chuyển vùng</item>
+        <item quantity="one">%d ứng dụng có thể sử dụng dữ liệu chuyển vùng</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d ứng dụng không thể sử dụng dữ liệu chuyển vùng"</item>
+        <item quantity="one">"%d ứng dụng không thể sử dụng dữ liệu chuyển vùng"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Đã tìm thấy %d ứng dụng</item>
+        <item quantity="one">Đã tìm thấy %d ứng dụng</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ngày "</item>
+        <item quantity="one">"%d ngày "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d giờ "</item>
+        <item quantity="one">"%d giờ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d phút "</item>
+        <item quantity="one">"%d phút "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d ứng dụng có thể tự khởi chạy</item>
+        <item quantity="one">%d ứng dụng có thể tự khởi chạy</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d ứng dụng không được phép tự khởi chạy</item>
+        <item quantity="one">%d ứng dụng không được phép tự khởi chạy</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d quyền</item>
+        <item quantity="one">%d quyền</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d ứng dụng</item>
+        <item quantity="one">%d ứng dụng</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d ứng dụng có quyền root</item>
+        <item quantity="one">%d ứng dụng có quyền root</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d ứng dụng không có quyền root</item>
+        <item quantity="one">%d ứng dụng không có quyền root</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Phát hiện phiên bản mới cho %d ứng dụng.</item>
+        <item quantity="one">Phát hiện phiên bản mới cho %d ứng dụng.</item>
+    </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d ứng dụng tiềm ẩn nguy cơ rò rỉ thông tin cá nhân</item>
+        <item quantity="one">%d ứng dụng tiềm ẩn nguy cơ rò rỉ thông tin cá nhân</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái.</item>
+        <item quantity="one">"Mật khẩu phải chứa ít nhất 1 chữ cái. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ thường.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ thường… </item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ hoa.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ hoa… </item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d số.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 số…</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d ký tự đặc biệt.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự đặc biệt… </item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d ký tự khác ngoài chữ cái.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự khác ngoài chữ cái… </item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d ứng dụng đã khóa</item>
+        <item quantity="one">%d ứng dụng đã khóa</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d ứng dụng không bị khóa</item>
+        <item quantity="one">%d ứng dụng không bị khóa</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Tìm trong %d ứng dụng</item>
+        <item quantity="one">Tìm trong %d ứng dụng</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">Đã tìm thấy %d ứng dụng</item>
+        <item quantity="zero">Không tìm thấy ứng dụng nào</item>
+        <item quantity="one">Đã tìm thấy %d ứng dụng</item>
+    </plurals>
+</resources>
