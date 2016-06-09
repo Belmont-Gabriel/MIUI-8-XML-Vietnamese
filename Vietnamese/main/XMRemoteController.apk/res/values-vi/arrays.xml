@@ -25,4 +25,25 @@
         <item>Tại sao tôi chỉ có thể bật mà không thể tắt điều hòa?</item>
         <item>Tôi có thể sử dụng Mi 3, Mi 2 và Redmi làm điều khiển hồng ngoại không?</item>
     </string-array>
+    <string-array name="assistant_tab">
+        <item>Video</item>
+        <item>Ảnh chụp màn hình</item>
+        <item>Ứng dụng</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Tất cả</item>
+        <item>Yêu thích</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Gần đây</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Tất cả các kênh</item>
+        <item>Kênh yêu thích</item>
+        <item>Kênh CCTV</item>
+        <item>Kênh truyền hình vệ tinh</item>
+        <item>Kênh HD</item>
+        <item>Xem gần đây</item>
+    </string-array>
 </resources>

@@ -34,7 +34,6 @@
     <string name="activity_find_city_dialog_set">Cài đặt</string>
     <string name="activity_find_city_dialog_title">Truy cập vị trí</string>
     <string name="activity_find_city_dialog_message">Cho phép Thời tiết xem vị trí của bạn</string>
-    <string name="activity_main_time_format">E</string>
     <string name="first_start_network_msg">Ứng dụng này cần phải kết nối Internet và truy cập thông tin vị trí của bạn để làm việc bình thường.</string>
     <string name="first_start_network_title">Kết nối internet và truy cập thông tin vị trí</string>
     <string name="international_detail_menu_title">Chi tiết</string>
@@ -117,7 +116,7 @@
     <string name="aqi_detail_5_days">Dự báo hàng ngày</string>
     <string name="aqi_detail_24_hours">Dự báo hàng giờ</string>
     <string name="aqi_sub_desc">AQI</string>
-    <string name="menu_add_city">Thêm hoặc sóa thành phố</string>
+    <string name="menu_add_city">Thêm hoặc xóa thành phố</string>
     <string name="button_add_city">Thêm thành phố</string>
     <string name="locate_fail_detail_err">"Không thể xác định vị trí thiết bị
 Chạm vào màn hình để tự thêm hoặc đặt lại vị trí thành phố"</string>
@@ -137,5 +136,4 @@ Chạm vào màn hình để tự thêm hoặc đặt lại vị trí thành ph�
     <string name="aqi_publish_source">Cập nhật lúc %1$s bởi CNEMC</string>
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">cung cấp bởi Thời tiết Caiyun</string>
-    <string name="weather_unit">°</string>
 </resources>

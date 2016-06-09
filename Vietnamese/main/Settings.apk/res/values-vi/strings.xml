@@ -1439,7 +1439,7 @@ Có người dùng khác trên thiết bị này.
     <string name="activity_not_found">Ứng dụng chưa được cài đặt trên điện thoại của bạn.</string>
     <string name="manageapplications_settings_title">Quản lý ứng dụng</string>
     <string name="manageapplications_settings_summary">Quản lý và xóa ứng dụng đã cài đặt</string>
-    <string name="applications_settings">Ứng dụng đã cài</string>
+    <string name="applications_settings">Ứng dụng</string>
     <string name="applications_settings_summary">Quản lý ứng dụng, thiết lập phím tắt chạy nhanh</string>
     <string name="applications_settings_header">Cài đặt ứng dụng</string>
     <string name="install_applications">Không rõ nguồn gốc</string>
@@ -3267,7 +3267,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="search_account_list">Tài khoản khác</string>
     <string name="search_sync_settings">Đồng bộ;Tự động;Chỉ Wi-Fi</string>
     <string name="search_system_app_settings">Ứng dụng hệ thống</string>
-    <string name="search_application_settings">Ứng dụng đã cài</string>
+    <string name="search_application_settings">Ứng dụng</string>
     <string name="search_app_permission">Quyền;Quyền ROOT</string>
     <string name="search_about">"Thông tin thiết bị;Tên thiết bị;Kiểu máy;Phiên bản Android;Phiên bản MIUI;CPU;RAM;Bộ nhớ trong;Phiên bản băng tần;Phiên bản Kernel;Số phiên bản;Trạng thái;Thông tin pháp lý "</string>
     <string name="search_device_name">Tên thiết bị</string>
@@ -3430,7 +3430,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="path_account_list">Cài đặt/Tài khoản khác</string>
     <string name="path_sync_settings">Cài đặt/Đồng bộ</string>
     <string name="path_system_app_settings">Cài đặt/Ứng dụng hệ thống</string>
-    <string name="path_applications_settings">Cài đặt/Ứng dụng đã cài</string>
+    <string name="path_applications_settings">Cài đặt/Ứng dụng</string>
     <string name="path_app_permission">Cài đặt/Quyền</string>
     <string name="path_about_about_settings">Cài đặt/Thông tin thiết bị</string>
     <string name="path_device_name">Cài đặt/Thông tin thiết bị/Tên thiết bị</string>
