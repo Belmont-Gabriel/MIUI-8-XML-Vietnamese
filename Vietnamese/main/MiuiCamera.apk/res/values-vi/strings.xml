@@ -161,12 +161,6 @@
     <string name="pref_camera_scenemode_entry_flowers">Hoa</string>
     <string name="pref_camera_iso_title">Chọn ISO</string>
     <string name="pref_camera_iso_entry_auto">Tự động</string>
-    <string name="pref_camera_iso_entry_iso100">ISO100</string>
-    <string name="pref_camera_iso_entry_iso200">ISO200</string>
-    <string name="pref_camera_iso_entry_iso400">ISO400</string>
-    <string name="pref_camera_iso_entry_iso800">ISO800</string>
-    <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
-    <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
     <string name="pref_camera_antibanding_title">Chống lệch màu</string>
     <string name="pref_camera_antibanding_entry_0">Tắt</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
@@ -204,7 +198,6 @@
     <string name="accessibility_hdr">Nút chuyển HDR</string>
     <string name="accessibility_peak">Nút lấy nét cao</string>
     <string name="accessibility_effect_mode_button">Nút hiệu ứng</string>
-    <string name="empty">" "</string>
     <string name="pref_camera_autoexposure_title">Cài đặt phơi sáng tự động</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Đo ánh sáng trung bình</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Đo trung tâm</string>
@@ -247,6 +240,10 @@
     <string name="see_qrcode_detals">Xem chi tiết</string>
     <string name="pref_camera_watermark_title">Hiện mốc thời gian</string>
     <string name="pref_camera_face_info_watermark_title">Thêm thông tin khuôn mặt</string>
+    <string name="accessibility_flash_mode_button">Nút Flash</string>
+    <string name="accessibility_skin_beautify_button">Nút làm đẹp</string>
+    <string name="accessibility_camera_module_picker">Chuyển đổi máy ảnh</string>
+    <string name="accessibility_video_module_picker">Chuyển mạch quay video</string>
     <string name="pref_setting_title">Cài đặt</string>
     <string name="pref_scan_qrcode_title">Quét mã QR</string>
     <string name="pref_manual_exposure_title">Phơi sáng</string>
