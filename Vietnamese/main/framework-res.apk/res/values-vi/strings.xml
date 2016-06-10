@@ -644,7 +644,7 @@ Hãy truy cập "<b>google.com/accounts/recovery</b>.</string>
 
 Bạn có chắc chắn muốn điều hướng khỏi trang này không?"</string>
     <string name="save_password_label">Xác nhận</string>
-    <string name="double_tap_toast">Mẹo: Nhấn đúp để phóng to và thu nhỏ.</string>
+    <string name="double_tap_toast">Thủ thuật: Nhấn đúp để phóng to và thu nhỏ.</string>
     <string name="autofill_this_form">Tự động điền</string>
     <string name="setup_autofill">Thiết lập Tự động điền</string>
     <string name="autofill_address_name_separator">" "</string>

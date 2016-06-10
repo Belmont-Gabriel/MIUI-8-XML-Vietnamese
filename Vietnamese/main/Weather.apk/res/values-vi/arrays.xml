@@ -68,13 +68,13 @@
         <item>Không thích hợp</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>B</item>
-        <item>ĐB</item>
-        <item>Đ</item>
-        <item>ĐN</item>
-        <item>N</item>
-        <item>TN</item>
-        <item>T</item>
-        <item>TB</item>
+        <item>Bắc</item>
+        <item>Đông Bắc</item>
+        <item>Đông</item>
+        <item>Đông Nam</item>
+        <item>Nam</item>
+        <item>Tây Nam</item>
+        <item>Tây</item>
+        <item>Tây Bắc</item>
     </string-array>
 </resources>

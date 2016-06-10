@@ -66,7 +66,7 @@
     <string name="accessibility_wifi_one_bar">Wi-Fi một vạch.</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi hai vạch.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi ba vạch.</string>
-    <string name="accessibility_wifi_signal_full">Wi-Fi bốn vạch.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi đầy đủ.</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>

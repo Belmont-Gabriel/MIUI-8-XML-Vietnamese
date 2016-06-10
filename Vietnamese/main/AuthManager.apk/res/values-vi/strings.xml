@@ -87,8 +87,8 @@
     <string name="HIPS_Perm_CallLog">Viết và xóa lịch sử cuộc gọi</string>
     <string name="HIPS_Perm_CallLog_Desc">Viết và xóa lịch sử cuộc gọi</string>
     <string name="HIPS_Perm_CallLog_Hint">%1$s ứng dụng có thể viết và xóa lịch sử cuộc gọi</string>
-    <string name="HIPS_Perm_ROOT">Nhận quyền root</string>
-    <string name="HIPS_Perm_ROOT_Desc">nhận quyền root</string>
+    <string name="HIPS_Perm_ROOT">Lấy quyền root</string>
+    <string name="HIPS_Perm_ROOT_Desc">lấy quyền root</string>
     <string name="HIPS_Perm_ROOT_Hint">%1$s ứng dụng có quyền root</string>
     <string name="HIPS_Perm_Settings">Sửa cài đặt hệ thống</string>
     <string name="HIPS_Perm_Settings_Desc">sửa cài đặt hệ thống</string>
@@ -267,6 +267,8 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="HIPS_Perm_process_nfc_Desc">Sử dụng NFC</string>
     <string name="HIPS_Perm_install_shortcut">Lối tắt màn hình chính</string>
     <string name="HIPS_Perm_install_shortcut_Desc">Thêm lối tắt vào Màn hình chính</string>
+    <string name="HIPS_Perm_read_notification_sms">Dịch vụ SMS</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">Đọc dịch vụ SMS</string>
     <string name="permission_group_title_charges_related">Tính phí</string>
     <string name="permission_group_title_privacy_related">Riêng tư</string>
     <string name="permission_group_title_media_related">Đa phương tiện</string>
@@ -283,6 +285,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="grant_confirm_question">Bạn có muốn cấp phép các quyền dưới đây? Ứng dụng se truy cập:</string>
     <string name="grant_dialog_button_allow">Cho phép</string>
     <string name="grant_dialog_button_deny">Từ chối</string>
-    <string name="current_permission_template">Quyền thứ %1$s (Tổng %2$s mục)</string>
-    <string name="never_ask_again">Không bao giờ hỏi lại</string>
+    <string name="current_permission_template">%1$s/%2$s quyền</string>
+    <string name="never_ask_again">Không hỏi lại</string>
+    <string name="wakepath_confirm_start_activity">Cho phép %1$s mở %2$s?</string>
 </resources>

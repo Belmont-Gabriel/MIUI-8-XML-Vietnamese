@@ -9,6 +9,7 @@
     <string name="search_in_app_store">Tìm kiếm chợ ứng dụng</string>
     <string name="send_secret_code">Gửi mã</string>
     <string name="xiaomi_search_label">Kết quả</string>
+    <string name="search_suggestion">Thủ thuật</string>
     <string name="distance_unit_meter">m</string>
     <string name="distance_unit_kilometer">km</string>
     <string name="cta_declaration_title">Điều khoản Dịch vụ</string>
@@ -20,6 +21,11 @@
     <string name="network_unavailable">Không thể kết nối vào mạng</string>
     <string name="connect_and_retry">Kết nối với internet và thử lại</string>
     <string name="web_search_results">Kết quả tìm kiếm Web</string>
+    <string name="search_group_fold">Ẩn</string>
+    <string name="search_group_unfold">Thêm</string>
+    <string name="common_setting">Cài đặt chung</string>
+    <string name="recent_apps">Ứng dụng gần đây</string>
+    <string name="suggest_open_app_failed">Không thể mở ứng dụng này</string>
     <string name="app_name">Tìm kiếm</string>
     <string name="search_widget">Tìm kiếm</string>
     <string name="remove_from_history">Xóa mục này khỏi lịch sử tìm kiếm?</string>
