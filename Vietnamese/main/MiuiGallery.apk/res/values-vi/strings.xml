@@ -648,7 +648,7 @@
     <string name="width">Chiều rộng</string>
     <string name="height">Chiều cao</string>
     <string name="orientation">Định hướng</string>
-    <string name="duration">Thời gian</string>
+    <string name="duration">Thời lượng</string>
     <string name="mimetype">Kiểu MIME</string>
     <string name="file_size">Dung lượng</string>
     <string name="maker">Người chụp</string>
