@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="auto_memory_clean">
-        <item>Trong 1 phút</item>
-        <item>Trong 5 phút</item>
-        <item>Trong 10 phút</item>
-        <item>Trong 30 phút</item>
-        <item>Không bao giờ</item>
-    </string-array>
     <string-array name="date_of_traffic_cmcc">
         <item>"Tuần này "</item>
         <item>"Hôm nay "</item>
@@ -62,6 +55,7 @@
         <item>"Sử dụng dữ liệu "</item>
         <item>"Sử dụng Wi-Fi "</item>
         <item>"Dữ liệu đã tiết kiệm "</item>
+        <item>Kế hoạch dữ liệu Mi</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Tự động</item>
@@ -86,11 +80,30 @@
         <item>Chỉ trường hợp ngoại lệ</item>
         <item>Không bao giờ</item>
     </string-array>
+    <string-array name="lock_mode">
+        <item>Khi thiết bị bị khóa</item>
+        <item>Khi thiết bị bị khóa hoặc sau khi thoát ứng dụng</item>
+        <item>Khi thiết bị bị khóa hoặc sau khi thoát ứng dụng 1 phút</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Sau 1 phút</item>
         <item>Sau 5 phút</item>
         <item>Sau 10 phút</item>
+        <item>Sau 30 phút</item>
         <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Một lần</item>
+        <item>Hàng ngày</item>
+        <item>Ngày làm việc</item>
+        <item>Các ngày trong tuần</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Một lần</item>
+        <item>Hàng ngày</item>
+        <item>Các ngày trong tuần</item>
+        <item>Tùy chỉnh</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 giây</item>
@@ -115,17 +128,11 @@
         <item>Rung khi im lặng</item>
         <item>Luôn rung</item>
     </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Một lần</item>
-        <item>Hàng ngày</item>
-        <item>Ngày làm việc</item>
-        <item>Các ngày trong tuần</item>
-        <item>Tùy chỉnh</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Một lần</item>
-        <item>Hàng ngày</item>
-        <item>Các ngày trong tuần</item>
-        <item>Tùy chỉnh</item>
+    <string-array name="auto_memory_clean">
+        <item>Trong 1 phút</item>
+        <item>Trong 5 phút</item>
+        <item>Trong 10 phút</item>
+        <item>Trong 30 phút</item>
+        <item>Không bao giờ</item>
     </string-array>
 </resources>

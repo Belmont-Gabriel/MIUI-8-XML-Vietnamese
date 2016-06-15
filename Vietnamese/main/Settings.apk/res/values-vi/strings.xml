@@ -2205,7 +2205,7 @@ Chạm "<b>Quay lại</b> để kết nối với một mạng Wi-Fi khác.</str
     <string name="background_data">Dữ liệu nền</string>
     <string name="background_data_summary">Ứng dụng có thể đ.bộ hóa, gửi &amp; nhận dữ liệu bất kỳ lúc nào</string>
     <string name="background_data_dialog_title">Tắt dữ liệu nền?</string>
-    <string name="background_data_dialog_message">Tắt dữ liệu nền sẽ kéo dài tuổi thọ pin và giảm mức sử dụng dữ liệu. Một số ứng dụng vẫn có thể sử dụng kết nối dữ liệu nền.</string>
+    <string name="background_data_dialog_message">Tắt dữ liệu nền sẽ kéo dài tuổi thọ Pin và giảm mức sử dụng dữ liệu. Một số ứng dụng vẫn có thể sử dụng kết nối dữ liệu nền.</string>
     <string name="sync_automatically">Tự động đồng bộ hóa dữ liệu ứng dụng</string>
     <string name="sync_enabled">Đồng bộ hóa BẬT</string>
     <string name="sync_disabled">Đồng bộ hóa TẮT</string>
@@ -2277,7 +2277,7 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="show_hw_screen_updates">Hiện cập nhật giao diện GPU</string>
     <string name="show_hw_screen_updates_summary">Chuyển nhanh chế độ xem trong cửa sổ khi được vẽ bằng GPU</string>
     <string name="show_hw_layers_updates">Hiện c.nhật lớp phần cứng</string>
-    <string name="show_hw_layers_updates_summary">Lớp phần cứng flash có màu xanh khi chúng cập nhật</string>
+    <string name="show_hw_layers_updates_summary">Lớp phần cứng nhấp nháy màu xanh khi chúng cập nhật</string>
     <string name="debug_hw_overdraw">Hiển thị mức vẽ quá GPU</string>
     <string name="disable_overlays">Vô hiệu hóa các lớp phủ HW</string>
     <string name="disable_overlays_summary">Luôn sử dụng GPU để tổng hợp màn hình</string>
@@ -2287,8 +2287,8 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="usb_audio_disable_routing_summary">Tắt định tuyến tự động tới thiết bị âm thanh ngoại vi USB</string>
     <string name="debug_layout">Hiển thị ranh giới bố cục</string>
     <string name="debug_layout_summary">Hiển thị viền đoạn video, lề, v.v..</string>
-    <string name="force_rtl_layout_all_locales">Buộc hướng bố cục RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">Buộc hướng bố cục màn hình RTL cho tất cả ngôn ngữ</string>
+    <string name="force_rtl_layout_all_locales">Buộc hướng bố cục phải sang trái</string>
+    <string name="force_rtl_layout_all_locales_summary">Buộc hướng bố cục màn hình phải sang trái cho tất cả ngôn ngữ</string>
     <string name="show_cpu_usage">Hiển thị mức sử dụng CPU</string>
     <string name="show_cpu_usage_summary">Lớp phủ màn hình hiển thị mức sử dụng CPU hiện tại</string>
     <string name="force_hw_ui">Bắt buộc kết xuất GPU</string>
@@ -2373,7 +2373,7 @@ Bạn có thể tìm thêm biện pháp kiểm soát mức sử dụng dữ li�
 
 Một số tài khoản cũng có thể tự động đồng bộ hóa lên web mọi thay đổi bạn thực hiện trên điện thoại. Tài khoản Google hoạt động theo cách này."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Tắt tính năng tự động đồng bộ hóa dữ liệu?</string>
-    <string name="data_usage_auto_sync_off_dialog">Việc này sẽ bảo toàn mức sử dụng dữ liệu và pin, tuy nhiên bạn sẽ cần phải đồng bộ hóa từng tài khoản theo cách thủ công để thu thập thông tin gần đây. Và bạn sẽ không nhận được thông báo khi có cập nhật.</string>
+    <string name="data_usage_auto_sync_off_dialog">Việc này sẽ bảo toàn mức sử dụng dữ liệu và Pin, tuy nhiên bạn sẽ cần phải đồng bộ hóa từng tài khoản theo cách thủ công để thu thập thông tin gần đây. Và bạn sẽ không nhận được thông báo khi có cập nhật.</string>
     <string name="data_usage_cycle_editor_title">Ngày đặt lại chu kỳ sử dụng</string>
     <string name="data_usage_cycle_editor_subtitle">Ngày của từng tháng:</string>
     <string name="data_usage_cycle_editor_positive">Thiết lập</string>
@@ -2964,10 +2964,10 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="high_power_filter_on">Không được tối ưu hóa</string>
     <string name="high_power_on">Bỏ qua tối ưu hóa Pin</string>
     <string name="high_power_off">Tối ưu hóa mức sử dụng Pin</string>
-    <string name="high_power_system">Tối ưu hóa pin không khả dụng</string>
-    <string name="high_power_desc">Không áp dụng tối ưu hóa pin. Pin của bạn có thể hết nhanh hơn.</string>
-    <string name="high_power_prompt_title">Bỏ qua tối ưu hóa pin?</string>
-    <string name="high_power_prompt_body">Cho phép ứng dụng %1$s luôn kết nối trong nền? Việc này có thể tốn nhiều pin hơn.</string>
+    <string name="high_power_system">Tối ưu hóa Pin không khả dụng</string>
+    <string name="high_power_desc">Không áp dụng tối ưu hóa Pin. Pin của bạn có thể hết nhanh hơn.</string>
+    <string name="high_power_prompt_title">Bỏ qua tối ưu hóa Pin?</string>
+    <string name="high_power_prompt_body">Cho phép ứng dụng %1$s luôn kết nối trong nền? Việc này có thể tốn nhiều Pin hơn.</string>
     <string name="battery_summary">%1$d%% sử dụng kể từ lần sạc đầy cuối cùng</string>
     <string name="no_battery_summary">Không sử dụng Pin kể từ lần sạc đầy cuối cùng</string>
     <string name="app_notification_preferences">Cài đặt ứng dụng</string>
@@ -3009,8 +3009,8 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="ignore_optimizations_on">Không tối ưu hóa</string>
     <string name="ignore_optimizations_off">Tối ưu hóa</string>
     <string name="ignore_optimizations_on_desc">Pin của bạn có thể hết nhanh hơn</string>
-    <string name="ignore_optimizations_off_desc">Được khuyến nghị để có thời lượng pin lâu hơn</string>
-    <string name="ignore_optimizations_title">Cho phép %s bỏ qua tối ưu hóa pin?</string>
+    <string name="ignore_optimizations_off_desc">Được khuyến nghị để có thời lượng Pin lâu hơn</string>
+    <string name="ignore_optimizations_title">Cho phép %s bỏ qua tối ưu hóa Pin?</string>
     <string name="app_list_preference_none">Không có</string>
     <string name="work_profile_usage_access_warning">Tắt quyền truy cập sử dụng đối với ứng dụng này không ngăn quản trị viên theo dõi mức sử dụng dữ liệu cho các ứng dụng trong hồ sơ công việc của bạn.</string>
     <string name="accessibility_lock_screen_progress">Đã sử dụng %1$d / %2$d ký tự</string>
@@ -3513,7 +3513,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="screen_on_proximity_sensor_summary">Tự động khóa khi đặt trong túi</string>
     <string name="preferred_application_title">Ưu tiên %s</string>
     <string name="preferred_application_warning_title">Thay thế mặc định %s</string>
-    <string name="preferred_application_warning_message">Thay thế mặc định %1$s có thể làm tăng tiêu thụ pin, giảm tốc độ, và tăng nguy cơ về bảo mật. Đề nghị sử dụng mặc định%2$s.</string>
+    <string name="preferred_application_warning_message">Thay thế mặc định %1$s có thể làm tăng tiêu thụ Pin, giảm tốc độ, và tăng nguy cơ về bảo mật. Đề nghị sử dụng mặc định%2$s.</string>
     <string name="preferred_application_warning_replace">Thay thế</string>
     <string name="preferred_application_warning_use_system">Sử dụng %s</string>
     <string name="preferred_sms_warning_message">Sử dụng \"%1$s\" làm ứng dụng tin nhắn mặc định của bạn có thể tăng việc sử dụng dữ liệu hoặc làm ảnh hưởng tới an toàn dữ liệu.</string>
@@ -3579,7 +3579,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="battery_settings_title">Pin</string>
     <string name="power_center">Pin</string>
     <string name="power_hide_mode_title">Quản lý sử dụng Pin của ứng dụng</string>
-    <string name="power_hide_mode_summary">Tiết kiệm pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
+    <string name="power_hide_mode_summary">Tiết kiệm Pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
     <string name="power_usage_history">Sử dụng Pin</string>
     <string name="default_usb_mode">Kết nối USB</string>
@@ -4417,16 +4417,16 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="show_user_info_on_lockscreen_label">Hiển thị thông tin người dùng trên màn hình khóa</string>
     <string name="battery_info_status_label">Trạng thái Pin:</string>
     <string name="battery_info_power_label">Cắm nguồn:</string>
-    <string name="battery_info_scale_label">Pin cân:</string>
-    <string name="battery_info_level_label">Mức pin:</string>
-    <string name="battery_info_health_label">Tình trạng pin:</string>
-    <string name="battery_info_technology_label">Công nghệ pin:</string>
-    <string name="battery_info_voltage_label">Điện áp pin:</string>
+    <string name="battery_info_scale_label">Tỷ lệ Pin:</string>
+    <string name="battery_info_level_label">Mức Pin:</string>
+    <string name="battery_info_health_label">Tình trạng Pin:</string>
+    <string name="battery_info_technology_label">Công nghệ Pin:</string>
+    <string name="battery_info_voltage_label">Điện áp Pin:</string>
     <string name="battery_info_voltage_units">mV</string>
-    <string name="battery_info_temperature_label">Nhiệt độ pin:</string>
+    <string name="battery_info_temperature_label">Nhiệt độ Pin:</string>
     <string name="battery_info_temperature_units">°C</string>
     <string name="battery_info_uptime">Thời gian khởi động:</string>
-    <string name="battery_info_awake_battery">Thời gian thức trên pin:</string>
+    <string name="battery_info_awake_battery">Thời gian thức trên Pin:</string>
     <string name="battery_info_awake_plugged">Thời gian thức khi sạc:</string>
     <string name="battery_info_screen_on">Thời gian bật màn hình:</string>
     <string name="battery_info_power_unplugged">Chưa cắm sạc</string>
@@ -4438,11 +4438,11 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="battery_info_health_unknown">Không xác định</string>
     <string name="battery_info_health_good">Tốt</string>
     <string name="battery_info_health_overheat">Quá nóng</string>
-    <string name="battery_info_health_dead">Hết pin</string>
+    <string name="battery_info_health_dead">Hết Pin</string>
     <string name="battery_info_health_over_voltage">Quá áp</string>
     <string name="battery_info_health_unspecified_failure">Lỗi không xác định</string>
     <string name="battery_info_health_cold">Mát</string>
-    <string name="battery_info_label">Thông tin pin</string>
+    <string name="battery_info_label">Thông tin Pin</string>
     <string name="lock_settings_with_fingerprint">Màn hình khóa &amp; mật khẩu</string>
     <string name="master_clear_summary">Xóa tất cả dữ liệu trên điện thoại</string>
     <string name="onekey_migrate">Chuyển</string>

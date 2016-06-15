@@ -37,8 +37,8 @@
         <item quantity="one">%d ứng dụng có thể sử dụng dữ liệu chuyển vùng</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"%d ứng dụng không thể sử dụng dữ liệu chuyển vùng"</item>
-        <item quantity="one">"%d ứng dụng không thể sử dụng dữ liệu chuyển vùng"</item>
+        <item quantity="other">%d ứng dụng không thể sử dụng dữ liệu chuyển vùng</item>
+        <item quantity="one">%d ứng dụng không thể sử dụng dữ liệu chuyển vùng</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">Đã tìm thấy %d ứng dụng</item>
@@ -55,6 +55,26 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d phút "</item>
         <item quantity="one">"%d phút "</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Trong %1$d phút</item>
+        <item quantity="one">Trong %1$d phút</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Đã giải quyết %d vấn đề về Pin</item>
+        <item quantity="one">Đã giải quyết %d vấn đề về Pin</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Tìm thấy %d vấn đề về Pin</item>
+        <item quantity="one">Tìm thấy %d vấn đề về Pin</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d vấn đề về Pin</item>
+        <item quantity="one">%d vấn đề về Pin</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d mục có thể được tối ưu</item>
+        <item quantity="one">%d mục có thể được tối ưu</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d ứng dụng có thể tự khởi chạy</item>
@@ -94,11 +114,11 @@
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ thường.</item>
-        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ thường… </item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ thường…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ hoa.</item>
-        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ hoa… </item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ hoa…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d số.</item>
@@ -106,11 +126,11 @@
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d ký tự đặc biệt.</item>
-        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự đặc biệt… </item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự đặc biệt…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d ký tự khác ngoài chữ cái.</item>
-        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự khác ngoài chữ cái… </item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự khác ngoài chữ cái…</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d ứng dụng đã khóa</item>
@@ -128,5 +148,21 @@
         <item quantity="other">Đã tìm thấy %d ứng dụng</item>
         <item quantity="zero">Không tìm thấy ứng dụng nào</item>
         <item quantity="one">Đã tìm thấy %d ứng dụng</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s nguy cơ thanh toán</item>
+        <item quantity="one">%s nguy cơ thanh toán</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s ứng dụng thanh toán được bảo vệ</item>
+        <item quantity="one">%s ứng dụng thanh toán được bảo vệ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s ứng dụng được bảo vệ</item>
+        <item quantity="one">%s ứng dụng được bảo vệ</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s ứng dụng không được bảo vệ</item>
+        <item quantity="one">%s ứng dụng không được bảo vệ</item>
     </plurals>
 </resources>
