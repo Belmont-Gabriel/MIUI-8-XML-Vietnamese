@@ -1015,7 +1015,7 @@ Có thể mã PIN không đúng."</string>
     <string name="wrong_pin_code_pukked">Mã PIN của SIM không chính xác, bây giờ bạn phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị của bạn.</string>
     <string name="pin_failed">Thao tác mã PIN của SIM không thành công!</string>
     <string name="device_info_settings">Trạng thái điện thoại</string>
-    <string name="system_update_settings_list_item_title">Bản cập nhật hệ thống</string>
+    <string name="system_update_settings_list_item_title">Cập nhật hệ thống</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Phiên bản Android</string>
     <string name="security_patch">Mức bản vá bảo mật của Android</string>
@@ -3587,7 +3587,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="lock_settings">Màn hình khóa &amp; mật khẩu</string>
     <string name="second_space">Không gian thứ hai</string>
     <string name="xspace">Nhân bản ứng dụng</string>
-    <string name="call_settings_primary_user_only">Thay đổi cài đặt cuộc gọi trong không gian thứ nhất</string>
+    <string name="call_settings_primary_user_only">Thay đổi cài đặt cuộc gọi trong không gian đầu tiên</string>
     <string name="unlock_set_unlock_summary">Thiết lập khóa màn hình</string>
     <string name="lock_settings_picker_settings">Thiết lập khóa màn hình</string>
     <string name="lock_screen_unlock_show">Hiển thị ngay màn hình nhập mật khẩu</string>
@@ -3609,7 +3609,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="network_detail">Thông tin mạng %s</string>
     <string name="connected_wifi">Đã kết nối</string>
     <string name="lockpattern_recording_intro_header_second_space">Vẽ một hình mở khóa cho không gian thứ hai:</string>
-    <string name="lockpattern_pattern_same_with_owner">Nên đặt khác với mật khẩu không gian thứ nhất</string>
+    <string name="lockpattern_pattern_same_with_owner">Nên đặt khác với mật khẩu không gian đầu tiên</string>
     <string name="lockpattern_pattern_same_with_security_space">Nên đặt khác với mật khẩu không gian thứ hai</string>
     <string name="incoming_call_breathing_light_color_title">Màu đèn cuộc gọi</string>
     <string name="notification_breathing_light_color_title">Màu đèn thông báo</string>

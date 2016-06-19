@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pull_to_refresh_pull_label">Kéo để làm mới…</string>
-    <string name="pull_to_refresh_release_label">Thả để vào Kiến nghị và làm mới</string>
-    <string name="pull_to_refresh_refreshing_label">Đang tải…</string>
     <string name="abc_action_mode_done">Hoàn tất</string>
     <string name="abc_action_bar_home_description">Quay về Màn hình chính</string>
     <string name="abc_action_bar_up_description">Điều hướng lên</string>
@@ -108,6 +105,7 @@ Rời khỏi trang này?"</string>
     <string name="miuichromium_error_page_diagnose_protocol">Giao thức mạng lỗi</string>
     <string name="miuichromium_error_page_diagnose_connection">Không thể kết nối mạng</string>
     <string name="miuichromium_error_page_diagnose_certificate">Không thể xác minh giao thức mạng</string>
+    <string name="miuichromium_error_page_diagnose_proxy_server">Lỗi proxy máy chủ</string>
     <string name="save_password_message">Nhớ mật khẩu này?</string>
     <string name="save_password_notnow">Không phải bây giờ</string>
     <string name="save_password_remember">Nhớ</string>
@@ -124,8 +122,11 @@ Rời khỏi trang này?"</string>
     <string name="data_traffic_prompt_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="data_traffic_prompt_message">Dùng kết nối dữ liệu di động để xem video này sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="data_traffic_prompt_change">Dùng kết nối dữ liệu di động để xem video sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
+    <string name="data_traffic_prompt_message_short">Sử dụng dữ liệu di động để phát video có thể dẫn đến vượt quá giới hạn kế hoạch sử dụng dữ liệu.</string>
     <string name="video_play_error">Không thể phát video</string>
     <string name="video_buffering_percent">"Đang tạo bộ đệm "</string>
+    <string name="video_float_window_playing">Đang phát video</string>
+    <string name="video_float_window">Cửa sổ nổi</string>
     <string name="loading_tips">Kéo xuống để làm mới</string>
     <string name="up_to_loading_tips">Thả để làm mới</string>
     <string name="miuishare_app_name">MiuiShare</string>
@@ -175,6 +176,7 @@ Rời khỏi trang này?"</string>
     <string name="v5_select_all">Chọn tất cả</string>
     <string name="v5_deselect_all">Bỏ chọn tất cả</string>
     <string name="v5_edit_mode_title_empty">Đã chọn 0 mục</string>
+    <string name="video_float_window_text">Cửa sổ nổi</string>
     <string name="clear_video_download">Xóa video</string>
     <string name="video_downloading_group">Đang tải xuống</string>
     <string name="video_downloaded_group">Đã tải xuống</string>
@@ -205,7 +207,7 @@ Rời khỏi trang này?"</string>
     <string name="cloud_sync_failed_toast">Không thể cập nhật</string>
     <string name="cloud_sync_closed_toast">Không thể cập nhật do đồng bộ tắt</string>
     <string name="close_cloud_tab_tip">Đóng thẻ Mi Cloud trên %s?</string>
-    <string name="search_label">Browser</string>
+    <string name="search_label">Trình duyệt</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.vn</string>
@@ -218,6 +220,9 @@ Rời khỏi trang này?"</string>
     <string name="error_console_header_text_maximized">Bảng điều khiển JavaScript</string>
     <string name="error_console_eval_text_hint">Thẩm định JavaScript</string>
     <string name="error_console_eval_button_text">Thẩm định</string>
+    <string name="search_title_browser">Trình duyệt</string>
+    <string name="search_keyword_browser">Trình duyệt</string>
+    <string name="search_path_browser">Cài đặt/Ứng dụng hệ thống/Trình duyệt</string>
     <string name="application_name">Trình duyệt</string>
     <string name="miui_startpage">Trang bắt đầu</string>
     <string name="page_info">Thông tin trang</string>
@@ -291,7 +296,7 @@ Rời khỏi trang này?"</string>
     <string name="empty_snapshot_hint">Trống</string>
     <string name="empty_history_hint">Lịch sử trống</string>
     <string name="enter_incongnito_mode">Vào chế độ ẩn danh</string>
-    <string name="sign_in_to" formatted="false">Đăng nhập vào %s1 %s2\"</string>
+    <string name="sign_in_to" formatted="false">Đăng nhập vào %s1 \"%s2\"</string>
     <string name="username">Tên</string>
     <string name="password">Mật khẩu</string>
     <string name="action">Đăng nhập</string>
@@ -324,6 +329,9 @@ Rời khỏi trang này?"</string>
     <string name="find_on_page_next">Tiếp theo</string>
     <string name="find_on_page_cancel">Hủy</string>
     <string name="title_bar_loading">Đang tải…</string>
+    <string name="navigationbar_rightbutton_actiontext_cancle">Hủy</string>
+    <string name="navigationbar_rightbutton_actiontext_search">Tìm kiếm</string>
+    <string name="navigationbar_rightbutton_actiontext_go">Tiếp theo</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Trượt lên để đóng</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Trượt xuống để đóng</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Đây là thẻ cuối cùng</string>
@@ -348,11 +356,11 @@ Rời khỏi trang này?"</string>
     <string name="action_menu_text_fullscreen">Toàn màn hình</string>
     <string name="action_menu_text_download">Quản lý tải xuống</string>
     <string name="action_menu_account_not_login">Chưa đăng nhập</string>
-    <string name="action_menu_account_not_login_hint">Sử dụng cài đặt Mi Cloud khi đăng nhập</string>
-    <string name="action_menu_toolbox">Hộp công cụ</string>
-    <string name="action_menu_bookshelf">Kệ sách</string>
-    <string name="action_menu_useful_page">Thêm vào trang hữu ích</string>
-    <string name="action_menu_useful_page_added">Đã thêm vào trang hữu ích</string>
+    <string name="action_menu_account_not_login_hint">Đăng nhập để đồng bộ với Mi Cloud</string>
+    <string name="action_menu_toolbox">Công cụ</string>
+    <string name="action_menu_bookshelf">Tủ sách</string>
+    <string name="action_menu_useful_page">Thêm lối tắt</string>
+    <string name="action_menu_useful_page_added">Đã thêm vào trang bắt đầu</string>
     <string name="start_save_page_capture">Đang lưu ảnh chụp màn hình…</string>
     <string name="save_page_capture_to_camera">Đã lưu ảnh chụp màn hình</string>
     <string name="save_page_capture_tip">Mở thanh thông báo để xem ảnh chụp màn hình.</string>
@@ -479,6 +487,9 @@ Rời khỏi trang này?"</string>
     <string name="delete_bookmark_warning">Xóa dấu trang \"%s\"?</string>
     <string name="added_to_bookmarks">Đã thêm vào dấu trang</string>
     <string name="removed_from_bookmarks">Đã xóa khỏi dấu trang</string>
+    <string name="bookmark_btn_select_all">Chọn tất cả</string>
+    <string name="bookmark_btn_select_none">Bỏ chọn tất cả</string>
+    <string name="delete_bookmark">Xóa</string>
     <string name="clear_history">Xóa lịch sử</string>
     <string name="history_saved_webpage">Lưu trang</string>
     <string name="remove_from_bookmarks">Xóa khỏi dấu trang</string>
@@ -543,7 +554,7 @@ Rời khỏi trang này?"</string>
     <string name="pref_content_fontsize_setting">Cài đặt phông chữ</string>
     <string name="readmode_page_loading">Vui lòng chờ…</string>
     <string name="readmode_page_load_error">Không thể tải trang</string>
-    <string name="readmode_already_add_to_bookshelf">Đã thêm vào kệ sách</string>
+    <string name="readmode_already_add_to_bookshelf">Đã thêm vào tủ sách</string>
     <string name="readmode_login_message">Bạn cần đăng nhập để đọc thêm.</string>
     <string name="readmode_pay_message">Bạn cần trả phí để xem chương sau.</string>
     <string name="readmode_recommend_message">Bạn đã đọc quyển sách này. :)</string>
@@ -581,11 +592,14 @@ Rời khỏi trang này?"</string>
     <string name="pref_adblock_counts">Đã chặn %d</string>
     <string name="pref_clear_adblock_statistics_dlg">Xóa thống kê chặn quảng cáo?</string>
     <string name="adblock_notification">Đã chặn %d quảng cáo</string>
+    <string name="adblock_force_updating_rules_toast">Đang cập nhật chặn quảng cáo</string>
+    <string name="adblock_rules_updated_toast">Hoàn tất</string>
+    <string name="adblock_rules_not_updated_toast">Failed</string>
     <string name="miui_quicksearch_enable_pref_title">Thanh tìm kiếm trong thanh thông báo</string>
     <string name="miui_quicksearch_enable_pref_summary">Hiển thị liên kết tìm kiếm trong thanh thông báo</string>
     <string name="pref_accessibility_title">Khả năng truy cập</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Nhập URL nhanh</string>
-    <string name="pref_accessibility_url_shortcut_enter_summary">Các ký tự kết hợp phổ biến có thể được nhập bằng một thao tác bấm ở thanh địa chỉ</string>
+    <string name="pref_accessibility_url_shortcut_enter_summary">Các ký tự kết hợp phổ biến có thể được nhập bằng một thao tác chạm ở thanh địa chỉ</string>
     <string name="pref_force_userscalable">Bắt buộc thu phóng</string>
     <string name="pref_force_userscalable_summary">Thay đổi yêu cầu trang web để kiểm soát hành vi thu phóng</string>
     <string name="pref_ua_string">Chuỗi nhận dạng trình duyệt</string>
@@ -661,6 +675,7 @@ Rời khỏi trang này?"</string>
     <string name="pref_save_bandwidth_mode_title">Giảm sử dụng dữ liệu</string>
     <string name="adjust_text_zoom_toast">Thay đổi thu phóng văn bản có thể làm một số trang web hiển thị không chính xác</string>
     <string name="pref_extras_reset_default_title">Khác</string>
+    <string name="pref_extras_send_feedback">Gửi phản hồi</string>
     <string name="pref_extras_title_version">Thông tin phiên bản</string>
     <string name="pref_auto_update_under_wifi">Cập nhật bằng Wi-Fi</string>
     <string name="pref_version_info">Thông tin phiên bản</string>
@@ -771,16 +786,23 @@ Rời khỏi trang này?"</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_btn_select_all">Chọn tất cả</string>
     <string name="download_btn_select_none">Bỏ chọn tất cả</string>
-    <string name="download_memory_info_avai">" khả dụng %s|"</string>
+    <string name="download_memory_info_avai">" trống %s|"</string>
     <string name="download_memory_info_total">" tổng ​%s"</string>
     <string name="go_supermarket_button">Bắt đầu</string>
     <string name="go_supermarket_title">Nhiều ứng dụng, tốc độ nhanh và ít sử dụng dữ liệu hơn</string>
-    <string name="login_failed_toast">Đăng nhập thất bại, vui lòng làm mới.</string>
-    <string name="custom_head_card_text">"Luôn tin rằng một cái gì đó tuyệt vời sắp xảy ra"</string>
-    <string name="custom_head_card_text_incognito">"Chỉ có bạn biết cửa sổ riêng tư​"</string>
+    <string name="pull_to_refresh_pull_label">Kéo để làm mới</string>
+    <string name="pull_to_refresh_release_label">Thả để vào kiến nghị và làm mới</string>
+    <string name="login_failed_toast">Không thể đăng nhập, làm mới và thử lại</string>
+    <string name="custom_head_card_text">"Hãy luôn tin rằng điều kỳ diệu
+sắp xảy ra"</string>
+    <string name="custom_head_card_text_incognito">"Bạn đang ẩn danh!
+Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="comment_menu">Bình luận</string>
     <string name="comment_app_menu">Bình luận</string>
     <string name="send_comment_button">Gửi</string>
     <string name="reply_comment_title">Trả lời: %s</string>
     <string name="send_comment_title">Bình luận</string>
+    <string name="pay_success_toast">Thanh toán thành công</string>
+    <string name="pay_failed_toast">Thanh toán thất bại</string>
+    <string name="add_bookshelf_popup_text">Đã thêm cuốn sách này đến tủ sách của bạn rồi</string>
 </resources>

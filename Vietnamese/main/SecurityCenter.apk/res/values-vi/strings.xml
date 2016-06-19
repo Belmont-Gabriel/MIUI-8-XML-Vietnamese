@@ -762,12 +762,12 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="battery_status_overheat">Quá nóng</string>
     <string name="battery_status_unknown">Lỗi không xác định</string>
     <string name="deep_clean_never_memory_clean">Không bao giờ</string>
-    <string name="deep_clean_memory_clean_title">Xóa bộ nhớ đệm khi thiết bị bị khóa</string>
-    <string name="deep_clean_disconnect_data_title">Tắt dữ liệu di động khi thiết bị bị khóa</string>
+    <string name="deep_clean_memory_clean_title">Xóa bộ nhớ đệm khi khóa thiết bị</string>
+    <string name="deep_clean_disconnect_data_title">Tắt dữ liệu di động khi khóa thiết bị</string>
     <string name="btn_text_power_consume_suggest_optimize">Tối ưu</string>
     <string name="power_analysis_consume_title">Sử dụng Pin</string>
     <string name="power_analysis_suggestion_need_optimize">Phát hiện vấn đề sử dụng Pin.</string>
-    <string name="power_optimize_save_on_lockscreen">Tiết kiệm Pin khi thiết bị bị khóa</string>
+    <string name="power_optimize_save_on_lockscreen">Tiết kiệm Pin khi khóa thiết bị</string>
     <string name="power_optimize_close_app">Đóng các ứng dụng tiêu thụ Pin quá mức</string>
     <string name="power_optimize_disable_app_autostart">Ngăn các ứng dụng tự động chạy</string>
     <string name="power_optimize_disable_start_other_app">Ngăn ứng dụng mở các ứng dụng khác</string>
@@ -803,7 +803,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="battery_estimate_usage_time_title">Thời gian sử dụng</string>
     <string name="battery_estimate_charge_time_title">Thời gian sạc</string>
     <string name="battery_temperature_title">Nhiệt độ</string>
-    <string name="battery_capacity_title">Dung lượng pin</string>
+    <string name="battery_capacity_title">Dung lượng Pin</string>
     <string name="battery_charge_full">Đã đầy</string>
     <string name="battery_charge_estimating">Đang tính toán…</string>
     <string name="battery_charging_prompt">Đang sạc</string>
@@ -1226,7 +1226,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="permission_with_call_and_contact">Quyền liên quan đến cuộc gọi điện thoại, thông tin liên hệ, và nhật ký cuộc gọi.</string>
     <string name="pref_category_title_lock_screen_memory_clean">Dọn dẹp ở màn hình khóa</string>
     <string name="pref_title_lock_screen_memory_clean">Dọn dẹp ở màn hình khóa</string>
-    <string name="pref_summary_lock_screen_memory_clean">Dọn dẹp tự động khi thiết bị bị khóa</string>
+    <string name="pref_summary_lock_screen_memory_clean">Dọn dẹp tự động khi khóa thiết bị</string>
     <string name="title_default_app">MIUI %s không được thiết lập như mặc định</string>
     <string name="summary_default_app">%s không được thiết lập như là một ứng dụng hệ thống mặc định</string>
     <string name="toast_default_app">%1$s được thiết lập làm %2$s mặc định hệ thống</string>
