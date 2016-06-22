@@ -46,4 +46,15 @@
         <item>Kênh HD</item>
         <item>Xem gần đây</item>
     </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Truyền hình Hồ Nam</item>
+        <item>CCTV-6</item>
+        <item>Truyền hình Chiết Giang</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Truyền hình An Huy</item>
+        <item>Truyền hình Bắc Kinh</item>
+        <item>Truyền hình Quảng Đông</item>
+    </string-array>
 </resources>
