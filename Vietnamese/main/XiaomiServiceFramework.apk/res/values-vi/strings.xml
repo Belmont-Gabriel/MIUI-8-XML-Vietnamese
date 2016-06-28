@@ -102,7 +102,6 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="activate_feature_register_xiaomi_account">Cài đặt Tài khoản Mi</string>
     <string name="activate_feature_verify_mx_token">Xác minh Tài khoản Mi</string>
     <string name="activate_feature_live_talk">Gói tùy chọn điện thoại</string>
-    <string name="activate_sms_postfix">SMS này được dùng để kích hoạt thiết bị Mi của bạn</string>
     <string name="activate_history_title">Kích hoạt Thẻ SIM</string>
     <string name="activate_history_overview">Kích hoạt thẻ SIM %1$s. Được phản ứng bởi tính năng \"%2$s\".</string>
     <string name="activate_history_multisim_overview">Kích hoạt thẻ SIM %3$d %1$s. Được phản ứng bởi tính năng \"%2$s\".</string>
