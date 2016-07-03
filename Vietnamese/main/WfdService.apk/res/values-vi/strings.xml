@@ -3,4 +3,6 @@
     <string name="app_name">Dịch vụ hiển thị Wi-Fi</string>
     <string name="perm_label">Ngăn xếp hiển thị Wi-Fi Qualcomm</string>
     <string name="perm_desc">Truy cập APIs ngăn xếp hiển thị Wi-Fi Qualcomm</string>
+    <string name="notification_title">Hiển thị Wi-Fi</string>
+    <string name="notification_text">Hiển thị Wi-Fi đang Bật</string>
 </resources>

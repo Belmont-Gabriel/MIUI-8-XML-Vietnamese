@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="updated_contacts">
-        <item quantity="other">Đã cập nhật %s liên hệ</item>
-        <item quantity="one">Đã cập nhật %s liên hệ</item>
-    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d liên hệ</item>
         <item quantity="one">%d liên hệ</item>
@@ -15,5 +11,9 @@
     <plurals name="dirty_note_count">
         <item quantity="other">%d ghi chú</item>
         <item quantity="one">%d ghi chú</item>
+    </plurals>
+    <plurals name="updated_contacts">
+        <item quantity="other">Đã cập nhật %s liên hệ</item>
+        <item quantity="one">Đã cập nhật %s liên hệ</item>
     </plurals>
 </resources>

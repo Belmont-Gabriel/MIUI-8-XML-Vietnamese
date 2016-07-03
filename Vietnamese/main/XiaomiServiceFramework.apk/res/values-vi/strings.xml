@@ -8,6 +8,9 @@ Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không c�
     <string name="accept">OK</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="sync_notification_title_format">Mục đồng bộ hiện tại: %1$s</string>
+    <string name="explain_send_sms_permission_title">Xác minh số điện thoại của bạn</string>
+    <string name="explain_send_sms_permission_msg">Để bật %s, Khung dịch vụ Mi sẽ gửi SMS để xác minh số điện thoại của bạn. Bạn sẽ bị tính phí cho SMS thông thường bời nhà cung cấp dịch vụ của bạn.</string>
+    <string name="explain_send_sms_permission_button">Xác minh</string>
     <string name="activate_phone_failed_notif_title">Không thể kích hoạt thẻ SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Không thể kích hoạt thẻ SIM %s</string>
     <string name="activate_phone_success_notif_title">Thẻ SIM đã kích hoạt</string>
@@ -62,7 +65,7 @@ Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không c�
     <string name="activate_popup_desc_new_2_sim_cards">Dường như bạn đã đổi thẻ SIM. 2 tin nhắn văn bản thông thường sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Dường như bạn đã đổi thẻ SIM. 2 tin nhắn văn bản quốc tế sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
     <string name="activate_popup_desc_new_sim_card_downlink">Dường như bạn đã đổi thẻ SIM. Nhập số điện thoại hiện tại để kích hoạt %s.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix">Dịch vụ VoiP được hỗ trợ bởi Weihui. Xem</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">Dịch vụ cuộc gọi Mi được hỗ trợ bởi Weihui. Xem</string>
     <string name="activate_popup_desc_voip_privacy">Chính sách Riêng tư</string>
     <string name="activate_popup_title_register_account">Tạo Tài khoản Mi</string>
     <string name="activate_popup_desc_register_account">Nhà cung cấp dịch vụ có thể sẽ tính phí tin nhắn SMS dùng để tạo Tài khoản Mi.</string>
@@ -102,9 +105,11 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="activate_feature_register_xiaomi_account">Cài đặt Tài khoản Mi</string>
     <string name="activate_feature_verify_mx_token">Xác minh Tài khoản Mi</string>
     <string name="activate_feature_live_talk">Gói tùy chọn điện thoại</string>
+    <string name="activate_feature_remote_assist">Trợ lý điều khiển</string>
+    <string name="activate_feature_default_name">Dịch vụ Mi</string>
     <string name="activate_history_title">Kích hoạt Thẻ SIM</string>
-    <string name="activate_history_overview">Kích hoạt thẻ SIM %1$s. Được phản ứng bởi tính năng \"%2$s\".</string>
-    <string name="activate_history_multisim_overview">Kích hoạt thẻ SIM %3$d %1$s. Được phản ứng bởi tính năng \"%2$s\".</string>
+    <string name="activate_history_overview">Kích hoạt thẻ SIM %1$s. Được kích hoạt bởi \"%2$s\".</string>
+    <string name="activate_history_multisim_overview">Kích hoạt thẻ SIM %3$d %1$s. Được kích hoạt bởi \"%2$s\".</string>
     <string name="activate_history_sms">Một SMS đã được gửi trong thời gian kích hoạt.</string>
     <string name="activate_history_success">Thành công</string>
     <string name="activate_history_cancelled">Đã hủy</string>

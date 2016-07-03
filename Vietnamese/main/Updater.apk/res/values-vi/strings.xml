@@ -171,12 +171,15 @@ http://zhushou.xiaomi.com"</string>
     <string name="confirm_local_package_wipe_title">Xóa dữ liệu?</string>
     <string name="confirm_local_package_wipe_msg">Dữ liệu cá nhân của bạn sẽ bị xóa. Hãy chắc chắn bạn đã sao lưu mọi thứ bạn cần trước khi bắt đầu tiến trình.</string>
     <string name="confirm_local_package_wipe_btn">Xóa và cập nhật</string>
+    <string name="dialog_reboot_title">Cập nhật hệ thống</string>
+    <string name="dialog_reboot_message">"MIUI sắp cập nhật. Quá trình này có thể mất từ 5-20 phút. Không tắt nguồn và không khởi động lại khi đang tiến hành cập nhật."</string>
+    <string name="dialog_reboot_yes">Cập nhật</string>
     <string name="update_feedback">Đánh giá bản cập nhật này</string>
     <string name="update_feedback_end">Bạn đã bỏ lỡ bình chọn tuần này</string>
     <string name="update_feedback_end_sum">Bạn có thể tham gia vào các ngày Thứ hai.</string>
     <string name="update_feedback_need_update">Bạn cần cập nhật hệ thống của mình lên phiên bản mới nhất trước.</string>
     <string name="update_feedback_expired">"Bạn đã bỏ lỡ bình chọn tuần này.
-Bạn có thể tham gia vào Thứ hai tuần tới."</string>
+Bạn có thể tham gia vào Thứ hai tới."</string>
     <string name="update_feedback_need_account">Bạn cần phải đăng nhập vào Tài khoản Mi trước</string>
     <string name="update_feedback_need_network">Kết nối mạng trước</string>
     <string name="update_happy">Hài lòng!</string>
@@ -221,7 +224,7 @@ Bạn có thể tham gia vào Thứ hai tuần tới."</string>
     <string name="vote_recommend">Đề nghị cập nhật</string>
     <string name="vote_not_recommend">Không khuyến khích</string>
     <string name="vote_error_nonetwork">Không thể kết nối mạng</string>
-    <string name="vote_error1">"Dường như bạn không phải là thành viên của Chương trình Trải nghiệm Người dùng"</string>
+    <string name="vote_error1">Dường như bạn không phải là thành viên của Chương trình Trải nghiệm Người dùng</string>
     <string name="vote_error2">"Không thể gửi phản hồi.
 Cập nhật thiết bị và thử lại"</string>
     <string name="vote_hint">Nhận 20 điểm kinh nghiệm cho diễn đàn MIUI khi bình chọn</string>
