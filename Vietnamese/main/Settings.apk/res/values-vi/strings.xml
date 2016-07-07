@@ -4375,7 +4375,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="edge_mode_clean_summary">Trượt đồng thời trên hai cạnh viền để xóa bộ nhớ đệm hệ thống</string>
     <string name="edge_mode_screenshot_summary">Nhấp đúp hai viền cạnh để chụp ảnh màn hình</string>
     <string name="edge_mode_guide_title">Chạm khu vực được đánh dấu để sử dụng điều khiển tiếp xúc viền</string>
-    <string name="apply_password_to_category_title">Yêu cầu nở khóa</string>
+    <string name="apply_password_to_category_title">Yêu cầu mở khóa</string>
     <string name="turn_on_security_lock">Thêm khóa màn hình</string>
     <string name="secure_keyguard_business_title">Đặt khóa màn hình</string>
     <string name="fingerprint_and_password_entrance_title">Khóa màn hình &amp; vân tay</string>
