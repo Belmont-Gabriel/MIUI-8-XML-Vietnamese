@@ -243,23 +243,23 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
 
 Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="traffic_config_alert_body_normal">"
-\"Giới hạn sử dụng dữ liệu tính phí hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công.\""</string>
+Giới hạn sử dụng dữ liệu tính phí hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
     <string name="traffic_config_alert_body_leisure">"
-\"Giới hạn sử dụng dữ liệu miễn phí hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công.\""</string>
+Giới hạn sử dụng dữ liệu miễn phí hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-\"Giới hạn sử dụng dữ liệu miễn phí hàng tháng của bạn là %1$s. Bạn chưa thiết lập giới hạn sử dụng dữ liệu miễn phí.\""</string>
+Giới hạn sử dụng dữ liệu miễn phí hàng tháng của bạn là %1$s. Bạn chưa thiết lập giới hạn sử dụng dữ liệu miễn phí."</string>
     <string name="traffic_config_alert_body_extra">"
-\"Bạn đã mua %1$s dữ liệu bổ sung tháng này. Dữ liệu này khác với %2$s bạn đã thêm thủ công.\""</string>
+Bạn đã mua %1$s dữ liệu bổ sung tháng này. Dữ liệu này khác với %2$s bạn đã thêm thủ công."</string>
     <string name="traffic_config_alert_body_extra_notset">"
-\"Bạn đã mua %s dữ liệu bổ sung tháng này. Điều này chưa được cập nhật trong giới hạn dữ liệu hàng tháng bạn thiết lập thủ công.\""</string>
+Bạn đã mua %s dữ liệu bổ sung tháng này. Điều này chưa được cập nhật trong giới hạn dữ liệu hàng tháng bạn thiết lập thủ công."</string>
     <string name="traffic_config_alert_setted">Đã áp dụng cài đặt</string>
     <string name="traffic_config_alert_package">"
-\"Đã gia hạn dữ liệu bổ sung\""</string>
+Đã gia hạn dữ liệu bổ sung."</string>
     <string name="traffic_limit_error_alert_title">Nhắc nhở giới hạn dữ liệu %s</string>
     <string name="traffic_limit_error_alert_body">Dữ liệu còn lại của bạn cho tháng này (%1$s) lớn hơn kế hoạch hàng tháng của bạn (%2$s). Đánh dấu phần dữ liệu vượt quá là gói tùy chọn?</string>
     <string name="traffic_limit_error_alert_package">"
 
-\"Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước.\""</string>
+Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước."</string>
     <string name="traffic_alert_auto_modify_notification_titile">Đã cập nhật kế hoạch sử dụng dữ liệu</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Kế hoạch hàng tháng đã thay đổi thành %s.</string>
     <string name="traffic_alert_auto_modify_package_summary">Tự động điều chỉnh gói dữ liệu dựa vào thông tin nhà mạng</string>
@@ -642,11 +642,11 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="xiaomi_traffic_pass_toast_start">Bật kế hoạch dữ liệu Mi</string>
     <string name="xiaomi_traffic_pass_toast_stop">Tắt kế hoạch dữ liệu Mi</string>
     <string name="xiaomi_traffic_pass_notify_content_using">Còn lại %s</string>
-    <string name="xiaomi_traffic_pass_service_down">"Không thể kết nối đến máy chủ, đã chuyển sang kế hoạch dữ liệu của nhà cung cấp dịch vụ của bạn."</string>
+    <string name="xiaomi_traffic_pass_service_down">Không thể kết nối đến máy chủ, đã chuyển sang kế hoạch dữ liệu của nhà cung cấp dịch vụ của bạn.</string>
     <string name="xiaomi_traffic_pass_service_up">Kết nối đến máy chủ thành công, đã chuyển sang kế hoạch dữ liệu Mi</string>
-    <string name="xiaomi_traffic_pass_exhausted">"Không có dữ liệu di động có sẵn trên kế hoạch dữ liệu Mi của bạn. Đã chuyển sang kế hoạch dữ liệu của nhà cung cấp dịch vụ của bạn."</string>
+    <string name="xiaomi_traffic_pass_exhausted">Không có dữ liệu di động có sẵn trên kế hoạch dữ liệu Mi của bạn. Đã chuyển sang kế hoạch dữ liệu của nhà cung cấp dịch vụ của bạn.</string>
     <string name="xiaomi_traffic_pass_pass_activate_msg">Tìm thấy kế hoạch dữ liệu Mi. Bạn có muốn bật dữ liệu Mi?</string>
-    <string name="xiaomi_traffic_pass_start_failed_service_down">"Không thể bật kế hoạch dữ liệu Mi"</string>
+    <string name="xiaomi_traffic_pass_start_failed_service_down">Không thể bật kế hoạch dữ liệu Mi</string>
     <string name="xiaomi_traffic_pass_type_general">Kế hoạch không giới hạn</string>
     <string name="xiaomi_traffic_pass_type_other">Kế hoạch bị giới hạn</string>
     <string name="xiaomi_traffic_pass_dialog_warning_title">Thông báo kế hoạch dữ liệu Mi</string>
@@ -655,7 +655,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="xiaomi_traffic_pass_in_use">Đang dùng</string>
     <string name="xiaomi_traffic_pass_passes_empty">Không có dữ liệu di động có sẵn, hãy mua dữ liệu trước.</string>
     <string name="xiaomi_traffic_pass_purchase">Mua dữ liệu di động</string>
-    <string name="xiaomi_traffic_pass_not_support">"Nhà cung cấp dịch vụ của bạn không hỗ trợ tính năng này"</string>
+    <string name="xiaomi_traffic_pass_not_support">Nhà cung cấp dịch vụ của bạn không hỗ trợ tính năng này</string>
     <string name="xiaomi_traffic_return">Quay lại</string>
     <string name="power_center_title">Pin</string>
     <string name="power_center_consume_rank">Sử dụng Pin</string>
@@ -780,9 +780,9 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_optimize_loading">Đang quét</string>
     <string name="prompt_input_time_illegal">Không thể đặt thời gian này, hãy thay đổi và thử lại</string>
     <string name="power_settings_saver_title">Tiết kiệm Pin</string>
-    <string name="quick_optimize_no_fix_issue_title">"Không thể sửa chữa vấn đề Pin"</string>
-    <string name="quick_optimize_no_fix_issue_subtitle">"Không thể kéo dài thời lượng Pin"</string>
-    <string name="quick_optimize_no_issue_title">"Không thể tìm thấy vấn đề Pin"</string>
+    <string name="quick_optimize_no_fix_issue_title">Không thể sửa chữa vấn đề Pin</string>
+    <string name="quick_optimize_no_fix_issue_subtitle">Không thể kéo dài thời lượng Pin</string>
+    <string name="quick_optimize_no_issue_title">Không thể tìm thấy vấn đề Pin</string>
     <string name="quick_optimize_no_issue_subtitle">Mọi thứ có vẻ tốt</string>
     <string name="quick_optimize_no_issue">Không có vấn đề Pin nào</string>
     <string name="quick_optimize_sub_summary_text">Đã thêm %s vào thời lượng Pin</string>
@@ -796,9 +796,9 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="btn_text_goto_power_rank">Xem bảng xếp hạng Pin</string>
     <string name="btn_text_goto_setup">Vào Cài đặt</string>
     <string name="power_save_title_text">Tiết kiệm Pin</string>
-    <string name="power_save_summary_text">"Bật tiết kiệm Pin để giảm hoạt động của nền ứng dụng, ngừng đồng bộ, và giảm thiểu ảnh động hệ thống."</string>
+    <string name="power_save_summary_text">Bật tiết kiệm Pin để giảm hoạt động của nền ứng dụng, ngừng đồng bộ, và giảm thiểu ảnh động hệ thống.</string>
     <string name="hide_mode_title_text">Chế độ Ẩn</string>
-    <string name="hide_mode_summary_text">"Quản lý hoạt động nền của ứng dụng để tiết kiệm Pin"</string>
+    <string name="hide_mode_summary_text">Quản lý hoạt động nền của ứng dụng để tiết kiệm Pin</string>
     <string name="hide_mode_app_background_setting_text">Tiết kiệm Pin của ứng dụng</string>
     <string name="battery_estimate_usage_time_title">Thời gian sử dụng</string>
     <string name="battery_estimate_charge_time_title">Thời gian sạc</string>
@@ -848,6 +848,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_save_mode_ontime_enabled">Hẹn giờ chuyển chế độ</string>
     <string name="power_save_mode_start_time">Bắt đầu</string>
     <string name="power_save_mode_end_time">Kết thúc</string>
+    <string name="notification_charging_title">"Đang sạc "</string>
     <string name="resource_securitycenter_settings">Bảo mật</string>
     <string name="keywords_securitycenter_settings">Tiết kiệm Pin;Quyền;Danh sách chặn;Sử dụng dữ liệu;Cân chỉnh kế hoạch dữ liệu;Kiểm tra mạng;Khóa ứng dụng;Tiết kiệm Pin;Quá nóng;Bật;Tắt;Pin;Hao;Tự khởi chạy;ROOT;Vị trí;Truy cập danh bạ;Chặn;Danh sách đen;Danh sách chặn thông minh;Lừa đảo;Bán hàng;Môi giới;Dữ liệu;Lưu lượng;Cân chỉnh;Kết nối;Internet;Kiểm tra;Mật khẩu;Riêng tư;Truy cập;Bảo vệ</string>
     <string name="path_securitycenter_settings">Ứng dụng hệ thống/Bảo mật</string>
@@ -1273,7 +1274,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="notification_item">Bảo vệ các ứng dụng được chọn với khóa ứng dụng</string>
     <string name="ac_enable_title">Bật khóa ứng dụng</string>
     <string name="lock_mode_title">Cài đặt khóa</string>
-    <string name="after_the_lock_screen">"Ứng dụng bị khóa cùng với màn hình, bạn có thể thay đổi điều này trong cài đặt khóa ứng dụng."</string>
+    <string name="after_the_lock_screen">Ứng dụng bị khóa cùng với màn hình, bạn có thể thay đổi điều này trong cài đặt khóa ứng dụng.</string>
     <string name="ac_firstUseApplock_title">Yêu cầu mật khẩu để mở các ứng dụng được chọn</string>
     <string name="ac_firstUseApplock_subTitle">Sử dụng khóa ứng dụng để bảo vệ sự riêng tư của bạn</string>
     <string name="notification_subtitle">Nhấn để bật</string>
@@ -1287,6 +1288,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="modifypassword">Thay đổi mật khẩu</string>
     <string name="showpattern">Hiển thị hình mở khóa</string>
+    <string name="convenient_mode">Mở khóa tất cả các ứng dụng cùng một lúc</string>
+    <string name="convenient_summary">"Không yêu cầu mật khẩu sau khi 1 ứng dụng được mở khóa"</string>
     <string name="suggest_app_tolock">Kiến nghị</string>
     <string name="forget_password_button_text"><u>Quên mật khẩu</u></string>
     <string name="lockpattern_need_to_unlock">Xác nhận hình mở khóa đã lưu</string>
@@ -1396,7 +1399,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="scan_status_safe">An toàn</string>
     <string name="scan_status_risk">Nguy cơ</string>
     <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>Phát hiện nguy cơ! Tạm gián đoạn thanh toán hiện tại!&lt;/font></string>
-    <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00>Không thể kiểm tra bảo mật thanh toán. Kết nối với internet và thử lại.&lt;/font>"</string>
+    <string name="safepay_alert_dialog_title_unknown">&lt;font color=#f59c00>Không thể kiểm tra bảo mật thanh toán. Kết nối với internet và thử lại.&lt;/font></string>
     <string name="safepay_alert_dialog_button_risk">Sửa</string>
     <string name="safepay_alert_dialog_button_unknown">Kiểm tra lại</string>
     <string name="safepay_alert_dialog_button_continue">Tiến hành</string>
@@ -1559,8 +1562,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_mode_my_mode">Chế độ của tôi</string>
     <string name="power_mode_my_mode_summary">Lưu cài đặt chế độ Pin hiện tại của bạn</string>
     <string name="power_apply_toast">Chuyển sang %s</string>
-    <string name="modify_password_info">Hình mở khóa</string>
     <string name="notification_button_text_of_low_memory">Dọn dẹp</string>
+    <string name="modify_password_info">Hình mở khóa</string>
     <string name="pm_auto_start_basic_services_lock">Khóa</string>
     <string name="pm_auto_start_basic_services_unlock">Mở khóa</string>
     <string name="pm_auto_start_by_basic_services">Dịch vụ cơ bản</string>
