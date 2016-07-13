@@ -6,7 +6,7 @@
     <string name="button_cancel">Hủy</string>
     <string name="button_next">Tiếp theo</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">HHmmss_ddMMyyyy</string>
+    <string name="dir_date_format">HHmmss_MMddyyyy</string>
     <string name="retry">Thử lại</string>
     <string name="cloud_app_current_device">Thiết bị hiện tại</string>
     <string name="cloud_app_other_devices">Thiết bị khác</string>
@@ -19,10 +19,11 @@
     <string name="cloud_backup_detail_frequence">Lịch trình sao lưu</string>
     <string name="cloud_back_up_interval_long">7 ngày</string>
     <string name="cloud_back_up_interval_short">Mỗi ngày</string>
-    <string name="cloud_backup_detail_frequence_day">%1$s sao lưu một lần</string>
-    <string name="cloud_backup_detail_time">, thời gian sao lưu:%1$s</string>
+    <string name="cloud_backup_detail_frequence_day">Sao lưu sau mỗi %1$s</string>
+    <string name="cloud_backup_detail_time">Sao lưu trước: %1$s</string>
     <string name="cloud_backup_detail_manage">Quản lý sao lưu</string>
     <string name="cloud_backup_detail_manage_summary">%1$s sao lưu, kích thước:%2$s</string>
+    <string name="backup_size_summary">Kích thước: %1$s</string>
     <string name="cloud_back_up_opening">Vui lòng chờ…</string>
     <string name="cloud_back_up_no_network_warn">Không thể kết nối Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
@@ -110,5 +111,14 @@
     <string name="confirm_restore">Khôi phục</string>
     <string name="cloud_backup_have_data">Tìm thấy sao lưu trên Mi Cloud</string>
     <string name="cloud_backup_select_recover">Chọn sao lưu từ Mi Cloud</string>
-    <string name="backup_finished_notification_content">Sao lưu ứng dụng Màn hình chính, cài đặt hệ thống v.v…</string>
+    <string name="backup_finished_notification_content">Sao lưu ứng dụng Màn hình chính, cài đặt hệ thống..v.v.</string>
+    <string name="backup_now">Sao lưu ngay</string>
+    <string name="restore_task_unfinished">Đang khôi phục ứng dụng, hãy thử lại sau</string>
+    <string name="backup_successfully">Sao lưu thành công</string>
+    <string name="account_error">Lỗi tài khoản</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_continue">Tiếp tục</string>
+    <string name="btn_skip">Bỏ qua bước này</string>
+    <string name="provision_arrow_back">&lt;</string>
+    <string name="provision_arrow_next">></string>
 </resources>

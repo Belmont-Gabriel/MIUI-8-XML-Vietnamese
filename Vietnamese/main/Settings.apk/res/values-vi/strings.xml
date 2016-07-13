@@ -3234,7 +3234,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
     <string name="search_accessibility_long_press_timeout_preference_title">Thời gian Nhấn &amp; giữ</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Điều chỉnh màu</string>
-    <string name="search_touch_assistant">Trợ lý chạm</string>
+    <string name="search_touch_assistant">Mi Pop</string>
     <string name="search_battery">Pin &amp; hiệu suất</string>
     <string name="search_storage">Bộ nhớ</string>
     <string name="search_storage_settings">Dọn dẹp</string>
@@ -3395,7 +3395,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="path_ntts_settings_title">Cài đặt/Cài đặt bổ sung/Trợ năng/tts_settings_title</string>
     <string name="path_accessibility_long_press_timeout_preference_title">Cài đặt/Cài đặt bổ sung/Trợ năng/Thời gian nhấn &amp; giữ</string>
     <string name="path_accessibility_display_daltonizer_preference_title">Cài đặt/Cài đặt bổ sung/Trợ năng/Điều chỉnh màu</string>
-    <string name="path_touch_assistant_settings">Cài đặt/Cài đặt bổ sung/Trợ lý chạm</string>
+    <string name="path_touch_assistant_settings">Cài đặt/Cài đặt bổ sung/Mi Pop</string>
     <string name="path_device_info_memory">Cài đặt/Bộ nhớ</string>
     <string name="path_storage_settings">Cài đặt/Bộ nhớ/Dọn dẹp</string>
     <string name="path_led_settings">Cài đặt/Cài đặt bổ sung/Đèn thông báo</string>
@@ -3534,7 +3534,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="handy_mode_enter_ask">Hỏi trước khi vào chế độ một tay</string>
     <string name="handy_mode_tips">Trượt qua trái hoặc phải từ phím Trang chính để thu nhỏ màn hình về phía bên đó.</string>
     <string name="handy_mode_size">Kích thước màn hình</string>
-    <string name="touch_assistant">Trợ lý chạm</string>
+    <string name="touch_assistant">Mi Pop</string>
     <string name="key_settings_title">Phím</string>
     <string name="key_settings">Phím</string>
     <string name="key_position_cat">Vị trí phím</string>
@@ -3587,7 +3587,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="lock_settings">Màn hình khóa &amp; mật khẩu</string>
     <string name="second_space">Không gian thứ hai</string>
     <string name="xspace">Nhân bản ứng dụng</string>
-    <string name="call_settings_primary_user_only">Thay đổi cài đặt cuộc gọi trong không gian đầu tiên</string>
+    <string name="call_settings_primary_user_only">Thay đổi cài đặt cuộc gọi trong không gian thứ nhất</string>
     <string name="unlock_set_unlock_summary">Thiết lập khóa màn hình</string>
     <string name="lock_settings_picker_settings">Thiết lập khóa màn hình</string>
     <string name="lock_screen_unlock_show">Hiển thị ngay màn hình nhập mật khẩu</string>
@@ -3609,7 +3609,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="network_detail">Thông tin mạng %s</string>
     <string name="connected_wifi">Đã kết nối</string>
     <string name="lockpattern_recording_intro_header_second_space">Vẽ một hình mở khóa cho không gian thứ hai:</string>
-    <string name="lockpattern_pattern_same_with_owner">Nên đặt khác với mật khẩu không gian đầu tiên</string>
+    <string name="lockpattern_pattern_same_with_owner">Nên đặt khác với mật khẩu không gian thứ nhất</string>
     <string name="lockpattern_pattern_same_with_security_space">Nên đặt khác với mật khẩu không gian thứ hai</string>
     <string name="incoming_call_breathing_light_color_title">Màu đèn cuộc gọi</string>
     <string name="notification_breathing_light_color_title">Màu đèn thông báo</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Dịch vụ bảo mật</string>
+    <string name="app_name">Trình cắm dịch vụ bảo mật</string>
     <string name="ok_button">OK</string>
     <string name="cancel_button">Hủy</string>
     <string name="privacy_declare_dialog_title">Điều khoản Dịch vụ</string>
@@ -10,19 +10,19 @@
     <string name="miuishare_wechat_timeline_title">Khoảnh khắc Wechat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="network_not_available">Không thể kết nối mạng</string>
-    <string name="no_network_btn">Thử lại</string>
+    <string name="no_network_btn">Hãy thử lại</string>
     <string name="main_toolbar_purchase">Nạp tiền</string>
     <string name="usage_sorted_loading_text">Vui lòng chờ…</string>
-    <string name="month_report_activity_label">Báo cáo hàng tháng</string>
+    <string name="month_report_activity_label">Báo cáo tháng</string>
     <string name="month_report_disconnect_tip">Không thể kết nối mạng</string>
-    <string name="month_report_click_reconnect_network">Thử lại</string>
+    <string name="month_report_click_reconnect_network">Hãy thử lại</string>
     <string name="month_report_warning_dialog_title">Báo cáo bảo mật hàng tháng</string>
     <string name="month_report_warning_dialog_description">Để xem báo cáo hàng tháng, bật chức năng này trong Cài đặt của ứng dụng Bảo mật.</string>
     <string name="month_report_warning_dialog_positive">Bật</string>
     <string name="month_report_history_activity_label">Lịch sử báo cáo</string>
     <string name="month_report_result_share">Chia sẻ</string>
     <string name="month_report_share_img_fail">Không thể chia sẻ</string>
-    <string name="month_report_share_loading">Đang tải…</string>
+    <string name="month_report_share_loading">Vui lòng chờ…</string>
     <string name="month_report_network_dialog_title">Không thể nhận thông tin báo cáo</string>
     <string name="month_report_network_dialog_description">Cho phép ứng dụng này kết nối internet để lấy thông tin báo cáo?</string>
     <string name="month_report_network_dialog_positive">Cho phép</string>
@@ -36,5 +36,5 @@
     <string name="open_browser">Mở trong trình duyệt</string>
     <string name="title_share_link">Chia sẻ URL</string>
     <string name="pm_lable_name">Giới thiệu truy cập root</string>
-    <string name="pc_activity_title">Tối ưu hóa Pin</string>
+    <string name="pc_activity_title">Tối ưu Pin</string>
 </resources>

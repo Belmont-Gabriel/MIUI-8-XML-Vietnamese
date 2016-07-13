@@ -5,8 +5,8 @@
         <item quantity="one">%d tập tin</item>
     </plurals>
     <plurals name="first_space_notification_format">
-        <item quantity="other">%d thông báo trong không gian đầu tiên</item>
-        <item quantity="one">%d thông báo trong không gian đầu tiên</item>
+        <item quantity="other">%d thông báo trong không gian thứ nhất</item>
+        <item quantity="one">%d thông báo trong không gian thứ nhất</item>
     </plurals>
     <plurals name="second_space_notification_format">
         <item quantity="other">%d thông báo trong không gian thứ hai</item>

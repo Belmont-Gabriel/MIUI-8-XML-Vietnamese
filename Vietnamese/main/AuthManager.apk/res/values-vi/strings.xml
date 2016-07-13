@@ -91,7 +91,7 @@
     <string name="HIPS_Perm_ROOT_Desc">lấy quyền root</string>
     <string name="HIPS_Perm_ROOT_Hint">%1$s ứng dụng có quyền root</string>
     <string name="HIPS_Perm_Settings">Sửa cài đặt hệ thống</string>
-    <string name="HIPS_Perm_Settings_Desc">sửa cài đặt hệ thống</string>
+    <string name="HIPS_Perm_Settings_Desc">Sửa cài đặt hệ thống</string>
     <string name="HIPS_Perm_Settings_Hint">%1$s ứng dụng có thể sửa cài đặt hệ thống</string>
     <string name="HIPS_Perm_DisableKeyguard">Vô hiệu hóa màn hình khóa</string>
     <string name="HIPS_Perm_DisableKeyguard_Desc">Vô hiệu hóa màn hình khóa của bạn</string>
@@ -121,7 +121,7 @@
     <string name="HIPS_Perm_Calendar_Desc">Đọc lịch sự kiện của bạn</string>
     <string name="HIPS_Perm_Calendar_Hint">%1$s ứng dụng có thể đọc lịch sự kiện của bạn</string>
     <string name="HIPS_Perm_SystemAlert">Hiển thị cửa sổ pop-up</string>
-    <string name="HIPS_Perm_SystemAlert_Desc">hiển thị cửa sổ pop-up</string>
+    <string name="HIPS_Perm_SystemAlert_Desc">Hiển thị cửa sổ pop-up</string>
     <string name="HIPS_Perm_SystemAlert_Hint">%1$s ứng dụng có thể hiển thị cửa sổ pop-up</string>
     <string name="HIPS_Perm_Wakelock">Ngăn chặn thiết bị ngủ</string>
     <string name="HIPS_Perm_Wakelock_Desc">ngăn chặn thiết bị ngủ</string>
@@ -138,7 +138,7 @@
     <string name="HIPS_Perm_SMS_Access">Đọc tin nhắn SMS của bạn</string>
     <string name="HIPS_Perm_MMS_Access">Đọc tin nhắn đa phương tiện của bạn</string>
     <string name="HIPS_Perm_CallLog_Access">Đọc lịch sử cuộc gọi</string>
-    <string name="HIPS_Perm_Settings_Modify">sửa cài đặt hệ thống</string>
+    <string name="HIPS_Perm_Settings_Modify">Sửa cài đặt hệ thống</string>
     <string name="HIPS_Perm_Location_Source_Network">Xác định vị trí bằng cách sử dụng dữ liệu mạng</string>
     <string name="HIPS_Perm_Location_Source_GPS">Xác định chính xác vị trí của bạn bằng cách sử dụng GPS</string>
     <string name="HIPS_Perm_Location_Source_Cellular">Xác định vị trí bằng cách dùng trạm gốc</string>

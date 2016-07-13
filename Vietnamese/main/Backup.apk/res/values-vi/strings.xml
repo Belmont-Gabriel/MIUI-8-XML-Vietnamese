@@ -185,6 +185,7 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="guarded_mode_dialog_transfer_message">Không thể sử dụng Mi Mover khi ở chế độ Khách.</string>
     <string name="multi_user_mode_dialog_title">Bạn đang ở chế độ Đa người dùng</string>
     <string name="multi_user_mode_dialog_message">Không thể sử dụng Mi Mover ở chế độ Đa người dùng. Tắt chế độ Đa người dùng để tiếp tục.</string>
+	<string name="multi_user_mode_backup_message">Không thể sử dụng Sao lưu ở chế độ Đa người dùng. Tắt chế độ Đa người dùng để tiếp tục.</string>
     <string name="multi_select_title">Đã chọn %1$s</string>
     <string name="enable_encrypt_title">Mã hóa sao lưu</string>
     <string name="disable_encrypt_title">Tắt mã hóa</string>
@@ -229,7 +230,7 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="abort_backup_confirm">Sao lưu chưa hoàn tất. Dừng lại không?</string>
     <string name="feature_title_call_log">Lịch sử cuộc gọi</string>
     <string name="feature_title_mms">MMS</string>
-    <string name="feature_title_account">Tài khoản</string>
+    <string name="feature_title_account">Tài khoản Mi</string>
     <string name="summary_err_backup_encrypting">Đăng nhập vào Tài khoản Mi.</string>
     <string name="summary_err_restore_encrypting">Không thể khôi phục. Đảm bảo bản sao lưu này được tạo ra bằng Tài khoản Mi của bạn.</string>
     <string name="summary_err_backup_no_network">Không thể kết nối mạng</string>
