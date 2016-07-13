@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="lockscreen_magazine_title">Màn hình khóa hàng ngày</string>
+    <string name="lockscreen_magazine_title">Hình nền tạp chí</string>
     <string name="lockscreen_magazine_summary">Thể loại</string>
     <string name="lockscreen_magazine_system_title">Ngoại tuyến</string>
     <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
     <string name="theme_apply_failured">Không thể áp dụng, hãy thử lại sau</string>
     <string name="theme_applying">Đang áp dụng…</string>
-    <string name="app_name">Màn hình khóa hàng ngày</string>
+    <string name="app_name">Hình nền tạp chí</string>
     <string name="declaration_title">Điều khoản và Điều kiện</string>
-    <string name="declaration_lockscreen_title">Màn hình khóa hàng ngày</string>
+    <string name="declaration_lockscreen_title">Hình nền tạp chí</string>
     <string name="declaration">Nhận hình nền mới cho màn hình khóa miễn phí mỗi ngày.</string>
     <string name="cancel">Hủy</string>
     <string name="no_long_show">Không hiển thị lại</string>
@@ -30,4 +30,17 @@
     <string name="cancel_international">Hủy</string>
     <string name="summary_international">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
     <string name="wlan_download_cn">Cập nhật qua Wi-Fi</string>
+    <string name="sst_prov_enable_title">Bật hình nền tạp chí</string>
+    <string name="sst_prov_enable_desc">Nhận hình nền mới cho màn hình khóa thường xuyên</string>
+    <string name="sst_sti_title">Tần suất cập nhật</string>
+    <string name="sst_sti_desc">Đặt tần suất cập nhật hình nền</string>
+    <string name="sst_wifi_only_title">Cập nhật hình nền bằng dữ liệu di động</string>
+    <string name="sst_wifi_only_desc">Tắt tính năng này để tiết kiệm dữ liệu di động</string>
+    <string name="sst_favor_title">Yêu thích</string>
+    <string name="sst_favor_desc">Xem hình nền yêu thích</string>
+    <string name="sst_subscribe_title">Đăng ký của tôi</string>
+    <string name="sst_require_one_category_hint">Chọn ít nhất một thể loại</string>
+    <string name="sst_no_favor_wallpaper_hint">Không có hình nền trong Yêu thích</string>
+    <string name="sst_grid_view_select_all">Chọn tất cả</string>
+    <string name="sst_grid_view_unselect_all">Bỏ chọn tất cả</string>
 </resources>
