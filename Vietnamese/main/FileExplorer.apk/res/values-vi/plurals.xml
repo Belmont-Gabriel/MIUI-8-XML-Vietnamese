@@ -153,12 +153,12 @@
         <item quantity="many">%1$d video WeChat sắp hết hạn</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
-        <item quantity="zero">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
-        <item quantity="one">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
-        <item quantity="two">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
-        <item quantity="few">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
-        <item quantity="many">"%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?"</item>
+        <item quantity="other">%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?</item>
+        <item quantity="zero">%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?</item>
+        <item quantity="one">%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?</item>
+        <item quantity="two">%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?</item>
+        <item quantity="few">%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?</item>
+        <item quantity="many">%1$d video trong hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?</item>
     </plurals>
     <plurals name="file_notify_title_wechat_sticker">
         <item quantity="other">%1$d biểu tượng WeChat mới hôm nay</item>

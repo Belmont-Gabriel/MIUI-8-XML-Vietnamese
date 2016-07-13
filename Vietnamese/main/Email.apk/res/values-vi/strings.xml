@@ -3,18 +3,21 @@
     <string name="SMTP_independent_verification_text">Xác minh SMTP độc lập</string>
     <string name="SMTP_password_text">Mật khẩu</string>
     <string name="SMTP_username_text">Tên người dùng</string>
-    <string name="account_duplicate_dlg_message_fmt">Bạn đã sử dụng tên người dùng này cho tài khoản \"%s\".</string>
+    <string name="account_duplicate_dlg_message_fmt">"                Bạn đã sử dụng tên người dùng này cho tài khoản \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Tài khoản bị trùng</string>
     <string name="account_name_toast">Một tài khoản có cùng tên đã tồn tại</string>
     <string name="account_options_sync_title">Đồng bộ</string>
-    <string name="account_password_spaces_error">Mật khẩu này bắt đầu hoặc kết thúc với một hoặc nhiều khoảng trống. Nhiều máy chủ không hỗ trợ mật khẩu là dấu cách.</string>
-    <string name="account_security_dialog_content_fmt">%s yêu cầu bạn cập nhật cài đặt bảo mật.</string>
+    <string name="account_password_spaces_error">"Mật khẩu này bắt đầu hoặc kết thúc với một hoặc nhiều 
+      khoảng trống. Nhiều máy chủ không hỗ trợ mật khẩu là dấu cách."</string>
+    <string name="account_security_dialog_content_fmt">"%s yêu cầu bạn cập nhật cài đặt
+         bảo mật."</string>
     <string name="account_security_dialog_title">Cập nhật bảo mật</string>
-    <string name="account_security_policy_explanation_fmt">Máy chủ %s yêu cầu bạn cho phép kiểm soát từ xa một số tính năng bảo mật trên thiết bị Android của bạn.</string>
+    <string name="account_security_policy_explanation_fmt">"Máy chủ %s yêu cầu bạn cho phép kiểm soát từ xa một số tính năng 
+         bảo mật trên thiết bị Android của bạn."</string>
     <string name="account_security_title">Bảo mật thiết bị</string>
     <string name="account_set_up_change_type_note">Nếu bạn cần chuyển đổi giữa các cài đặt POP3 và IMAP, xóa tài khoản của bạn và tạo một tài khoản mới bằng cài đặt mong muốn của bạn.</string>
     <string name="account_settings_action">Cài đặt tài khoản</string>
-    <string name="account_settings_background_attachments_label">Tải xuống tập tin đính kèm</string>
+    <string name="account_settings_background_attachments_label">"        Tải xuống tập tin đính kèm"</string>
     <string name="account_settings_background_attachments_summary">Tải xuống tập tin đính kèm bằng Wi-Fi</string>
     <string name="account_settings_data_usage">Cài đặt đồng bộ</string>
     <string name="account_settings_description_label">Tên tài khoản</string>
@@ -23,7 +26,8 @@
     <string name="account_settings_enforced_label">Chính sách thực thi</string>
     <string name="account_settings_enforced_summary">Không</string>
     <string name="account_settings_incoming_summary">Cài đặt tên người dùng, mật khẩu và máy chủ khác</string>
-    <string name="account_settings_login_dialog_content_fmt">Tên người dùng hoặc mật khẩu cho %s không chính xác. Bạn có muốn cập nhật ngay bây giờ?</string>
+    <string name="account_settings_login_dialog_content_fmt">"Tên người dùng hoặc mật khẩu tài khoản %s không chính xác.
+ Cập nhật ngay?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Không thể đăng nhập vào tài khoản %s. Phản hồi máy chủ: %s</string>
     <string name="account_settings_login_dialog_title">Không thể đăng nhập</string>
     <string name="account_settings_mail_check_frequency_label">Tần suất</string>
@@ -58,19 +62,18 @@
     <string name="account_setup_basics_manual_setup_action">Thiết lập thủ công</string>
     <string name="account_setup_basics_password_label">Mật khẩu</string>
     <string name="account_setup_basics_title">Thêm tài khoản</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Đang xác nhận thiết lập máy chủ…</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Đang xác nhận thiết lập smtp…</string>
-    <string name="account_setup_check_settings_retr_info_msg">Đang lấy thông tin tài khoản…    </string>
+    <string name="account_setup_check_settings_check_incoming_msg">"    Đang xác nhận thiết lập máy chủ…"</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">"    Đang xác nhận thiết lập smtp…"</string>
+    <string name="account_setup_check_settings_retr_info_msg">"    Đang lấy thông tin tài khoản…    "</string>
     <string name="account_setup_correct_address_tips">Nhập địa chỉ email</string>
-    <string name="account_setup_creating_account_msg">Đang tạo tài khoản…</string>
-    <string name="account_setup_deleting_account_msg">Removing account…</string>
+    <string name="account_setup_creating_account_msg">"    Đang tạo tài khoản…"</string>
+    <string name="account_setup_deleting_account_msg">"    Đang xóa tài khoản…"</string>
     <string name="account_setup_exchange_certificate_title">Chứng nhận máy khách</string>
     <string name="account_setup_exchange_device_id_label">ID Thiết bị Di động</string>
     <string name="account_setup_exchange_no_certificate">Không</string>
-    <string name="account_setup_failed_auth_required">Phương thức xác thực không được hỗ trợ bởi máy chủ.</string>
     <string name="account_setup_failed_certificate_inaccessible">Chứng nhận không hợp lệ hoặc không thể truy cập.</string>
-    <string name="account_setup_failed_certificate_required">Chứng nhận máy khách được yêu cầu. Bạn có muốn kết nối đến máy chủ với chứng nhận máy khách?</string>
-    <string name="account_setup_failed_check_credentials_message">Máy chủ đã phản hồi lỗi. Kiểm tra tên người dùng và mật khẩu của bạn, sau đó thử lại.</string>
+    <string name="account_setup_failed_certificate_required">"Chứng nhận máy khách được yêu cầu. Bạn có muốn kết nối đến máy chủ với  chứng nhận máy khách?"</string>
+    <string name="account_setup_failed_check_credentials_message">"         Máy chủ đã phản hồi lỗi. Kiểm tra tên người dùng và mật khẩu của bạn, sau đó thử lại."</string>
     <string name="account_setup_failed_dlg_auth_message">Tên người dùng hoặc mật khẩu không chính xác.</string>
     <string name="account_setup_failed_dlg_bar_title">Cách đăng nhập vào %s</string>
     <string name="account_setup_failed_dlg_certificate_message">Không thể kết nối an toàn đến máy chủ.</string>
@@ -87,9 +90,9 @@
     <string name="account_setup_failed_dlg_todo2">Thiết lập tài khoản như hướng dẫn dưới đây</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Lỗi không xác định.</string>
     <string name="account_setup_failed_ioerror">Không thể mở kết nối đến máy chủ.</string>
-    <string name="account_setup_failed_protocol_unsupported">Bạn đã nhập một địa chỉ máy chủ không chính xác hoặc máy chủ yêu cầu một phiên bản giao thức mà Email không hỗ trợ.</string>
+    <string name="account_setup_failed_protocol_unsupported">Bạn đã nhập địa chỉ máy chủ không chính xác hoặc máy chủ yêu cầu một phiên bản giao thức mà Email không hỗ trợ.</string>
     <string name="account_setup_failed_security">Không thể mở kết nối đến máy chủ do lỗi bảo mật.</string>
-    <string name="account_setup_failed_security_policies_unsupported">Máy chủ này yêu cầu các tính năng bảo mật mà thiết bị Android của bạn không hỗ trợ, bao gồm: %s</string>
+    <string name="account_setup_failed_security_policies_unsupported">Máy chủ này yêu cầu các tính năng bảo mật mà thiết bị Android của bạn không hỗ trợ, bao gồm %s</string>
     <string name="account_setup_failed_tls_required">TLS đã yêu cầu nhưng không được hỗ trợ bởi máy chủ.</string>
     <string name="account_setup_failed_too_many_partnerships">Đăng nhập thất bại. Đã đạt đến giới hạn số lần kết nối tối đa cho phép đến máy chủ.</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Khi tôi xóa từ Thùng rác</string>
@@ -101,9 +104,9 @@
     <string name="account_setup_incoming_security_label">Loại bảo mật</string>
     <string name="account_setup_incoming_security_none_label">Không</string>
     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (chấp nhận tất cả chứng nhận)</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">"        SSL/TLS (chấp nhận tất cả chứng nhận)"</string>
     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (chấp nhận tất cả chứng nhận)</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">"        STARTTLS (chấp nhận tất cả chứng nhận)"</string>
     <string name="account_setup_incoming_server_label">Máy chủ</string>
     <string name="account_setup_incoming_username_label">Tên người dùng</string>
     <string name="account_setup_incoming_username_label_default_hint">Có thể bao gồm tên miền</string>
@@ -129,10 +132,12 @@
     <string name="account_setup_outgoing_port_label">Cổng</string>
     <string name="account_setup_outgoing_require_login_label">Yêu cầu đăng nhập</string>
     <string name="account_setup_outgoing_smtp_server_label">Máy chủ SMTP</string>
-    <string name="account_setup_security_policies_required_fmt">Máy chủ %s yêu cầu bạn cho phép kiểm soát từ xa một số tính năng bảo mật của thiết bị Android của bạn. Bạn có muốn hoàn tất các thiết lập tài khoản này không?</string>
+    <string name="account_setup_security_policies_required_fmt">"         Máy chủ %s yêu cầu bạn cho phép kiểm soát từ xa một số 
+         tính năng bảo mật của thiết bị Android của bạn. Bạn có muốn hoàn tất các thiết lập tài khoản
+         này không?"</string>
     <string name="account_setup_security_required_title">Quản trị bảo mật từ xa</string>
     <string name="account_setup_server_acc_manager_title">Tài khoản</string>
-    <string name="account_setup_username_password_toast">Nhập địa chỉ email và mật khẩu hợp lệ.</string>
+    <string name="account_setup_username_password_toast">"        Nhập địa chỉ email và mật khẩu hợp lệ."</string>
     <string name="account_sync_off">Đã tắt đồng bộ tài khoản.</string>
     <string name="account_waiting_for_folders_msg">Đang tải thư mục…</string>
     <string name="actionbar_large_unread_count">%1$d+ chưa đọc</string>
@@ -198,11 +203,11 @@
     <string name="bottom_bar_more_share">Chia sẻ</string>
     <string name="bottom_bar_no_quickreply_toast">Không trả lời nhanh</string>
     <string name="bytes">%s B</string>
-    <string name="calendar_remind_dialog_title">Reminder</string>
+    <string name="calendar_remind_dialog_title">Nhắc nhở</string>
     <string name="calendar_remind_gridview_pick_date">Chọn ngày</string>
     <string name="cancel">Hủy</string>
     <string name="cancel_action">Hủy</string>
-    <string name="cant_move_or_change_labels">Không thể chuyển do chứa nhiều tài khoản.</string>
+    <string name="cant_move_or_change_labels">Không thể di chuyển nội dung từ nhiều tài khoản.</string>
     <string name="cc">Cc</string>
     <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
@@ -211,9 +216,10 @@
     <string name="change_sync_settings">Thay đổi cài đặt đồng bộ</string>
     <string name="changepw_dialog_tips">Nhập lại mật khẩu tài khoản %s</string>
     <string name="chat_item_msg_people_unit">người</string>
+    <string name="chat_item_msg_user_etc">v.v.</string>
     <string name="chat_view_description">Tập hợp danh sách vào giao diện hội thoại</string>
     <string name="chat_view_title">Xem hội thoại</string>
-    <string name="check_setup_data">Đang xác nhận thiết lập máy chủ…</string>
+    <string name="check_setup_data">"    Đang xác nhận thiết lập máy chủ…"</string>
     <string name="choosertitle_sharevia">Chia sẻ qua</string>
     <string name="clear">Xóa</string>
     <string name="clear_display_images_whitelist_dialog_message">Dừng hiển thị các ảnh trực tiếp từ người gửi mà bạn đã cho phép trước đó.</string>
@@ -252,6 +258,7 @@
     <string name="contact_list_add_btn">Thêm</string>
     <string name="contact_list_search_hint">Tìm kiếm liên hệ</string>
     <string name="contact_list_title">Liên hệ</string>
+    <string name="contact_permission_error">Truy cập vào liên hệ điện thoại bị giới hạn</string>
     <string name="contact_select">Chọn liên hệ</string>
     <string name="content_description">%1$s về %2$s, %3$s vào %4$s, %5$s</string>
     <string name="content_description_today">%1$s về %2$s, %3$s vào %4$s, %5$s</string>
@@ -284,9 +291,6 @@
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Hôm nay, %1$s</string>
     <string name="default_">MẶC ĐỊNH</string>
-    <string name="default_exchange">CHUYỂN ĐỔI</string>
-    <string name="default_imap">IMAP</string>
-    <string name="default_pop3">POP3</string>
     <string name="default_setup">CÀI ĐẶT MẶC ĐỊNH</string>
     <string name="default_signature">Đã gửi từ điện thoại Mi của tôi</string>
     <string name="del_account_questionnair_hint">Bạn có thể cho chúng tôi biết lý do tại sao bạn xóa tài khoản này không?</string>
@@ -304,7 +308,9 @@
     <string name="dialog_gmail_proxy_server_is_error">Proxy máy chủ Gmail lỗi.</string>
     <string name="dialog_insufficient_space_on_external">Không thể tải xuống tập tin đính kèm. Bộ nhớ ngoài không đủ dung lượng.</string>
     <string name="dialog_insufficient_space_on_internal">Bộ nhớ trong không đủ dung lượng.</string>
-    <string name="disable_admin_warning">CẢNH BÁO: Tắt quyền ứng dụng Email để quản trị thiết bị sẽ xóa tất cả các tài khoản email được yêu cầu, cùng với nội dung email, liên hệ, lịch sự kiện, các dữ liệu khác.</string>
+    <string name="disable_admin_warning">"CẢNH BÁO: Tắt quyền ứng dụng Email
+         để quản trị thiết bị sẽ xóa tất cả các tài khoản email được yêu cầu
+         cùng với nội dung tin nhắn, liên hệ, sự kiện lịch, và các dữ liệu khác."</string>
     <string name="discard">Hủy</string>
     <string name="discard_drafts">Hủy thư nháp</string>
     <string name="dismiss_tip_hover_text">Bỏ qua chỉ dẫn</string>
@@ -328,6 +334,7 @@
     <string name="download_confirm_message">Tải xuống %1$s tập tin đính kèm?</string>
     <string name="download_confirm_title">Tải xuống tập tin đính kèm</string>
     <string name="download_message_failed_for_too_large">Thư quá lớn để có thể tải xuống.</string>
+    <string name="download_whole_email">Xem phần còn lại của tin nhắn</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Đóng bảng điều hướng</string>
     <string name="drawer_open">Mở bảng điều hướng</string>
@@ -341,15 +348,23 @@
     <string name="empty_spam_dialog_title">Xóa sạch Thư rác?</string>
     <string name="empty_trash">Xóa sạch Thùng rác</string>
     <string name="empty_trash_dialog_title">Xóa sạch Thùng rác?</string>
-    <string name="enable_sync_in_account_settings">Mở trong %1$s .</string>
-    <string name="enumeration_delimiter">" | "</string>
-    <string name="exception_cancel">Sự kiện này đã bị hủy vào: %s     </string>
-    <string name="exception_updated">Chi tiết sự kiện này đã được thay đổi vào: %s     </string>
+    <string name="enable_sync_in_account_settings">"Mở trong  %1$s ."</string>
+    <string name="exception_cancel">"
+        Sự kiện này đã bị hủy
+        vào:
+%s "</string>
+    <string name="exception_updated">"
+        Chi tiết sự kiện này đã được thay đổi
+        vào:
+%s "</string>
     <string name="exchange_name">Công ty</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">Mở rộng chi tiết người nhận</string>
     <string name="fail_get_email_message">Nhận email thất bại.</string>
     <string name="failed">Không thể tải ảnh</string>
+    <string name="failed_read_phone_state_permission">Cho phép truy cập trạng thái thiết bị</string>
+    <string name="failed_read_write_calendar_permission">Cho phép truy cập Lịch</string>
+    <string name="failed_read_write_contacts_permission">Cho phép truy cập Liên hệ</string>
     <string name="feedback">Gửi phản hồi</string>
     <string name="feedback_body">Thư</string>
     <string name="feedback_sent">Cảm ơn phản hồi của bạn</string>
@@ -360,7 +375,7 @@
     <string name="file_not_found">Không thể tìm thấy tập tin</string>
     <string name="file_not_found_redownload">Không thể tìm thấy tập tin</string>
     <string name="file_rar_not_support">Không hỗ trợ tập tin rar được mã hóa</string>
-    <string name="filtered_tag">[%1$s]%2$s</string>
+    <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="folder_list_display_all">Hiển thị tất cả thư mục</string>
     <string name="folder_list_display_only_import">Chỉ hiển thị các thư mục quan trọng</string>
     <string name="folder_picker_title">Chọn thư mục</string>
@@ -392,6 +407,7 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Đăng nhập vào Gmail</string>
     <string name="header_category_account">Tài khoản</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Phản hồi</string>
     <string name="header_label_general_preferences">Chung</string>
     <string name="help_and_info">Trợ giúp</string>
@@ -461,16 +477,39 @@
     <string name="mark_unread">Đánh dấu chưa đọc</string>
     <string name="me_object_pronun">tôi</string>
     <string name="me_subject_pronun">tôi</string>
-    <string name="meeting_accepted">Đã chấp nhận: %s</string>
-    <string name="meeting_allday">Khi: %s (cả ngày)     </string>
-    <string name="meeting_allday_recurring">Khi: %s (cả ngày, định kỳ)     </string>
-    <string name="meeting_canceled">Đã hủy: %s</string>
-    <string name="meeting_declined">Đã từ chối: %s</string>
-    <string name="meeting_recurring">Khi: %s (định kỳ)     </string>
-    <string name="meeting_tentative">Dự kiến: %s     </string>
-    <string name="meeting_updated">Đã cập nhật: %s     </string>
-    <string name="meeting_when">Khi: %s     </string>
-    <string name="meeting_where">Tại: %s     </string>
+    <string name="meeting_accepted">"
+        Đã chấp nhận:
+%s "</string>
+    <string name="meeting_allday">"
+        Khi:
+%s (cả ngày)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        Khi:
+%s (cả ngày, định kỳ)
+    "</string>
+    <string name="meeting_canceled">"
+        Đã hủy:
+%s "</string>
+    <string name="meeting_declined">"
+        Đã từ chối:
+%s "</string>
+    <string name="meeting_recurring">"
+        Khi:
+%s (định kỳ)
+    "</string>
+    <string name="meeting_tentative">"
+        Dự kiến:
+%s "</string>
+    <string name="meeting_updated">"
+        Đã cập nhật:
+%s "</string>
+    <string name="meeting_when">"
+        Khi:
+%s "</string>
+    <string name="meeting_where">"
+        Tại:
+%s "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Tập tin đính kèm</string>
     <string name="menu_att_mgr_order_default">Đã xem gần đây</string>
@@ -501,7 +540,7 @@
     <string name="message_invite_tentative">Có thể</string>
     <string name="message_invite_title">Lịch mời</string>
     <string name="message_saved">Thư đã được lưu dưới dạng tin nháp.</string>
-    <string name="message_view_attachment_background_load">Một hoặc nhiều đính kèm trong thư chuyển tiếp của bạn sẽ được tải về trước khi gửi.</string>
+    <string name="message_view_attachment_background_load">Đính kèm trong thư chuyển tiếp của bạn sẽ được tải xuống trước khi gửi.</string>
     <string name="mibill_privacy_policy_button1">Không đồng ý</string>
     <string name="mibill_privacy_policy_button2">Đồng ý</string>
     <string name="mibill_privacy_policy_description">Cho phép Mi Wallet phân tích và quản lý hóa đơn tự động. Tính năng này được tắt mặc định cho các địa chỉ email công việc.</string>
@@ -509,7 +548,6 @@
     <string name="mibill_privacy_policy_title">Quản lý hóa đơn tự động</string>
     <string name="more_atts_remaining">Còn lại hơn %1$d</string>
     <string name="more_context">Thêm</string>
-    <string name="more_string">+%1$s</string>
     <string name="move_to_selection_dialog_title">Chuyển sang thư mục khác</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Tắt tiếng</string>
@@ -522,7 +560,6 @@
     <string name="new_messages">%1$d thư mới</string>
     <string name="next_action">Tiếp theo</string>
     <string name="no">Không</string>
-    <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Không tìm thấy ứng dụng để mở tập tin đính kèm này.</string>
     <string name="no_application_found_title">Mở tập tin đính kèm này.</string>
     <string name="no_contacts">Không có liên hệ.</string>
@@ -569,11 +606,13 @@
     <string name="outbox_no_mails">Trống</string>
     <string name="parase_setup_data">Đang nhận dữ liệu…</string>
     <string name="password_expire_warning_content_title">Mật khẩu khóa màn hình hết hạn</string>
-    <string name="password_expire_warning_dialog_content_fmt">Bạn phải thay đổi PIN hoặc mật khẩu khóa màn hình của bạn sớm, hoặc các dữ liệu của %s sẽ bị xóa. Bạn muốn thay đổi ngay bây giờ không?</string>
+    <string name="password_expire_warning_dialog_content_fmt">"         Bạn phải thay đổi PIN hoặc mật khẩu khóa màn hình của bạn sớm, hoặc các dữ liệu của %s sẽ bị xóa. Bạn muốn thay đổi ngay bây giờ không?"</string>
     <string name="password_expire_warning_dialog_title">Mật khẩu khóa màn hình hết hạn</string>
-    <string name="password_expire_warning_ticker_fmt">\"%s\" yêu cầu bạn thay đổi mã PIN hoặc mật khẩu khóa màn hình.</string>
+    <string name="password_expire_warning_ticker_fmt">"\"%s\" yêu cầu bạn thay đổi mã
+            PIN hoặc mật khẩu khóa màn hình."</string>
     <string name="password_expired_content_title">Mật khẩu khóa màn hình đã hết hạn</string>
-    <string name="password_expired_dialog_content_fmt">Dữ liệu của %s đang được xóa từ thiết bị của bạn. Bạn có thể khôi phục lại bằng cách thay đổi mã PIN hoặc mật khẩu khóa màn hình . Bạn có muốn thay đổi ngay bây giờ?</string>
+    <string name="password_expired_dialog_content_fmt">"         Dữ liệu của %s đang được xóa từ thiết bị của bạn.
+          Bạn có thể khôi phục lại bằng cách thay đổi mã PIN hoặc mật khẩu màn hình khóa. Bạn có muốn thay đổi ngay bây giờ?"</string>
     <string name="password_expired_dialog_title">Mật khẩu khóa màn hình đã hết hạn</string>
     <string name="password_expired_ticker">Mã PIN hoặc mật khẩu khóa màn hình của bạn đã hết hạn.</string>
     <string name="perference_change_pw_notnull_tips">Nhập mật khẩu của bạn</string>
@@ -606,7 +645,7 @@
     <string name="policy_dont_allow_unsigned_apps">Không cho phép ứng dụng chưa đăng ký</string>
     <string name="policy_dont_allow_unsigned_installers">Không cho phép cài đặt ứng dụng chưa đăng ký</string>
     <string name="policy_dont_allow_wifi">Không cho phép Wi-Fi</string>
-    <string name="policy_email_age">Hạn chế số lượng email được đồng bộ</string>
+    <string name="policy_email_age">"Hạn chế số lượng email được đồng bộ "</string>
     <string name="policy_html_truncation">Giới hạn kích thước email HTML</string>
     <string name="policy_password_expiration">Đặt thời gian hết hạn cho mật khẩu</string>
     <string name="policy_password_history">Hạn chế sử dụng lại các mật khẩu gần đây</string>
@@ -657,8 +696,8 @@
     <string name="quick_4">Hãy tổ chức một cuộc họp để thảo luận về điều này.</string>
     <string name="quick_reply_dialog_title">Vui lòng chọn</string>
     <string name="quick_reply_hint">Trả lời tất cả %1$d người</string>
-    <string name="quick_reply_hint_bcc">"(BCC) "</string>
-    <string name="quick_reply_hint_cc">"(CC) "</string>
+    <string name="quick_reply_hint_bcc">(BCC)</string>
+    <string name="quick_reply_hint_cc">(CC)</string>
     <string name="quick_responses_empty_view">Không có trả lời nhanh</string>
     <string name="quoted_text">Bao gồm văn bản trích dẫn</string>
     <string name="quoted_text_label">Văn bản trích dẫn</string>
@@ -676,7 +715,7 @@
     <string name="remote_search_result">%s kết quả trên máy chủ</string>
     <string name="remove_account">Xóa tài khoản</string>
     <string name="remove_folder">Xóa khỏi %1$s</string>
-    <string name="remove_star">Bỏ yêu thích</string>
+    <string name="remove_star">Hủy yêu thích</string>
     <string name="reply">Trả lời</string>
     <string name="reply_add_bodycontent">Thêm trả lời nhanh đến nội dung thư?</string>
     <string name="reply_all">Trả lời tất cả</string>
@@ -684,7 +723,7 @@
     <string name="report_phishing">Báo cáo lừa đảo</string>
     <string name="report_spam">Báo cáo thư rác</string>
     <string name="request_entity_large">Tập tin quá lớn</string>
-    <string name="respond_inline">Phản hồi trực tiếp</string>
+    <string name="respond_inline">"   Phản hồi trực tiếp"</string>
     <string name="save_action">Lưu</string>
     <string name="save_attachment">Lưu</string>
     <string name="save_draft_failed">Lưu thư nháp thất bại</string>
@@ -694,18 +733,22 @@
     <string name="saving">Đang lưu…</string>
     <string name="sdcard_cannot_use">Không thể dùng thẻ SD</string>
     <string name="search_hint">Tìm thư</string>
-    <string name="search_result">Kết quả</string>
+    <string name="search_result">"Kết quả "</string>
     <string name="search_tabs_name_all">Tất cả</string>
     <string name="search_tabs_name_recipient">Người nhận</string>
     <string name="search_tabs_name_sender">Người gửi</string>
     <string name="search_tabs_name_subject">Chủ đề</string>
     <string name="search_txt_size_limit_prompt">Từ tìm kiếm phải lớn hơn 3 ký tự</string>
-    <string name="security_changed_ticker_fmt">Tài khoản \"%s\" đã thay đổi cài đặt bảo mật, không có hành động người dùng được yêu cầu.</string>
-    <string name="security_needed_ticker_fmt">Tài khoản \"%s\" yêu cầu cập nhật cài đặt bảo mật.</string>
-    <string name="security_notification_content_change_title">Chính sách bảo mật đã thay đổi</string>
-    <string name="security_notification_content_unsupported_title">Chính sách bảo mật không thể được đáp ứng</string>
+    <string name="security_changed_ticker_fmt">"           Tài khoản \"%s\" đã thay đổi cài đặt bảo mật, không có hành động
+            người dùng được yêu cầu."</string>
+    <string name="security_needed_ticker_fmt">"            Tài khoản \"%s\" yêu cầu cập nhật cài đặt bảo mật."</string>
+    <string name="security_notification_content_change_title">"Chính sách bảo mật
+         đã thay đổi"</string>
+    <string name="security_notification_content_unsupported_title">"Yêu cầu bảo mật không thể được
+         đáp ứng"</string>
     <string name="security_notification_content_update_title">Yêu cầu cập nhật bảo mật</string>
-    <string name="security_unsupported_ticker_fmt">Tài khoản \"%s\" không thể đồng bộ được do yêu cầu bảo mật.</string>
+    <string name="security_unsupported_ticker_fmt">"            Tài khoản \"%s\" không thể đồng bộ được do yêu cầu
+    bảo mật."</string>
     <string name="select_attachment_type">Chọn tập tin đính kèm từ</string>
     <string name="select_no_file">Không có tập tin đính kèm nào được chọn</string>
     <string name="selected_lable">Đã chọn</string>
@@ -772,7 +815,9 @@
     <string name="too_large_to_attach_single">Không thể đính kèm tập tin lớn hơn %1$s.</string>
     <string name="trash_folder_selection_title">Chọn thư mục thùng rác cho %s</string>
     <string name="try_exchange_login">Đăng nhập bằng EXCHANGE</string>
-    <string name="turn_auto_sync_on_dialog_body">Thay đổi bạn thực hiện cho tất cả các ứng dụng và tài khoản, không chỉ là Gmail, sẽ được đồng bộ giữa các trang web, các thiết bị khác và %1$s của bạn.</string>
+    <string name="turn_auto_sync_on_dialog_body">"Thay đổi bạn thực hiện cho 
+    tất cả các ứng dụng và tài khoản, không chỉ là Gmail, sẽ được đồng bộ 
+    giữa các trang web, các thiết bị khác và %1$s của bạn."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Bật</string>
     <string name="turn_auto_sync_on_dialog_title">Mở tự động đồng bộ?</string>
     <string name="undo">Hoàn tác</string>
@@ -786,7 +831,7 @@
     <string name="upload_log_failed">Gửi nhật ký thất bại</string>
     <string name="upload_log_no">Hủy</string>
     <string name="upload_log_success">Đã gửi thành công, chúng tôi sẽ phản hồi bạn sớm.</string>
-    <string name="upload_log_title">Gửi nhật ký để giúp đỡ chúng tôi cải thiện Thư WPS</string>
+    <string name="upload_log_title">Gửi nhật ký lỗi để giúp chúng tôi cải thiện Email</string>
     <string name="upload_log_yes">Gửi</string>
     <string name="uploading_logs">Vui lòng chờ…</string>
     <string name="validation_failed_prompt">Không thể xác minh tài khoản, kiểm tra cài đặt máy chủ %s</string>
@@ -798,6 +843,8 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="widget_all_mail">Tất cả Email</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Khác</string>
+    <string name="wipe_account_fail_description">Cho phép</string>
+    <string name="wipe_account_fail_title">Không thể xóa thông tin cá nhân</string>
     <string name="wrong_password">Mật khẩu bạn nhập không chính xác</string>
     <string name="yes">Đồng ý</string>
     <string name="yidianzixun">Yi Dian Zixun</string>

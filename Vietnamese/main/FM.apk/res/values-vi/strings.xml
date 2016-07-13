@@ -60,4 +60,8 @@
     <string name="txt_divider">" | "</string>
     <string name="group_favor">Đặt trước</string>
     <string name="group_other">Khác</string>
+    <string name="using_recorder_dialog_title">Yêu cầu cấp phép</string>
+    <string name="using_recorder_dialog_message">Radio cần truy cập dịch vụ ghi âm thiết bị của bạn để làm việc bình thường.</string>
+    <string name="using_recorder_confirm">Cho phép</string>
+    <string name="using_recorder_cancel">Từ chối</string>
 </resources>

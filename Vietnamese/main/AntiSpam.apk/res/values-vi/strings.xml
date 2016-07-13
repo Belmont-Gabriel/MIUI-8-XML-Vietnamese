@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Danh sách chặn</string>
     <string name="fw_blocked">Danh sách chặn</string>
-    <string name="fw_blocked_count">Đã chặn</string>
+    <string name="fw_blocked_count">"Đã chặn "</string>
     <string name="fw_blocked_join">" và "</string>
     <string name="tab_title">Chống thư rác</string>
     <string name="tab_block_log">Nhật ký chặn</string>
@@ -181,6 +181,7 @@
     <string name="Call_DEFAULT">Chặn thông minh</string>
     <string name="PAST_BLOCK">Đã chặn trước đây</string>
     <string name="STRANGER_BLOCK">Chặn người lạ</string>
+    <string name="MALICIOUS_URL">URL độc hại</string>
     <string name="AD_AntiSpam">Chặn quảng cáo</string>
     <string name="AD_SCANNING">Đang quét…</string>
     <string name="AD_BLOCK_ALL">Chặn tất cả</string>
@@ -281,16 +282,16 @@
     <string name="block_message_number">SMS: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="block_phone_number">Cuộc gọi: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="info_antispam_close">Chống thư rác tắt</string>
-    <string name="mark_fraud">Lừa đảo</string>
-    <string name="mark_agent">Trung gian</string>
-    <string name="mark_sell">Bán hàng</string>
-    <string name="mark_harass">Làm phiền</string>
-    <string name="mark_fraud_block">Đã đánh dấu là lừa đảo</string>
-    <string name="mark_agent_block">Đã đánh dấu là trung gian</string>
-    <string name="mark_sell_block">Đã đánh dấu là bán hàng</string>
-    <string name="mark_harass_block">Đã đánh dấu là làm phiền</string>
+    <string name="mark_fraud">Chặn số được báo cáo là lừa đảo</string>
+    <string name="mark_agent">Chặn số được báo cáo là môi giới</string>
+    <string name="mark_sell">Chặn số điện thoại bị báo cáo là bán hàng</string>
+    <string name="mark_harass">Chặn số được báo cáo là làm phiền</string>
+    <string name="mark_fraud_block">Đã báo cáo là lừa đảo</string>
+    <string name="mark_agent_block">Đã báo cáo là môi giới</string>
+    <string name="mark_sell_block">Đã báo cáo là bán hàng</string>
+    <string name="mark_harass_block">Đã báo cáo là làm phiền</string>
     <string name="mark_fraud_block_large">Lừa đảo</string>
-    <string name="mark_agent_block_large">Trung gian</string>
+    <string name="mark_agent_block_large">Môi giới</string>
     <string name="mark_sell_block_large">Bán hàng</string>
     <string name="mark_harass_block_large">Làm phiền</string>
     <string name="mark_number_info">Chú ý rằng đôi khi những cuộc gọi có thể hữu ích với bạn (ví dụ như khi bạn thực sự muốn tìm thuê một căn hộ). Chỉ chặn số điện thoại mà bạn không muốn nhận mọi cuộc gọi.</string>
@@ -307,8 +308,8 @@
     <string name="repeated_marked_number_title">Không chặn cuộc gọi được lặp lại từ số điện thoại bị báo cáo</string>
     <string name="repeated_marked_number_summary">Không chặn cuộc gọi thứ hai từ cùng một số bị báo cáo trong vòng 3 phút</string>
     <string name="mark_fraud_time_setting">Hạn chế số lần báo cáo số điện thoại lừa đảo</string>
-    <string name="mark_agent_time_setting">Chặn số điện thoại được báo cáo là số điện thoại trung gian sau số lần cụ thể</string>
-    <string name="mark_sell_time_setting">Chặn số điện thoại được báo cáo là số điện thoại bán hàng sau số lần cụ thể</string>
+    <string name="mark_agent_time_setting">Hạn chế số lần báo cáo số điện thoại môi giới</string>
+    <string name="mark_sell_time_setting">Hạn chế số lần báo cáo số điện thoại bán hàng</string>
     <string name="mark_harass_time_setting">Hạn chế số lần báo cáo số điện thoại làm phiền</string>
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Số lần báo cáo</string>
@@ -342,4 +343,5 @@
     <string name="website">Trang web</string>
     <string name="address">Địa chỉ</string>
     <string name="note">Ghi chú</string>
+    <string name="antispam_xpace_text">Chuyển sang Không gian thứ nhất để thiết lập Danh sách chặn</string>
 </resources>
