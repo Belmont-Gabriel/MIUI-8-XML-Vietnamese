@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Drop</string>
+    <string name="hello_world">Xin chào!</string>
     <string name="action_settings">Cài đặt</string>
     <string name="Start">Bắt đầu</string>
     <string name="Stop">Dừng</string>
@@ -61,7 +62,7 @@
     <string name="notif_receive_progress">Đang nhận %1$s tập tin…</string>
     <string name="notif_receive_cancel">%1$s tập tin không được chuyển</string>
     <string name="notif_receive_success">%1$s đã nhận</string>
-    <string name="notif_receive_lockscreen">Chạm để xem chi tiết</string>
+    <string name="notif_receive_lockscreen">Nhấn để xem chi tiết</string>
     <string name="sender_in_progress_title">Hủy chuyển?</string>
     <string name="sender_in_progress_later">Thử lại sau</string>
     <string name="receiver_in_progress_title">Đang gửi…</string>
@@ -84,8 +85,9 @@
     <string name="intro_midrop">Mi Drop</string>
     <string name="intro_page1_text1">Chia sẻ tập tin với thiết bị lân cận</string>
     <string name="intro_page1_text2">Nay mọi thứ thật dễ dàng</string>
-    <string name="intro_page2_click_to_send">Chạm \"Chia sẻ\"</string>
-    <string name="intro_page2_choose_files">Chọn tập tin và chạm \"Chia sẻ\"</string>
+    <string name="intro_page2_click_to_send">Nhấn \"Gửi\"</string>
+    <string name="intro_page2_choose_files">Chọn tập tin và nhấn \"Gửi\"</string>
     <string name="intro_page3_choose_midrop">Chọn \"Mi Drop\"</string>
     <string name="intro_page3_choose_midrop2">Tập tin sẽ được gửi ngay!</string>
+    <string name="runtime_permission_ungranted">Không thể sử dụng Mi Drop bởi vì không được cấp quyền</string>
 </resources>

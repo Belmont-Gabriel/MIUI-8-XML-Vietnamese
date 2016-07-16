@@ -183,6 +183,7 @@
     <string name="title_show_sms_template">Kiểm tra SMS để lấy mã xác mình</string>
     <string name="pref_show_sms_template_summary">Tự động sao chép và điền mã xác minh</string>
     <string name="sp_mark_as_read_title">Đánh dấu tất cả là đã đọc</string>
+    <string name="message_list_all_read">Đánh dấu tất cả là đã đọc</string>
     <string name="pref_key_mx_feedback">Phản hồi</string>
     <string name="pref_summary_mx_feedback">Báo cáo lỗi và gửi phản hồi</string>
     <string name="feedback_description_hint">Viết phản hồi của bạn tại đây</string>
@@ -238,6 +239,7 @@
     <string name="message_block_confirmation">Chặn tin nhắn từ tài khoản này?</string>
     <string name="current_service_number">Số dịch vụ hiện tại</string>
     <string name="menu_more_service">Thêm</string>
+    <string name="app_name">Mi Pub</string>
     <string name="low_memory">"Bộ nhớ thiết bị quá thấp"</string>
     <string name="scan_result">Kết quả</string>
 </resources>

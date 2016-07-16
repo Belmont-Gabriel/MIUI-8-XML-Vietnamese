@@ -191,7 +191,7 @@
     <string name="jeejen_reject_call_text">Từ chối</string>
     <string name="jeejen_end_call_text">Kết thúc cuộc gọi</string>
     <string name="jeejen_toggle_dialpad_text">Bàn phím</string>
-    <string name="miprofile_stranger_card">Không xác định</string>
+    <string name="miprofile_stranger_card">Danh thiếp người lạ</string>
     <string name="card_title_video_call_paused">Video đã tạm dừng</string>
     <string name="card_title_incoming_conference_call">Cuộc gọi hội nghị</string>
     <string name="video_switch_to_voice_call_prompt">Chuyển sang cuộc gọi thoại</string>
@@ -215,13 +215,16 @@
     <string name="conference_callers_exceeded">Số người tham dự đã đạt đến giới hạn</string>
     <string name="call_button_tools_text">Công cụ</string>
     <string name="call_button_dialer_text">Bàn phím</string>
-    <string name="select_audio_dialog_title">Vui lòng chọn chế độ trả lời</string>
+    <string name="select_audio_dialog_title">Chọn chế độ trả lời</string>
     <string name="incoming_circle_text_reject_p">Trượt lên</string>
     <string name="incoming_circle_text_reject">Thả ra</string>
     <string name="incoming_circle_text_answer_p">Trượt lên</string>
     <string name="incoming_circle_text_answer">Thả ra</string>
     <string name="incoming_circle_text_message_p">Trượt lên</string>
     <string name="incoming_circle_text_message">Thả ra</string>
+    <string name="alert_dialog_yes">Có</string>
+    <string name="alert_dialog_no">Không</string>
+    <string name="alert_dialog_dismiss">Bỏ qua</string>
     <string name="call_self">Không thể gọi số của mình</string>
     <string name="dial_with_gsm_phone">Cuộc gọi thông thường</string>
     <string name="purchase_now">Nạp tiền</string>

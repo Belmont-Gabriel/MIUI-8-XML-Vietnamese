@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="livetalk_setting">Gói tùy chọn</string>
-    <string name="purchase">Nạp tiền</string>
     <string name="purchase_list">Lịch sử mua hàng</string>
     <string name="sim_card_activate">Kích hoạt thẻ SIM</string>
     <string name="sim_card_summary_no_sim_card">Vui lòng gắn thẻ SIM</string>
@@ -15,15 +14,12 @@
     <string name="ensure_info">Có</string>
     <string name="left_minutes">phút</string>
     <string name="loading">Vui lòng chờ…</string>
-    <string name="loading_product">Vui lòng chờ…</string>
     <string name="loading_order">Vui lòng chờ…</string>
     <string name="get_product_list_failed">Không thể tải danh sách</string>
     <string name="send_order_failed">Không thể gửi đơn đặt hàng</string>
     <string name="purchase_limit">Bạn đã vượt giới hạn số lần nạp tiền</string>
     <string name="error_type_network">Lỗi mạng</string>
-    <string name="important_attention">Chú ý</string>
-    <string name="order_price">%1$s NDT</string>
-    <string name="livetalk_name">Gói tùy chọn</string>
+    <string name="order_price">%1$s Tệ</string>
     <string name="unable_dial_livetalk">Không thể hoàn tất cuộc gọi</string>
     <string name="dialog_call_ordinary_telephone">Dùng SIM</string>
     <string name="can_not_call_self">Không thể quay số của chính bạn</string>
@@ -38,25 +34,32 @@
     <string name="dialog_activate_livetalk">Xác minh</string>
     <string name="livetalk_white_list_number_title">Thực hiện cuộc gọi thông thường</string>
     <string name="livetalk_add_white_list_info">Thêm số điện thoại để quay số trực tiếp.</string>
-    <string name="livetalk_service_and_short_number_not_support">Số dịch vụ và số điện thoại rút gọn không được hỗ trợ.</string>
     <string name="livetalk_activate">Kích hoạt gói tùy chọn</string>
     <string name="do_not_ask">Không hỏi lại</string>
     <string name="livetalk_package_name">Sử dụng gói tùy chọn</string>
-    <string name="livetalk_package_introduction_text">"Thực hiện cuộc gọi giá rẻ
-Nạp tiền và bắt đầu ngay"</string>
     <string name="livetalk_welcome_description_text">"• Tiết kiệm 70% chi phí cuộc gọi.
 • Gọi bất kỳ số điện nào trên thế giới và không giới hạn nhà mạng.
 • Bạn chỉ cần nạp tiền và gọi thôi."</string>
     <string name="livetalk_welcome_notes_text">Chú ý: Mỗi cuộc gọi sử dụng 1KB dữ liệu di động; Số điện thoại dịch vụ và rút gọn không được hỗ trợ. Nếu bạn trả tiền cho cuộc gọi đến, bạn có thể sẽ bị tính phí bởi nhà mạng khi chuyển vùng. Nhà mạng có thể tính phí một tin nhắn SMS được sử dụng để xác minh số điện thoại này.</string>
     <string name="livetalk_continue_button">Sử dụng</string>
     <string name="livetalk_continue_button_creat_account">Tạo tài khoản</string>
-    <string name="setting_activate_domestic_title">Cuộc gọi trong nước</string>
-    <string name="setting_activate_international_title">Cuộc gọi quốc tế</string>
+    <string name="livetalk_name">Gói tùy chọn</string>
+    <string name="livetalk_package_introduction_text">"Thực hiện cuộc gọi giá rẻ
+Nạp tiền và bắt đầu ngay"</string>
+    <string name="remain_mins_unit">phút</string>
+    <string name="remain_mins_domestic">Còn lại (trong nước)</string>
+    <string name="remain_mins_international">Còn lại (quốc tế)</string>
+    <string name="remain_mins_divider">hoặc</string>
+    <string name="purchase_notes">Chú ý: Bạn có thể sử dụng cho cuộc gọi quốc tế. Số tiền phải trả 1 phút cho cuộc gọi quốc tế tương đương với 6 phút cho cuộc gọi trong nước.</string>
+    <string name="loading_product">Vui lòng chờ…</string>
+    <string name="livetalk_provision"><b>Điều khoản Dịch vụ</b></string>
+    <string name="important_attention">Chú ý</string>
+    <string name="use_range">Phạm vi sử dụng</string>
+    <string name="livetalk_creat_account_fialed">Lỗi tài khoản</string>
     <string name="livetalk_introduction_text">Thực hiện cuộc gọi quốc tế với giá rẻ</string>
+    <string name="livetalk_before_provision">Tôi đã đọc và chấp nhận</string>
     <string name="livetalk_common_problem">Câu hỏi thường gặp</string>
     <string name="livetalk_provision_title">Điều khoản Dịch vụ</string>
-    <string name="livetalk_before_provision">Tôi đã đọc và chấp nhận</string>
-    <string name="livetalk_provision"><b>Điều khoản Dịch vụ</b></string>
     <string name="livetalk_experience_button">Thử ngay</string>
     <string name="livetalk_activate_number">Xác minh thẻ SIM</string>
     <string name="livetalk_activate_number_1">Xác minh SIM 1</string>
@@ -66,7 +69,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="livetalk_network_confirm_summary">Gói tùy chọn sử dụng 1KB dữ liệu di động mỗi khi cuộc gọi được kết nối.</string>
     <string name="livetalk_next_step">Tiếp theo</string>
     <string name="livetalk_last_step">Quay lại</string>
-    <string name="livetalk_creat_account_fialed">Lỗi tài khoản</string>
     <string name="quickly_verify">Xác minh</string>
     <string name="verifying">Đang xác minh…</string>
     <string name="verified">Đã xác minh</string>
@@ -83,11 +85,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="sim2_no_activated">Không thể xác minh thẻ SIM 2</string>
     <string name="sim_activated">Đã xác minh</string>
     <string name="sim_no_activated">Không thể xác minh thẻ SIM</string>
-    <string name="livetalk_nsufficient_balance">Số dư không đủ</string>
-    <string name="livetalk_charge_now">Nạp tiền</string>
-    <string name="livetalk_dial_direct">Quay số trực tiếp</string>
-    <string name="livetalk_sim_card_not_activated">Thẻ SIM này chưa được kích hoạt</string>
-    <string name="livetalk_activate_sim_card">Kích hoạt</string>
     <string name="title_user_config">Kích hoạt thẻ SIM</string>
     <string name="no_sim_card">Lắp thẻ SIM</string>
     <string name="verify_fialed">Không thể xác minh</string>
@@ -115,7 +112,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="chose_product_title">Gói tùy chọn</string>
     <string name="chose_product_summary">Gọi rẻ hơn</string>
     <string name="purchase_description_title">Giới thiệu</string>
-    <string name="purchase_notes">Chú ý: Bạn có thể sử dụng cho cuộc gọi quốc tế. Số tiền phải trả 1 phút cho cuộc gọi quốc tế tương đương với 6 phút cho cuộc gọi trong nước.</string>
     <string name="purchase_description_summary">"- Không hạn chế nhà mạng, bạn có thể gọi đến bất kỳ nơi đâu bạn muốn.
 - Không xung đột giữa dịch vụ này và các dịch vụ khác.
 - Chỉ cần nạp tiền và gọi.
@@ -124,7 +120,7 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="order_time">%1$s phút</string>
     <string name="order_id">ID đặt hàng: %1$s</string>
     <string name="order_by_recent">Tần suất</string>
-    <string name="title_country">Nước</string>
+    <string name="title_country">Quốc gia và khu vực</string>
     <string name="title_rates">Phí</string>
     <string name="title_duration">Thời lượng</string>
     <string name="use_history">Lịch sử sử dụng</string>
@@ -132,13 +128,8 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="get_use_history_failed">Nhận lịch sử sử dụng thất bại</string>
     <string name="use_history_duration_min">%1$s phút</string>
     <string name="no_data">Không có dữ liệu</string>
-    <string name="remain_mins_unit">phút</string>
-    <string name="remain_mins_domestic">Còn lại (trong nước)</string>
-    <string name="remain_mins_international">Còn lại (quốc tế)</string>
-    <string name="remain_mins_divider">hoặc</string>
     <string name="query">Truy vấn</string>
     <string name="other">Khác</string>
-    <string name="use_range">Phạm vi sử dụng</string>
     <string name="top_up_first">Nạp tiền trước</string>
     <string name="livetalk_complete_title">Bây giờ bạn có thể sử dụng gói tùy chọn để thực hiện cuộc gọi</string>
     <string name="livetalk_complete_introduction">Gói tùy chọn đã được thêm vào Tài khoản Mi của bạn và sẽ được dùng cho cuộc gọi tiếp theo.</string>
@@ -147,18 +138,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="livetalk_complete">Hoàn tất</string>
     <string name="livetalk_complete_name">Chuyển sang gói tùy chọn</string>
     <string name="livetalk_user_config_title">Xác minh số điện thoại</string>
-    <string name="wifi_call_setting">Cài đặt cuộc gọi qua Wi-Fi</string>
-    <string name="wifi_calling_title">Cuộc gọi qua Wi-Fi</string>
-    <string name="wifi_calling_summary">Bật cuộc gọi qua Wi-Fi và chọn Wi-Fi ưu tiên cho cuộc gọi qua Wi-Fi</string>
-    <string name="wifi_calling_preference_title">Cuộc gọi qua Wi-Fi ưu tiên</string>
-    <string name="wifi_calling_preference_dialog_title">Cuộc gọi qua Wi-Fi ưu tiên</string>
-    <string name="wifi_calling_preference_summary">Thay đổi cuộc gọi qua Wi-Fi ưu tiên</string>
-    <string name="ims_set_wifi_calling_preference_failed">Thiết lập cuộc gọi qua Wi-Fi ưu tiên thất bại</string>
-    <string name="wifi_pref_none">Không có ưu tiên nào được chọn</string>
-    <string name="wifi_preferred">Wi-Fi ưu tiên</string>
-    <string name="wifi_only">Chỉ Wi-Fi</string>
-    <string name="cellular_preferred">Mạng di động ưu tiên</string>
-    <string name="cellular_only">Chỉ mạng di động</string>
     <string name="sip_settings">Gọi qua internet</string>
     <string name="sip_accounts">Tài khoản gọi qua Internet (SIP)</string>
     <string name="sip_accounts_title">Tài khoản SIP</string>
@@ -196,7 +175,7 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="domain_address_title">Máy chủ</string>
     <string name="username_title">Tên người dùng</string>
     <string name="password_title">Mật khẩu</string>
-    <string name="display_name_title">Tên hiển thị</string>
+    <string name="display_name_title">Hiển thị tên</string>
     <string name="proxy_address_title">Địa chỉ proxy đi</string>
     <string name="port_title">Số cổng</string>
     <string name="transport_title">Loại truyền tải</string>
@@ -215,7 +194,7 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="no_wifi_available">Bạn cần phải kết nối Wi-Fi cho các cuộc gọi Internet (sử dụng các thiết lập không dây&amp; Mạng).</string>
     <string name="no_voip">Không hỗ trợ gọi qua Internet</string>
     <string name="sip_system_decide">Tự động</string>
-    <string name="sip_always_send_keepalive">Luôn luôn gửi</string>
+    <string name="sip_always_send_keepalive">Luôn gửi</string>
     <string name="sip_connection_service_label">Tính năng gọi điện SIP tích hợp sẵn</string>
     <string name="description_dialpad_overflow">Thêm tùy chọn</string>
     <string name="description_delete_button">phím xóa</string>
@@ -353,16 +332,16 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="phone_accounts_choose_accounts">Chọn tài khoản</string>
     <string name="phone_accounts_selection_header">Tài khoản điện thoại</string>
     <string name="phone_accounts_add_sip_account">Thêm tài khoản SIP</string>
-    <string name="phone_accounts_configure_account_settings">Định cấu hình cài đặt tài khoản</string>
-    <string name="phone_accounts_all_calling_accounts">Tất cả các tài khoản gọi</string>
-    <string name="phone_accounts_all_calling_accounts_summary">Chọn tài khoản có thể thực hiện cuộc gọi</string>
-    <string name="wifi_calling">Gọi qua Wi-Fi</string>
-    <string name="connection_service_default_label">Dịch vụ kết nối được tích hợp</string>
+    <string name="phone_accounts_configure_account_settings">Cấu hình cài đặt tài khoản</string>
+    <string name="phone_accounts_all_calling_accounts">Tất cả tài khoản cuộc gọi</string>
+    <string name="phone_accounts_all_calling_accounts_summary">Chọn tài khoản gọi</string>
+    <string name="wifi_calling">Cuộc gọi Wi-Fi</string>
+    <string name="connection_service_default_label">Dịch vụ kết nối hệ thống</string>
     <string name="voicemail">Thư thoại</string>
     <string name="voicemail_settings_with_label">Thư thoại (%s)</string>
     <string name="voicemail_abbreviated">Thư thoại:</string>
     <string name="networks">Nhà cung cấp dịch vụ mạng</string>
-    <string name="cell_broadcast_settings">Phát sóng trong tình huống khẩn cấp</string>
+    <string name="cell_broadcast_settings">Phát sóng Khẩn cấp</string>
     <string name="call_settings">Điện thoại</string>
     <string name="additional_gsm_call_settings">Cài đặt bổ sung</string>
     <string name="additional_gsm_call_settings_with_label">Cài đặt bổ sung (%s)</string>
@@ -378,7 +357,7 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="labelCW">Cuộc gọi chờ</string>
     <string name="sum_cw_enabled">Trong khi gọi, thông báo cho tôi khi có cuộc gọi đến</string>
     <string name="sum_cw_disabled">Trong khi gọi, thông báo cho tôi khi có cuộc gọi đến</string>
-    <string name="call_forwarding_settings">Chuyển tiếp cuộc gọi</string>
+    <string name="call_forwarding_settings">Cài đặt chuyển tiếp cuộc gọi</string>
     <string name="call_forwarding_settings_with_label">Cài đặt chuyển tiếp cuộc gọi (%s)</string>
     <string name="labelCF">Chuyển tiếp cuộc gọi</string>
     <string name="labelCFU">Luôn chuyển tiếp cuộc gọi</string>
@@ -387,7 +366,7 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="sum_cfu_enabled">Chuyển tiếp tất cả cuộc gọi đến {0}</string>
     <string name="sum_cfu_enabled_no_number">Số không có</string>
     <string name="sum_cfu_disabled">Tắt</string>
-    <string name="set_time_period">Thiết lập khoảng thời gian</string>
+    <string name="set_time_period">Đặt thời gian</string>
     <string name="all_day">Cả ngày</string>
     <string name="time_interval_char">:</string>
     <string name="time_start">Từ</string>
@@ -452,8 +431,8 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="not_allowed">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
     <string name="connect_later">Không thể kết nối với mạng này ngay bây giờ. Hãy thử lại sau.</string>
     <string name="registration_done">Đã đăng ký trên mạng.</string>
-    <string name="sum_carrier_select">Chọn nhà cung cấp dịch vụ mạng</string>
-    <string name="sum_search_networks">Tìm kiếm tất cả mạng khả dụng</string>
+    <string name="sum_carrier_select">Chọn một nhà mạng</string>
+    <string name="sum_search_networks">Tìm tất cả các mạng có sẵn</string>
     <string name="select_automatically">Chọn tự động</string>
     <string name="sum_select_automatically">Tự động chọn mạng ưu tiên</string>
     <string name="register_automatically">Đăng ký tự động…</string>
@@ -465,7 +444,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="preferred_network_mode_wcdma_only_summary">Chế độ mạng ưu tiên: chỉ WCDMA</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Chế độ mạng ưu tiên: GSM/WCDMA</string>
     <string name="preferred_network_mode_cdma_summary">Chế độ mạng ưu tiên: CDMA</string>
-    <string name="preferred_network_mode_cdma_evdo_summary">Chế độ mạng ưu tiên: CDMA / EvDo</string>
+    <string name="preferred_network_mode_cdma_evdo_summary">Chế độ mạng ưu tiên: CDMA/EvDo</string>
     <string name="preferred_network_mode_cdma_only_summary">Chế độ mạng ưu tiên: chỉ CDMA</string>
     <string name="preferred_network_mode_evdo_only_summary">Chế độ mạng ưu tiên: chỉ EvDo</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Chế độ mạng ưu tiên: CDMA/EvDo/GSM/WCDMA</string>
@@ -476,8 +455,8 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Chế độ mạng ưu tiên: LTE/WCDMA</string>
     <string name="preferred_network_mode_lte_gsm_umts_summary">Chế độ mạng ưu tiên: LTE/GSM/UMTS</string>
     <string name="preferred_network_mode_lte_cdma_summary">Chế độ mạng ưu tiên: LTE/CDMA</string>
-    <string name="callFailed_incoming_cb_enabled">Đã cấm tất cả các cuộc gọi đến.</string>
-    <string name="callUnanswered_forwarded">Cuộc gọi được trả lời và chuyển tiếp</string>
+    <string name="callFailed_incoming_cb_enabled">Người dùng đã chặn tất cả cuộc gọi đến.</string>
+    <string name="callUnanswered_forwarded">Cuộc gọi chưa trả lời và chuyển tiếp</string>
     <string name="preferred_network_mode_td_scdma_only_summary">Chế độ mạng ưu tiên: chỉ TD-SCDMA</string>
     <string name="preferred_network_mode_td_scdma_wcdma_summary">Chế độ mạng ưu tiên: TD-SCDMA/WCDMA</string>
     <string name="preferred_network_mode_td_scdma_lte_summary">Chế độ mạng ưu tiên: TD-SCDMA/LTE</string>
@@ -488,8 +467,8 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Chế độ mạng ưu tiên: TD-SCDMA/GSM/WCDMA/LTE</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">Chế độ mạng ưu tiên: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Chế độ mạng ưu tiên: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
-    <string name="enhanced_4g_lte_mode_title">Chế độ 4G LTE tăng cường</string>
-    <string name="enhanced_4g_lte_mode_summary">Sử dụng dịch vụ LTE để cải tiến tính năng thoại và các phương thức giao tiếp khác (khuyến nghị)</string>
+    <string name="enhanced_4g_lte_mode_title">Chế độ LTE 4G tăng cường</string>
+    <string name="enhanced_4g_lte_mode_summary">Sử dụng dịch vụ LTE để cải thiện giọng nói và tính năng truyền thông khác (kiến nghị)</string>
     <string name="data_enabled">Dữ liệu di động</string>
     <string name="data_enable_summary">Bật truy cập dữ liệu qua mạng Di động</string>
     <string name="roaming">Chuyển vùng dữ liệu</string>
@@ -504,29 +483,29 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="call_barring_outgoing">Chặn cuộc gọi đi</string>
     <string name="call_barring_incoming">Chặn cuộc gọi đến</string>
     <string name="input_password">Nhập mật khẩu</string>
-    <string name="labelCbCancelAll">Hủy tất cả chặn cuộc gọi</string>
+    <string name="labelCbCancelAll">Tắt chặn cuộc gọi</string>
     <string name="psw_enter_old">Mật khẩu cũ</string>
     <string name="labelCbChangePassword">Đổi mật khẩu</string>
     <string name="psw_enter_new">Mật khẩu mới</string>
-    <string name="invalidPsw">Nhập mật khẩu của bạn (4-8 số)</string>
+    <string name="invalidPsw">Mã PIN bạn nhập không hợp lệ</string>
     <string name="psw_reenter_new">Nhập lại mật khẩu của bạn</string>
-    <string name="no_call_barring">Không có chặn cuộc gọi nào</string>
+    <string name="no_call_barring">Chặn cuộc gọi đã tắt</string>
     <string name="cb_psw_dont_match">Mật khẩu không khớp</string>
-    <string name="operation_successfully">Thao tác thành công!</string>
+    <string name="operation_successfully">Hoàn tất</string>
     <string name="throttle_data_usage">Sử dụng dữ liệu</string>
     <string name="throttle_current_usage">Dữ liệu được sử dụng trong thời gian hiện tại</string>
     <string name="throttle_time_frame">Thời gian sử dụng dữ liệu</string>
     <string name="throttle_rate">Chính sách tốc độ truyền dữ liệu</string>
     <string name="throttle_help">Tìm hiểu thêm</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) trong tổng số %3$s thời gian tối đa
-Thời gian tiếp theo bắt đầu sau %4$d ngày nữa (%5$s)"</string>
-    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) trong tổng số %3$s thời gian tối đa</string>
-    <string name="throttle_data_rate_reduced_subtext">"Đã vượt quá tối đa %1$s
-Tốc độ dữ liệu bị giảm xuống %2$d Kb/giây"</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ của chu kỳ đã qua
-Thời gian tiếp theo sẽ bắt đầu trong %2$d ngày (%3$s)"</string>
-    <string name="throttle_rate_subtext">Tốc độ dữ liệu bị giảm xuống %1$d Kb/s nếu vượt quá giới hạn sử dụng dữ liệu</string>
-    <string name="throttle_help_subtext">Thông tin thêm về chính sách sử dụng dữ liệu mạng di động của nhà cung cấp dịch vụ của bạn</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) của %3$s thời gian tối đa
+Thời gian tiếp theo bắt đầu trong %4$d ngày (%5$s)"</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) của %3$s thời gian tối đa</string>
+    <string name="throttle_data_rate_reduced_subtext">"%1$s vượt mức tối đa
+Tốc độ dữ liệu giảm xuống %2$d Kb/s"</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ của chu kỳ trôi qua
+Thời gian tiếp theo bắt đầu trong %2$d ngày (%3$s)"</string>
+    <string name="throttle_rate_subtext">Tốc độ dữ liệu giảm xuống %1$d Kb/s nếu dữ liệu sử dụng vượt quá giới hạn</string>
+    <string name="throttle_help_subtext">Thêm thông tin về chính sách sử dụng dữ liệu mạng di động của nhà mạng</string>
     <string name="cell_broadcast_sms">Tin nhắn quảng bá SMS</string>
     <string name="enable_disable_cell_bc_sms">Tin nhắn quảng bá SMS</string>
     <string name="cell_bc_sms_enable">Tin nhắn quảng bá SMS đã bật</string>
@@ -596,8 +575,8 @@ Thời gian tiếp theo sẽ bắt đầu trong %2$d ngày (%3$s)"</string>
     <string name="enable_disable_multi_category">Nhiều danh mục</string>
     <string name="multi_category_enable">Nhiều danh mục đã bật</string>
     <string name="multi_category_disable">Nhiều danh mục đã tắt</string>
-    <string name="network_lte">LTE (được khuyến nghị)</string>
-    <string name="network_4G">4G (được khuyến nghị)</string>
+    <string name="network_lte">LTE (kiến nghị)</string>
+    <string name="network_4G">4G (kiến nghị)</string>
     <string name="network_3G">3G</string>
     <string name="network_2G">2G</string>
     <string name="network_1x">1x</string>
@@ -610,8 +589,8 @@ Thời gian tiếp theo sẽ bắt đầu trong %2$d ngày (%3$s)"</string>
     <string name="cdma_subscription_dialogtitle">đăng ký</string>
     <string name="cdma_activate_device">Kích hoạt thiết bị</string>
     <string name="cdma_lte_data_service">Thiết lập dịch vụ dữ liệu</string>
-    <string name="carrier_settings_title">Cài đặt nhà cung cấp dịch vụ</string>
-    <string name="fdn">Số quay số định sẵn</string>
+    <string name="carrier_settings_title">Cài đặt nhà mạng</string>
+    <string name="fdn">Số quay định sẵn</string>
     <string name="fdn_with_label">Số gọi định sẵn (%s)</string>
     <string name="manage_fdn_list">Danh sách SQĐS</string>
     <string name="fdn_list_with_label">Danh sách SQĐS (%s)</string>
@@ -627,7 +606,7 @@ Thời gian tiếp theo sẽ bắt đầu trong %2$d ngày (%3$s)"</string>
     <string name="sum_fdn_change_pin">Đổi mã PIN để truy cập SQĐS</string>
     <string name="sum_fdn_manage_list">Quản lý danh sách Số quay số định sẵn</string>
     <string name="voice_privacy">Bảo mật bằng giọng nói</string>
-    <string name="voice_privacy_summary">Bật chế độ bảo mật tăng cường</string>
+    <string name="voice_privacy_summary">Bật chế độ tăng cường bảo mật</string>
     <string name="tty_mode_option_title">Chế độ TTY</string>
     <string name="tty_mode_option_summary">Đặt chế độ TTY</string>
     <string name="auto_retry_mode_title">Tự động thử lại</string>
@@ -992,8 +971,6 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="missed_call_notify_thrice">3 lần</string>
     <string name="missed_call_notify_five_times">5 lần</string>
     <string name="missed_call_notify_ten_times">10 lần</string>
-    <string name="incoming_video_show_pref_title">Hiển thị video hồ sơ người gọi</string>
-    <string name="incoming_video_show_pref_summary">Hiển thị video hồ sơ được thiết lập bởi người gọi. Để sử dụng tính năng này, cần bật danh thiếp trước.</string>
     <string name="call_forwarding_number_hint">Chuyển tiếp cuộc gọi đến</string>
     <string name="cfu_title">Luôn chuyển tiếp cuộc gọi</string>
     <string name="cfb_title">Chuyển tiếp khi bận</string>
@@ -1001,7 +978,6 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="cfnrc_title">Chuyển tiếp khi không thể kết nối</string>
     <string name="cfnry_title">Chuyển tiếp khi không trả lời</string>
     <string name="disable_all_cf">Tắt tất cả tính năng chuyển tiếp cuộc gọi</string>
-    <string name="call_settings_category">Cuộc gọi</string>
     <string name="connect_disconnect_vibrate_title">Rung khi cuộc gọi của bạn được trả lời</string>
     <string name="connect_disconnect_vibrate_summary">Rung khi người bạn gọi trả lời</string>
     <string name="connect_disconnect_vibrate_none">Không</string>
@@ -1183,7 +1159,7 @@ Thẻ SIM của bạn sẽ bị xóa sau lần thử không thành công nữa."
     <string name="pin2_lock_warning">"
 Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành công nữa."</string>
     <string name="puk2_label">Nhập mã PUK2</string>
-    <string name="pin_attempts">"Còn lại 
+    <string name="pin_attempts">"Còn lại
 %d lần thử."</string>
     <string name="pin_progress_set_icc_lock">Đang thiết lập trạng thái khóa ICC…</string>
     <string name="pin_progress_set_fdn_lock">Đang thiết lập trạng thái khóa SQĐS…</string>
@@ -1226,6 +1202,11 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="cmcc_ut_data_enable_prompt">Không thể kết nối bằng cách sử dụng mạng VoLTE. Bật kết nối dữ liệu di động của bạn bây giờ?</string>
     <string name="volte_switch_title">VoLTE đã bật</string>
     <string name="volte_switch_summary">Sử dụng VoLTE để cải thiện chất lượng âm thanh và cuộc gọi video</string>
+    <string name="cdma_alert_title">Thẻ UIM phải là mặc định</string>
+    <string name="cdma_alert_message">Nếu chọn thẻ khác làm mặc định cho sử dụng dữ liệu di động, bạn sẽ không thể sử dụng thẻ UIM China Telecom (trừ khi chuyển vùng).</string>
+    <string name="config_default_data_sim">Cài đặt</string>
+    <string name="got_it">Ok</string>
+    <string name="can_not_use_for_not_data_sim">(Không thể sử dụng: Phải được đặt làm SIM dữ liệu mặc định)</string>
     <string name="network_forbidden">%s (bị chặn)</string>
     <string name="network_settings_sel_sub">Cài đặt SUBS</string>
     <string name="summary_manage_subscriptions">Cài đặt Quản lý Mạng cho mỗi thuê bao</string>
@@ -1237,8 +1218,6 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="notification_missedCall_call_back">Gọi lại</string>
     <string name="notification_missedCall_message">Tin nhắn</string>
     <string name="incall_error_turn_off_airplane_mode">Tắt chế độ Máy bay</string>
-    <string name="incall_error_no_active_sim">Thẻ SIM chưa được kích hoạt</string>
-    <string name="incall_error_sim_deactive">Thẻ SIM không hoạt động</string>
     <string name="phone_numbers">Nhập Số Điện thoại</string>
     <string name="sub1LineNumber">Số Phụ 1:</string>
     <string name="sub2LineNumber">Số Phụ 2:</string>
@@ -1285,10 +1264,33 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="tty_mode_entries_hco">TTY HCO</string>
     <string name="tty_mode_entries_off">TTY Tắt</string>
     <string name="tty_mode_entries_vco">TTY VCO</string>
-    <string name="cdma_alert_title">Thẻ UIM phải là mặc định</string>
-    <string name="cdma_alert_message">Nếu chọn thẻ khác làm mặc định cho sử dụng dữ liệu di động, bạn sẽ không thể sử dụng thẻ UIM China Telecom (trừ khi chuyển vùng).</string>
-    <string name="config_default_data_sim">Cài đặt</string>
-    <string name="got_it">Ok</string>
-    <string name="can_not_use_for_not_data_sim">(Không thể sử dụng: Phải được đặt làm SIM dữ liệu mặc định)</string>
+    <string name="call_settings_category">Cuộc gọi</string>
+    <string name="incoming_video_show_pref_title">Hiển thị video hồ sơ người gọi</string>
+    <string name="incoming_video_show_pref_summary">Hiển thị video hồ sơ được thiết lập bởi người gọi. Để sử dụng tính năng này, cần bật danh thiếp trước.</string>
+    <string name="incall_error_no_active_sim">Thẻ SIM chưa được kích hoạt</string>
+    <string name="incall_error_sim_deactive">Thẻ SIM không hoạt động</string>
+    <string name="purchase">Nạp tiền</string>
+    <string name="livetalk_service_and_short_number_not_support">Số dịch vụ và số điện thoại rút gọn không được hỗ trợ.</string>
+    <string name="setting_activate_domestic_title">Cuộc gọi trong nước</string>
+    <string name="setting_activate_international_title">Cuộc gọi quốc tế</string>
     <string name="china_mobile">China Mobile</string>
+    <string name="livetalk_nsufficient_balance">Số dư không đủ</string>
+    <string name="livetalk_charge_now">Nạp tiền</string>
+    <string name="livetalk_dial_direct">Quay số trực tiếp</string>
+    <string name="livetalk_sim_card_not_activated">Thẻ SIM này chưa được kích hoạt</string>
+    <string name="livetalk_activate_sim_card">Kích hoạt</string>
+    <string name="wifi_call_setting">Cài đặt cuộc gọi qua Wi-Fi</string>
+    <string name="wifi_calling_title">Cuộc gọi qua Wi-Fi</string>
+    <string name="wifi_calling_summary">Bật cuộc gọi qua Wi-Fi và chọn Wi-Fi ưu tiên cho cuộc gọi qua Wi-Fi</string>
+    <string name="wifi_calling_preference_title">Cuộc gọi qua Wi-Fi ưu tiên</string>
+    <string name="wifi_calling_preference_dialog_title">Cuộc gọi qua Wi-Fi ưu tiên</string>
+    <string name="wifi_calling_preference_summary">Thay đổi cuộc gọi qua Wi-Fi ưu tiên</string>
+    <string name="ims_set_wifi_calling_preference_failed">Thiết lập cuộc gọi qua Wi-Fi ưu tiên thất bại</string>
+    <string name="wifi_pref_none">Không có ưu tiên nào được chọn</string>
+    <string name="wifi_preferred">Wi-Fi ưu tiên</string>
+    <string name="wifi_only">Chỉ Wi-Fi</string>
+    <string name="cellular_preferred">Mạng di động ưu tiên</string>
+    <string name="cellular_only">Chỉ mạng di động</string>
+    <string name="sim_useless">SIM không khả dụng</string>
+    <string name="no_number">Không có số điện thoại</string>
 </resources>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="path_soundrecorder_setting">Ứng dụng hệ thống/Ghi âm</string>
+    <string name="search_app">Ghi âm</string>
+    <string name="search_led_indicator">Thông báo màn hình khóa</string>
+    <string name="search_tip_rename">Đặt tên bản ghi thủ công</string>
+    <string name="search_led_indicator_prompt">Hiện thanh thông báo màu đỏ và nháy đèn báo khi khóa màn hình</string>
+    <string name="search_scenes">Loại ghi âm</string>
+    <string name="search_silent_mode">Im lặng khi ghi âm</string>
+    <string name="search_enable_earpiece_title">Sử dụng tai nghe để phát âm thanh</string>
+    <string name="search_quliaty_title">Chất lượng ghi âm</string>
     <string name="app_name">Ghi âm</string>
     <string name="recording">Đang ghi âm</string>
     <string name="recording_stopped">Đã dừng lại</string>
@@ -26,8 +35,10 @@
     <string name="no_file">Trống</string>
     <string name="alert_message_delete_record_title">Xóa ghi âm?</string>
     <string name="alert_message_delete_record">Xóa bản ghi âm đã chọn?</string>
+    <string name="share">Chia sẻ</string>
     <string name="rename">Đổi tên</string>
     <string name="delete">Xóa</string>
+    <string name="details">Chi tiết</string>
     <string name="deleting_message">Đang xóa…</string>
     <string name="rename_dialog_title">Đổi tên ghi âm</string>
     <string name="rename_duplicate">Một bản ghi có cùng tên đã tồn tại.</string>
@@ -82,6 +93,7 @@
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Gắn thẻ SD bây giờ</string>
     <string name="record_back_pressed_hint">Để dừng ghi âm, chạm phím Quay lại lần nữa</string>
+    <string name="record_mark_point">%s đánh dấu</string>
     <string name="record_quliaty_preference_title">Chất lượng ghi âm</string>
     <string name="cloud_record_tip">Đồng bộ ghi âm với Mi Cloud.</string>
     <string name="cloud_record_open">Đồng bộ ghi âm</string>
@@ -89,4 +101,41 @@
     <string name="cloud_status_full_dialog_msg">Lưu trữ Mi Cloud đã đầy, không thể đồng bộ ghi âm. Nâng cấp tài khoản của bạn để nhận thêm dung lượng lưu trữ.</string>
     <string name="cloud_status_full_dialog_cancel">Không phải bây giờ</string>
     <string name="cloud_status_full_dialog_ok">Nâng cấp</string>
+    <string name="text_btn_recording">Ghi âm</string>
+    <string name="text_btn_pause">Tạm dừng</string>
+    <string name="text_btn_play">Phát</string>
+    <string name="text_btn_mark">Đánh dấu</string>
+    <string name="text_btn_list">Bản ghi âm</string>
+    <string name="text_btn_complete">Dừng</string>
+    <string name="text_btn_recognize">Nhận biết</string>
+    <string name="text_btn_wave">Sóng âm</string>
+    <string name="text_finish">Xác nhận</string>
+    <string name="new_record_name">Ghi âm mới</string>
+    <string name="export_to_note">Xuất đến Ghi chú</string>
+    <string name="mark_point_list_title">Đánh dấu</string>
+    <string name="speech_recognition_running_tip">Đang chạy</string>
+    <string name="speech_recognition_complete">Hoàn tất</string>
+    <string name="invalid_argument">Tham số không hợp lệ</string>
+    <string name="playback_delete_records">Xóa ghi âm</string>
+    <string name="playback_share_records">Chia sẻ ghi âm</string>
+    <string name="recording_quality_high">Chất lượng cao</string>
+    <string name="recording_quality_standard">Chất lượng tiêu chuẩn</string>
+    <string name="recording_quality_low">Chất lượng kém</string>
+    <string name="share_dialog_title">Chia sẻ qua</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="record_list_category_title_format">MMMM yyyy</string>
+    <string name="recognition_error_stopped">Nhận dạng đã dừng</string>
+    <string name="recognition_error_cancel">Đã hủy</string>
+    <string name="recognition_error_format">Định dạng âm thanh không hợp lệ</string>
+    <string name="recognition_error_internal">Lỗi nội bộ</string>
+    <string name="recognition_error_engine">Công cụ nhận dạng lỗi</string>
+    <string name="recognition_error_engine_singleton">Công cụ nhận dạng bận</string>
+    <string name="recognition_error_download_title">Không có công cụ nhận dạng</string>
+    <string name="recognition_error_download_msg">Chức năng này cần tải xuống công cụ nhận dạng trước.</string>
+    <string name="recognition_error_download_ok">Tải xuống</string>
+    <string name="recognition_error_download_cancel">Để sau</string>
+    <string name="recognition_error_download_fail">Không thể tải xuống. Kiểm tra cài đặt mạng và thử lại.</string>
+    <string name="recognition_error_downloading">Đang tải xuống</string>
+    <string name="recognition_status_downloading">Đang tải xuống</string>
+    <string name="runtime_permission_ungranted">Không thể sử dụng Sao lưu Ghi âm bởi vì quyền cho phép</string>
 </resources>

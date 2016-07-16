@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="search_title_mms">Nhắn tin</string>
+    <string name="search_keyword_mms">Nhắn tin</string>
+    <string name="search_path_mms">Cài đặt/Ứng dụng hệ thống/Nhắn tin</string>
     <string name="pref_summary_manage_sim_messages">Quản lý tin nhắn được lưu trữ trên thẻ SIM của bạn</string>
     <string name="pref_title_manage_sim_messages">Dung lượng thẻ SIM</string>
     <string name="confirm_delete_all_SIM_messages">Xóa tất cả tin nhắn trên SIM?</string>
@@ -114,8 +117,8 @@
     <string name="pref_title_mms_delete">Giới hạn tin nhắn đa phương tiện</string>
     <string name="pref_messages_to_save">Thiết lập số lượng tin nhắn để lưu</string>
     <string name="pref_title_storage_status">Trạng thái lưu trữ tin nhắn</string>
-    <string name="pref_title_mms_auto_retrieval">Tự động tải xuống nội dung MMS</string>
-    <string name="pref_summary_mms_auto_retrieval">Tự động tải ảnh và video trong tin nhắn</string>
+    <string name="pref_title_mms_auto_retrieval">Tải xuống nội dung MMS tự động</string>
+    <string name="pref_summary_mms_auto_retrieval">Tải ảnh và video trong tin nhắn tự động</string>
     <string name="pref_title_mms_retrieval_during_roaming">Tải xuống nội dung MMS khi chuyển vùng</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Tự động tải ảnh và video trong tin nhắn khi chuyển vùng</string>
     <string name="to_label">"Tới "</string>
@@ -472,12 +475,12 @@
     <string name="show_sender">Hiển thị thông tin người gửi</string>
     <string name="call_sender">Gọi người gửi</string>
     <string name="file_share_message_description">Tôi muốn chia sẻ tập tin với bạn.</string>
-    <string name="addBlackList">Thêm vào danh sách chặn</string>
+    <string name="addBlackList">Chặn</string>
     <string name="confirm_add_blacklist_dialog_dspt">Thêm số này vào danh sách chặn của bạn?</string>
     <string name="batch_adding_progress_message">Đang thêm…</string>
     <string name="invalid_private_contact">Liên hệ không hợp lệ</string>
-    <string name="title_collapse_sp_messages">Nhóm nhà cung cấp tin nhắn</string>
-    <string name="pref_collapse_sp_messages_summary">Nhóm thông báo từ nhà cung cấp của bạn vào cùng chủ đề</string>
+    <string name="title_collapse_sp_messages">Nhóm thông báo</string>
+    <string name="pref_collapse_sp_messages_summary">Tự động nhóm thông báo SMS</string>
     <string name="sp_conversation_title">Thông báo</string>
     <string name="title_show_sms_template">Bật chức năng nhận biết thông minh</string>
     <string name="pref_show_sms_template_summary">Tự động sao chép và điền mã xác minh</string>
@@ -490,6 +493,7 @@
     <string name="sp_mark_as_read_title">Đánh dấu tất cả là đã đọc</string>
     <string name="sp_mark_as_read">Đánh dấu tất cả các tin nhắn là đã đọc?</string>
     <string name="sp_mark_as_read_progress">Đang tiến hành…</string>
+    <string name="sp_mark_as_read_menu_title">Đánh dấu là đã đọc</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">Tất cả các tin nhắn dịch vụ</string>
     <string name="sp_category_bank">Tin nhắn thông báo ngân hàng</string>
@@ -553,9 +557,9 @@
     <string name="pref_title_festival_networking">Kết nối Internet</string>
     <string name="hms_add_image_progress_message">Đang tiến hành…</string>
     <string name="view_hms_attachment_fail">Không thể tải ảnh</string>
-    <string name="mx_type_guide">Tin nhắn Mi cho phép bạn gửi tin nhắn đến thiết bị MIUI khác mà không phát sinh chi phí</string>
-    <string name="mx_dspt_provision">Tin nhắn Mi cho phép bạn gửi tin nhắn đến thiết bị MIUI khác mà không phát sinh chi phí. Nhà cung cấp có thể tính phí một tin nhắn SMS được dùng để kích hoạt dịch vụ này.</string>
-    <string name="mx_dspt_provision_ex">Gửi tin nhắn hoặc gọi điện đến thiết bị MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
+    <string name="mx_type_guide">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác mà không phát sinh chi phí</string>
+    <string name="mx_dspt_provision">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác mà không phát sinh chi phí. Nhà cung cấp có thể tính phí một tin nhắn SMS được dùng để kích hoạt dịch vụ này.</string>
+    <string name="mx_dspt_provision_ex">Gửi tin nhắn hoặc gọi điện đến người dùng MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
     <string name="mx_dspt_provision_ex2">Chính sách Riêng tư</string>
     <string name="mx_activate_dlg_title">Kích hoạt Tin nhắn Mi</string>
     <string name="mx_activate_dlg_title_ex">Kích hoạt Tin nhắn Mi &amp; Hội thoại</string>
@@ -634,4 +638,28 @@
     <string name="title_red_package">Chúc mừng phát tài, vạn sự như ý</string>
     <string name="title_send_red_package">Kiểm tra Bao Lì xì</string>
     <string name="title_recv_red_package">Nhận Bao Lì xì</string>
+    <string name="fake_cell_alert_hint">Dường như tin nhắn này đã được gửi từ số điện thoại khác với số điện thoại hiển thị. Hãy thận trọng với tin nhắn SMS liên quan đến yêu cầu tài chính.</string>
+    <string name="fake_cell_safe_hint">Tin nhắn này an toàn</string>
+    <string name="fake_cell_checking_hint">Đang kiểm tra an toàn…</string>
+    <string name="fake_cell_timeout_hint">Không thể kiểm tra an toàn</string>
+    <string name="fake_cell_detection_entry">Phát hiện trạm gốc giả mạo</string>
+    <string name="delete_wild_sims">Xóa số</string>
+    <string name="delete_wild_sims_title">Xóa số đã chọn</string>
+    <string name="delete_wild_sims_confirm">Tất cả tin nhắn thuộc số đã chọn sẽ bị xóa trên điện thoại này. Bạn có thể khôi phục tại i.mi.com.</string>
+    <string name="url_scanning">Đang kiểm tra URL…</string>
+    <string name="url_result_safe">URL này an toàn</string>
+    <string name="url_fraud_title">Trang web này có thể là giả mạo</string>
+    <string name="url_fraud_risky_alert">"Trang web mà bạn đang cố gắng truy cập có thể nguy hiểm. Vẫn tiếp tục?
+%s"</string>
+    <string name="url_fraud_dangerous_alert">"Trang web mà bạn đang cố gắng truy cập có thể nguy hiểm và có thể ảnh hưởng đến dữ liệu và thiết bị. Vẫn tiếp tục?
+%s"</string>
+    <string name="url_fraud_visit"><u>Vẫn truy cập</u></string>
+    <string name="url_fraud_insurance">Bật chống lừa đảo</string>
+    <string name="sms_card_partner_label">"Đối tác thẻ SMS: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="add_to_browser_favorite_success">Đã thêm thành công</string>
+    <string name="add_to_browser_favorite_failed">Không thể thêm</string>
+    <string name="i_know">OK</string>
+    <string name="second_mms_introduction">Vào Không gian thứ hai</string>
+    <string name="second_mms_switch">Chuyển</string>
 </resources>
