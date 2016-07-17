@@ -67,10 +67,6 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi hai vạch.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi ba vạch.</string>
     <string name="accessibility_wifi_signal_full">Wi-Fi đầy đủ.</string>
-    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="app_label">Giao diện người dùng</string>
     <string name="status_bar_no_recent_apps">Không có ứng dụng nào gần đây</string>
     <string name="recent_task_lock_text">Khóa</string>
@@ -252,9 +248,6 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">Thiết bị lưu trữ USB đã được kết nối</string>
     <string name="ext_media_mountable_notification_message">Chạm để mở trong Tập tin.</string>
     <string name="ext_media_safe_remove">Rút ra an toàn</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
-    <string name="kilobyte_per_second">KB/s</string>
-    <string name="megabyte_per_second">MB/s</string>
     <string name="status_bar_network_flow_today">Hôm nay: %1$s</string>
     <string name="status_bar_network_flow_content">"Hôm nay: %1$s   Còn lại: %2$s"</string>
     <string name="status_bar_network_flow_exceed_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Vượt quá: &lt;font color=%2$s>%3$s&lt;/font></string>
@@ -324,6 +317,11 @@ d MMMM"</string>
     <string name="screenshot_long_screenshot">Chụp dài hơn</string>
     <string name="screenshot_edit">Sửa</string>
     <string name="screenshot_send">Gửi</string>
+    <string name="screenshot_delete">Xóa</string>
+    <string name="screenshot_delete_dlg_title">Xóa</string>
+    <string name="screenshot_delete_dlg_msg">Bạn có chắc chắn xóa ảnh chụp màn hình này?</string>
+    <string name="screenshot_dlg_cancel">Hủy</string>
+    <string name="screenshot_dlg_delete_button">Xóa</string>
     <string name="long_screenshot_not_support_msg">Ứng dụng hiện tại không hỗ trợ chụp màn hình dài.</string>
     <string name="long_screenshot_stop">Dừng</string>
     <string name="long_screenshot_processing">Đang xử lý…</string>
