@@ -62,8 +62,8 @@
     <string name="menu_sort">Sắp xếp ứng dụng</string>
     <string name="menu_launcher_setting">Cài đặt trình khởi chạy</string>
     <string name="editing_tips">Sửa Màn hình chính</string>
-    <string name="editing_mode_title">Đã chọn %1$d mục</string>
-    <string name="editing_mode_title_empty">Chưa chọn mục nào</string>
+    <string name="editing_mode_title">Đã chọn %1$d</string>
+    <string name="editing_mode_title_empty">Đã chọn 0</string>
     <string name="multi_selecting_tips">Để chọn ứng dụng, hãy chạm vào biểu tượng ứng dụng</string>
     <string name="editing_add_widget_tips">Sửa tiện ích</string>
     <string name="editing_set_wallpaper_tips">Chọn hình nền</string>
@@ -72,6 +72,12 @@
     <string name="cant_remove_retained_app">Không thể xóa ứng dụng này</string>
     <string name="uninstall_dialog_message">Gỡ cài đặt sẽ xóa tất cả dữ liệu ứng dụng.</string>
     <string name="uninstall_dialog_title_format">Gỡ cài đặt %s?</string>
+    <string name="uninstall_xspace_dialog_title_format">Gỡ cài đặt ứng dụng kép \"%s\"</string>
+    <string name="uninstall_xspace_dialog_message">Gỡ cài đặt ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="uninstall_with_xspace_dialog_message">Ứng dụng kép tương ứng sẽ bị xóa cùng với dữ liệu ứng dụng.</string>
+    <string name="confirm_uninstall_dialog_title">Các ứng dụng kép tương ứng sẽ bị xóa.</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Ứng dụng kép sẽ bị gỡ cài đặt cùng với ứng dụng này.</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Ứng dụng kép sẽ bị gỡ cài đặt cùng với ứng dụng này.</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">Gỡ cài đặt %s và %d ứng dụng khác?</string>
     <string name="uninstall">Gỡ cài đặt</string>
     <string name="uninstall_result_multi_succeeded">%1$d ứng dụng đã gỡ cài đặt</string>
@@ -105,13 +111,15 @@
     <string name="wallpaper_settings">Hình nền</string>
     <string name="choose_wallpaper">Chọn hình nền</string>
     <string name="current_preview">Xem trước</string>
+    <string name="normal_wallpaper">Hình nền</string>
+    <string name="lock_screen_wallpaper">Hình nền màn hình khóa</string>
     <string name="wallpaper">Hình nền</string>
     <string name="mi_wallpaper">Cửa hàng Chủ đề MIUI</string>
     <string name="show_all">Hiển thị tất cả</string>
     <string name="local_wallpaper">Đã tải xuống</string>
     <string name="setting_wallpaper_tip">Chụm ngón tay hoặc vuốt để điều chỉnh</string>
-    <string name="apply_as_wallpaper">Màn hình chính</string>
-    <string name="apply_as_lock_screen">Màn hình khóa</string>
+    <string name="apply_as_wallpaper">Đặt làm Màn hình chính</string>
+    <string name="apply_as_lock_screen">Đặt làm Màn hình khóa</string>
     <string name="apply_both">Cả hai</string>
     <string name="enable_wallpaper_scroll">Bật cuộn ảnh hình nền</string>
     <string name="disable_wallpaper_scroll">Tắt cuộn ảnh hình nền</string>
@@ -241,6 +249,7 @@
     <string name="app_category_productivity">Sản xuất</string>
     <string name="recommend_apps_notice">Ứng dụng được đề nghị</string>
     <string name="recommend_apps_switch_title">Ứng dụng được đề nghị</string>
+    <string name="recommend_apps_notice_nodata">Ứng dụng được đề nghị (Không có dữ liệu)</string>
     <string name="recommend_apps_default_title">Trống</string>
     <string name="recommend_apps_tips">Tính năng này cần kết nối internet để làm việc bình thường. Để tắt tính năng này, chạm vào tên của thư mục này.</string>
     <string name="children_folder_title">Trẻ em</string>
@@ -252,9 +261,14 @@
     <string name="screen_number">Màn hình %d</string>
     <string name="delete_screen">Xóa màn hình</string>
     <string name="add_screen">Thêm màn hình</string>
-    <string name="liked">Đã thích</string>
-    <string name="like">Thích</string>
+    <string name="liked">Đã yêu thích</string>
+    <string name="like">Yêu thích</string>
     <string name="share">Chia sẻ</string>
     <string name="settings">Cài đặt</string>
     <string name="apply">Áp dụng</string>
+    <string name="change_wallpaper">Thay đổi</string>
+    <string name="lock_screen">Màn hình khóa</string>
+    <string name="home_screen">Màn hình chính</string>
+    <string name="wallpaper_scroll_type_tips">Cuộn hình nền</string>
+    <string name="no_detail_page">Không có trang chi tiết</string>
 </resources>
