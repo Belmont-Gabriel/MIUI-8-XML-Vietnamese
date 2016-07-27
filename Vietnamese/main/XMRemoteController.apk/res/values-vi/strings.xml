@@ -334,8 +334,7 @@ Thả ra khi %1$s phản hồi"</string>
     <string name="match_tip_rew">Phím tua lại có hoạt động không?</string>
     <string name="match_tip_stop">Phím dừng có hoạt động không?</string>
     <string name="match_tip_tvav">Nguồn đầu vào có biến đổi không?</string>
-    <string name="match_top_tips">"Thiết bị cần một lúc để phản hồi,
-vui lòng chờ sau khi thao tác."</string>
+    <string name="match_top_tips">"Thiết bị cần một lúc để phản hồi, vui lòng chờ sau khi thao tác."</string>
     <string name="match_total_frame">Tất cả %1$d</string>
     <string name="match_tv_intro_ch_inc">Thả ra khi kênh thay đổi</string>
     <string name="match_tv_intro_source">Thả ra khi nguồn đầu vào thay đổi</string>
