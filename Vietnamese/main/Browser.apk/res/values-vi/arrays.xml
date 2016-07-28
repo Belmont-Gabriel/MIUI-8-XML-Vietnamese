@@ -29,4 +29,16 @@
         <item>Điện thoại</item>
         <item>Máy tính bảng</item>
     </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Tin nhắn từ Trình duyệt</item>
+        <item>Cùng Mi đồng hành Olympics</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Theo dõi</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Xóa</item>
+        <item>Không, cảm ơn</item>
+    </string-array>
 </resources>

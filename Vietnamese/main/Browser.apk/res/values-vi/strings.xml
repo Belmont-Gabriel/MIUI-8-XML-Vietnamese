@@ -60,8 +60,8 @@
     <string name="date_picker_dialog_other_button_label">Khác</string>
     <string name="date_picker_dialog_title">Đặt ngày</string>
     <string name="date_picker_dialog_clear">Xóa</string>
-    <string name="autofill_popup_content_description">Đang hiển thị cửa sổ nổi điền tự động</string>
-    <string name="password_generation_popup_content_description">Đang hiển thị cửa sổ nổi tạo mật khẩu</string>
+    <string name="autofill_popup_content_description">Hiển thị cửa sổ nổi điền tự động</string>
+    <string name="password_generation_popup_content_description">Hiển thị cửa sổ nổi tạo mật khẩu</string>
     <string name="private_browsing_warning">Tính năng không được hỗ trợ trong phiên bản Android này.</string>
     <string name="license_activity_title">Giấy phép WebView Hệ thống</string>
     <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
@@ -222,7 +222,7 @@ Rời khỏi trang này?"</string>
     <string name="error_console_eval_button_text">Thẩm định</string>
     <string name="search_title_browser">Trình duyệt</string>
     <string name="search_keyword_browser">Trình duyệt</string>
-    <string name="search_path_browser">Cài đặt/Ứng dụng hệ thống/Trình duyệt</string>
+    <string name="search_path_browser">Cài đặt/Ứng dụng/Trình duyệt</string>
     <string name="application_name">Trình duyệt</string>
     <string name="miui_startpage">Trang bắt đầu</string>
     <string name="page_info">Thông tin trang</string>
@@ -361,6 +361,9 @@ Rời khỏi trang này?"</string>
     <string name="action_menu_bookshelf">Tủ sách</string>
     <string name="action_menu_useful_page">Thêm lối tắt</string>
     <string name="action_menu_useful_page_added">Đã thêm vào trang bắt đầu</string>
+    <string name="save_to">Lưu vào</string>
+    <string name="sendstartpage">Trang bắt đầu</string>
+    <string name="senddesktop">Màn hình chính</string>
     <string name="start_save_page_capture">Đang lưu ảnh chụp màn hình…</string>
     <string name="save_page_capture_to_camera">Đã lưu ảnh chụp màn hình</string>
     <string name="save_page_capture_tip">Mở thanh thông báo để xem ảnh chụp màn hình.</string>
@@ -593,8 +596,8 @@ Rời khỏi trang này?"</string>
     <string name="pref_clear_adblock_statistics_dlg">Xóa thống kê chặn quảng cáo?</string>
     <string name="adblock_notification">Đã chặn %d quảng cáo</string>
     <string name="adblock_force_updating_rules_toast">Đang cập nhật chặn quảng cáo</string>
-    <string name="adblock_rules_updated_toast">Hoàn tất</string>
-    <string name="adblock_rules_not_updated_toast">Failed</string>
+    <string name="adblock_rules_updated_toast">Đã cập nhật thành công</string>
+    <string name="adblock_rules_not_updated_toast">Không thể cập nhật</string>
     <string name="miui_quicksearch_enable_pref_title">Thanh tìm kiếm trong thanh thông báo</string>
     <string name="miui_quicksearch_enable_pref_summary">Hiển thị liên kết tìm kiếm trong thanh thông báo</string>
     <string name="pref_accessibility_title">Khả năng truy cập</string>
@@ -805,4 +808,9 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="pay_success_toast">Thanh toán thành công</string>
     <string name="pay_failed_toast">Thanh toán thất bại</string>
     <string name="add_bookshelf_popup_text">Đã thêm cuốn sách này đến tủ sách của bạn rồi</string>
+    <string name="add_shortcut">Thêm lối tắt</string>
+    <string name="add_shortcut_success">Đã thêm lối tắt thành công</string>
+    <string name="force_quick_search_title">Tìm kiếm</string>
+    <string name="force_touch_bookmark_history_title">Dấu trang &amp; lịch sử</string>
+    <string name="force_touch_infoflow_title">Tin tức</string>
 </resources>
