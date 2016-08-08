@@ -286,14 +286,17 @@
     <string name="mark_agent">Chặn số được báo cáo là môi giới</string>
     <string name="mark_sell">Chặn số điện thoại bị báo cáo là bán hàng</string>
     <string name="mark_harass">Chặn số được báo cáo là làm phiền</string>
+    <string name="mark_courier">Chặn số bị báo cáo là chuyển phát nhanh</string>
     <string name="mark_fraud_block">Đã báo cáo là lừa đảo</string>
     <string name="mark_agent_block">Đã báo cáo là môi giới</string>
     <string name="mark_sell_block">Đã báo cáo là bán hàng</string>
     <string name="mark_harass_block">Đã báo cáo là làm phiền</string>
+    <string name="mark_courier_block">Đã đánh dấu là chuyển phát nhanh</string>
     <string name="mark_fraud_block_large">Lừa đảo</string>
     <string name="mark_agent_block_large">Môi giới</string>
     <string name="mark_sell_block_large">Bán hàng</string>
     <string name="mark_harass_block_large">Làm phiền</string>
+    <string name="mark_courier_block_large">Chuyển phát nhanh</string>
     <string name="mark_number_info">Chú ý rằng đôi khi những cuộc gọi có thể hữu ích với bạn (ví dụ như khi bạn thực sự muốn tìm thuê một căn hộ). Chỉ chặn số điện thoại mà bạn không muốn nhận mọi cuộc gọi.</string>
     <string name="dlg_title_not_open_stranger_identify">Nhận dạng Người lạ</string>
     <string name="dlg_message_not_open_stranger_identify">Để bật tính năng này, hãy vào Cài đặt > Điện thoại.</string>
@@ -311,6 +314,7 @@
     <string name="mark_agent_time_setting">Hạn chế số lần báo cáo số điện thoại môi giới</string>
     <string name="mark_sell_time_setting">Hạn chế số lần báo cáo số điện thoại bán hàng</string>
     <string name="mark_harass_time_setting">Hạn chế số lần báo cáo số điện thoại làm phiền</string>
+    <string name="mark_courier_time_setting">Hạn chế số lần báo cáo số điện thoại chuyển phát nhanh</string>
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Số lần báo cáo</string>
     <string name="sms_smart_engine_update">Tự động cập nhật bộ lọc SMS</string>
@@ -323,6 +327,7 @@
     <string name="mark_number_agent">Môi giới</string>
     <string name="mark_number_sell">Bán hàng</string>
     <string name="mark_number_harass">Làm phiền</string>
+    <string name="mark_number_courier">Chuyển phát nhanh</string>
     <string name="antispam_notification_setting_title">Thông báo</string>
     <string name="antispam_notificaiton_type_show_all">Tất cả số</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Số ngoài danh sách chặn</string>

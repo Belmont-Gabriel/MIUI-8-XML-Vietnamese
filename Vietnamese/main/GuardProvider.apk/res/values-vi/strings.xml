@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lõi Bảo Mật MIUI.VN</string>
+    <string name="app_name">Bảo Mật MIUI.VN</string>
     <string name="hello_world">Việt hóa bởi ๖ۣۜßεℓ™ - MIUI.VN</string>
     <string name="menu_settings">Cài đặt</string>
     <string name="title_activity_main">MainActivity</string>
@@ -31,17 +31,17 @@
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Loại virus này là adware. Nó sẽ tự động hiển thị quảng cáo.</string>
-    <string name="avast_virus_type_cryportor_description">Loại virus này là crytor. Đây là phần mềm độc hại lây truyền bằng cách sao chép chính nó trong dung lượng lưu trữ.</string>
+    <string name="avast_virus_type_cryportor_description">Loại virus này là crytor. Đây là phần mềm độc hại được lây truyền bằng cách sao chép chính nó trong dung lượng lưu trữ.</string>
     <string name="avast_virus_type_dropper_description">Virus này là dropper. Nó mang mã cài đặt virus độc hại khác.</string>
-    <string name="avast_virus_type_exploit_description">Virus này là exploit. Nó lợi dụng lỗi và kẽ hở trong hệ thống để gây ra những thiệt hại bất ngờ và không dự tính trước.</string>
-    <string name="avast_virus_type_heuristic_description">Độc hại này được suy ra bởi việc sử dụng phương pháp tiếp cận heuristic. Heuristic phân tích đây là virus.</string>
-    <string name="avast_virus_type_joke_description">Virus này là joke. Nó thường tạo ra một số hiệu ứng gây rối người dùng. Nó không gây ra thiệt hại cho hệ thống.</string>
-    <string name="avast_virus_type_pup_description">Virus này là một loại chương trình không mong muốn tiềm ẩn (PUP). Đây là chương trình có thể gây hại (phần mềm gián điệp, phần mềm quảng cáo, v.v..), mặc dù nó được tải về có sự đồng ý của người dùng.</string>
-    <string name="avast_virus_type_rootkit_description">Virus này là rootkit. Nó là một loại phần mềm được thiết kế để che giấu hệ điều hành đã bị xâm nhập. Nó chiếm quyền kiểm soát thiết bị bằng cách ẩn sâu bên trong hệ thống. Rootkit cho phép virus và phần mềm độc hại \"giấu bên trong\" bằng trá hình như là tập tin cần thiết mà các phần mềm chống virus thông thường sẽ không thể phát hiện.</string>
-    <string name="avast_virus_type_spyware_description">Virus này là spyware. Nó thu thập thông tin người dùng qua việc kết nối internet mà họ không để ý.</string>
-    <string name="avast_virus_type_suspicious_description">Nghi ngờ là virus, hệ thống bảo mật đang cố gắng nhận dạng nó.</string>
-    <string name="avast_virus_type_tool_description">Virus này là công cụ tìm ẩn độc hại lây nhiễm tương tự như PUP.</string>
-    <string name="avast_virus_type_trjan_description">Virus này là troạn. Nó là một phần mềm độc hại được thiết kế trái phép, truy cập điều khiển từ xa vào thiết bị của người dùng. Trojan thường không có khả năng tự nhân bản như virus; tuy nhiên, chúng có thể làm cho phần mềm độc hại khác được cài đặt trên máy, nhiều dữ liệu cá nhân sẽ bị đánh cắp.</string>
+    <string name="avast_virus_type_exploit_description">Virus này là exploit. Nó lợi dụng lỗi trong hệ thống để gây ra hành vi ngoài ý muốn hoặc không lường trước được.</string>
+    <string name="avast_virus_type_heuristic_description">Heuristic phân tích đây là virus. Chúng đe dọa sự an toàn thiết bị của bạn.</string>
+    <string name="avast_virus_type_joke_description">Virus này là joke. Nó thường tạo ra một số hiệu ứng gây rối người dùng. Nó thường ít gây ra thiệt hại cho hệ thống.</string>
+    <string name="avast_virus_type_pup_description">Virus này là chương trình không mong muốn (PUP). Đây là chương trình có thể gây hại (phần mềm gián điệp, phần mềm quảng cáo, v.v..), mặc dù nó được tải về do có sự đồng ý của người dùng.</string>
+    <string name="avast_virus_type_rootkit_description">Virus này là rootkit. Đây là loại phần mềm được thiết kế để che giấu hệ điều hành đã bị xâm nhập. Nó chiếm quyền kiểm soát thiết bị bằng cách ẩn sâu bên trong hệ thống. Rootkit cho phép virus và phần mềm độc hại \"ẩn sâu bên trong\" bằng cách trá hình là tập tin cần thiết hệ thống mà các phần mềm chống virus thông thường sẽ không thể phát hiện.</string>
+    <string name="avast_virus_type_spyware_description">Virus này là spyware. Nó thu thập thông tin người dùng qua kết nối internet mà họ không hề hay biết.</string>
+    <string name="avast_virus_type_suspicious_description">Nghi ngờ là virus. Hệ thống bảo mật đang cố gắng nhận dạng.</string>
+    <string name="avast_virus_type_tool_description">Virus này là công cụ độc hại tiềm ẩn tương tự như PUP.</string>
+    <string name="avast_virus_type_trjan_description">Virus này là trojan. Nó là một phần mềm độc hại khi chưa có sự cho phép vẫn có thể truy cập điều khiển từ xa vào thiết bị của người dùng. Trojan thường không có khả năng tự nhân bản như virus; Tuy nhiên, chúng có thể cài đặt phần mềm độc hại khác, đánh cắp dữ liệu người dùng, gây ra rò rỉ dữ liệu cá nhân và tổn thất tài sản.</string>
     <string name="avast_virus_type_unknown_description">Loại virus không xác định.</string>
-    <string name="avast_virus_type_worm_description">Virus này là worm. Nó là một phần mềm độc hại độc lập tự nhân bản chính nó để lây lan sang các thiết bị khác. Lợi dụng tập tin hoặc tính năng vận chuyển thông tin của hệ thống (ví dụ như mạng), nó có thể lây lan mà không cần bất kỳ hành động nào của con người. Worm gây ra một số thiệt hại đến mạng.</string>
+    <string name="avast_virus_type_worm_description">Virus này là worm. Nó là một phần mềm độc hại độc lập, tự nhân bản chính nó để lây lan sang các thiết bị khác. Lợi dụng tính năng chuyển đổi thông tin hoặc tập tin của hệ thống (như hệ thống mạng), nó có thể lây lan mà không cần bất kỳ hành động nào của con người. Worm gây ra một số thiệt hại đến mạng.</string>
 </resources>

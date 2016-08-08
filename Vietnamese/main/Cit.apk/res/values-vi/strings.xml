@@ -58,7 +58,7 @@
     <string name="cit_tool_modem_mbn">Thay đổi cấu hình môđem</string>
     <string name="cit_tool_nfc">Công cụ kiểm tra NFC</string>
     <string name="cit_tool_nfc_st">Nfc ST: </string>
-    <string name="cit_tool_nfc_st_confreq">tần số: </string>
+    <string name="cit_tool_nfc_st_confreq">tần số:</string>
     <string name="cit_tool_nfc_st_run">Chạy</string>
     <string name="cit_tool_nfc_st_stop">Dừng</string>
     <string name="cit_tool_cal_camera">Công cụ Hiệu chỉnh Máy ảnh</string>
@@ -67,15 +67,15 @@
     <string name="cit_touch_calib_pass">Hiệu chỉnh cảm ứng đã xong, Hãy sử dụng bình thường</string>
     <string name="cit_touch_calib_fail">Hiệu chỉnh cảm ứng không thành công, Vui lòng thử lại</string>
     <string name="cit_touch_calib_instruction">bắt đầu hiệu chỉnh</string>
-    <string name="cit_version_check_summary">Bên dưới là thông tin về phiên bản hệ điều hành. Hãy xác nhận rằng thông tin được đánh dấu màu xanh lá cây là đúng.</string>
+    <string name="cit_version_check_summary">Bên dưới là thông tin về thiết bị. Hãy xác nhận rằng thông tin được đánh dấu màu xanh lá cây là đúng.</string>
     <string name="cit_proximity_sensor_check_summary">"Dùng tay che bộ cảm biến tiệm cận (nằm ở trên cùng của điện thoại gần bộ thu), sau đó di chuyển tay ra xa. Giá trị sẽ tăng từ 0,0 khi bạn di chuyển tay ra xa thiết bị hơn.
 Trong khi hiệu chỉnh, đảm bảo rằng không có gì nằm giữa bộ cảm biến và tay của bạn (ví dụ: bảo vệ màn hình hoặc găng tay)."</string>
     <string name="cit_magnetic_sensor_check_summary">Các giá trị tọa độ X, Y, Z sẽ xuất hiện bên dưới</string>
-    <string name="cit_light_sensor_check_summary">Giá trị DAC sẽ xuất hiện bên dưới</string>
+    <string name="cit_light_sensor_check_summary">Giá trị DAC sẽ xuất hiện bên dưới.</string>
     <string name="cit_gyroscope_sensor_check_summary">Các giá trị tọa độ X, Y, Z sẽ xuất hiện bên dưới</string>
     <string name="cit_pressure_sensor_check_summary">Giá trị áp suất sẽ xuất hiện bên dưới</string>
     <string name="cit_leds_check_summary">Đèn nền, đèn thông báo và đèn flash (phía sau) sẽ phản hồi khi bạn bấm phím tương ứng.</string>
-    <string name="cit_vibrator_check_summary">Xem chức năng rung (dài và ngắn) có hoạt động bình thường không</string>
+    <string name="cit_vibrator_check_summary">Xem chức năng rung (dài và ngắn) có hoạt động bình thường không.</string>
     <string name="cit_wifi_address_check_summary">Bên dưới là địa chỉ mạng Wi-Fi mà điện thoại hiện đang được kết nối. Xác nhận rằng thông tin được đánh dấu bằng màu xanh lá cây là đúng.</string>
     <string name="cit_wifi_ap_scan_check_summary">Bên dưới là thông tin điểm truy cập Wi-Fi của các thiết bị trong vùng được phát hiện. Xác nhận rằng thông tin được đánh dấu bằng màu xanh lá cây là đúng.</string>
     <string name="cit_blue_tooth_address_check_summary">Địa chỉ Bluetooth của thiết bị này sẽ được hiển thị bên dưới.</string>
@@ -125,16 +125,16 @@ Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói 
     <string name="cit_display_check_summary">Xác nhận rằng tập tin bmp yêu cầu được lưu trữ trên thẻ SD. Xác nhận rằng màu sắc được hiển thị một cách nhất quán trên toàn bộ màn hình. Chắc chắn rằng không có điểm sáng và điểm tối bất thường nào.</string>
     <string name="cit_main_camera_check_summary">"Hướng dẫn kiểm tra:
 
-1.Chạm vào phím Máy ảnh bên dưới để vào giao diện Máy ảnh sau
+1.Chạm vào phím Máy ảnh bên dưới để vào giao diện Máy ảnh sau.
 2.Đảm bảo rằng bạn đã bật đèn flash
-3.Chạm vào phím Chụp
-4.Chạm vào biểu tượng Chọn. Hệ thống sẽ tự động lưu ảnh.
+3.Chạm vào phím Chụp.
+4.Chạm vào biểu tượng Kiểm tra. Hệ thống sẽ tự động lưu ảnh.
 5.Ảnh bạn đã chụp sẽ hiển thị bên dưới. Chạm vào \"Xóa\" để hoàn tất kiểm tra."</string>
     <string name="cit_front_camera_check_summary">"Hướng dẫn kiểm tra:
 
-1.Chạm vào phím Máy ảnh bên dưới để vào giao diện Máy ảnh trước
-2.Chạm vào phím Chụp
-3.Chạm vào biểu tượng Chọn. Hệ thống sẽ tự động lưu ảnh.
+1.Chạm vào phím Máy ảnh bên dưới để vào giao diện Máy ảnh trước.
+2.Chạm vào phím Chụp.
+3.Chạm vào biểu tượng Kiểm tra. Hệ thống sẽ tự động lưu ảnh.
 4.Ảnh bạn đã chụp sẽ hiển thị bên dưới. Chạm vào \"Xóa\" để hoàn tất kiểm tra."</string>
     <string name="cit_camera_calibration_summary">"Hướng dẫn kiểm tra: 
 
@@ -150,10 +150,10 @@ Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói 
     <string name="cit_audio_cali_playing">Bấm nút để làm hiệu chỉnh</string>
     <string name="cit_audio_cali_file_existed">Tập tin nhạc không tồn tại, không thể hiệu chỉnh!</string>
     <string name="cit_audio_cali_done">Hiệu chỉnh hoàn tất!</string>
-    <string name="cit_audio_cali_valueR">Ref_diff: </string>
-    <string name="cit_audio_cali_valueT">Temp_acc: </string>
-    <string name="cit_audio_cali_valueF0">F0: </string>
-    <string name="cit_audio_cali_valueC">Lượt truy cập: </string>
+    <string name="cit_audio_cali_valueR">Ref_diff:</string>
+    <string name="cit_audio_cali_valueT">Temp_acc:</string>
+    <string name="cit_audio_cali_valueF0">F0:</string>
+    <string name="cit_audio_cali_valueC">Lượt truy cập:</string>
     <string name="cit_audio_cali_failed">Hiệu chỉnh thất bại, vui lòng thử lại!</string>
     <string name="cit_aud_spkcal">Hiệu chỉnh</string>
     <string name="cit_audio_calibrating">Đang hiệu chỉnh…</string>
@@ -198,13 +198,13 @@ Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói 
     <string name="cit_sim_state_pin_required">Yêu cầu mã PIN</string>
     <string name="cit_sim_state_puk_required">Yêu cầu PUK</string>
     <string name="cit_sim_state_ready">Thẻ SIM đã sẵn sàng</string>
-    <string name="cit_sim_serial_number">Số thẻ SIM: </string>
-    <string name="cit_sim_sim_operator">Số toán tử thẻ SIM: </string>
-    <string name="cit_sim_sim_operator_name">Tên nhà cung cấp: </string>
-    <string name="cit_sim_sim_country">Quốc gia: </string>
-    <string name="cit_sim_network_operator">Nhà cung cấp dịch vụ mạng: </string>
-    <string name="cit_sim_network_operator_name">Tên nhà cung cấp dịch vụ mạng: </string>
-    <string name="cit_sim_network_type">Loại mạng: </string>
+    <string name="cit_sim_serial_number">Số thẻ SIM:</string>
+    <string name="cit_sim_sim_operator">Số toán tử thẻ SIM:</string>
+    <string name="cit_sim_sim_operator_name">Tên nhà cung cấp:</string>
+    <string name="cit_sim_sim_country">Quốc gia:</string>
+    <string name="cit_sim_network_operator">Nhà cung cấp dịch vụ mạng:</string>
+    <string name="cit_sim_network_operator_name">Tên nhà cung cấp dịch vụ mạng:</string>
+    <string name="cit_sim_network_type">Loại mạng:</string>
     <string name="cit_sim_error_unknown">Không xác định</string>
     <string name="cit_reset_test">Kiểm tra</string>
     <string name="cit_audio_loopback_next">Tiếp theo</string>
@@ -308,14 +308,14 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="cit_tool_wifi">Công cụ kiểm tra Wi-Fi</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Kênh</string>
     <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
-    <string name="cit_tool_wifi_tx_bg_chan">kênh: </string>
-    <string name="cit_tool_wifi_tx_bg_txpr">công suất tx: </string>
-    <string name="cit_tool_wifi_tx_bg_txrt">tốc độ dữ liệu: </string>
+    <string name="cit_tool_wifi_tx_bg_chan">kênh:</string>
+    <string name="cit_tool_wifi_tx_bg_txpr">công suất tx:</string>
+    <string name="cit_tool_wifi_tx_bg_txrt">tốc độ dữ liệu:</string>
     <string name="cit_tool_wifi_tx_n">Tx: n</string>
     <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
     <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-    <string name="cit_tool_wifi_tx_n_chan">kênh: </string>
-    <string name="cit_tool_wifi_tx_n_txpr">công suất tx: </string>
+    <string name="cit_tool_wifi_tx_n_chan">kênh:</string>
+    <string name="cit_tool_wifi_tx_n_txpr">công suất tx:</string>
     <string name="cit_tool_wifi_tx_n_txrt">tốc độ dữ liệu: MCS</string>
     <string name="cit_tool_wifi_txrx_chain_selection">Chọn ăng-ten</string>
     <string name="cit_tool_wifi_chain_1">1</string>
@@ -325,16 +325,16 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="cit_tool_wifi_rx_exit">Rx: thoát</string>
     <string name="cit_tool_wifi_rx_run">Chạy</string>
     <string name="cit_tool_wifi_rx_stop">Dừng</string>
-    <string name="cit_tool_wifi_rx_error">Đã xảy ra lỗi khi chạy chương trình</string>
-    <string name="cit_tool_wifi_rx_count_error">Giá trị đầu vào không phải là số</string>
+    <string name="cit_tool_wifi_rx_error">Phát sinh lỗi khi chạy chương trình.</string>
+    <string name="cit_tool_wifi_rx_count_error">Giá trị đầu ra không phải là một số.</string>
     <string name="cit_tool_wifi_rx_ap_name">MT</string>
     <string name="cit_tool_wifi_exit">Thoát</string>
     <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
     <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
-    <string name="cit_tool_wifi_rxbg_test_channel">Kênh: </string>
+    <string name="cit_tool_wifi_rxbg_test_channel">Kênh:</string>
     <string name="cit_tool_wifi_rxn_test">Rx: n</string>
-    <string name="cit_tool_wifi_rxn_test_channel">Kênh: </string>
-    <string name="cit_tool_wifi_rxn_test_bw">Băng thông: </string>
-    <string name="cit_tool_wifi_tx_n_bandwidth">Băng thông: </string>
-    <string name="cit_tool_wifi_tx_st_chan">Kênh: </string>
+    <string name="cit_tool_wifi_rxn_test_channel">Kênh:</string>
+    <string name="cit_tool_wifi_rxn_test_bw">Băng thông:</string>
+    <string name="cit_tool_wifi_tx_n_bandwidth">Băng thông:</string>
+    <string name="cit_tool_wifi_tx_st_chan">Kênh:</string>
 </resources>

@@ -858,4 +858,6 @@ và không bao giờ bỏ qua bất kỳ biểu tượng nào!"</string>
     <string name="video_parse_success">Đã phân tích thành công</string>
     <string name="video_parse_error_unknown">Dịch vụ video này chưa được hỗ trợ, hãy thử dịch vụ khác</string>
     <string name="interest_recommend">Video được đề nghị</string>
+    <string name="force_touch_clean">Xóa rác</string>
+    <string name="force_touch_search">Tìm kiếm tập tin</string>
 </resources>

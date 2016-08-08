@@ -49,7 +49,7 @@
     <string name="time_picker_dialog_title">Đặt giờ</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
     <string name="perm_payment_lab">Thanh toán Mi</string>
-    <string name="perm_payment_dspt">Cho phép các ứng dụng trả tiền thông qua Dịch vụ Thanh toán Mi</string>
+    <string name="perm_payment_dspt">Cho phép ứng dụng thanh toán qua Dịch vụ Thanh toán Mi</string>
     <string name="check_phone_error_title">Đồng bộ tắt</string>
     <string name="check_phone_io_error">Không thể kết nối mạng</string>
     <string name="send_sms_for_sync_title">Cảnh báo sử dụng dữ liệu</string>
@@ -303,7 +303,7 @@
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_12hour_minute_pm">h:mma</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_24hour">"H 'giờ'"</string>
@@ -580,5 +580,5 @@
     <string name="web_sso_login_fail">Bạn cần phải đăng nhập lại</string>
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="webview_reload">Thử lại</string>
-    <string name="hybrid_provider">Trang web được cung cấp bởi %1$s.</string>
+    <string name="hybrid_provider">Được cung cấp bởi %1$s</string>
 </resources>

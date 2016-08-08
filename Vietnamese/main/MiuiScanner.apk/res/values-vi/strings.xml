@@ -16,10 +16,10 @@
     <string name="error_permissions">Máy quét không được cấp quyền để hoạt động bình thường. Hãy kiểm tra quyền trong Cài đặt để tiếp tục.</string>
     <string name="feedback_description_camera_access">Máy quét không thể kết nối với Máy ảnh</string>
     <string name="feedback_description_save_photo">Không thể lưu ảnh hoặc video</string>
-    <string name="no_storage">Lắp thẻ SD trước khi sử dụng Máy ảnh</string>
+    <string name="no_storage">Không có bộ nhớ trong</string>
     <string name="no_network">Không thể kết nối mạng</string>
-    <string name="preparing_sd">Đang chuẩn bị thẻ SD…</string>
-    <string name="spaceIsLow_content">Không đủ dung lượng trên thẻ SD. Hãy xóa các tập tin không cần thiết.</string>
+    <string name="preparing_sd">Đang chuẩn bị bộ nhớ trong…</string>
+    <string name="spaceIsLow_content">Không đủ dung lượng trên bộ nhớ trong. Hãy xóa các tập tin không cần thiết.</string>
     <string name="module_title_code">Mã QR</string>
     <string name="module_title_shopping">Mua sắm</string>
     <string name="module_title_translation">Phiên dịch</string>
@@ -31,6 +31,7 @@
     <string name="common_retake_picture">Chụp lại</string>
     <string name="common_save">Lưu</string>
     <string name="common_retry">Thử lại</string>
+    <string name="sdk_not_ready">Đang chuẩn bị SDK. Hãy thử lại sau.</string>
     <string name="language_entry_chinese_cn">Tiếng Trung giản thể</string>
     <string name="language_entry_chinese_tw">Tiếng Trung phồn thể</string>
     <string name="language_entry_danish">Tiếng Đan Mạch</string>

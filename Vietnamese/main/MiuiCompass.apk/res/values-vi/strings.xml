@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">La bàn</string>
-    <string name="getting_location">Đang đo…</string>
     <string name="cannot_get_location">--</string>
     <string name="location_north">Vĩ Bắc</string>
     <string name="location_south">Vĩ Nam</string>
     <string name="location_east">Kinh Đông</string>
     <string name="location_west">Kinh Tây</string>
-    <string name="menu_calibrate">Cân chỉnh la bàn</string>
     <string name="calibrate_success">Cân chỉnh hoàn tất</string>
     <string name="calibrate_failed_no_location">Không thể hiệu chỉnh</string>
     <string name="calibrate_failed_timeout">Không thể kết nối đến máy chủ</string>
@@ -23,16 +21,15 @@
     <string name="dialog_calibrat_altitude">Đang đo…</string>
     <string name="latitude">Vĩ độ</string>
     <string name="longitude">Kinh độ</string>
-    <string name="direction_north">B</string>
-    <string name="direction_south">N</string>
-    <string name="direction_east">Đ</string>
-    <string name="direction_west">T</string>
-    <string name="direction_north_east">ĐB</string>
-    <string name="direction_north_west">TB</string>
-    <string name="direction_south_east">ĐN</string>
-    <string name="direction_south_west">TN</string>
+    <string name="direction_north">Bắc</string>
+    <string name="direction_south">Nam</string>
+    <string name="direction_east">Đông</string>
+    <string name="direction_west">Tây</string>
+    <string name="direction_north_east">Đông Bắc</string>
+    <string name="direction_north_west">Tây Bắc</string>
+    <string name="direction_south_east">Đông Nam</string>
+    <string name="direction_south_west">Tây Nam</string>
     <string name="guide_toast">Để hiệu chỉnh la bàn, hãy di chuyển điện thoại của bạn như trong hình dưới đây.</string>
-    <string name="calibrate_altitude">Đang đo…</string>
     <string name="mobiledata_alert_dialog_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="mobiledata_alert_dialog_message">Kết nối internet để đo đạc độ cao?</string>
     <string name="do_not_show_next_time">Không hiển thị lại</string>
@@ -51,8 +48,11 @@
     <string name="calibrate_rotate_again">Thử lại</string>
     <string name="error_camera_unavailable_title">Lỗi máy ảnh</string>
     <string name="error_camera_unavailable">Kiểm tra lại nếu ứng dụng khác đang sử dụng Máy ảnh.</string>
-    <string name="altitude_uncalibrate_tip">Không thể hiệu chỉnh độ cao</string>
-    <string name="altitude_uncalibrate_msg">Không thể hiệu chỉnh độ cao một cách chính xác nếu không bật GPS hoặc kết nối dữ liệu di động.</string>
+    <string name="altitude_uncalibrate_tip">Không thể đo độ cao</string>
+    <string name="altitude_uncalibrate_msg">Không thể đo chính xác độ cao nếu không có kết nối dữ liệu di động hoặc GPS.</string>
     <string name="altitude_uncalibrate_refresh">Thử lại</string>
     <string name="altitude_uncalibrate_cancel">Hủy</string>
+    <string name="calibrate_altitude">Đang đo…</string>
+    <string name="getting_location">Đang đo…</string>
+    <string name="menu_calibrate">Cân chỉnh la bàn</string>
 </resources>

@@ -7,9 +7,12 @@
     <string name="common_settings">Cài đặt</string>
     <string name="alarm_settings">Cài đặt báo thức</string>
     <string name="edit_systemtime">Thiết lập thời gian hệ thống</string>
-    <string name="more_settings">Cài đặt thêm</string>
+    <string name="more_settings">Thêm cài đặt</string>
     <string name="vibrate_pref_summary">Rung khi báo thức</string>
     <string name="label_pref_summary">Đặt nhãn báo thức</string>
+    <string name="force_touch_add_alarm">Thêm báo thức</string>
+    <string name="force_touch_enter_stopwatch">Bấm giờ</string>
+    <string name="force_touch_enter_timer">Hẹn giờ</string>
     <string name="worldclock_title">Đồng hồ</string>
     <string name="stopwatch_title">Bấm giờ</string>
     <string name="timer_title">Hẹn giờ</string>
@@ -34,7 +37,7 @@
     <string name="stopwatch_lap_empty_text">Không có lần nào</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">Hết giờ!</string>
-    <string name="timer_clock_alert_text">Vui lòng thiết lập Hẹn giờ</string>
+    <string name="timer_clock_alert_text">Đặt hẹn giờ</string>
     <string name="dialog_confirm_abort">Hủy thay đổi?</string>
     <string name="confirm_abort">OK</string>
     <string name="remind_ringtone">Nhạc chuông</string>
@@ -49,8 +52,8 @@
     <string name="timer_new_item">Thêm hẹn giờ</string>
     <string name="timer_item_label_hint">Nhãn hẹn giờ</string>
     <string name="shutdown_alarm_title">Báo thức khi tắt máy</string>
-    <string name="shutdown_alarm_enable_summary">Báo thức sẽ rung sau khi tắt nguồn</string>
-    <string name="shutdown_alarm_disable_summary">Báo thức sẽ không rung sau khi tắt nguồn</string>
+    <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông sau khi tắt nguồn</string>
+    <string name="shutdown_alarm_disable_summary">Báo thức sẽ không đổ chuông sau khi tắt nguồn</string>
     <string name="workday_alarm_clock">Báo thức ngày làm việc</string>
     <string name="system_time_setting">Cài đặt</string>
     <string name="lap_num" />
@@ -64,8 +67,6 @@
     <string name="legal_off_day_message">" (Tắt báo thức vào ngày làm việc)"</string>
     <string name="default_alarm_alert">Đặt âm thanh báo thức mặc định</string>
     <string name="default_alarm_title">Nhạc chuông mặc định</string>
-    <string name="alarm_alert">Nhạc chuông mặc định</string>
-    <string name="alarm_screen">Màn hình và nhạc chuông báo thức</string>
     <string name="menu_item_sort_by_gmt_offset">Sắp xếp theo thời gian</string>
     <string name="menu_item_sort_by_name">Sắp xếp theo tên</string>
     <string name="birthday_alarm">Báo thức sinh nhật</string>
