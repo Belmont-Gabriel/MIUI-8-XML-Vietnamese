@@ -7,7 +7,7 @@
     <string name="search_led_indicator_prompt">Hiện thanh thông báo màu đỏ và nháy đèn báo khi khóa màn hình</string>
     <string name="search_scenes">Loại ghi âm</string>
     <string name="search_silent_mode">Im lặng khi ghi âm</string>
-    <string name="search_enable_earpiece_title">Sử dụng tai nghe để phát âm thanh</string>
+    <string name="search_enable_earpiece_title">Sử dụng loa để phát âm thanh</string>
     <string name="search_quliaty_title">Chất lượng ghi âm</string>
     <string name="app_name">Ghi âm</string>
     <string name="recording">Đang ghi âm</string>
@@ -43,7 +43,6 @@
     <string name="rename_dialog_title">Đổi tên ghi âm</string>
     <string name="rename_duplicate">Một bản ghi có cùng tên đã tồn tại.</string>
     <string name="rename_no_more_tip">Không hiển thị lại</string>
-    <string name="record_picker_title">Chọn một bản ghi</string>
     <string name="dialog_title_storage_full">Không đủ dung lượng</string>
     <string name="dialog_content_storage_full">Ghi âm đã dừng lại do bộ nhớ trong thiết bị của bạn không còn đủ dung lượng trống.</string>
     <string name="status_bar_recording">Đang ghi âm…</string>
@@ -79,9 +78,6 @@
     <string name="record_downloading_notification">Đang tải xuống…</string>
     <string name="record_downloading_notification_count">Đang tải xuống %d bản ghi âm</string>
     <string name="record_downloading_notification_complete">Tải xuống hoàn tất</string>
-    <string name="sync_records">Đồng bộ với Mi Cloud</string>
-    <string name="sync_only_in_wifi">Chỉ sử dụng Wi-Fi để đồng bộ</string>
-    <string name="sync_only_in_wifi_summary">Ghi âm sẽ không dùng dữ liệu di động để tải lên các bản ghi âm</string>
     <string name="wifi_recommended_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="wifi_recommended_body" formatted="false">Dùng kết nối dữ liệu di động để tải xuống tập tin này (%s) sẽ làm tăng sử dụng dữ liệu. Nếu bạn vượt quá giới hạn kế hoạch sử dụng dữ liệu, nhà cung cấp có thể tính phí bổ sung. Chờ kết nối Wi-Fi để tải xuống tập tin này, chạm %s.</string>
     <string name="button_queue_for_wifi">Chờ</string>
@@ -115,6 +111,7 @@
     <string name="mark_point_list_title">Đánh dấu</string>
     <string name="speech_recognition_running_tip">Đang chạy</string>
     <string name="speech_recognition_complete">Hoàn tất</string>
+    <string name="empty_recognition_tip">Trống</string>
     <string name="invalid_argument">Tham số không hợp lệ</string>
     <string name="playback_delete_records">Xóa ghi âm</string>
     <string name="playback_share_records">Chia sẻ ghi âm</string>
@@ -137,5 +134,9 @@
     <string name="recognition_error_download_fail">Không thể tải xuống. Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="recognition_error_downloading">Đang tải xuống</string>
     <string name="recognition_status_downloading">Đang tải xuống</string>
-    <string name="runtime_permission_ungranted">Không thể sử dụng Sao lưu Ghi âm bởi vì quyền cho phép</string>
+    <string name="runtime_permission_ungranted">Không thể sử dụng Ghi âm do không được cấp quyền</string>
+    <string name="record_picker_title">Chọn một bản ghi</string>
+    <string name="sync_only_in_wifi">Chỉ sử dụng Wi-Fi để đồng bộ</string>
+    <string name="sync_only_in_wifi_summary">Ghi âm sẽ không dùng dữ liệu di động để tải lên các bản ghi âm</string>
+    <string name="sync_records">Đồng bộ với Mi Cloud</string>
 </resources>

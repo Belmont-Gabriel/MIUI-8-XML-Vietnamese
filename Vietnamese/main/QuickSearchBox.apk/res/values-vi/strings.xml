@@ -6,6 +6,8 @@
     <string name="show_more">Xem thêm</string>
     <string name="clear_history">Xóa lịch sử tìm kiếm</string>
     <string name="search_in_web">Tìm kiếm trực tuyến</string>
+    <string name="search_apps">Tìm kiếm ứng dụng</string>
+    <string name="search_videos">Tìm kiếm video</string>
     <string name="search_in_app_store">Tìm kiếm chợ ứng dụng</string>
     <string name="send_secret_code">Gửi mã</string>
     <string name="xiaomi_search_label">Kết quả</string>
@@ -26,6 +28,8 @@
     <string name="common_setting">Cài đặt chung</string>
     <string name="recent_apps">Ứng dụng gần đây</string>
     <string name="suggest_open_app_failed">Không thể mở ứng dụng này</string>
+    <string name="search_keyword_quicksearchbox">Tìm kiếm</string>
+    <string name="search_path_quicksearchbox">Cài đặt/Ứng dụng/Tìm kiếm</string>
     <string name="app_name">Tìm kiếm</string>
     <string name="search_widget">Tìm kiếm</string>
     <string name="remove_from_history">Xóa mục này khỏi lịch sử tìm kiếm?</string>
@@ -48,7 +52,7 @@
     <string name="clear_shortcuts_summary">Xóa lối tắt tới đề xuất tìm kiếm đã chọn gần đây</string>
     <string name="clear_shortcuts_prompt">"Bạn có muốn xóa tất cả các phím tắt cho các gợi ý tìm kiếm được chọn gần đây không? 
  
- Để xóa lịch sử Trình duyệt của bạn, hãy sử dụng cài đặt của Trình duyệt."</string>
+Để xóa lịch sử Trình duyệt của bạn, hãy sử dụng cài đặt của Trình duyệt."</string>
     <string name="clear_shortcuts_agree">Xóa lối tắt</string>
     <string name="clear_shortcuts_disagree">Không xóa lối tắt</string>
     <string name="recently_shortcut_label">Lối tắt gần đây</string>

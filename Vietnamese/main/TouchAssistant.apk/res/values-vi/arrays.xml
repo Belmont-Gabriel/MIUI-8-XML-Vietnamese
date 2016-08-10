@@ -2,6 +2,6 @@
 <resources>
     <string-array name="motion_behavior_entries">
         <item>Trượt</item>
-        <item>Nhấn</item>
+        <item>Chạm</item>
     </string-array>
 </resources>

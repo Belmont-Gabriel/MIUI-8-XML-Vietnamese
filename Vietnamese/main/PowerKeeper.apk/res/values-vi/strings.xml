@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tiết kiệm pin</string>
-    <string name="activity_title_poweroptimize">Tiết kiệm pin</string>
-    <string name="activity_title_poweranalyze">Kiểm tra pin</string>
-    <string name="activity_title_powerconfigure">Cài đặt pin</string>
-    <string name="menu_text_power_analysis">Kiểm tra pin</string>
-    <string name="menu_text_power_configure">Cài đặt pin</string>
-    <string name="power_keeper">Tiết kiệm pin</string>
+    <string name="app_name">Tiết kiệm Pin</string>
+    <string name="activity_title_poweroptimize">Tiết kiệm Pin</string>
+    <string name="activity_title_poweranalyze">Kiểm tra Pin</string>
+    <string name="activity_title_powerconfigure">Cài đặt Pin</string>
+    <string name="menu_text_power_analysis">Kiểm tra Pin</string>
+    <string name="menu_text_power_configure">Cài đặt Pin</string>
+    <string name="power_keeper">Tiết kiệm Pin</string>
     <string name="invalid_size_value">Không thể đọc dung lượng gói cài đặt.</string>
     <string name="disabled">Tắt</string>
     <string name="no_applications">Trống</string>
@@ -38,20 +38,20 @@
     <string name="power_dialog_cpu_max_freq_title">Tần số CPU cao nhất</string>
     <string name="power_dialog_lcd_mode_title">Chế độ màn hình</string>
     <string name="power_mode_cpu_state_high">Hiệu suất</string>
-    <string name="power_mode_cpu_state_high_desc">Ưu tiên hiệu suất hơn thời gian sử dụng pin</string>
+    <string name="power_mode_cpu_state_high_desc">Ưu tiên hiệu suất hơn thời gian sử dụng Pin</string>
     <string name="power_mode_cpu_state_middle">Cân bằng</string>
     <string name="power_mode_cpu_state_middle_desc">Chỉ tăng hiệu suất khi cần thiết</string>
-    <string name="power_mode_cpu_state_low">Tiết kiệm pin</string>
-    <string name="power_mode_cpu_state_low_desc">Ưu tiên thời gian sử dụng pin hơn hiệu suất</string>
+    <string name="power_mode_cpu_state_low">Tiết kiệm Pin</string>
+    <string name="power_mode_cpu_state_low_desc">Ưu tiên thời gian sử dụng Pin hơn hiệu suất</string>
     <string name="power_customize_giveup_change">Hủy thay đổi?</string>
     <string name="power_dialog_cancel">Hủy</string>
     <string name="power_dialog_ok">Ok</string>
     <string name="action_settings">Cài đặt</string>
     <string name="power_dialog_screen_brightness_title">Độ sáng</string>
-    <string name="power_dialog_power_keeper_enable">Bật tiết kiệm pin?</string>
-    <string name="power_dialog_power_keeper_disable">Tắt tiết kiệm pin?</string>
+    <string name="power_dialog_power_keeper_enable">Bật tiết kiệm Pin?</string>
+    <string name="power_dialog_power_keeper_disable">Tắt tiết kiệm Pin?</string>
     <string name="power_dialog_new_event_fail">Không thể thêm sự kiện mới</string>
-    <string name="power_optimize_activity_profile_file_error">Lỗi tiết kiệm pin lỗi</string>
+    <string name="power_optimize_activity_profile_file_error">Lỗi tiết kiệm Pin lỗi</string>
     <string name="foreground_change">Ứng dụng đang chạy trong nền trước</string>
     <string name="screen_on">Màn hình bật</string>
     <string name="screen_off">Màn hình tắt</string>
@@ -67,7 +67,7 @@
     <string name="ui">Chuẩn</string>
     <string name="still">Ảnh</string>
     <string name="movie">Phim</string>
-    <string name="low">Tiết kiệm pin</string>
+    <string name="low">Tiết kiệm Pin</string>
     <string name="middle">Cân bằng</string>
     <string name="high">Hiệu suất</string>
     <string name="power_config_select_apps_title">Ứng dụng</string>
@@ -106,20 +106,18 @@
     <string name="add_user_define_title">Thêm hồ sơ</string>
     <string name="add_user_define_group_failed">Không thể thêm hồ sơ</string>
     <string name="mode_settings">Cài đặt</string>
-    <string name="hide_mode_desc">Khi một ứng dụng chạy ở chế độ nền, chúng sẽ được giám sát để giảm thiểu sử dụng pin. Kết nối mạng, dịch vụ vị trí, đài FM, hẹn giờ…sẽ bị ảnh hưởng bởi tính năng này. Cấu hình này sẽ tương thích với hầu hết ứng dụng, nhưng nếu bất kỳ ứng dụng nào xảy ra bất thường, bạn có thể tùy chỉnh lại trong cài đặt ứng dụng.</string>
-    <string name="hide_mode_ultimate_desc">Đã bật chế độ Tối đa. Ứng dụng trên nền sẽ bị đóng băng. Tắt tiết kiệm pin để thoát chế độ Tối đa.</string>
-    <string name="power_hide_mode_title">Quản lý sử dụng pin của ứng dụng</string>
-    <string name="power_hide_mode_summary">Tiết kiệm pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
-    <string name="power_config_apps">Tiết kiệm pin trong nền</string>
+    <string name="hide_mode_desc">Khi ứng dụng chạy trong nền, hoạt động của chúng có thể được kiểm soát để giảm việc sử dụng Pin.</string>
+    <string name="hide_mode_ultimate_desc">Đã bật chế độ Tối đa. Ứng dụng trên nền sẽ bị đóng băng. Tắt tiết kiệm Pin để thoát chế độ Tối đa.</string>
+    <string name="power_hide_mode_title">Quản lý sử dụng Pin của ứng dụng</string>
+    <string name="power_hide_mode_summary">Tiết kiệm Pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
+    <string name="power_config_apps">Tiết kiệm Pin trong nền</string>
     <string name="app_list_title">Chọn ứng dụng</string>
     <string name="power_hide_mode_app_list_summary">Cài đặt ứng dụng</string>
     <string name="app_list_total">%d ứng dụng</string>
-    <string name="power_config_mode_title">Chế độ tiết kiệm pin</string>
+    <string name="power_config_mode_title">Chế độ tiết kiệm Pin</string>
     <string name="power_config_disable_title">Tắt</string>
     <string name="power_config_disable_description">MIUI sẽ không hạn chế hoạt động nền</string>
-    <string name="power_config_normal_title">Tiêu chuẩn</string>
-    <string name="power_config_normal_description">Hạn chế truy cập nền đến dịch vụ vị trí và kết nối mạng</string>
-    <string name="power_config_enhance_title">Nâng cao</string>
+    <string name="power_config_enhance_title">Bật</string>
     <string name="power_config_enhance_description">MIUI sẽ hạn chế tất cả hoạt động nền khi có thể</string>
     <string name="power_config_ultimate_title">Tối đa</string>
     <string name="power_config_ultimate_description">MIUI sẽ đóng băng tất cả ứng dụng chạy nền</string>
@@ -139,12 +137,12 @@
     <string name="location_disable_title">Giới hạn</string>
     <string name="location_enable_description">Ứng dụng có thể sử dụng dịch vụ vị trí trong nền</string>
     <string name="location_disable_description">Ứng dụng chạy nền chỉ truy cập vị trí trong thời gian ngắn, sau đó sẽ bị hạn chế</string>
-    <string name="config_description">MIUI có thể xác minh ứng dụng với tiến trình nền cụ thể (ví dụ ứng dụng nhắn tin, điều hướng, máy nghe nhạc), và áp dụng Tiết kiệm pin mà không ảnh hưởng đến hoạt động nền quan trọng.</string>
+    <string name="config_description">MIUI có thể xác minh ứng dụng với tiến trình nền cụ thể (ví dụ ứng dụng nhắn tin, điều hướng, máy nghe nhạc), và áp dụng Tiết kiệm Pin mà không ảnh hưởng đến hoạt động nền quan trọng.</string>
     <string name="config_suggest_description">"Xác minh ứng dụng và hoạt động để đảm bảo tiến trình quan trọng tiếp tục.
-Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn lọc."</string>
+Tiết kiệm Pin sẽ xử lý ứng dụng quan trọng một cách có chọn lọc."</string>
     <string name="config_no_restrict_description">Tiết kiệm Pin không hạn chế hoạt động ứng dụng</string>
     <string name="config_restrict_function_description">Vài tính năng (ví dụ như thông báo đẩy) có thể bị ảnh hưởng, nhưng ứng dụng sẽ không bị đóng</string>
-    <string name="config_restrict_running_description">Ứng dụng sẽ bị đóng để tiết kiệm pin</string>
+    <string name="config_restrict_running_description">Ứng dụng sẽ bị đóng để tiết kiệm Pin</string>
     <string name="power_checker_title">Kiểm tra Nguồn</string>
     <string name="power_checker_running_group_title">Đang chạy</string>
     <string name="power_checker_recent_group_title">Gần đây</string>
@@ -155,4 +153,6 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="ragment_sys_listempty">Không có ứng dụng hệ thống</string>
     <string name="fragment_nonesys_listempty">Không có ứng dụng đã cài đặt</string>
     <string name="app_invisible_title">Ẩn ứng dụng</string>
+    <string name="power_config_normal_description">Hạn chế truy cập nền đến dịch vụ vị trí và kết nối mạng</string>
+    <string name="power_config_normal_title">Tiêu chuẩn</string>
 </resources>

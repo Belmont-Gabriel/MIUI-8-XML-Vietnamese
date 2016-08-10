@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="power_config_ultimate_on_count">
-        <item quantity="other">%1$d bước nữa để chuyển sang chế độ Ultimate</item>
-        <item quantity="one">%1$d bước nữa để chuyển sang chế độ Ultimate</item>
+        <item quantity="other">%1$d bước để chuyển sang chế độ Tối đa</item>
     </plurals>
     <plurals name="power_config_ultimate_off_count">
-        <item quantity="other">%1$d bước nữa để tắt chế độ Ultimate</item>
-        <item quantity="one">%1$d bước nữa để tắt chế độ Ultimate</item>
+        <item quantity="other">Còn %1$d bước để tắt chế độ Tối đa</item>
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
         <item quantity="other">Hoàn tất %1$d bước để mở khóa tất cả các mục</item>
-        <item quantity="one">Hoàn tất %1$d bước để mở khóa tất cả các mục</item>
     </plurals>
 </resources>

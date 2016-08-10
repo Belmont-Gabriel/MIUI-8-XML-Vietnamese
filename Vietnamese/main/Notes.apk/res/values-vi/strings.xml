@@ -6,8 +6,8 @@
     <string name="sina_token_expired_warning">Tài khoản Weibo đã hết hạn: Vui lòng liên kết lại</string>
     <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ: Vui lòng liên kết lại</string>
     <string name="sina_share_fail_content_repeat">Không thể chia sẻ, nội dung này đã tồn tại…</string>
-    <string name="search_keyword_notes">Ghi chú; Ghi nhớ</string>
-    <string name="search_path_notes">Cài đặt/Ứng dụng hệ thống/Ghi chú </string>
+    <string name="search_keyword_notes">Ghi chú;Ghi nhớ</string>
+    <string name="search_path_notes">Ứng dụng hệ thống/Ghi chú</string>
     <string name="dlg_move_message">Đang chuyển…</string>
     <string name="dlg_stick_message">Đang ghim…</string>
     <string name="dlg_privacy_message">Đang ẩn…</string>
@@ -17,7 +17,8 @@
     <string name="menu_mark_privacy">Ẩn</string>
     <string name="menu_unmark_privacy">Bỏ ẩn</string>
     <string name="menu_move_to">Chuyển tới</string>
-    <string name="menu_send_as_image">Gửi như ảnh</string>
+    <string name="menu_send_as_text">Gửi dưới dạng văn bản</string>
+    <string name="menu_send_as_image">Gửi ảnh chụp màn hình</string>
     <string name="sns_desc_image_preview">Xem trước tin nhắn</string>
     <string name="privacy_notes_fragment_title">Ghi chú ẩn</string>
     <string name="toast_mark_privacy_notes">Đã ẩn thành công</string>
@@ -40,6 +41,7 @@
 Chạm vào dấu cộng để tạo thư mục"</string>
     <string name="empty_note_mark_privacy_error">Không thể ẩn ghi chú trống</string>
     <string name="recover_notes_hint">Đã xảy ra lỗi, vào i.mi.com để khôi phục ghi chú.</string>
+    <string name="force_touch_menu_add">Thêm ghi chú</string>
     <string name="app_name">Ghi chú</string>
     <string name="app_widget">Ghi chú</string>
     <string name="widget_havenot_content">Chạm để tạo ghi chú. Bấm giữ tiện ích để thay đổi kích thước.</string>
