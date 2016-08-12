@@ -1148,7 +1148,6 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="card_main_monthreport_action">Xem</string>
     <string name="card_main_speeddetail_title">Tốc độ kết nối</string>
     <string name="card_main_speeddetailt_summary">Xem tốc độ kết nối ứng dụng cá nhân</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Kiểm tra mạng</string>
     <string name="card_main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>
