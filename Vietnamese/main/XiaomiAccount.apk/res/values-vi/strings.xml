@@ -2,23 +2,23 @@
 <resources>
     <string name="passport_account_label">Tài khoản Mi</string>
     <string name="passport_login_prompt">Sử dụng duy nhất một Tài khoản Mi cho tất cả các dịch vụ.</string>
-    <string name="passport_login_using_other_ways"><u>Đăng nhập bằng cách khác</u></string>
+    <string name="passport_login_using_other_ways"><u>Đăng nhập theo cách khác</u></string>
     <string name="passport_find_device_activate_account">Kích hoạt tài khoản</string>
-    <string name="passport_reg_prompt">"Bạn không có tài khoản Mi? Hãy tạo 1 tài khoản miễn phí."</string>
+    <string name="passport_reg_prompt">Không có Tài khoản Mi? Hãy tạo miễn phí.</string>
     <string name="passport_uplink_reg">Sử dụng số điện thoại</string>
     <string name="passport_uplink_slot1_reg">Sử dụng SIM 1</string>
     <string name="passport_uplink_slot2_reg">Sử dụng SIM 2</string>
     <string name="passport_reg_using_other_phone"><u>Sử dụng số điện thoại khác</u></string>
     <string name="passport_reg_btn_using_other_phone">Sử dụng số điện thoại khác</string>
-    <string name="passport_downlink_reg">Tạo tài khoản bằng số điện thoại</string>
-    <string name="passport_select_reg_ways_title">Đăng ký bằng cách khác</string>
+    <string name="passport_downlink_reg">Tạo tài khoản bằng cách sử dụng số điện thoại</string>
+    <string name="passport_select_reg_ways_title">Đăng nhập theo cách khác</string>
     <string name="passport_auto_generate_pwd">Tạo mật khẩu bảo mật</string>
     <string name="passport_pwd_generating">Đang tạo…</string>
     <string name="passport_pwd_generate_failure">Không thể tạo mật khẩu</string>
-    <string name="passport_use_generated_pwd_title">Ghi nhớ mật khẩu của bạn</string>
-    <string name="passport_use_generated_pwd_message">Hãy chắc chắn bạn nhớ mật khẩu. Bạn có thể sử dụng nó để đăng nhập vào các dịch vụ Mi khác.</string>
+    <string name="passport_use_generated_pwd_title">Nhớ mật khẩu của bạn</string>
+    <string name="passport_use_generated_pwd_message">Hãy chắc chắn rằng bạn đã nhớ mật khẩu. Bạn có thể sử dụng mật khẩu này để đăng nhập các dịch vụ Mi khác.</string>
     <string name="passport_i_know">Tôi biết</string>
-    <string name="passport_account_hint_text">Email hoặc ID tài khoản Mi</string>
+    <string name="passport_account_hint_text">Địa chỉ email hoặc ID Tài khoản Mi</string>
     <string name="passport_phone_num_hint_text">Số điện thoại</string>
     <string name="passport_login">Đăng nhập</string>
     <string name="passport_login_with_email_or_id"><u>Đăng nhập bằng địa chỉ email hoặc ID Tài khoản Mi</u></string>
@@ -55,7 +55,7 @@
     <string name="passport_active_email_visit">Kiểm tra hộp thư đến của bạn tại %s</string>
     <string name="passport_click_email_to_valid">"
 
-Để kích hoạt tài khoản, chạm vào liên kết mà chúng tôi đã gửi đến hộp thư của bạn."</string>
+Để kích hoạt tài khoản, chạm vào liên kết chúng tôi gửi đến hộp thư của bạn."</string>
     <string name="passport_resend_active_email">Gửi lại email</string>
     <string name="passport_delete_account">Đăng xuất</string>
     <string name="passport_completed">Hoàn tất</string>
@@ -92,19 +92,19 @@
     <string name="passport_confirm">OK</string>
     <string name="passport_login_notice">Đang đăng nhập…</string>
     <string name="passport_login_check_find_device">Đang kiểm tra trạng thái Tìm thiết bị…</string>
-    <string name="passport_login_check_find_device_failed_title">"Không thể kiểm tra trạng thái Tìm thiết bị"</string>
-    <string name="passport_login_find_device_bind">Thiết bị này đã liên kết với một Tài khoản Mi (ID %s).</string>
-    <string name="passport_retry">Thử lại</string>
+    <string name="passport_login_check_find_device_failed_title">Không thể kiểm tra trạng thái Tìm thiết bị</string>
+    <string name="passport_login_find_device_bind">Thiết bị này đã được liên kết với ID Tài khoản Mi (%s).</string>
+    <string name="passport_retry">Hãy thử lại</string>
     <string name="passport_back">Quay lại</string>
-    <string name="passport_find_device_display_id">Mã mở khóa: %s</string>
-    <string name="passport_miui_provision_find_status_text">"Thiết bị này đã liên kết với một Tài khoản Mi (%1$s), hãy nhập mật khẩu để xác minh thiết bị.
-(Mã mở khóa: %2$s)"</string>
+    <string name="passport_find_device_display_id">Số mở khóa: %s</string>
+    <string name="passport_miui_provision_find_status_text">"Thiết bị này đã được liên kết với Tài khoản Mi có sẵn (%1$s), nhập mật khẩu để xác minh thiết bị.
+(Số mở khóa: %2$s)"</string>
     <string name="passport_failed_to_send_activate_email">Không thể gửi email kích hoạt</string>
     <string name="passport_access_denied">Đã từ chối truy cập</string>
     <string name="passport_reging">Đang tạo tài khoản…</string>
     <string name="passport_reg_success">Tài khoản đã được tạo</string>
-    <string name="passport_reg_success_summary">%1$s đã được liên kết với tài khoản của bạn. Bạn có thể dùng để đăng nhập hoặc đặt lại mật khẩu.</string>
-    <string name="passport_email_reg_success_summary">%1$s đã được liên kết với tài khoản của bạn. Bạn có thể dùng để đăng nhập hoặc đặt lại mật khẩu.</string>
+    <string name="passport_reg_success_summary">%1$s đã được thêm vào tài khoản của bạn. Bạn có thể sử dụng để đăng nhập hoặc đặt lại mật khẩu.</string>
+    <string name="passport_email_reg_success_summary">%1$s đã được thêm vào tài khoản của bạn. Bạn có thể sử dụng để đăng nhập hoặc đặt lại mật khẩu.</string>
     <string name="passport_area_code_title">Mã quốc gia</string>
     <string name="passport_area_code_hot">THƯỜNG SỬ DỤNG</string>
     <string name="passport_user_agreement_p1">Đồng ý với </string>
@@ -121,7 +121,7 @@
     <string name="passport_remove_confirm">Đăng xuất</string>
     <string name="passport_find_password_on_web_msg">Truy cập vào account.mi.com để đặt lại mật khẩu của bạn.</string>
     <string name="passport_relogin">Đăng nhập lại</string>
-    <string name="passport_skip_login">Bỏ qua đăng nhập</string>
+    <string name="passport_skip_login">Bỏ qua</string>
     <string name="passport_checking_account">Đang kiểm tra mật khẩu…</string>
     <string name="passport_button_cancel">Hủy</string>
     <string name="passport_wrong_captcha">Mã bạn nhập không chính xác</string>
@@ -173,7 +173,7 @@
     <string name="account">Tài khoản</string>
     <string name="logout_failed">Không thể đăng xuất</string>
     <string name="turning_off_find_device">Đang tắt Tìm thiết bị…</string>
-    <string name="turn_off_find_device_failed_title">"Không thể tắt Tìm thiết bị"</string>
+    <string name="turn_off_find_device_failed_title">Không thể tắt Tìm thiết bị</string>
     <string name="no_response_retry">Không có phản hồi, vui lòng thử lại.</string>
     <string name="alert_title_remove_account">Xóa tài khoản?</string>
     <string name="remove_account_notice">Bạn muốn làm gì với các tin nhắn, liên hệ, và các dữ liệu đã được đồng bộ từ tài khoản Mi của bạn?</string>
@@ -183,7 +183,6 @@
     <string name="wipe_data_dialog_title">Một số mục chưa được đồng bộ</string>
     <string name="wipe_data_dialog_msg">%s sẽ bị xóa nếu bạn tiếp tục.</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
-    <string name="delete_bank_card_failed">Xóa thẻ thanh toán thất bại, vui lòng thử lại</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Kết nối đến Tài khoản Sina Weibo</string>
     <string name="bind_weibo_description">Thêm bạn bè của bạn từ Sina Weibo</string>
@@ -220,8 +219,6 @@
     <string name="account_none_user_name">Không</string>
     <string name="account_user_avatar">Ảnh đại diện</string>
     <string name="account_user_gender">Giới tính</string>
-    <string name="account_user_gender_female">Nữ</string>
-    <string name="account_user_gender_male">Nam</string>
     <string name="account_user_birthday">Sinh nhật</string>
     <string name="account_user_name_dialog_title">Nhập tên người dùng</string>
     <string name="account_empty_user_name">Nhập tên người dùng Tài khoản Mi của bạn</string>
@@ -247,7 +244,6 @@
     <string name="account_user_using_facebook_avatar">Sử dụng ảnh đại diện Facebook</string>
     <string name="account_user_avatar_from_camera">Chụp ảnh</string>
     <string name="account_user_avatar_from_album">Chọn ảnh</string>
-    <string name="photoPickerNotFoundText">Không có ảnh khả dụng.</string>
     <string name="account_crop_user_avatar">Cắt ảnh</string>
     <string name="sns_access_token_expired_warning">Tài khoản đăng nhập đã hết hạn. Vui lòng đăng nhập lại để kết nối tài khoản này.</string>
     <string name="user_avatar_uploading">Vui lòng chờ…</string>
@@ -325,6 +321,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="account_vip_achievements">Thành tựu</string>
     <string name="authorize_title">Ủy quyền</string>
     <string name="activity_not_found_notice">Không tìm thấy ứng dụng</string>
+    <string name="mi_insurance">Bảo hiểm Mi</string>
     <string name="my_device_title">Thiết bị hiện tại</string>
     <string name="device_list_title">Thiết bị của tôi</string>
     <string name="device_list__header">Thiết bị của tôi</string>
@@ -373,12 +370,19 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="multi_user_not_show_sync_activity_title">Không thể bật đồng bộ với Mi Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">Dường như bạn đã sử dụng Tài khoản Mi trên Không gian thứ nhất.</string>
     <string name="multi_user_not_show_sync_activity_message_2">Trong trường hợp đó, tất cả dữ liệu sẽ được đồng bộ vào Không gian thứ hai. Để tránh điều này, bạn không nên bật đồng bộ Mi Cloud.</string>
-    <string name="micloud_account_name">Tài khoản Mi</string>
+    <string name="notify_network_restricted_title">Tài khoản Mi không thể kết nối mạng</string>
+    <string name="notify_network_restricted_content_hidden_state">Hoạt động chạy nền của Tài khoản Mi đã bị hạn chế. Chạm để cho phép.</string>
+    <string name="notify_network_restricted_content_bg_network">Truy cập internet của Tài khoản Mi đã bị hạn chế. Chạm để cho phép.</string>
+    <string name="notify_network_restricted_content_mobile_network">Truy cập internet của Tài khoản Mi đã bị hạn chế. Chạm để cho phép.</string>
+    <string name="photoPickerNotFoundText">Không có ảnh khả dụng.</string>
     <string name="account_dspt_provision">"Đăng nhập vào Mi Cloud, cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào. "</string>
     <string name="account_dspt_provision2">Tìm hiểu thêm</string>
     <string name="account_learn_more_title">Tạo một Tài khoản Mi miễn phí</string>
+    <string name="account_user_gender_female">Nữ</string>
+    <string name="account_user_gender_male">Nam</string>
     <string name="cloud_service_dspt">Đồng bộ ảnh, liên hệ, ghi chú, ứng dụng và nhiều thứ khác giữa các thiết bị của bạn.</string>
     <string name="mi_account_dspt_provision">"Đăng nhập vào Mi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào. "</string>
+    <string name="micloud_account_name">Tài khoản Mi</string>
     <string name="passport_login_check_find_device_failed">Không thể kiểm tra trạng thái Tìm thiết bị. Hãy kiểm tra kết nối mạng.</string>
     <string name="passport_login_short">Đăng nhập</string>
     <string name="passport_xiaomi_account_dspt">Sử dụng Tài khoản Mi của bạn để đăng nhập Mi Cloud, Cửa hàng Chủ đề MIUI, và Cửa hàng Mi từ bất kỳ nơi đâu.</string>
@@ -390,6 +394,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="timeout_retry">Yêu cầu quá lâu, vui lòng thử lại.</string>
     <string name="account_vip_task">Nhiệm vụ</string>
     <string name="agree_add_continue">Đồng ý</string>
+    <string name="delete_bank_card_failed">Xóa thẻ thanh toán thất bại, vui lòng thử lại</string>
     <string name="exit">Thoát</string>
     <string name="internet_statement_message">Ứng dụng cần kết nối Internet để làm việc bình thường.</string>
     <string name="internet_statement_title">Yêu cầu kết nối</string>

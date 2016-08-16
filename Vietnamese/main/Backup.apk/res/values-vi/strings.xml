@@ -51,9 +51,9 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="prompt_reading">Đang đọc…</string>
     <string name="prompt_sending">Đang tải lên…</string>
     <string name="prompt_writing">Đang lưu…</string>
-    <string name="backup_new">Mới: </string>
+    <string name="backup_new">Mới:</string>
     <string name="backup_update">Cập nhật</string>
-    <string name="backup_delete">Xóa: </string>
+    <string name="backup_delete">Xóa:</string>
     <string name="findlost_contact">Khôi phục liên hệ</string>
     <string name="findlost_contact_online">Khôi phục lại liên hệ đã xóa từ Mi Cloud</string>
     <string name="cloud_backup_login">Đăng nhập vào Tài khoản Mi của bạn</string>
@@ -107,7 +107,7 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="task_backup_cancel_progress">Đang dừng…</string>
     <string name="task_restore_cancel_progress">Đang dừng…</string>
     <string name="nothing_searched">Không có kết quả nào.</string>
-    <string name="restore_counts">Khôi phục: </string>
+    <string name="restore_counts">Khôi phục:</string>
     <string name="service_stoped">Dịch vụ đã dừng</string>
     <string name="sc_network_unavailable">Kiểm tra kết nối của bạn và thử lại.</string>
     <string name="sc_bad_request">Yêu cầu không hợp lệ</string>
@@ -180,12 +180,11 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="import_from_xiaomi_account_hint2">Nếu bạn đã tiến hành sao lưu, chọn Tiếp theo</string>
     <string name="import_from_xiaomi_account_hint_title">Sử dụng Mi Talk để sao lưu liên hệ giữa các thiết bị.</string>
     <string name="guarded_mode_dialog_title">Bạn đang ở chế độ Khách</string>
-    <string name="guarded_mode_dialog_message">Tính năng này không khả dụng ở chế độ Khách.</string>
     <string name="guarded_mode_dialog_backup_message">Sao lưu không khả dụng ở chế độ Khách.</string>
     <string name="guarded_mode_dialog_transfer_message">Không thể sử dụng Mi Mover khi ở chế độ Khách.</string>
     <string name="multi_user_mode_dialog_title">Bạn đang ở chế độ Đa người dùng</string>
     <string name="multi_user_mode_dialog_message">Không thể sử dụng Mi Mover ở chế độ Đa người dùng. Tắt chế độ Đa người dùng để tiếp tục.</string>
-	<string name="multi_user_mode_backup_message">Không thể sử dụng Sao lưu ở chế độ Đa người dùng. Tắt chế độ Đa người dùng để tiếp tục.</string>
+    <string name="multi_user_mode_backup_message">Không thể sử dụng Sao lưu ở chế độ Đa người dùng. Tắt chế độ Đa người dùng để tiếp tục.</string>
     <string name="multi_select_title">Đã chọn %1$s</string>
     <string name="enable_encrypt_title">Mã hóa sao lưu</string>
     <string name="disable_encrypt_title">Tắt mã hóa</string>
@@ -262,7 +261,7 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="trans_sender">Tôi là người gửi</string>
     <string name="trans_receiver">Tôi là người nhận</string>
     <string name="trans_waiting_for_sender">Đang chờ thiết bị cũ kết nối…</string>
-    <string name="trans_waiting_ensurance">"Hãy chắc chắn đã mở thiết bị cũ và Mi Mover"</string>
+    <string name="trans_waiting_ensurance">Hãy chắc chắn đã mở thiết bị cũ và Mi Mover</string>
     <string name="trans_my_device">Thiết bị của tôi</string>
     <string name="trans_sender_searching">Tìm kiếm thiết bị mới</string>
     <string name="trans_sender_searching_ensurance">"Hãy chắc chắn đã mở thiết bị cũ.
@@ -301,7 +300,7 @@ Thời gian đã dùng: %s"</string>
     <string name="trans_progress_subdescript_br_sender_finish">Đã sao lưu %s, đang chờ gửi…</string>
     <string name="trans_progress_subdescript_transing_receiver_finish">Đã nhận %s, chờ khôi phục…</string>
     <string name="trans_cancel_confirm">Đang chuyển, dừng ngay?</string>
-    <string name="trans_cancelling">Đang hủy</string>
+    <string name="trans_cancelling">Đang hủy…</string>
     <string name="trans_device_disconnected">Thiết bị đã ngắt kết nối</string>
     <string name="trans_connecting_toast">Đang kết nối…</string>
     <string name="trans_connect_failed_toast">Không thể kết nối</string>
@@ -344,4 +343,5 @@ Giải phóng ít nhất %s."</string>
     <string name="user_notice_title">Chú ý</string>
     <string name="user_notice_message">Một số tính năng yêu cầu phải kết nối internet để hoạt động bình thường.</string>
     <string name="user_notice_declaration_ignore">Không hiển thị lại</string>
+    <string name="guarded_mode_dialog_message">Tính năng này không khả dụng ở chế độ Khách.</string>
 </resources>

@@ -6,30 +6,6 @@
         <item>SMS</item>
         <item>Báo thức</item>
     </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>Không nhắc nhở</item>
-        <item>Trước sự kiện</item>
-        <item>5 phút</item>
-        <item>10 phút</item>
-        <item>15 phút</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>1 ngày</item>
-        <item>2 ngày</item>
-        <item>1 tuần</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Không nhắc nhở</item>
-        <item>Trước sự kiện</item>
-        <item>5 phút</item>
-        <item>10 phút</item>
-        <item>15 phút</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>1 ngày</item>
-        <item>2 ngày</item>
-        <item>1 tuần</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Theo địa phương</item>
         <item>Thứ bảy</item>
@@ -124,8 +100,8 @@
     </string-array>
     <string-array name="availability">
         <item>Bận</item>
-        <item>Sẵn có</item>
-        <item>Thử nghiệm</item>
+        <item>Có thể</item>
+        <item>Chưa biết</item>
     </string-array>
     <string-array name="visibility">
         <item>Mặc định</item>
@@ -150,19 +126,13 @@
         <item>Sự kiện này và các sự kiện trong tương lai</item>
         <item>Tất cả sự kiện</item>
     </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Sự kiện này &amp; các sự kiện trong tương lai</item>
-        <item>Tất cả sự kiện</item>
-    </string-array>
     <string-array name="change_response_labels">
         <item>Chỉ sự kiện này</item>
         <item>Tất cả sự kiện trong hàng loạt sự kiện</item>
     </string-array>
-    <string-array name="buttons_list">
-        <item>Ngày</item>
-        <item>Tuần</item>
-        <item>Tháng</item>
-        <item>Lịch biểu</item>
+    <string-array name="fortune_gender">
+        <item>Nam</item>
+        <item>Nữ</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Đang chạy chỉ muộn vài phút.</item>
@@ -173,7 +143,7 @@
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Luôn luôn</item>
         <item>Chỉ khi ở chế độ im lặng</item>
-        <item>Chưa bao giờ</item>
+        <item>Không bao giờ</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Trong suốt</item>
@@ -181,34 +151,34 @@
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>Không nhắc nhở</item>
-        <item>Trước sự kiện</item>
-        <item>5 phút</item>
-        <item>10 phút</item>
-        <item>15 phút</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>1 ngày</item>
-        <item>2 ngày</item>
-        <item>1 tuần</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
         <item>Không nhắc nhở</item>
-        <item>Trước sự kiện</item>
-        <item>5 phút</item>
-        <item>10 phút</item>
-        <item>15 phút</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>1 ngày</item>
-        <item>2 ngày</item>
-        <item>1 tuần</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 giờ</item>
-        <item>4 giờ</item>
-        <item>5 giờ</item>
-        <item>6 giờ</item>
-        <item>1 ngày</item>
+        <item>Trước 3 giờ</item>
+        <item>Trước 4 giờ</item>
+        <item>Trước 5 giờ</item>
+        <item>Trước 6 giờ</item>
+        <item>Trước 1 ngày</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>ngày</item>
@@ -295,16 +265,50 @@
         <item>Thời gian</item>
         <item>Số lần</item>
     </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Không nhắc nhở</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Không nhắc nhở</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Sự kiện này &amp; các sự kiện trong tương lai</item>
+        <item>Tất cả sự kiện</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Ngày</item>
+        <item>Tuần</item>
+        <item>Tháng</item>
+        <item>Lịch biểu</item>
+    </string-array>
     <string-array name="online_reminder_minutes_labels">
-        <item>Trước sự kiện</item>
-        <item>5 phút trước</item>
-        <item>10 phút trước</item>
-        <item>15 phút trước</item>
-        <item>30 phút trước</item>
-        <item>1 giờ trước</item>
-        <item>1 ngày trước</item>
-        <item>2 ngày trước</item>
-        <item>1 tuần trước</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
     </string-array>
     <string-array name="online_reminder_minutes_labels_allday">
         <item>9:00SA hôm đó</item>

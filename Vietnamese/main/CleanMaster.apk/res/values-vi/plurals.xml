@@ -2,71 +2,44 @@
 <resources>
     <plurals name="mins_ago">
         <item quantity="other">%1$d phút trước</item>
-        <item quantity="zero">%1$d phút trước</item>
-        <item quantity="one">%1$d phút trước</item>
-        <item quantity="two">%1$d phút trước</item>
-        <item quantity="few">%1$d phút trước</item>
-        <item quantity="many">%1$d phút trước</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d giờ trước</item>
-        <item quantity="zero">%1$d giờ trước</item>
-        <item quantity="one">%1$d giờ trước</item>
-        <item quantity="two">%1$d giờ trước</item>
-        <item quantity="few">%1$d giờ trước</item>
-        <item quantity="many">%1$d giờ trước</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d ngày trước</item>
-        <item quantity="zero">%1$d ngày trước</item>
-        <item quantity="one">%1$d ngày trước</item>
-        <item quantity="two">%1$d ngày trước</item>
-        <item quantity="few">%1$d ngày trước</item>
-        <item quantity="many">%1$d ngày trước</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">Có %1$d người tải xuống</item>
+        <item quantity="other">Được tải xuống bởi %1$d người</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Có %1$d người tải xuống</item>
+        <item quantity="other">Được tải xuống bởi %1$d người</item>
     </plurals>
     <plurals name="million">
-        <item quantity="other">Có %1$d người tải xuống</item>
+        <item quantity="other">Được tải xuống bởi %1$d người</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d lượt xem</item>
-        <item quantity="zero">%1$d lượt xem</item>
-        <item quantity="one">%1$d lượt xem</item>
-        <item quantity="two">%1$d lượt xem</item>
-        <item quantity="few">%1$d lượt xem</item>
-        <item quantity="many">%1$d lượt xem</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d nhóm</item>
-        <item quantity="one">%d nhóm</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">Bạn có thể xóa dữ liệu không quan trọng của %d ứng dụng.</item>
-        <item quantity="one">Bạn có thể xóa dữ liệu không quan trọng của %d ứng dụng.</item>
+        <item quantity="other">Bạn có thể xóa dữ liệu không quan trọng của %d ứng dụng</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">%d ứng dụng đã cài đặt, bạn có thể xóa ứng dụng ít sử dụng.</item>
-        <item quantity="one">%d ứng dụng đã cài đặt, bạn có thể xóa ứng dụng này.</item>
+        <item quantity="other">%d ứng dụng đã cài đặt, bạn có thể xóa ứng dụng ít sử dụng</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">Tìm thấy %d tập tin lớn, bạn có thế xóa tập tin không quan trọng.</item>
-        <item quantity="one">Tìm thấy %d tập tin lớn, bạn có thế xóa tập tin này.</item>
+        <item quantity="other">Đã tìm thấy %d tập tin lớn, bạn có thế xóa tập tin không quan trọng</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
-        <item quantity="other">Tìm thấy %d ảnh, bạn có thể xóa ảnh trùng lặp hoặc không cần thiết.</item>
-        <item quantity="one">Tìm thấy %d ảnh, bạn có thể xóa ảnh trùng lặp hoặc không cần thiết.</item>
+        <item quantity="other">Đã tìm thấy %d ảnh, bạn có thể xóa ảnh trùng lặp hoặc không cần thiết</item>
     </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">Tìm thấy %d tập tin APK, bạn có thể xóa tập tin không cần thiết.</item>
-        <item quantity="one">Tìm thấy %d tập tin APK, bạn có thể xóa tập tin này.</item>
     </plurals>
     <plurals name="deepclean_video_summary">
         <item quantity="other">Tìm thấy %d video, bạn có thể xóa video không cần thiết.</item>
-        <item quantity="one">Tìm thấy %d video, bạn có thể xóa video này.</item>
     </plurals>
 </resources>

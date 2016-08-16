@@ -204,7 +204,7 @@
     <string name="global_actions_airplane_mode_off_status">Chế độ trên máy bay TẮT</string>
     <string name="global_action_settings">Cài đặt</string>
     <string name="global_action_assist">Hỗ trợ</string>
-    <string name="global_action_voice_assist">Trợ lý giọng nói</string>
+    <string name="global_action_voice_assist">Trợ lý thoại</string>
     <string name="global_action_lockdown">Khóa ngay</string>
     <string name="safeMode">Chế độ an toàn</string>
     <string name="android_system_label">Hệ thống Android</string>

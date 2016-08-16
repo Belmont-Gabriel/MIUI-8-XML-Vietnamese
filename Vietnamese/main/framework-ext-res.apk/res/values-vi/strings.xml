@@ -78,6 +78,10 @@
     <string name="handy_mode_summary">Để đóng, chạm vào vùng màu tối</string>
     <string name="handy_mode_enter_dlg_title">Vào chế độ một tay</string>
     <string name="handy_mode_enter_dlg_msg">Vào chế độ một tay?</string>
+    <string name="screenshot_gesture_detect_alert_title">Chụp màn hình bằng ba ngón tay</string>
+    <string name="screenshot_gesture_detect_alert_msg">Bật trượt xuống bằng ba ngón tay để sử dụng chức năng chụp màn hình?</string>
+    <string name="screenshot_gesture_detect_alert_button">Vào cài đặt ảnh chụp màn hình để bật</string>
+    <string name="screenshot_gesture_detect_alert_dont_again">Không hiển thị lại</string>
     <string name="permlab_manageLocationPolicy">Truy cập vị trí</string>
     <string name="permdesc_manageLocationPolicy">Cho phép ứng dụng quản lý các chính sách vị trí và xác định quy tắc ứng dụng cụ thể.</string>
     <string name="location_usage_restricted_title">Giới hạn định vị chạy nền</string>
@@ -95,7 +99,7 @@
     <string name="set_password_action">Thiết lập mật khẩu</string>
     <string name="set_password_title">Thiết lập mật khẩu</string>
     <string name="set_password_message">Đặt mật khẩu để sử dụng tính năng này.</string>
-    <string name="apply_password_confirm_dlg_title">%s mật khẩu</string>
+    <string name="apply_password_confirm_dlg_title">Chế độ %s</string>
     <string name="apply_password_confirm_dlg_msg">Sử dụng mật khẩu màn hình khóa hiện tại để truy cập cài đặt cho %s.</string>
     <string name="apply_password_action">OK</string>
     <string name="subinfo_default_name">SIM %d</string>
@@ -118,12 +122,12 @@
     <string name="auto_disable_screenbuttons_prompts_message">Nhấp đôi phím bất kỳ để bật điều hướng.</string>
     <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
     <string name="auto_disable_screenbuttons_prompts_not_show_again">Không hiển thị lại</string>
-    <string name="start_security_permission_verify_text">Xác nhận quyền với tài khoản Mi của bạn</string>
+    <string name="start_security_permission_verify_text">Xác minh quyền bằng Tài khoản Mi của bạn</string>
     <string name="security_permission_denied_text">Đã từ chối truy cập</string>
     <string name="security_permission_failed_text">Đã xảy ra lỗi, hãy thử lại sau</string>
-    <string name="security_permission_xiaomi_account_missed_text">Nhập ID tài khoản Mi của bạn</string>
-    <string name="security_permission_validate_warning">Cảm ơn bạn đã giúp làm cho MIUI tốt hơn!</string>
-    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi và dữ liệu di động đã bật</string>
+    <string name="security_permission_xiaomi_account_missed_text">Nhập ID Tài khoản Mi của bạn</string>
+    <string name="security_permission_validate_warning">Cảm ơn bạn đã hỗ trợ để MIUI ngày càng hoàn thiện hơn!</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi và dữ liệu di động đã được bật</string>
     <string name="xspace_resolver_activity_title">Chọn ứng dụng</string>
     <string name="user_switching_dialog_text">Đang chuyển…</string>
     <string name="screen_button_disabled_message">Phím điều hướng đã bị vô hiệu hóa. Để bật lại, chạm đồng thời phím Trang chính và nút Nguồn.</string>

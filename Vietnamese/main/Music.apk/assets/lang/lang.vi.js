@@ -141,7 +141,7 @@
   "title_game_list":"Chơi khi đang phát",
   "more_app":"Thêm ứng dụng",
   "more_game":"Thêm trò chơi",
-  "list_load_in_process":"Đang tải\\u2026",
+  "list_load_in_process":"Đang tải...",
   "list_load_error":"Không thể tải mục, hãy thử lại",
   "list_load_end":"Tất cả mục đã tải thành công",
   "score":"Đánh giá",

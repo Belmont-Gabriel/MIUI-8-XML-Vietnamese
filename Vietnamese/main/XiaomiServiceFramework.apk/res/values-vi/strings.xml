@@ -98,7 +98,7 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="activate_popup_desc_error_device_id">Gọi *#06# để kiểm tra IMEI</string>
     <string name="activate_popup_confirm_error_device_id">Thử lại</string>
     <string name="activate_feature_mx">Tin nhắn Mi</string>
-    <string name="activate_feature_mx_and_voip">Tin nhắn Mi và Mi Voice</string>
+    <string name="activate_feature_mx_and_voip">Tin nhắn Mi và Cuộc gọi Mi</string>
     <string name="activate_feature_mms_sync">Đồng bộ tin nhắn</string>
     <string name="activate_feature_call_log_sync">Đồng bộ lịch sử cuộc gọi</string>
     <string name="activate_feature_find_device">Tìm thiết bị</string>

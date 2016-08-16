@@ -230,8 +230,8 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="SysOpt_Boost_AutoStart">Quyền tự khởi chạy</string>
     <string name="Su_Enable_Dialog">%1$s đang yêu cầu quyền root.</string>
     <string name="Su_Unavailable">Quyền truy cập root không có sẵn trong bản MIUI này. Bạn cần phải cài đặt lại phiên bản MIUI của nhà phát triển để có quyền root.</string>
-    <string name="Su_Package_Forbidden">%1$s không có quyền root.</string>
-    <string name="permisson_reject_notice_toast_text">\"%1$s\" không có quyền để %2$s. Bạn có thể đổi quyền truy cập ứng dụng bất kỳ lúc nào trong Bảo mật > Quyền.</string>
+    <string name="Su_Package_Forbidden2">không có quyền root.</string>
+    <string name="permisson_reject_notice_toast_text2">không có quyền %1$s.</string>
     <string name="HIPS_Action_Reject_Once">Từ chối một lần</string>
     <string name="HIPS_Action_Accept_Once">Cho phép một lần</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">Cho phép một lần (%d)</string>
@@ -269,6 +269,8 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="HIPS_Perm_install_shortcut_Desc">Thêm lối tắt vào Màn hình chính</string>
     <string name="HIPS_Perm_read_notification_sms">Dịch vụ SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Đọc dịch vụ SMS</string>
+    <string name="HIPS_Perm_get_tasks">Nhận nhiệm vụ</string>
+    <string name="HIPS_Perm_get_tasks_Desc">nhận nhiệm vụ</string>
     <string name="permission_group_title_charges_related">Tính phí</string>
     <string name="permission_group_title_privacy_related">Riêng tư</string>
     <string name="permission_group_title_media_related">Đa phương tiện</string>
@@ -287,5 +289,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="grant_dialog_button_deny">Từ chối</string>
     <string name="current_permission_template">%1$s/%2$s quyền</string>
     <string name="never_ask_again">Không hỏi lại</string>
+    <string name="Su_Package_Forbidden">%1$s không có quyền root.</string>
+    <string name="permisson_reject_notice_toast_text">\"%1$s\" không có quyền để %2$s. Bạn có thể đổi quyền truy cập ứng dụng bất kỳ lúc nào trong Bảo mật > Quyền.</string>
     <string name="wakepath_confirm_start_activity">Cho phép %1$s mở %2$s?</string>
 </resources>
