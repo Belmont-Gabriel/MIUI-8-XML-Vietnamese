@@ -62,7 +62,7 @@
     <string name="bluetooth_pairing_device_down_error_message">Không thể kết nối với %1$s.</string>
     <string name="bluetooth_pairing_rejected_error_message">Ghép nối bị %1$s từ chối.</string>
     <string name="accessibility_wifi_off">Wi-Fi tắt.</string>
-    <string name="accessibility_no_wifi">Wi-Fi đã ngắt kết nối.</string>
+    <string name="accessibility_no_wifi">Không có Wi-Fi.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi một vạch.</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi hai vạch.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi ba vạch.</string>
@@ -75,7 +75,7 @@
     <string name="battery_low_title">Cắm bộ sạc</string>
     <string name="battery_low_percent_format">%d%% còn lại</string>
     <string name="invalid_charger">"Không hỗ trợ sạc qua USB.
-Chỉ sử dụng bộ sạc đi kèm."</string>
+Chỉ sử dụng bộ sạc được cung cấp."</string>
     <string name="status_bar_settings_airplane">Chế độ trên máy bay</string>
     <string name="bluetooth_tethered">Bluetooth được dùng làm điểm truy cập Internet</string>
     <string name="usb_device_permission_prompt">Cho phép ứng dụng %1$s truy cập thiết bị USB?</string>
@@ -323,10 +323,10 @@ d MMMM"</string>
     <string name="screenshot_dlg_cancel">Hủy</string>
     <string name="screenshot_dlg_delete_button">Xóa</string>
     <string name="long_screenshot_not_support_msg">Ứng dụng hiện tại không hỗ trợ chụp màn hình dài.</string>
-    <string name="long_screenshot_stop">Dừng</string>
+    <string name="long_screenshot_stop">Hoàn tất</string>
     <string name="long_screenshot_processing">Đang xử lý…</string>
-    <string name="long_screenshot_top_msg">Đang chụp màn hình dài hơn…</string>
-    <string name="long_screenshot_out_of_memory_error">Thất bại vì hình ảnh quá lớn</string>
+    <string name="long_screenshot_top_msg">Đang chụp ảnh màn hình…</string>
+    <string name="long_screenshot_out_of_memory_error">Kích thước ảnh quá lớn</string>
     <string name="float_incall_message">Tin nhắn</string>
     <string name="float_incall_ignore">Bỏ qua</string>
     <string name="notification_manager">Quản lý thông báo</string>
@@ -339,8 +339,9 @@ d MMMM"</string>
     <string name="quick_settings_connect_success">Đã kết nối</string>
     <string name="quick_settings_connecting">Đang kết nối</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
-    <string name="quick_settings_bluetooth_detail_empty_text">Không có thiết bị đã ghép khả dụng</string>
-    <string name="accessibility_ime_switch_button">Nút chuyển phương thức nhập.</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Không có thiết bị kết nối khả dụng</string>
+    <string name="accessibility_ime_switch_button">Phím chuyển phương thức nhập.</string>
+    <string name="accessibility_assistant">Phím ảo</string>
     <string name="lland">Lollipop</string>
     <string name="mland">Marshmallow</string>
     <string name="headset_custom">Bỏ qua</string>

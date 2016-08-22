@@ -515,7 +515,7 @@
         <item>Ưu tiên Wi-Fi</item>
         <item>Ưu tiên mạng di động</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
+    <string-array name="haptic_feedback_level_texts">
         <item>Tắt</item>
         <item>Nhẹ</item>
         <item>Vừa</item>
@@ -776,6 +776,82 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Khóa ứng dụng</item>
         <item>Không gian Thứ hai</item>
     </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Hàng ngày</item>
+        <item>Các ngày trong tuần</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Hàng ngày</item>
+        <item>Các ngày trong tuần</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Bật (kiến nghị)</item>
+        <item>Không sử dụng (nguy hiểm)</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Bật</item>
+        <item>Không sử dụng</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Tắt</item>
+        <item>Thông báo</item>
+        <item>Rung</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Tắt</item>
+        <item>Nhẹ</item>
+        <item>Vừa</item>
+        <item>Mạnh</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Thạch anh tím</item>
+        <item>Hồng ngọc</item>
+        <item>Hoàng ngọc</item>
+        <item>Ngọc lục bảo</item>
+        <item>Ngọc hồng lựu</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Sử dụng Dalvik</item>
+        <item>Sử dụng ART</item>
+        <item>Sử dụng bản dựng gỡ lỗi ART</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (gỡ lỗi)</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>Không giới hạn</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Tiếng Trung (Giản Thể)</item>
+        <item>Tiếng Trung (Phồn Thể)</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Giảm độ trễ</item>
+        <item>Chuẩn</item>
+        <item>Chất lượng tốt hơn</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Được phép</item>
+        <item>Từ chối</item>
+        <item>Luôn hỏi</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Tắt</item>
+        <item>Hạn chế gián đoạn</item>
+        <item>Không gián đoạn</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>4 số cuối</item>
+        <item>4 số đầu</item>
+    </string-array>
     <string-array name="description_primary">
         <item>SnapDragon 801</item>
         <item>GB</item>
@@ -791,75 +867,5 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Màn hình Full HD</item>
         <item>Mạng tốc độ cao</item>
         <item>Máy ảnh độ nét cao</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Hàng ngày</item>
-        <item>Các ngày trong tuần</item>
-        <item>Tùy chỉnh</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Hàng ngày</item>
-        <item>Các ngày trong tuần</item>
-        <item>Tùy chỉnh</item>
-    </string-array>
-    <string-array name="miracast_policies">
-        <item>Giảm độ trễ</item>
-        <item>Chuẩn</item>
-        <item>Chất lượng tốt hơn</item>
-    </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 phút</item>
-        <item>15 phút</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>Không giới hạn</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Tắt</item>
-        <item>Thông báo</item>
-        <item>Rung</item>
-    </string-array>
-    <string-array name="select_runtime_titles">
-        <item>Dalvik</item>
-        <item>ART</item>
-        <item>ART (gỡ lỗi)</item>
-    </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Sử dụng Dalvik</item>
-        <item>Sử dụng ART</item>
-        <item>Sử dụng bản dựng gỡ lỗi ART</item>
-    </string-array>
-    <string-array name="install_non_market_app_entries">
-        <item>Bật (kiến nghị)</item>
-        <item>Không sử dụng (nguy hiểm)</item>
-    </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Bật</item>
-        <item>Không sử dụng</item>
-    </string-array>
-    <string-array name="sim_card_data_range">
-        <item>4 số cuối</item>
-        <item>4 số đầu</item>
-    </string-array>
-    <string-array name="app_ops_permissions">
-        <item>Được phép</item>
-        <item>Từ chối</item>
-        <item>Luôn hỏi</item>
-    </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Tắt</item>
-        <item>Hạn chế gián đoạn</item>
-        <item>Không gián đoạn</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>Tiếng Trung (Giản Thể)</item>
-        <item>Tiếng Trung (Phồn Thể)</item>
-    </string-array>
-    <string-array name="pink_panel_led_color_entries">
-        <item>Thạch anh tím</item>
-        <item>Hồng ngọc</item>
-        <item>Hoàng ngọc</item>
-        <item>Ngọc lục bảo</item>
-        <item>Ngọc hồng lựu</item>
     </string-array>
 </resources>

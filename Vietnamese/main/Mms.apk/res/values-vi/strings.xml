@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="search_title_mms">Nhắn tin</string>
-    <string name="search_keyword_mms">Nhắn tin</string>
+    <string name="search_keyword_mms">Tin nhắn;SMS;MMS;Văn bản;Nhắn tin</string>
     <string name="search_path_mms">Cài đặt/Ứng dụng hệ thống/Nhắn tin</string>
     <string name="pref_summary_manage_sim_messages">Quản lý tin nhắn được lưu trữ trên thẻ SIM của bạn</string>
     <string name="pref_title_manage_sim_messages">Dung lượng thẻ SIM</string>
@@ -371,7 +371,6 @@
     <string name="timed_message_to">tới</string>
     <string name="timed_message_in_total"> (%d tin nhắn)</string>
     <string name="processing">Đang tiến hành…</string>
-    <string name="title_date_type">Nhãn thời gian</string>
     <string name="mx_msg">Tin nhắn Mi</string>
     <string name="mx_msg_pageview_setting_title">Cài đặt Tin nhắn Mi</string>
     <string name="mx_enable">Tin nhắn Mi</string>
@@ -498,14 +497,6 @@
     <string name="sp_category_all">Tất cả các tin nhắn dịch vụ</string>
     <string name="sp_category_bank">Tin nhắn thông báo ngân hàng</string>
     <string name="refill_now">Nạp tiền ngay</string>
-    <string name="toast_feedback_start">Đang lấy dữ liệu đăng nhập…</string>
-    <string name="toast_feedback_finish">Báo cáo của bạn sẽ được gửi khi bạn kết nối tới Wi-Fi</string>
-    <string name="toast_feedback_max">Không thể gửi nhiều hơn 3 báo cáo một ngày</string>
-    <string name="toast_description_required">Mô tả không được để trống</string>
-    <string name="pref_key_mx_feedback">Phản hồi</string>
-    <string name="pref_summary_mx_feedback">Báo lỗi và gửi phản hồi</string>
-    <string name="feedback_description_hint">Viết phản hồi tại đây</string>
-    <string name="feedback_submit">Gửi</string>
     <string name="action_firewall_setting">Danh sách chặn</string>
     <string name="user_agreement1">Đọc các điều khoản áp dụng cẩn thận trước khi bạn cài đặt phần mềm bổ sung hoặc dùng sản phẩm này.</string>
     <string name="user_agreement2">Điều khoản Dịch vụ</string>
@@ -567,9 +558,10 @@
     <string name="menu_send_as_common">Gửi như tin nhắn SMS</string>
     <string name="message_sent">Đã gửi</string>
     <string name="mx2_type_description">[%s]</string>
-    <string name="left_cancel">Trượt sang trái để hủy</string>
+    <string name="open_audio_record_panel">Mở bảng ghi âm</string>
+    <string name="hold_to_talk">Giữ để nói</string>
+    <string name="slide_up_to_cancel">Trượt lên để hủy</string>
     <string name="release_cancel">Thả ra để hủy</string>
-    <string name="press_recording">Bấm &amp; giữ biểu tượng Micro để ghi âm</string>
     <string name="warning_show">Gửi sau %d giây</string>
     <string name="audio_playing_seconds">%d giây</string>
     <string name="playing_failed">Không thể phát</string>
@@ -615,10 +607,11 @@
     <string name="voip_enable_popup_msg2">Chính sách Riêng tư</string>
     <string name="mx_and_voip_enable">Tin nhắn Mi &amp; Cuộc gọi Mi</string>
     <string name="mx_and_voip_enable_popup_msg">Gửi tin nhắn hoặc gọi điện đến thiết bị MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
-    <string name="mx_and_voip_enable_popup_msg2">Chính sách Riêng tư</string>
+    <string name="mx_and_voip_enable_popup_msg2">Chính sách Bảo mật</string>
     <string name="mx_b2c_message_desc">Thông báo mạng</string>
     <string name="networking_allow_title">Chú ý</string>
     <string name="networking_allow_desc">Tin nhắn thông minh cho phép bạn gửi tin nhắn văn bản và tin nhắn thoại miễn phí, nhận biết số không xác định, lọc tin nhắn rác… Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi. Bạn cần phải bật Danh bạ web và kết nối internet để sử dụng dịch vụ này.</string>
+    <string name="networking_allow_desc_without_mx">Tin nhắn thông minh cho phép bạn nhận biết số không xác định, lọc tin nhắn rác v.v..Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi. Bạn cần phải bật Danh bạ web và kết nối internet để sử dụng dịch vụ này.</string>
     <string name="networking_allow_continue">OK</string>
     <string name="mx_activate_allow_notice">Nhà cung cấp có thể tính phí tin nhắn SMS được sử dụng để kích hoạt dịch vụ tin nhắn văn bản và tin nhắn thoại miễn phí.</string>
     <string name="mx_b2c_message_resend_not_online">Không thể gửi lại tin nhắn. Tin nhắn Mi đang ngoại tuyến.</string>
@@ -636,7 +629,7 @@
     <string name="red_package_btn">Mở</string>
     <string name="snippet_red_package">[Bao lì xì]</string>
     <string name="title_red_package">Chúc mừng phát tài, vạn sự như ý</string>
-    <string name="title_send_red_package">Kiểm tra Bao Lì xì</string>
+    <string name="title_send_red_package">Gửi Bao Lì xì</string>
     <string name="title_recv_red_package">Nhận Bao Lì xì</string>
     <string name="fake_cell_alert_hint">Dường như tin nhắn này đã được gửi từ số điện thoại khác với số điện thoại hiển thị. Hãy thận trọng với tin nhắn SMS liên quan đến yêu cầu tài chính.</string>
     <string name="fake_cell_safe_hint">Tin nhắn này an toàn</string>
@@ -662,4 +655,19 @@
     <string name="i_know">OK</string>
     <string name="second_mms_introduction">Vào Không gian thứ hai</string>
     <string name="second_mms_switch">Chuyển</string>
+    <string name="feedback_description_hint">Viết phản hồi tại đây</string>
+    <string name="feedback_submit">Gửi</string>
+    <string name="left_cancel">Trượt sang trái để hủy</string>
+    <string name="pref_key_mx_feedback">Phản hồi</string>
+    <string name="pref_summary_mx_feedback">Báo lỗi và gửi phản hồi</string>
+    <string name="press_recording">Bấm &amp; giữ biểu tượng Micro để ghi âm</string>
+    <string name="title_date_type">Nhãn thời gian</string>
+    <string name="toast_description_required">Mô tả không được để trống</string>
+    <string name="toast_feedback_finish">Báo cáo của bạn sẽ được gửi khi bạn kết nối tới Wi-Fi</string>
+    <string name="toast_feedback_max">Không thể gửi nhiều hơn 3 báo cáo một ngày</string>
+    <string name="toast_feedback_start">Đang lấy dữ liệu đăng nhập…</string>
+    <string name="block_support_text">Được hỗ trợ bởi Antiy.</string>
+    <string name="force_touch_new_message_title">Tin nhắn mới</string>
+    <string name="pref_delivery_ringtone">Âm thông báo</string>
+    <string name="pref_summary_delivery_ringtone">Nhận âm báo cho tin nhắn đã gửi.</string>
 </resources>

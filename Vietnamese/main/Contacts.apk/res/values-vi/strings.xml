@@ -725,7 +725,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="miprofile_alertdialog_message">Hiển thị tên này khi chuyển đổi danh thiếp.</string>
     <string name="miprofile_alertdialog_edit">Nhập tên</string>
     <string name="miprofile_switch_off_alertdialog_message">Bạn không thể chuyển đổi danh thiếp với người khác.</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">Thêm số điện thoại</string>
     <string name="miprofile_bind_account_alertdialog_message">Bạn cần phải thêm số điện thoại của thiết bị này đến Tài khoản Mi của bạn để sử dụng tính năng này.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Thêm số điện thoại</string>

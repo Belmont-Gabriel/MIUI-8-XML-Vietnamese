@@ -81,6 +81,10 @@
         <item quantity="other">%1$d ứng dụng đã sử dụng bộ nhớ trong %2$s qua</item>
         <item quantity="one">1 ứng dụng đã sử dụng bộ nhớ trong %2$s qua</item>
     </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d thiết bị</item>
+        <item quantity="one">%d thiết bị</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để xem thông tin điện thoại.</item>
         <item quantity="one">Bạn chỉ cần hoàn thành %1$d bước để xem thông tin điện thoại.</item>
