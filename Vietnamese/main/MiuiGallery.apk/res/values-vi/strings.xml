@@ -309,6 +309,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="album_others_share_info_format">Từ %s</string>
     <string name="album_others_share_baby_info_format">Album bé từ %s</string>
     <string name="album_already_forced_top">Đã lên đầu</string>
+    <string name="album_show_local_only">Chỉ hiển thị album trên máy</string>
     <string name="menu_item_sort_size">Kích thước</string>
     <string name="menu_item_sort_date">Ngày</string>
     <string name="menu_item_sort_name">Tên</string>
@@ -326,12 +327,12 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="picker_full_format">Bạn có thể chọn đến %d ảnh</string>
     <string name="picker_image_need_download">%d ảnh đã chọn không nằm trên thiết bị. Tải xuống bằng dữ liệu di động?</string>
     <string name="picker_origin_need_download">%1$d ảnh đã chọn (%2$dMB) không nằm trên thiết bị. Tải xuống bằng dữ liệu di động?</string>
-    <string name="picker_skip_unavailable_images">" "<item quantity="one">Đã bỏ qua một ảnh không có trên thiết bị</item> <item quantity="other">Đã bỏ qua %d ảnh không có trên thiết bị.</item>" "</string>
     <string name="picker_image_will_download">%d ảnh đã chọn không nằm trên thiết bị. Các ảnh này sẽ được tải xuống.</string>
     <string name="picker_continue_with_exists">Tiếp tục với ảnh trên máy</string>
     <string name="picker_download">Tải xuống</string>
     <string name="picker_cancel_download">Hủy tải xuống</string>
     <string name="picker_continue_download">Tiếp tục tải xuống</string>
+    <string name="picker_no_network_message">Không có mạng, hãy kết nối mạng và tải xuống</string>
     <string name="picker_mobile_data_video">Không thể tải xuống video bằng dữ liệu di động, đã bỏ qua %d video.</string>
     <string name="picker_download_progress_message">Đang tải xuống %1$d/%2$d</string>
     <string name="operation_send">Gửi</string>
@@ -355,13 +356,17 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="operation_hide">Ẩn</string>
     <string name="operation_unhide">Bỏ ẩn</string>
     <string name="operation_do_delete_local_thumnail">Xóa từ thiết bị</string>
-    <string name="operation_enable_auto_upload">Bật đồng bộ với Mi Cloud</string>
-    <string name="operation_disable_auto_upload">Tắt đồng bộ với Mi Cloud</string>
+    <string name="operation_remove_from_other_albums">Chuyển từ album khác</string>
+    <string name="operation_move_to_other_albums">Chuyển đến album khác</string>
     <string name="operation_show_in_photos_tab">Hiển thị trong Ảnh</string>
     <string name="operation_not_show_in_photos_tab">Không hiển thị trong Ảnh</string>
     <string name="auto_upload_enable_toast_long_press_menu">Đồng bộ với Mi Cloud bật, vào Album để xem</string>
     <string name="auto_upload_disable_toast_long_press_menu">Bật đồng bộ với Mi Cloud, vào Album khác để xem</string>
     <string name="operation_enter_delete_local">Xóa ảnh và video đã sao lưu từ thiết bị</string>
+    <string name="remove_from_other_albums_tip">Bật đồng bộ Mi Cloud để di chuyển ảnh từ album khác. Di chuyển ngay?</string>
+    <string name="move_to_other_albums_tip">Đồng bộ Mi Cloud sẽ bị tắt nếu bạn di chuyển album này đến album khác. Di chuyển ngay?</string>
+    <string name="turn_on_and_remove">Bật và di chuyển</string>
+    <string name="turn_off_and_move">Tắt và di chuyển</string>
     <string name="auto_upload_disable_tip">Đồng bộ với Mi Cloud đã tắt</string>
     <string name="to_enable_sync_dialog_title">Đồng bộ</string>
     <string name="to_enable_sync_dialog_message">Bật đồng bộ trước</string>
@@ -403,6 +408,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="projection_slide_exit">Dừng trình chiếu</string>
     <string name="projection_slide_fail_cause_loading">Bắt đầu lại trình chiếu sau khi ảnh đã được tải</string>
     <string name="projection_video_quit">Chạm để thoát</string>
+    <string name="projection_device_connection_failed">Không thể kết nối với máy chiếu</string>
     <string name="view_by_gallery_tip">Thư viện MIUI</string>
     <string name="photo">Ảnh</string>
     <string name="orientation_lock_tip">Tự động xoay tắt</string>
@@ -413,9 +419,12 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="loading_fail_sync_off_message">Không thể tải ảnh, đồng bộ với Mi Cloud đã tắt.</string>
     <string name="turn_on_sync">Bật đồng bộ</string>
     <string name="download_canceled">Đã hủy tải xuống</string>
+    <string name="set_as_wallpaper_title">Đặt làm Hình nền</string>
+    <string name="set_as_wallpaper_description">Ảnh này là thumbnail, bạn có cần tải bản gốc trước?</string>
     <string name="must_pick_file">Chọn ảnh</string>
     <string name="send_multiple_files_hint_format">Gửi (%s)</string>
     <string name="send_too_many_files_error">Không thể gửi %d mục cùng một lúc</string>
+    <string name="share_app_is_launching">Ứng dụng mục tiêu đang chạy</string>
     <string name="title_warn">Cảnh báo</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
@@ -441,6 +450,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="add_to_album_exist">Ảnh này đã tồn tại</string>
     <string name="add_to_album_bulk_result">Lỗi (%d)</string>
     <string name="adding_to_album">Đang thêm ảnh…</string>
+    <string name="add_to_album_tip">Ảnh Mi Cloud</string>
     <string name="delete">Xóa</string>
     <string name="delete_finish_format">Đã xóa %d</string>
     <string name="delete_in_process">Đang xóa…</string>
@@ -449,7 +459,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="delete_other_shared_images">Không thể xóa ảnh được chia sẻ bởi người khác</string>
     <string name="delete_owner_and_other_shared_images_format">Đã xóa %1$d, đã lưu %2$d</string>
     <string name="delete_from_all_devices">từ tất cả thiết bị</string>
-    <string name="delete_from_album">từ \"%s\" album (tất cả thiết bị)</string>
+    <string name="delete_from_album">từ album \"%s\" (tất cả thiết bị)</string>
     <string name="delete_from_album_no_account">từ \"%s\" album</string>
     <string name="delete_album_msg_format">Xóa album \"%2$s\" %1$s %3$s?</string>
     <string name="delete_third_party_photo">Xóa ảnh này?</string>
@@ -657,6 +667,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="delete_from_devices">Tất cả thiết bị đã được đồng bộ</string>
     <string name="delete_from_devices_album">Tất cả thiết bị đã đồng bộ với album này</string>
     <string name="delete_to_trash_tips">Bạn có thể xem ảnh đã xóa gần đây trong Cài đặt > Thùng rác</string>
+    <string name="delete_from_cloud">Xóa ảnh từ album Mi Cloud</string>
     <string name="download_title">Đang chuẩn bị tập tin…</string>
     <string name="download_retry_title">Không thể tải xuống tập tin</string>
     <string name="download_retry_message">Không thể tải xuống tập tin, kiểm tra kết nối mạng và thử lại</string>
@@ -698,6 +709,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="finish">Hoàn tất</string>
     <string name="revert">Hoàn nguyên</string>
     <string name="filter">Bộ lọc</string>
+    <string name="crop_and_rotate">Điều chỉnh</string>
     <string name="sticker">Biểu tượng</string>
     <string name="doodle_pencil">Bút chì</string>
     <string name="doodle_pen">Bút vẽ</string>
@@ -739,6 +751,8 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="adjust_vignette">Mờ viền</string>
     <string name="renren_description">Được hỗ trợ bởi RenRen</string>
     <string name="focal_length">Độ dài tiêu cự</string>
+    <string name="operation_disable_auto_upload">Tắt đồng bộ với Mi Cloud</string>
+    <string name="operation_enable_auto_upload">Bật đồng bộ với Mi Cloud</string>
     <string name="already_apply_album">Mở %1$s?</string>
     <string name="share_current_album">Chia sẻ album hiện tại</string>
     <string name="view_sharers">Xem người được chia sẻ</string>
@@ -1159,4 +1173,5 @@ thiết bị"</string>
     <string name="wps">WPS</string>
     <string name="yellow_page">Danh mục</string>
     <string name="yunyi_pocket_camera">Máy ảnh Thể thao</string>
+    <string name="picker_skip_unavailable_images">" "<item quantity="one">Đã bỏ qua một ảnh không có trên thiết bị</item> <item quantity="other">Đã bỏ qua %d ảnh không có trên thiết bị.</item>" "</string>
 </resources>

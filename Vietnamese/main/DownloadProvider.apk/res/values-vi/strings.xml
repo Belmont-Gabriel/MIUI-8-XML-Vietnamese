@@ -40,6 +40,11 @@
     <string name="xl_speedup_experience_notify_context">Tốc độ mỗi lần tải xuống được tăng lên nếu bạn là thành viên Xunlei</string>
     <string name="xl_speedup_notify_button_experience">Thử miễn phí</string>
     <string name="xl_speedup_notify_button_member">Đăng ký thành viên</string>
+    <string name="notify_disabled_net_by_app">Kết nối Internet bị giới hạn bởi ứng dụng Bảo mật</string>
+    <string name="notify_only_wifi_download">Đang chờ kết nối Wi-Fi</string>
+    <string name="notify_install_guide_title">Đã cài đặt %s thành công</string>
+    <string name="notify_install_guide_msg">Đã cài đặt thành công</string>
+    <string name="notify_install_guide_forward_text">Mở</string>
     <string name="app_label">Trình quản lý Tải xuống</string>
     <string name="permlab_downloadManager">Truy cập trình quản lý tải xuống.</string>
     <string name="permdesc_downloadManager">"Cho phép ứng dụng truy cập trình quản lý tải xuống và sử dụng  trình này để tải xuống tệp. Ứng dụng độc hại có thể lợi dụng điều này để làm gián đoạn quá trình tải xuống và truy cập thông tin riêng tư."</string>

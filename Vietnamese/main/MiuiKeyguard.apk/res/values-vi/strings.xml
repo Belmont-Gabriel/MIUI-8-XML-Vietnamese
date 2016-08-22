@@ -33,7 +33,6 @@
     <string name="phone_locked_string">Điện thoại đã bị khóa</string>
     <string name="phone_locked_timeout_seconds_string">Thử lại sau %s giây</string>
     <string name="phone_locked_timeout_minutes_string">Thử lại sau %s phút</string>
-    <string name="input_password_hint_text">Nhập mật khẩu</string>
     <string name="unlock_sim_string">Mở khóa SIM</string>
     <string name="lockscreen_glogin_submit_button">Đăng nhập</string>
     <string name="lockscreen_access_pattern_start">Bắt đầu hình mở khóa</string>
@@ -53,16 +52,23 @@
     <string name="confirm_pin_msg">Nhập lại mã PIN</string>
     <string name="invalid_confirm_pin_hint">Mã PIN không khớp</string>
     <string name="unlock_string">Mở khóa</string>
-    <string name="open_camera_hint_text">Trượt sang trái để mở Máy ảnh</string>
-    <string name="open_remote_center_hint_text">Trượt sang phải để mở Điều khiển Mi</string>
-    <string name="left_action_default_hint_text">Điện thoại</string>
+    <string name="open_camera_hint_text">Trượt sang trái để mở %s</string>
+    <string name="open_remote_center_hint_text">Trượt sang phải để mở %s</string>
+    <string name="left_action_default_hint_text">Điều khiển Mi</string>
     <string name="click_to_enter_text">Chạm để xem</string>
     <string name="fingerprint_try_again_text">Thử lại</string>
     <string name="fingerprint_not_identified_title">Nhập mật khẩu</string>
     <string name="fingerprint_not_identified_msg">Để mở khóa thiết bị, nhập mật khẩu của bạn.</string>
     <string name="invalid_sim_pin_hint">PIN phải chứa từ 4-8 số</string>
     <string name="invalid_sim_puk_hint">PUK phải chứa ít nhất 8 ký tự</string>
+    <string name="input_password_hint_text">Nhập mật khẩu</string>
+    <string name="input_pattern_hint_text">Vẽ hình mở khóa</string>
     <string name="input_password_after_boot_msg">Để mở khóa thiết bị, nhập mật khẩu của bạn</string>
     <string name="fingerprint_lockout_msg">Đợi một phút, sau đó thử mở khóa bằng vân tay lại</string>
+    <string name="accessibility_enter_lock_wallpaper">Chạm để mở Tạp chí khóa màn hình</string>
+    <string name="lock_wallpaper_learn_more">Thêm</string>
+    <string name="lock_wallpaper_enter">Vào</string>
+    <string name="fingerprint_enter_second_psw_title">Nhập mật khẩu Không gian thứ hai</string>
+    <string name="fingerprint_enter_second_psw_msg">Nhập mật khẩu Không gian thứ hai sau đó khởi động lại thiết bị để có thể sử dụng nhận diện vân tay</string>
     <string name="set_lock_wallpaper_failed">Không có hình nền mới</string>
 </resources>

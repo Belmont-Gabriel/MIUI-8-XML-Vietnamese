@@ -2,6 +2,5 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Xóa %1$s hội thoại đã chọn?</item>
-        <item quantity="one">Xóa hội thoại này?</item>
     </plurals>
 </resources>

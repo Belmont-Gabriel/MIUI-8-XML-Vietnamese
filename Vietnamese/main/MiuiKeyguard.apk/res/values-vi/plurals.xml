@@ -2,6 +2,5 @@
 <resources>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d thông báo mới</item>
-        <item quantity="one">%d thông báo mới</item>
     </plurals>
 </resources>

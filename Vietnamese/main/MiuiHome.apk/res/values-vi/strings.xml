@@ -8,10 +8,7 @@
     <string name="cancel_action">Hủy</string>
     <string name="bad_wallpaper_source_prompt">Không thể tải hình nền</string>
     <string name="apply_action">Áp dụng</string>
-    <string name="apply_as_lockwallpaper_action">Áp dụng</string>
-    <string name="apply_negative_action">Không</string>
     <string name="download_action">Tải xuống</string>
-    <string name="apply_as_lock_wallpaper_message">Cũng áp dụng hình nền này cho màn hình khóa?</string>
     <string name="lock_screen_failed_message">Không thể đặt hình nền màn hình khóa</string>
     <string name="lock_screen_success_message">Đã áp dụng làm màn hình khóa</string>
     <string name="wallpaper_failed_message">Không thể áp dụng hình nền</string>
@@ -247,14 +244,15 @@
     <string name="app_category_sport">Thể thao</string>
     <string name="app_category_health">Sức khỏe</string>
     <string name="app_category_productivity">Sản xuất</string>
-    <string name="recommend_apps_notice">Ứng dụng được đề nghị</string>
-    <string name="recommend_apps_switch_title">Ứng dụng được đề nghị</string>
-    <string name="recommend_apps_notice_nodata">Ứng dụng được đề nghị (Không có dữ liệu)</string>
+    <string name="recommend_apps_notice">Ứng dụng đề cử</string>
+    <string name="recommend_apps_switch_title">Ứng dụng đề cử</string>
+    <string name="recommend_apps_notice_nodata">Ứng dụng đề cử (Không có dữ liệu)</string>
     <string name="recommend_apps_default_title">Trống</string>
     <string name="recommend_apps_tips">Tính năng này cần kết nối internet để làm việc bình thường. Để tắt tính năng này, chạm vào tên của thư mục này.</string>
     <string name="children_folder_title">Trẻ em</string>
     <string name="children_mode_exit">Thoát</string>
-    <string name="children_mode_tips">Quay trở lại Cài đặt để quản lý truy cập ứng dụng.</string>
+    <string name="children_mode_tips_title">Vui lòng chọn ứng dụng</string>
+    <string name="children_mode_tips_message">Không có ứng dụng nào trong Chế độ trẻ em. Vui lòng chọn ứng dụng.</string>
     <string name="wallpaper_auto_change_title">Màn hình khóa</string>
     <string name="wallpaper_scaling_message">Đang cân chỉnh đến kích thước thích hợp</string>
     <string name="cant_edit_lock_screen">Không thể thay đổi phong cách màn hình khóa.</string>
@@ -271,4 +269,8 @@
     <string name="home_screen">Màn hình chính</string>
     <string name="wallpaper_scroll_type_tips">Cuộn hình nền</string>
     <string name="no_detail_page">Không có trang chi tiết</string>
+    <string name="apply_as_lock_wallpaper_message">Cũng áp dụng hình nền này cho màn hình khóa?</string>
+    <string name="apply_as_lockwallpaper_action">Áp dụng</string>
+    <string name="apply_negative_action">Không</string>
+    <string name="children_mode_tips">Quay trở lại Cài đặt để quản lý truy cập ứng dụng.</string>
 </resources>
