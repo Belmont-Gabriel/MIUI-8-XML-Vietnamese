@@ -1337,7 +1337,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="start_install">Cài đặt ngay</string>
     <string name="connecting">Đang kết nối…</string>
     <string name="promotion">Quảng cáo</string>
-    <string name="open">mở</string>
+    <string name="open">Mở</string>
     <string name="section_title_system">Bảo mật hệ thống</string>
     <string name="section_title_clear_acc">Xóa bộ nhớ đệm</string>
     <string name="section_title_security_defend">Bảo mật</string>
@@ -1348,7 +1348,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="cleaned">Đã xóa</string>
     <string name="section_system_item_fixed">Đã sửa</string>
     <string name="optmizingbar_stop_optmize">Dừng</string>
-    <string name="optmizingbar_ready">Đang tối ưu hóa…</string>
+    <string name="optmizingbar_ready">Đang tối ưu…</string>
     <string name="optmizingbar_optimize_done">Đã tối ưu</string>
     <string name="optmizingbar_title_system">Bảo mật hệ thống</string>
     <string name="optmizingbar_title_clear">Xóa bộ nhớ đệm</string>
@@ -1358,7 +1358,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="optimize_result_button_open_now">Bật</string>
     <string name="optimize_result_button_update_now">Cập nhật</string>
     <string name="optimize_result_button_to_open">Bật</string>
-    <string name="optimize_result_button_to_set">Đặt</string>
+    <string name="optimize_result_button_to_set">Áp dụng</string>
     <string name="optimize_result_button_fix_now">Sửa</string>
     <string name="optimize_result_button_onekey_restore">Khôi phục</string>
     <string name="optimize_result_button_onekey_open">Bật</string>
@@ -1505,7 +1505,6 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_mode_my_mode">Chế độ của tôi</string>
     <string name="power_mode_my_mode_summary">Lưu cài đặt chế độ Pin hiện tại của bạn</string>
     <string name="power_apply_toast">Chuyển sang %s</string>
-    <string name="system_check_content">%1$d nguy cơ</string>
     <string name="main_toolbar_saving">Tiết kiệm dữ liệu</string>
     <string name="main_alert_message_slot_no_data_connection">Khe cắm thẻ SIM không hỗ trợ kết nối dữ liệu di động</string>
     <string name="force_stop_dlg_title">Hạn chế dữ liệu nền</string>
@@ -1626,6 +1625,7 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="traffic_saving_wifi_usage">Tiết kiệm Wi-Fi</string>
     <string name="reach_daily_limit_value_body_open_traffic_saving">Chạm để bật Tiết kiệm dữ liệu.</string>
     <string name="daily_limit_network_available_body_open_traffic_saving">Chạm để bật Dữ liệu di động.</string>
+    <string name="system_check_content">%1$d nguy cơ</string>
     <string name="notification_button_text_of_low_memory">Dọn dẹp</string>
     <string name="title_saving_switch">Tiết kiệm dữ liệu</string>
     <string name="summary_saving_switch">Hạn chế ứng dụng sử dụng kết nối dữ liệu di động để chuyển dữ liệu</string>
