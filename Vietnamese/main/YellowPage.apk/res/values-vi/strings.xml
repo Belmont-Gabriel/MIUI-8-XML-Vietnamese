@@ -21,8 +21,8 @@
     <string name="delete">Xóa</string>
     <string name="back">Quay lại</string>
     <string name="refresh">Làm mới</string>
-	<string name="sim1">SIM 1</string>
-	<string name="sim2">SIM 2</string>
+    <string name="sim1">SIM 1</string>
+    <string name="sim2">SIM 2</string>
     <string name="check_network">Cài đặt mạng</string>
     <string name="try_again">Thử lại</string>
     <string name="network_unavaliable">Không thể kết nối mạng</string>
@@ -114,6 +114,13 @@
     <string name="mark_number_feedback_hint">Nhập phản hồi</string>
     <string name="mark_number_feedback_invalid_hint">Nhập phản hồi của bạn</string>
     <string name="mark_number_remove">Xóa thông tin đánh dấu</string>
+    <string name="mark_number_check_dialog_title">Đánh dấu số</string>
+    <string name="mark_number_check_most_choice">(Hầu hết người dùng lựa chọn)</string>
+    <string name="mark_number_check_choose_others">Chọn đánh dấu khác</string>
+    <string name="mark_number_feedback_personal_number">Đây là số cá nhân</string>
+    <string name="mark_number_feedback_not_number">Đây không phải là số %s</string>
+    <string name="mark_number_delete_confirm_title">Xóa thông tin đánh dấu</string>
+    <string name="mark_number_delete_confirm_message">Xóa %s thông tin đánh dấu?</string>
     <string name="smart_antispam">ID Người gọi</string>
     <string name="turn_on_smart_antispam_hint">Nhận dạng cuộc gọi từ số không xác định</string>
     <string name="turn_on_smart_antispam_title">ID Người gọi</string>
@@ -184,7 +191,6 @@ Tổng: %3$s Tệ"</string>
     <string name="recharge_unknown_number">Không xác định</string>
     <string name="recharge_phone">Nhập số điện thoại:</string>
     <string name="recharge_follow_name">Nạp tiền</string>
-
     <string name="packages_pay">Mua ngay</string>
     <string name="packages_pay_confirm">Thanh toán ngay</string>
     <string name="packages_title">Mua dữ liệu di động</string>
@@ -239,10 +245,10 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="express_inquiry_status_delivered">Đã gửi</string>
     <string name="express_inquiry_status_difficult_goods">Không xác định</string>
     <string name="express_inquiry_status_receipted">Đã nhận</string>
-    <string name="express_inquiry_status_sign_out">Đăng xuất</string>
+    <string name="express_inquiry_status_sign_out">Đã từ chối</string>
     <string name="express_inquiry_status_dispatch">Đang phân phát</string>
     <string name="express_inquiry_status_return">Quay lại</string>
-    <string name="express_inquiry_status_unknown">NGUỒN KHÔNG XÁC ĐỊNH</string>
+    <string name="express_inquiry_status_unknown">Không xác định</string>
     <string name="express_send">Gửi</string>
     <string name="express_sender_info">Thông tin người gửi</string>
     <string name="express_addressee_info">Thông tin người nhận</string>
@@ -312,7 +318,6 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="express_send_notice">Các mặt hàng bị cấm</string>
     <string name="express_banner_header">%1$s / Số theo dõi</string>
     <string name="express_tracking_number">Số theo dõi</string>
-
     <string name="express_track_order">Số theo dõi</string>
     <string name="express_no_order">Không có đơn đặt hàng</string>
     <string name="express_urge_order">Nhắc nhở</string>
