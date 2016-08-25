@@ -575,14 +575,6 @@
         <item>Hiển thị nhiệm vụ gần đây</item>
         <item>Hiển thị menu</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Không</item>
-        <item>Hiển thị nhiệm vụ gần đây</item>
-        <item>Khởi động trình Trợ lý</item>
-        <item>Khởi động Google Now</item>
-        <item>Đóng ứng dụng hiện tại</item>
-        <item>Hiển thị menu</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0,5 giây</item>
         <item>1 giây</item>
