@@ -20,6 +20,7 @@
     <string name="status_bar_toggle_paper_mode">Đọc sách</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_cast">Chiếu</string>
+    <string name="status_bar_toggle_edit">Sửa</string>
     <string name="screen_rotation_freeze_message">Đã tắt tự động xoay.</string>
     <string name="perm_send_push_dspt">Cho phép tin nhắn đẩy Mi</string>
     <string name="perm_send_push_lab">Gửi tin nhắn đẩy</string>
@@ -65,6 +66,7 @@
     <string name="screen_on_proximity_sensor_title">Ngăn chặn quay số khi bỏ túi</string>
     <string name="screen_on_proximity_sensor_summary">Không che phần trên của màn hình</string>
     <string name="screen_on_proximity_sensor_hint">Để tắt tính năng này, nhấn đồng thời phím Quay lại và phím Tăng âm lượng.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Để tắt tính năng này, bấm nút Tăng âm lượng.</string>
     <string name="screen_button_notification_title">Phím điều hướng đã tắt</string>
     <string name="screen_button_notification_text">Để bật, bấm đồng thời phím Trang chính và nút Nguồn.</string>
     <string name="screen_paper_mode_enter_toast">Đã bật chế độ đọc. Để tắt tính năng này, vào Cài đặt > Hiển thị > Chế độ đọc.</string>
@@ -78,9 +80,9 @@
     <string name="handy_mode_summary">Để đóng, chạm vào vùng màu tối</string>
     <string name="handy_mode_enter_dlg_title">Vào chế độ một tay</string>
     <string name="handy_mode_enter_dlg_msg">Vào chế độ một tay?</string>
-    <string name="screenshot_gesture_detect_alert_title">Chụp màn hình bằng ba ngón tay</string>
-    <string name="screenshot_gesture_detect_alert_msg">Bật trượt xuống bằng ba ngón tay để sử dụng chức năng chụp màn hình?</string>
-    <string name="screenshot_gesture_detect_alert_button">Vào cài đặt ảnh chụp màn hình để bật</string>
+    <string name="screenshot_gesture_detect_alert_title">Chụp ảnh màn hình bằng ba ngón tay</string>
+    <string name="screenshot_gesture_detect_alert_msg">Trượt xuống bằng ba ngón tay để chụp ảnh màn hình?</string>
+    <string name="screenshot_gesture_detect_alert_button">Bật trong cài đặt</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Không hiển thị lại</string>
     <string name="permlab_manageLocationPolicy">Truy cập vị trí</string>
     <string name="permdesc_manageLocationPolicy">Cho phép ứng dụng quản lý các chính sách vị trí và xác định quy tắc ứng dụng cụ thể.</string>
@@ -118,6 +120,7 @@
     <string name="auto_disable_screenbuttons_float_text">Chạm để tắt phím điều hướng</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Phím điều hướng đã được bật</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Phím điều hướng đã tắt, nhấp đôi phím bất kỳ để bật</string>
+    <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Chạm lại để thoát</string>
     <string name="auto_disable_screenbuttons_prompts_title">Tắt phím điều hướng?</string>
     <string name="auto_disable_screenbuttons_prompts_message">Nhấp đôi phím bất kỳ để bật điều hướng.</string>
     <string name="auto_disable_screenbuttons_prompts_ok">OK</string>

@@ -76,6 +76,6 @@
         <item quantity="other">%d bình luận</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d người đọc</item>
+        <item quantity="other">%d người theo dõi</item>
     </plurals>
 </resources>

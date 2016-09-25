@@ -91,7 +91,7 @@
     <string name="from_unit_en">Kilômét/giờ</string>
     <string name="percentage">%</string>
     <string name="unit_myriads">×10K</string>
-    <string name="unit_yuan">NDT</string>
+    <string name="unit_yuan">Tệ</string>
     <string name="unit_percentage">%</string>
     <string name="unit_year">Năm</string>
     <string name="unit_year_format">Năm %s</string>
@@ -385,4 +385,9 @@
     <string name="word_figure_big_unit_zhao">兆</string>
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_fen">分</string>
+    <string name="city">Thành phố</string>
+    <string name="combine_loan">Vay kết hợp</string>
+    <string name="commercial_loan">Vay thương mại</string>
+    <string name="day">ngày</string>
+    <string name="dateformat">dd/MM/yyyy</string>
 </resources>

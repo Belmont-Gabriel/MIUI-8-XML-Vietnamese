@@ -11,8 +11,8 @@
     <string name="actionbar_share">Chia sẻ</string>
     <string name="actionbar_web_search">Tìm kiếm trang web</string>
     <string name="media_player_error_title">Không thể phát video</string>
-    <string name="media_player_error_text_invalid_progressive_playback">Rất tiếc, video không hợp lệ để truyền đến thiết bị này.</string>
-    <string name="media_player_error_text_unknown">Rất tiếc, không thể phát video này.</string>
+    <string name="media_player_error_text_invalid_progressive_playback">Video này không thể phát trên thiết bị này.</string>
+    <string name="media_player_error_text_unknown">Không thể phát video này.</string>
     <string name="media_player_error_button">OK</string>
     <string name="media_player_loading_video">Đang tải video</string>
     <string name="profiler_started_toast">Phân tích đã bắt đầu</string>
@@ -120,9 +120,9 @@ Rời khỏi trang này?"</string>
     <string name="miui_content_share">Chia sẻ</string>
     <string name="miui_content_extent_select">Chọn thêm</string>
     <string name="data_traffic_prompt_title">Cảnh báo sử dụng dữ liệu</string>
-    <string name="data_traffic_prompt_message">Dùng kết nối dữ liệu di động để xem video này sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
-    <string name="data_traffic_prompt_change">Dùng kết nối dữ liệu di động để xem video sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
-    <string name="data_traffic_prompt_message_short">Sử dụng dữ liệu di động để phát video có thể dẫn đến vượt quá giới hạn kế hoạch sử dụng dữ liệu.</string>
+    <string name="data_traffic_prompt_message">Sử dụng kết nối dữ liệu di động để xem video sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
+    <string name="data_traffic_prompt_change">Dùng kết nối dữ liệu di động để xem video này sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
+    <string name="data_traffic_prompt_message_short">Sử dụng dữ liệu di động để phát video có thể dẫn đến vượt quá giới hạn sử dụng dữ liệu mà bạn đã đăng ký.</string>
     <string name="video_play_error">Không thể phát video</string>
     <string name="video_buffering_percent">"Đang tạo bộ đệm "</string>
     <string name="video_float_window_playing">Đang phát video</string>
@@ -149,7 +149,7 @@ Rời khỏi trang này?"</string>
     <string name="video_activity_name">Yêu thích</string>
     <string name="video_fragment_name_collections">Yêu thích</string>
     <string name="video_fragment_name_download">Video ngoại tuyến</string>
-    <string name="video_fragment_name_historys">Lịch sử Xem</string>
+    <string name="video_fragment_name_historys">Lịch sử</string>
     <string name="video_fragment_name_offine">Ngoại tuyến</string>
     <string name="video_group_updates_list">Cập nhật</string>
     <string name="video_group_noupdates_list">Không có cập nhật nào</string>
@@ -189,12 +189,17 @@ Rời khỏi trang này?"</string>
     <string name="video_download_error">Lỗi</string>
     <string name="video_download_empty">Không có video</string>
     <string name="video_download_wait_for_wifi">Đang chờ kết nối Wi-Fi</string>
+    <string name="video_download_finding_address">Đang nhận URL tải xuống</string>
     <string name="video_download_error_http_gone">Không thể tìm thấy tập tin</string>
     <string name="video_download_unknown_name">Tên không rõ</string>
     <string name="video_edit">Sửa</string>
     <string name="video_title_prefix_message">"Ngoại tuyến: "</string>
-    <string name="video_subtitle_prefix_message">"Đã xem: "</string>
+    <string name="video_subtitle_prefix1">Đã xem</string>
+    <string name="video_subtitle_prefix2">"Đã xem "</string>
+    <string name="video_subtitle_last_message1">Còn lại ít hơn 1 phút</string>
     <string name="video_history_empty">Không có lịch sử</string>
+    <string name="video_manager_action_bar_end_view">Video</string>
+    <string name="video_unknown_duration">Thời lượng không xác định</string>
     <string name="error_title">Không thể đồng bộ</string>
     <string name="error_unauthorized">Đồng bộ bằng Tài khoản Mi của bạn đã bị tắt do cố gắng đăng nhập quá nhiều.</string>
     <string name="error_forbidden">Đồng bộ đã bị tắt do vấn đề với Tài khoản Mi của bạn.</string>
@@ -277,6 +282,8 @@ Rời khỏi trang này?"</string>
     <string name="cancel">Hủy</string>
     <string name="ok">Ok</string>
     <string name="edit">Sửa</string>
+    <string name="replace">Thay thế</string>
+    <string name="isreplace">Tập tin đã tồn tại, thay thế?</string>
     <string name="rlz_access_point">Y1</string>
     <string name="uploads_disabled">Tải lên tập tin đã tắt</string>
     <string name="dont_remind_again">Nhớ lựa chọn này</string>
@@ -402,13 +409,13 @@ Rời khỏi trang này?"</string>
     <string name="sdcard_error">Kiểm tra thẻ SD</string>
     <string name="download_phone_tip">Điện thoại</string>
     <string name="download_router_tip">Tải xuống Bộ định tuyến Mi</string>
-    <string name="router_download_success">Tải xuống hoàn tất</string>
-    <string name="router_download_failed">Tải xuống thất bại</string>
-    <string name="router_download_exist">Tập tin tải xuống này đã tồn tại</string>
+    <string name="router_download_success">Đã tải xuống thành công</string>
+    <string name="router_download_failed">Không thể tải xuống</string>
+    <string name="router_download_exist">Tập tin này đã tồn tại</string>
     <string name="select_download_device">Chọn thiết bị</string>
     <string name="file_picker">Chọn đường dẫn</string>
-    <string name="file_name">Tên</string>
-    <string name="file_dir">Danh mục</string>
+    <string name="file_name">"Tên: "</string>
+    <string name="file_dir">Thay đổi thư mục</string>
     <string name="storage_internal">Bộ nhớ trong</string>
     <string name="storage_sd_card">Thẻ SD</string>
     <string name="storage_usb">Lưu trữ USB</string>
@@ -419,7 +426,7 @@ Rời khỏi trang này?"</string>
     <string name="filename_empty_alert_message">Nhập tên tập tin</string>
     <string name="filename_illegal_alert_message">Ký tự không hợp lệ đã bị xóa khỏi tên tập tin</string>
     <string name="download_failed">Không thể hoàn tất tải xuống</string>
-    <string name="download_complete">Tải xuống hoàn tất</string>
+    <string name="download_complete">Đã tải xuống thành công</string>
     <string name="app_update_install">Sẵn sàng để cài đặt cập nhật.</string>
     <string name="app_new_version">Phiên bản mới nhất của ứng dụng này đã được cài đặt</string>
     <string name="download_sdcard_busy_dlg_title">Thẻ SD không khả dụng</string>
@@ -695,14 +702,14 @@ Rời khỏi trang này?"</string>
     <string name="homepage_delete_card_menu">Xóa</string>
     <string name="homepage_get_location">Nhận vị trí</string>
     <string name="homepage_get_location_failed">Không thể nhận vị trí, hãy chọn thành phố</string>
-    <string name="aqi_quality_index_pure">AQI %1$s</string>
-    <string name="aqi_quality_index_good">AQI %1$s</string>
-    <string name="aqi_quality_index_moderate">AQI %1$s</string>
-    <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-    <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-    <string name="aqi_quality_index_dangerous">AQI %1$s</string>
-    <string name="aqi_quality_index_hazardous">AQI %1$s</string>
-    <string name="aqi_quality_index_break">AQI %1$s</string>
+    <string name="aqi_quality_index_pure">Tuyệt vời</string>
+    <string name="aqi_quality_index_good">Ưu</string>
+    <string name="aqi_quality_index_moderate">Tốt</string>
+    <string name="aqi_quality_index_light_pollution">Ô nhiễm nhẹ</string>
+    <string name="aqi_quality_index_unhealthy">Ô nhiễm trung bình</string>
+    <string name="aqi_quality_index_dangerous">Ô nhiễm nặng</string>
+    <string name="aqi_quality_index_hazardous">Ô nhiễm nghiêm trọng</string>
+    <string name="aqi_quality_index_break">Cực kỳ ô nhiễm</string>
     <string name="nav_bottom_bar_close_all">Đóng tất cả</string>
     <string name="nav_bottom_bar_new_tab">Thẻ mới</string>
     <string name="nav_bottom_bar_back">Quay lại</string>
@@ -771,6 +778,9 @@ Rời khỏi trang này?"</string>
     <string name="download_filter_image">Ảnh</string>
     <string name="download_filter_audio">Nhạc</string>
     <string name="download_filter_others">Khác</string>
+    <string name="download_filter_zip">Zip</string>
+    <string name="download_filter_apk">Apk</string>
+    <string name="save_file">Lưu %s tập tin</string>
     <string name="dialog_confirm_delete_checkbox_message">Xóa tập tin trên bộ nhớ trong</string>
     <string name="dialog_confirm_delete_downloads_message">Xóa %s tác vụ?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Xóa tác vụ này?</string>
@@ -784,8 +794,7 @@ Rời khỏi trang này?"</string>
     <string name="pull_to_refresh_pull_label">Kéo để làm mới</string>
     <string name="pull_to_refresh_release_label">Thả để vào kiến nghị và làm mới</string>
     <string name="login_failed_toast">Không thể đăng nhập, làm mới và thử lại</string>
-    <string name="custom_head_card_text">"Hãy luôn tin rằng điều kỳ diệu
-sắp xảy ra"</string>
+    <string name="custom_head_card_text">"Hãy luôn tin rằng điều kỳ diệu sắp xảy ra"</string>
     <string name="custom_head_card_text_incognito">"Bạn đang ẩn danh!
 Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="comment_menu">Bình luận</string>
@@ -802,4 +811,18 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="force_touch_bookmark_history_title">Dấu trang &amp; lịch sử</string>
     <string name="force_touch_infoflow_title">Tin tức</string>
     <string name="gold_medals">Huy chương vàng</string>
+    <string name="document_download_open_direct">Mở trực tiếp</string>
+    <string name="document_download_title">Đang tải xuống</string>
+    <string name="document_download_background_btn">Tải xuống trong nền</string>
+    <string name="document_download_cancel_btn">Hủy</string>
+    <string name="document_open_title">Mở bằng</string>
+    <string name="document_open_message">Để cải thiện trải nghiệm đọc và đảm bảo an toàn, hãy sử dụng phiên bản WPS tùy chỉnh</string>
+    <string name="document_open_file">Mở %s</string>
+    <string name="document_open_other">Ứng dụng khác</string>
+    <string name="document_download_official">Tải xuống phiên bản chính thức</string>
+    <string name="document_download_failed">Không thể tải xuống</string>
+    <string name="view_document_downloaded_files">Xem tập tin đã tải xuống trong Tải xuống</string>
+    <string name="no_app_open_document">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
+    <string name="not_allowed_open">Không thể sử dụng Trình duyệt trong Hướng dẫn sử dụng máy</string>
+
 </resources>

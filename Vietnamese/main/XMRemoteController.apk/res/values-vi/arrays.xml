@@ -57,4 +57,34 @@
         <item>Truyền hình Bắc Kinh</item>
         <item>Truyền hình Quảng Đông</item>
     </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>Nghệ thuật</item>
+        <item></item>
+        <item>Thể thao</item>
+        <item>Thiếu nhi</item>
+        <item>Tin tức</item>
+        <item>Đời sống</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>Hàng đầu</item>
+        <item>Phim</item>
+        <item>Nghệ thuật</item>
+        <item>Phim truyền hình</item>
+        <item>Thể thao</item>
+        <item>Thiếu nhi</item>
+        <item>Tin tức</item>
+        <item>Đời sống</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>Hàng đầu</item>
+        <item>Phim</item>
+        <item>Nghệ thuật</item>
+        <item>Phim truyền hình</item>
+        <item>Thể thao</item>
+        <item>Thiếu nhi</item>
+        <item>Tin tức</item>
+        <item>Đời sống</item>
+    </string-array>
 </resources>

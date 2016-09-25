@@ -40,6 +40,7 @@
     <string name="dlg_clear_current_ok">Xóa</string>
     <string name="dlg_no_block">Bỏ chặn và khôi phục lại cuộc gọi từ số này trong lịch sử cuộc gọi?</string>
     <string name="dlg_no_block_ok">Bỏ chặn</string>
+    <string name="dlg_add_blacklist_title">Thêm vào danh sách chặn</string>
     <string name="dlg_add_blacklist">Chặn số này?</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Số này đã có trong danh sách ngoại lệ</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$svà %2$s liên hệ khác đã có trong danh sách ngoại lệ của bạn.</string>
@@ -310,11 +311,11 @@
     <string name="call_transfer_info">Chặn cuộc gọi được chuyển tiếp từ số không xác định</string>
     <string name="repeated_marked_number_title">Không chặn cuộc gọi được lặp lại từ số điện thoại bị báo cáo</string>
     <string name="repeated_marked_number_summary">Không chặn cuộc gọi thứ hai từ cùng một số bị báo cáo trong vòng 3 phút</string>
-    <string name="mark_fraud_time_setting">Hạn chế số lần báo cáo số điện thoại lừa đảo</string>
-    <string name="mark_agent_time_setting">Hạn chế số lần báo cáo số điện thoại môi giới</string>
-    <string name="mark_sell_time_setting">Hạn chế số lần báo cáo số điện thoại bán hàng</string>
-    <string name="mark_harass_time_setting">Hạn chế số lần báo cáo số điện thoại làm phiền</string>
-    <string name="mark_courier_time_setting">Hạn chế số lần báo cáo số điện thoại chuyển phát nhanh</string>
+    <string name="mark_fraud_time_setting">Chặn số điện thoại được báo cáo là số điện thoại lừa đảo sau số lần cụ thể</string>
+    <string name="mark_agent_time_setting">Chặn số điện thoại được báo cáo là số điện thoại môi giới sau số lần cụ thể</string>
+    <string name="mark_sell_time_setting">Chặn số điện thoại được báo cáo là số điện thoại bán hàng sau số lần cụ thể</string>
+    <string name="mark_harass_time_setting">Chặn số điện thoại được báo cáo là số điện thoại làm phiền sau số lần cụ thể</string>
+    <string name="mark_courier_time_setting">Chặn số điện thoại được báo cáo là số điện thoại chuyển phát nhanh sau số lần cụ thể</string>
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Số lần báo cáo</string>
     <string name="sms_smart_engine_update">Tự động cập nhật bộ lọc SMS</string>
