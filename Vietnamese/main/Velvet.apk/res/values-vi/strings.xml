@@ -546,7 +546,6 @@
     <string name="offline_eyesfree_recognition_nomatch_tts">Thực tế, bạn đang ngoại tuyến. Tôi không thể truy cập Google ngay bây giờ nhưng tôi vẫn có thể giúp bạn làm rất nhiều việc. Ví dụ: hãy thử nói %1$s hoặc \"tôi có thể nói gì?\"</string>
     <string name="offline_eyesfree_recognition_nomatch_fallback_tts">"Thực tế, bạn đang ngoại tuyến. Tôi không thể truy cập Google ngay bây giờ nhưng tôi vẫn có thể giúp bạn làm rất nhiều việc. Ví dụ: hãy thử nói 'gọi điện thoại\" hoặc \"tôi có thể nói gì?\""</string>
     <string name="offline_eyesfree_lp_need_update_fallback_tts">Bạn đang ngoại tuyến. Để tiếp tục sử dụng giọng nói khi ngoại tuyến và nhận các tính năng mới, bạn cần cài đặt gói ngôn ngữ tiếng Anh mới nhất. Khi bạn thấy an toàn để sử dụng màn hình, hãy nhấn vào thông báo để thực hiện việc đó.</string>
-    <string name="offline_searchbox_hint">“%%s... %s”</string>
     <string name="enable_screen_assist_title">Now on Tap</string>
     <string name="donate_screenshot_title">Giúp cải thiện Now on Tap</string>
     <string name="accessibility_share">Chia sẻ màn hình</string>
