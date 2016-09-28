@@ -23,6 +23,7 @@
     <string name="action_mode_deselect_all">Bỏ chọn</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="deselect_all">Bỏ chọn</string>
+    <string name="instruction">Hướng dẫn</string>
     <string name="abc_action_bar_up_description">Điều hướng lên</string>
     <string name="abc_action_bar_home_description">Quay về Màn hình chính</string>
     <string name="time_picker_label_hour">Giờ</string>
@@ -49,7 +50,7 @@
     <string name="time_picker_dialog_title">Đặt giờ</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
     <string name="perm_payment_lab">Thanh toán Mi</string>
-    <string name="perm_payment_dspt">Cho phép ứng dụng thanh toán qua Dịch vụ Thanh toán Mi</string>
+    <string name="perm_payment_dspt">Cho phép ứng dụng thanh toán qua Dịch vụ Mi Pay</string>
     <string name="check_phone_error_title">Đồng bộ tắt</string>
     <string name="check_phone_io_error">Không thể kết nối mạng</string>
     <string name="send_sms_for_sync_title">Cảnh báo sử dụng dữ liệu</string>

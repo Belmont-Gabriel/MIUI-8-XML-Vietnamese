@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MiPlay</string>
+    <string name="app_name">Mi Play</string>
+    <string name="noti_projection_status_title">Hiển thị không dây Mi Play</string>
+    <string name="noti_projection_status_desc_on">Màn hình chiếu đang Bật</string>
     <string name="prjection_title">Hiển thị không dây</string>
     <string name="search_for_devices">Làm mới</string>
     <string name="media_feature_projection">Màn hình chiếu</string>
@@ -31,4 +33,7 @@
     <string name="wifi_display_listen_channel">Kênh lắng nghe</string>
     <string name="wifi_display_operating_channel">Kênh hoạt động</string>
     <string name="cancel">Hủy</string>
+    <string name="enable_wifi_title">Bật Wi-Fi</string>
+    <string name="enable_wifi_message">Bật Wi-Fi để tìm kiếm và kết nối thiết bị lân cận.</string>
+    <string name="enable_wifi_btn">Bật</string>
 </resources>
