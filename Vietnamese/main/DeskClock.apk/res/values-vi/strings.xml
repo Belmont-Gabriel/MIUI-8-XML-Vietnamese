@@ -9,13 +9,15 @@
     <string name="edit_systemtime">Thiết lập thời gian hệ thống</string>
     <string name="more_settings">Thêm cài đặt</string>
     <string name="vibrate_pref_summary">Rung khi báo thức</string>
-    <string name="label_pref_summary">Đặt nhãn báo thức</string>
+    <string name="label_pref_summary">Nhãn</string>
     <string name="force_touch_add_alarm">Thêm báo thức</string>
     <string name="force_touch_enter_stopwatch">Bấm giờ</string>
     <string name="force_touch_enter_timer">Hẹn giờ</string>
     <string name="worldclock_title">Đồng hồ</string>
     <string name="stopwatch_title">Bấm giờ</string>
     <string name="timer_title">Hẹn giờ</string>
+    <string name="timer_alarm_dot_matrix_label">HẸN GIỜ</string>
+    <string name="symbol_colon">:</string>
     <string name="menu_add_worldclock">Thêm đồng hồ</string>
     <string name="menu_edit_timer_item">Chỉnh sửa nhiệm vụ hẹn giờ</string>
     <string name="delete_timer_item_title">Xóa nhiệm vụ hẹn giờ</string>

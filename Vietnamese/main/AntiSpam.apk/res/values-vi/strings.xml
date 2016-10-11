@@ -253,6 +253,10 @@
     <string name="st_antispam_title_anoy_incoming">Cuộc gọi từ người lạ</string>
     <string name="st_antispam_title_null_incoming">Số cá nhân</string>
     <string name="st_antispam_title_service_sms">Tin nhắn thông báo</string>
+    <string name="st_summary_keywords_blacklist">Thêm từ khóa để khóa tin nhắn</string>
+    <string name="st_summary_blacklist_numbers">Khóa cuộc gọi và tin nhắn bằng số điện thoại và mã vùng</string>
+    <string name="st_summary_whitelist_numbers">Cho phép cuộc gọi và tin nhắn từ số điện thoại và khu vực cụ thể</string>
+    <string name="st_summary_special_numbers">Khóa số điện thoại đã đánh dấu</string>
     <string name="st_antispam_mode_smart_sum">Số bị chặn bạn thêm thủ công và số bị chặn đã được báo cáo bởi người dùng khác</string>
     <string name="st_antispam_mode_blacklist_sum">Chặn cuộc gọi và SMS từ số điện thoại bạn đã thêm thủ công vào danh sách chặn</string>
     <string name="st_antispam_mode_only_contacts_sum">Chỉ cho phép cuộc gọi và tin nhắn từ Danh bạ</string>

@@ -9,15 +9,6 @@
     <plurals name="directory_item_count">
         <item quantity="other">%d mục</item>
     </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d tập tin còn lại cần tải xuống</item>
-    </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d tập tin còn lại cần tải lên</item>
-    </plurals>
-    <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">Còn lại %1$d tập tin cần chuyển</item>
-    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Đã chọn %1$d</item>
     </plurals>
@@ -64,10 +55,10 @@
         <item quantity="other">Đã tìm thấy %1$d tập tin mới</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Đã nhận %1$d tập tin của Ứng dụng %2$s</item>
+        <item quantity="other">Đã nhận %1$d tập tin từ %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Đã nhận %1$d tập tin của Wechat</item>
+        <item quantity="other">Đã nhận %1$d tập tin từ WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
         <item quantity="other">%1$d video WeChat sắp hết hạn</item>
@@ -99,10 +90,31 @@
     <plurals name="user_upload_items">
         <item quantity="other">video</item>
     </plurals>
+    <plurals name="user_follow_me_items">
+        <item quantity="other">người theo dõi</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s bình luận</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">%1$s video</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$s người theo dõi</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s bình luận</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">Bạn có thể nhập %d ký tự</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d tập tin còn lại cần tải xuống</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d tập tin còn lại cần tải lên</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Còn lại %1$d tập tin cần chuyển</item>
     </plurals>
 </resources>
