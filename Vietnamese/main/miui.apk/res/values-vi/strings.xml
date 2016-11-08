@@ -582,4 +582,5 @@
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="webview_reload">Thử lại</string>
     <string name="hybrid_provider">Được cung cấp bởi %1$s</string>
+    <string name="xiaomi_mobile">Mi Mobile</string>
 </resources>

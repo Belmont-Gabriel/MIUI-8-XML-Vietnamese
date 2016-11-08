@@ -172,6 +172,7 @@ Rời khỏi trang này?"</string>
     <string name="media_error_nomemory">Không đủ bộ nhớ</string>
     <string name="media_error_action_refresh">Làm mới</string>
     <string name="media_error_action_replace_video_source">Không thể thay đổi nguồn</string>
+    <string name="media_error_network_unreachable">Không thể truy cập mạng</string>
     <string name="video_buffering_percent_string">"Đang tạo bộ đệm "</string>
     <string name="v5_select_all">Chọn tất cả</string>
     <string name="v5_deselect_all">Bỏ chọn tất cả</string>
@@ -212,9 +213,10 @@ Rời khỏi trang này?"</string>
     <string name="cloud_sync_failed_toast">Không thể cập nhật</string>
     <string name="cloud_sync_closed_toast">Không thể cập nhật do đồng bộ tắt</string>
     <string name="close_cloud_tab_tip">Đóng thẻ Mi Cloud trên %s?</string>
+    <string name="search_label">Trình duyệt</string>
     <string name="search_title_browser">Trình duyệt</string>
     <string name="search_keyword_browser">Trình duyệt</string>
-    <string name="search_path_browser">Cài đặt/Ứng dụng đã cài đặt/Trình duyệt</string>
+    <string name="search_path_browser">Cài đặt/Ứng dụng/Trình duyệt</string>
     <string name="application_name">Trình duyệt</string>
     <string name="miui_startpage">Trang bắt đầu</string>
     <string name="page_info">Thông tin trang</string>
@@ -283,7 +285,7 @@ Rời khỏi trang này?"</string>
     <string name="ok">Ok</string>
     <string name="edit">Sửa</string>
     <string name="replace">Thay thế</string>
-    <string name="isreplace">Tập tin đã tồn tại, thay thế?</string>
+    <string name="isReplacePage">Tập tin đã tồn tại, thay thế?</string>
     <string name="rlz_access_point">Y1</string>
     <string name="uploads_disabled">Tải lên tập tin đã tắt</string>
     <string name="dont_remind_again">Nhớ lựa chọn này</string>
@@ -355,7 +357,7 @@ Rời khỏi trang này?"</string>
     <string name="action_menu_bookshelf">Giá sách</string>
     <string name="action_menu_useful_page">Thêm lối tắt</string>
     <string name="action_menu_useful_page_added">Đã thêm vào trang bắt đầu</string>
-    <string name="save_to">Lưu vào</string>
+    <string name="add_favorites_to">Thêm yêu thích vào</string>
     <string name="sendstartpage">Trang bắt đầu</string>
     <string name="senddesktop">Màn hình chính</string>
     <string name="start_save_page_capture">Đang lưu ảnh chụp màn hình…</string>
@@ -787,14 +789,14 @@ Rời khỏi trang này?"</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_btn_select_all">Chọn tất cả</string>
     <string name="download_btn_select_none">Bỏ chọn tất cả</string>
-    <string name="download_memory_info_avai">" khả dụng %s|"</string>
+    <string name="download_memory_info_avai">" trống %s|"</string>
     <string name="download_memory_info_total">" tổng ​%s"</string>
     <string name="go_supermarket_button">Bắt đầu</string>
     <string name="go_supermarket_title">Nhiều ứng dụng, tốc độ nhanh và ít sử dụng dữ liệu hơn</string>
     <string name="pull_to_refresh_pull_label">Kéo để làm mới</string>
     <string name="pull_to_refresh_release_label">Thả để vào kiến nghị và làm mới</string>
     <string name="login_failed_toast">Không thể đăng nhập, làm mới và thử lại</string>
-    <string name="custom_head_card_text">"Hãy luôn tin rằng điều kỳ diệu sắp xảy ra"</string>
+    <string name="custom_head_card_text">Hãy luôn tin rằng điều kỳ diệu sắp xảy ra</string>
     <string name="custom_head_card_text_incognito">"Bạn đang ẩn danh!
 Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="comment_menu">Bình luận</string>
@@ -824,5 +826,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="view_document_downloaded_files">Xem tập tin đã tải xuống trong Tải xuống</string>
     <string name="no_app_open_document">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
     <string name="not_allowed_open">Không thể sử dụng Trình duyệt trong Hướng dẫn sử dụng máy</string>
-
+    <string name="isreplace">Tập tin đã tồn tại, thay thế?</string>
+    <string name="save_to">Lưu vào</string>
+    <string name="low_memory_toast">"Không thể sử dụng trình duyệt vì bộ nhớ thấp"</string>
 </resources>

@@ -63,8 +63,8 @@
     <string name="shutdown_progress">Đang tắt…</string>
     <string name="reboot_confirm_title">Khởi động lại thiết bị ngay?</string>
     <string name="reboot_progress">Đang khởi động lại…</string>
-    <string name="screen_on_proximity_sensor_title">Ngăn chặn quay số khi bỏ túi</string>
-    <string name="screen_on_proximity_sensor_summary">Không che phần trên của màn hình</string>
+    <string name="screen_on_proximity_sensor_title">Chế độ bỏ túi</string>
+    <string name="screen_on_proximity_sensor_summary">Đừng che phần tai nghe</string>
     <string name="screen_on_proximity_sensor_hint">Để tắt tính năng này, nhấn đồng thời phím Quay lại và phím Tăng âm lượng.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Để tắt tính năng này, bấm nút Tăng âm lượng.</string>
     <string name="screen_button_notification_title">Phím điều hướng đã tắt</string>
@@ -133,6 +133,15 @@
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi và dữ liệu di động đã được bật</string>
     <string name="xspace_resolver_activity_title">Chọn ứng dụng</string>
     <string name="user_switching_dialog_text">Đang chuyển…</string>
+    <string name="activity_package_delete_confirm_title">Cảnh Báo Quan Trọng</string>
+    <string name="button_text_cancel">Hủy</string>
+    <string name="button_text_delete">Xóa</string>
+    <string name="button_text_next_step_timer">Tiếp theo (%d)</string>
+    <string name="button_text_next_step">Tiếp theo</string>
+    <string name="button_text_delete_timer">Xóa (%d)</string>
+    <string name="package_delete_confirm_step_1">Xóa %s?</string>
+    <string name="package_delete_confirm_step_2">Xóa ứng dụng này có thể làm cho hệ thống của bạn trở nên không ổn định.</string>
+    <string name="package_delete_confirm_step_3">"Bạn sẽ không thể mở ứng dụng này sau khi bạn xóa nó."</string>
     <string name="screen_button_disabled_message">Phím điều hướng đã bị vô hiệu hóa. Để bật lại, chạm đồng thời phím Trang chính và nút Nguồn.</string>
     <string name="screen_button_enabled_message">Phím điều hướng đã được bật.</string>
     <string name="status_bar_toggle_ac">Khóa ứng dụng</string>
