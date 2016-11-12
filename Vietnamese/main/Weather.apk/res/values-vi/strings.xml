@@ -17,7 +17,7 @@
     <string name="button_exit">Thoát</string>
     <string name="button_not_allow">Hủy</string>
     <string name="act_weather_find_city_net_no_good">Không thể kết nối mạng.</string>
-    <string name="act_weather_find_city_click_retry">Thử lại</string>
+    <string name="act_weather_find_city_click_retry">Hãy thử lại</string>
     <string name="act_weather_find_city_searching">Đang tìm…</string>
     <string name="location_tag">Định vị</string>
     <string name="act_weather_find_city_no_result">Không có kết quả nào</string>
@@ -28,12 +28,14 @@
     <string name="view_indexes_item_today">Hôm nay</string>
     <string name="view_indexes_item_tommorrow">Ngày mai</string>
     <string name="activity_main_update_time">Đã cập nhật %1$s</string>
+    <string name="activity_main_update_time_expire">Dữ liệu đã hết hạn</string>
     <string name="activity_main_update_time_right_now">Vừa xong</string>
-    <string name="activity_main_refresh_fail">Không thể kết nối mạng</string>
+    <string name="refresh_fail">Không thể kết nối mạng</string>
     <string name="activity_find_city_dialog_cancel">Hủy</string>
     <string name="activity_find_city_dialog_set">Cài đặt</string>
     <string name="activity_find_city_dialog_title">Truy cập vị trí</string>
     <string name="activity_find_city_dialog_message">Cho phép Thời tiết xem vị trí của bạn</string>
+    <string name="activity_main_time_format">E</string>
     <string name="first_start_network_msg">Ứng dụng này cần phải kết nối Internet và truy cập thông tin vị trí của bạn để làm việc bình thường.</string>
     <string name="first_start_network_title">Kết nối internet và truy cập thông tin vị trí</string>
     <string name="international_detail_menu_title">Chi tiết</string>
@@ -58,7 +60,7 @@
     <string name="indices_title_visibility">Tầm nhìn</string>
     <string name="indices_title_uv">Chỉ số UV</string>
     <string name="indices_title_pressure">Áp suất</string>
-    <string name="indices_title_feel">Cảm nhận thật</string>
+    <string name="indices_title_feel">Cảm thấy như</string>
     <string name="indices_desc_feel">Cảm thấy như %1$s°C</string>
     <string name="indices_title_sport">Thể thao</string>
     <string name="indices_title_car_wash">Rửa xe</string>
@@ -90,8 +92,6 @@
     <string name="button_add_city">Thêm thành phố</string>
     <string name="locate_fail_detail_err">"Không thể định vị thiết bị
 Chạm vào màn hình để thêm thủ công hoặc định vị lại thành phố"</string>
-    <string name="close">Đóng</string>
-    <string name="hide_topic">Ẩn</string>
     <string name="install">Cài đặt</string>
     <string name="open">Mở</string>
     <string name="daily_forecast_detail_date">d/M</string>
@@ -107,7 +107,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="commercial">Quảng cáo</string>
     <string name="more_details">Thêm chi tiết</string>
     <string name="international_details_title">Chi tiết</string>
-    <string name="international_details_wind_title">Gió</string>
+    <string name="international_details_wind_title">GIÓ</string>
     <string name="international_details_real_feel_title">CẢM THẤY NHƯ®</string>
     <string name="international_details_uv_index_title">CHỈ SỐ UV</string>
     <string name="international_details_pressure_title">ÁP SUẤT</string>
@@ -127,4 +127,9 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="unit_wind">Đơn vị tốc độ gió</string>
     <string name="set">Cài đặt</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
+    <string name="common_loading_text">Vui lòng chờ…</string>
+    <string name="close">Đóng</string>
+    <string name="hide_topic">Ẩn</string>
+    <string name="activity_main_refresh_fail">Không thể kết nối mạng</string>
+    <string name="change_alert">Kiểm tra kết nối mạng và thử lại</string>
 </resources>

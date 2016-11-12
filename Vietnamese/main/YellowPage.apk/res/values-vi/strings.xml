@@ -273,8 +273,8 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="express_address_warning_no_area">Khu vực không được để trống</string>
     <string name="express_address_warning_no_full_address">Địa chỉ không được để trống</string>
     <string name="exapress_save_address_to_contact">Lưu địa chỉ này vào liên hệ</string>
-    <string name="express_sender_region">Vị trí người gửi</string>
-    <string name="express_addressee_region">Địa chỉ người nhận</string>
+    <string name="express_sender_region">Khu vực người gửi</string>
+    <string name="express_addressee_region">Khu vực người nhận</string>
     <string name="express_select_address">Địa chỉ</string>
     <string name="express_address_info">Thông tin địa chỉ</string>
     <string name="express_address_name">Tên</string>

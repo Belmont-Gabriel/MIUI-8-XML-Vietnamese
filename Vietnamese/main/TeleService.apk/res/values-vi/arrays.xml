@@ -56,7 +56,7 @@
         <item>Tiếng Do Thái</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Chỉ hệ thống trên máy</item>
+        <item>Trong nước</item>
         <item>Tự động</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
@@ -74,6 +74,10 @@
         <item>WCDMA</item>
         <item>LTE</item>
         <item>Cả 3</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Bình thường</item>
+        <item>Dài</item>
     </string-array>
     <string-array name="livetalk_about_info_array">
         <item>- Hỗ trợ số điện thoại trong nước và quốc tế.</item>

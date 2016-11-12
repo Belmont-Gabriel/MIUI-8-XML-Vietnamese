@@ -8,7 +8,7 @@
     <string name="notification_missedCallsMsg">%s cuộc gọi nhỡ</string>
     <string name="notification_missedCallTicker">Cuộc gọi nhỡ từ %s</string>
     <string name="notification_missedCall_call_back">Gọi lại</string>
-    <string name="notification_missedCall_message">Tin nhắn</string>
+    <string name="notification_missedCall_message">Nhắn tin</string>
     <string name="accessibility_call_muted">Tắt tiếng cuộc gọi.</string>
     <string name="accessibility_speakerphone_enabled">Đã bật loa ngoài.</string>
     <string name="respond_via_sms_canned_response_1">Không thể nghe điện thoại bây giờ. Có chuyện gì thế?</string>
@@ -47,5 +47,6 @@
     <string name="dial_vt_fail_prompt">Mạng hiện tại không hỗ trợ VoLTE. Chuyển sang cuộc gọi thoại thông thường?</string>
     <string name="dial_conference_fail_prompt">Không thể thực hiện cuộc gọi hội nghị bởi vì mạng hiện tại không hỗ trợ VoLTE.</string>
     <string name="can_not_dial_while_vt_prompt">Không thể thực hiện cuộc gọi thoại khi đang gọi video</string>
+    <string name="can_not_dial_vt_while_voice_prompt">Không thể thực hiện cuộc gọi video khi đang gọi thoại</string>
     <string name="voice_dial_out">Cuộc gọi thoại</string>
 </resources>
