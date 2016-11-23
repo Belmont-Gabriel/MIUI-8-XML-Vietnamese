@@ -55,10 +55,4 @@
         <item>Bụi</item>
         <item>Sương mù</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Xếp ứ.dụng</item>
-        <item>Tiện ích</item>
-        <item>Hình nền</item>
-        <item>Hiệu ứng</item>
-    </string-array>
 </resources>
