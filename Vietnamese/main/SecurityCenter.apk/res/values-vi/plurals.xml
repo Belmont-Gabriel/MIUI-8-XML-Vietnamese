@@ -42,8 +42,23 @@
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d vấn đề pin</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Đã tìm thấy %d vấn đề pin, sửa ngay</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d mục có thể tối ưu</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Được tải xuống bởi %1$d người</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Được tải xuống bởi %1$d người</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Được tải xuống bởi %1$d người</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d lượt xem</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d mục an toàn</item>
@@ -71,6 +86,18 @@
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Phát hiện phiên bản mới cho %d ứng dụng.</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d nguy cơ,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojan,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d nguy cơ</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">Đã tìm thấy %d​ nguy cơ, sửa ngay</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d ứng dụng tiềm ẩn nguy cơ rò rỉ thông tin cá nhân</item>
@@ -105,6 +132,9 @@
     <plurals name="found_apps_title">
         <item quantity="other">Đã tìm thấy %d ứng dụng</item>
     </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d mục</item>
+    </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s rủi ro thanh toán</item>
     </plurals>
@@ -124,6 +154,6 @@
         <item quantity="other">Đã xóa %d virus</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d điểm</item>
+        <item quantity="other">+%d</item>
     </plurals>
 </resources>

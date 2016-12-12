@@ -76,6 +76,9 @@
         <item>Khi thiết bị khóa hoặc sau khi thoát ứng dụng</item>
         <item>Khi thiết bị khóa hoặc trong 1 phút sau khi thoát ứng dụng</item>
     </string-array>
+    <string-array name="long_add_menu">
+        <item>Thêm vào danh sách ngoại lệ</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Sau 1 phút</item>
         <item>Sau 5 phút</item>
