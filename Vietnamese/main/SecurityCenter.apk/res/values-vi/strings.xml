@@ -1615,7 +1615,7 @@ Hãy chắc chắn rằng bạn biết nguồn gốc thiết bị và liên hệ
     <string name="sys_app_prot_cracked_login">Đăng nhập bằng Tài khoản Mi</string>
     <string name="confirmSecondSpacePassword">Xác nhận mật khẩu Không gian thứ hai</string>
     <string name="sponsored_sec_fb">Tài trợ</string>
-    <string name="power_center_custom_summary_default">Tối ưu thiết lập hệ thống kéo dài thời gian sử dụng pin</string>
+    <string name="power_center_custom_summary_default">Tối ưu thiết lập hệ thống kéo dài thời gian sử dụng Pin</string>
     <string name="power_center_low_battery_title">Tiết kiệm Pin</string>
     <string name="power_center_low_battery_summary_default">Chuyển đổi chế độ sử dụng khi Pin yếu</string>
     <string name="power_center_low_battery_summary_dynamic">Khi Pin %1$d%% chuyển sang %2$s</string>
