@@ -1899,8 +1899,5 @@ Kiểm tra tin nhắn nhận được từ nhà cung cấp của bạn để bi�
     <string name="xiaomi_traffic_pass_warning">Không có dữ liệu di động có sẵn trên kế hoạch dữ liệu Mi của bạn</string>
     <string name="xiaomi_traffic_return">Quay lại</string>
     <string name="power_center_auto_shutdown_summary_default">Hẹn giờ tự động tắt mở máy</string>
-    <string name="power_center_custom_summary_default">Tối ưu thiết lập hệ thống kéo dài thời gian sử dụng Pin</string>
-    <string name="power_center_low_battery_summary_default">Chuyển đổi chế độ sử dụng khi Pin yếu</string>
-    <string name="power_center_on_time_summary_default">Hẹn giờ chuyển đổi chế độ sử dụng Pin</string>
     <string name="power_dialog_delete_dialog_cannot_delete_default">Bạn hiện đang dùng chế độ này.</string>
 </resources>
