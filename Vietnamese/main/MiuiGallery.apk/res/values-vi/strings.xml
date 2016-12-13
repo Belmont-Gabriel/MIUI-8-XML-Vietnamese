@@ -804,7 +804,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="autohomemain">Autohomemain</string>
     <string name="baby_album_new_photo_page_title">Album của %1$s</string>
     <string name="baby_album_no_share_user_tip">Hiện tại không có người theo dõi</string>
-    <string name="baby_album_picker_default_title">Chọn khuôn mặt của %1$s</string>
     <string name="baidu_bdmobile_downloads">Điện thoại Baidu</string>
     <string name="baidu_flyflow_downloads">Trình duyệt Baidu</string>
     <string name="beautyphone">Điện thoại đẹp</string>
@@ -1074,9 +1073,7 @@ thiết bị"</string>
     <string name="select_too_much_to_send_tips">Không thể gửi quá nhiều mục (nhiều nhất là %d mục).</string>
     <string name="select_video">Chọn video</string>
     <string name="send">Gửi</string>
-    <string name="set_baby_icon_picker_default_title">Đặt làm biểu tượng bé</string>
     <string name="set_bg_file_exist_message">Mục này đã tồn tại</string>
-    <string name="set_bg_picker_default_title">Thiết lập làm hình thu nhỏ phía trên</string>
     <string name="set_bg_unknow_reasons">Lỗi không xác định</string>
     <string name="set_hidden_album">Ẩn</string>
     <string name="set_label_all_albums">Tất cả</string>

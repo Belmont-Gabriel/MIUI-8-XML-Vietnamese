@@ -150,10 +150,6 @@ Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói 
     <string name="cit_audio_cali_playing">Bấm nút để làm hiệu chỉnh</string>
     <string name="cit_audio_cali_file_existed">Tập tin nhạc không tồn tại, không thể hiệu chỉnh!</string>
     <string name="cit_audio_cali_done">Hiệu chỉnh hoàn tất!</string>
-    <string name="cit_audio_cali_valueR">Ref_diff:</string>
-    <string name="cit_audio_cali_valueT">Temp_acc:</string>
-    <string name="cit_audio_cali_valueF0">F0:</string>
-    <string name="cit_audio_cali_valueC">Lượt truy cập:</string>
     <string name="cit_audio_cali_failed">Hiệu chỉnh thất bại, vui lòng thử lại!</string>
     <string name="cit_aud_spkcal">Hiệu chỉnh</string>
     <string name="cit_audio_calibrating">Đang hiệu chỉnh…</string>

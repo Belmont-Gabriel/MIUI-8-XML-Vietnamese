@@ -436,5 +436,4 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="trying_read_verify_code_sms">Đang nhận mã xác minh…</string>
     <string name="update_recovery_info_dialog_message">Bạn cần xác minh danh tính trước khi bạn có thể cập nhật %s.</string>
     <string name="update_recovery_info_dialog_title">Cập nhật %s</string>
-    <string name="vip_level_value">Cấp %d</string>
 </resources>

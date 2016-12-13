@@ -127,13 +127,11 @@
     <string name="edit_comment_title">Edit comment: %1$s</string>
     <string name="app_comments">App comments</string>
     <string name="edit_comment">Add comments</string>
-    <string name="edit_text_default">Write a comment</string>
     <string name="share_to_weibo">Share on Sina Weibo</string>
     <string name="comment_publish">Submit</string>
     <string name="comment_date">%1$02d-%2$02d</string>
     <string name="comment_average_score">Ratings</string>
     <string name="comment_score_count">%1$s users</string>
-    <string name="comment_name_default">User %1$s</string>
     <string name="no_average_score">N/A</string>
     <string name="all_comments">All</string>
     <string name="good_comments_with_count">Praise (%1$s)</string>

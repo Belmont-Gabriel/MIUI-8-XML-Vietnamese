@@ -493,7 +493,6 @@
     <string name="notification_title">\"%s\" tải xuống hoàn tất</string>
     <string name="notification_sub_title">Tổng số %d tác vụ tải xuống hoàn tất</string>
     <string name="notification_ticker_text">Hoàn tất tải xuống video ngoại tuyến</string>
-    <string name="notification_default_title">Video ngoại tuyến</string>
     <string name="app_upgrade_title">Mi Video đã được nâng cấp lên phiên bản mới nhất.</string>
     <string name="app_upgrade_hint">Nhấn để xem đầy đủ video HD trực tuyến.</string>
     <string name="sniff">Nguồn</string>

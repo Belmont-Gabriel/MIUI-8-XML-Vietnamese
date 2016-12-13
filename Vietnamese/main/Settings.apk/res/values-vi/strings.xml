@@ -1340,8 +1340,6 @@ Có người dùng khác trên thiết bị này.
     <string name="terms_title">Điều khoản và điều kiện</string>
     <string name="webview_license_title">Giấy phép WebView hệ thống</string>
     <string name="wallpaper_attributions">Hình nền</string>
-    <string name="wallpaper_attributions_values">"Nhà cung cấp ảnh vệ tinh:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="settings_license_activity_title">Giấy phép nguồn mở</string>
     <string name="settings_license_activity_unavailable">Đã xảy ra sự cố khi tải giấy phép.</string>
     <string name="settings_license_activity_loading">Đang tải…</string>

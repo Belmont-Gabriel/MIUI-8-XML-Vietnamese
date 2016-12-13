@@ -162,7 +162,6 @@
     <string name="recharge_input_phone_title">Nhập số điện thoại (China Mobile, China Unicom, hoặc China Telecom)</string>
     <string name="recharge_select_money_title">Chọn giá trị nạp tiền</string>
     <string name="recharge_charge_range">Giá: %1$s-%2$s Tệ</string>
-    <string name="recharge_charge_value">Giá: %s Tệ</string>
     <string name="recharge_pay">Nạp tiền ngay</string>
     <string name="mishop_web_payment_title">Thanh toán cửa hàng Mi</string>
     <string name="recharge_pay_hint_license">Thông báo nạp tiền</string>
@@ -336,7 +335,6 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="balance_inquiry_send_sms_hint">Một SMS sẽ được gửi đến nhà cung cấp để kiểm tra số dư.</string>
     <string name="balance_inquiry_send_sms_summmary">Kiểm tra số dư</string>
     <string name="balance_inquiry_send_sms_fail_hint">Không có số dư</string>
-    <string name="navigation_search_default_hint">Tìm vị trí</string>
     <string name="navigation_search_automatically_positioned_city">Thành phố hiện tại</string>
     <string name="navigation_search_positioning">Đang định vị…</string>
     <string name="navigation_search_positioning_failed">Chọn một thành phố</string>

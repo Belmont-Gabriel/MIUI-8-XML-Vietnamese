@@ -149,7 +149,6 @@
     <string name="softap_notifif_title">Điểm phát sóng \"%s\" được bật</string>
     <string name="softap_notifif_summary">" %d  đã kết nối"</string>
     <string name="maml_component_customization_title">Cài đặt</string>
-    <string name="default_name">Mặc định</string>
     <string name="resource_select">Chọn</string>
     <string name="screen_paper_mode_enter_toast">Chế độ đọc sách đang bật. Bạn có thể bật và tắt tính năng này bất cứ lúc nào trong Cài đặt bổ sung > Chế độ đọc sách.</string>
 </resources>

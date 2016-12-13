@@ -129,7 +129,6 @@
     <string name="cta_button_continue">Đồng ý</string>
 	<string name="app_name_which_call">Ứng dụng: %s</string>
     <string name="app_version_which_call">Phiên bản: %s</string>
-    <string name="default_name">Mặc định</string>
     <string name="group_name_contacts">Liên hệ</string>
     <string name="group_name_coworkers">Đồng nghiệp</string>
     <string name="group_name_family">Gia đình</string>

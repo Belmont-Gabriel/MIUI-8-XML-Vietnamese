@@ -24,7 +24,6 @@
     <string name="color_picker_button_more">Khác</string>
     <string name="color_picker_hue">Màu sắc</string>
     <string name="color_picker_saturation">Độ bão hòa</string>
-    <string name="color_picker_value">Giá trị</string>
     <string name="color_picker_button_set">Đặt</string>
     <string name="color_picker_button_cancel">Hủy</string>
     <string name="color_picker_dialog_title">Chọn màu</string>
@@ -69,7 +68,6 @@
     <string name="last_month">Tháng trước</string>
     <string name="older">Cũ hơn</string>
     <string name="js_dialog_title">Trang web \"%s\" cho biết:</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload_title">Xác nhận điều hướng</string>
     <string name="js_dialog_before_unload_positive_button">Rời khỏi</string>
     <string name="js_dialog_before_unload_negative_button">Ở lại</string>

@@ -47,7 +47,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="livetalk_white_list_number_title">Thực hiện cuộc gọi thông thường</string>
     <string name="operator_first_title">Nhà mạng trước</string>
     <string name="operator_remain_mins">Phút gói nhà mạng</string>
-    <string name="operator_remain_mins_value">%1$s phút</string>
     <string name="operator_first_set_failed">Thất bại</string>
     <string name="operator_first_sim_card_changed_title">Thẻ Sim đã thay đổi</string>
     <string name="operator_first_sim_card_changed_summary">Đặt lại phút gói nhà mạng</string>
@@ -1083,7 +1082,6 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="msim_pref_title_voice">Gọi</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_not_set_summary">Chưa thiết lập</string>
-    <string name="msim_select_default_time_left">(%d giây)</string>
     <string name="msim_switch_data_conn_toast">Đã đổi thẻ SIM. Loại mạng đã thay đổi. Xem thêm thông tin về thẻ SIM và mạng di động trong menu Cài đặt.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Khe cắm SIM 2 chỉ hỗ trợ mạng GSM. Loại mạng ưu tiên cho khe cắm này đã được thay đổi thành chỉ mạng 2G.</string>
     <string name="msim_disable_sim_card_title">Dừng sử dụng thẻ SIM</string>

@@ -36,7 +36,6 @@
     <string name="could_not_use_app">Không thể sử dụng %1$s.</string>
     <string name="pay_with">Thanh toán bằng</string>
     <string name="complete_with">Hoàn tất với</string>
-    <string name="default_pay_app_removed">Dịch vụ ưu tiên Chạm &amp; Thanh toán đã bị xóa. Chọn dịch vụ khác?</string>
     <string name="ask_nfc_tap">Chạm thiết bị khác để hoàn tất</string>
     <string name="wifi_connect">Kết nối</string>
     <string name="status_unable_to_connect">Không thể kết nối mạng</string>

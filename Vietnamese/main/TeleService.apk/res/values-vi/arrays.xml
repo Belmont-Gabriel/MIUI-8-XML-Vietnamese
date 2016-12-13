@@ -5,11 +5,6 @@
         <item>LTE/CDMA</item>
         <item>LTE/GSM/UMTS</item>
     </string-array>
-    <string-array name="clir_display_values">
-        <item>Mặc định theo mạng</item>
-        <item>Ẩn số</item>
-        <item>Hiển thị số</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
         <item>TD-SCDMA, GSM/WCDMA, CDMA và EvDo</item>
@@ -34,17 +29,6 @@
         <item>Chỉ WCDMA</item>
         <item>Chỉ GSM</item>
         <item>Ưu tiên WCDMA</item>
-    </string-array>
-    <string-array name="call_barring_outgoing_display_values">
-        <item>Tắt</item>
-        <item>Cuộc gọi chuyển vùng quốc tế</item>
-        <item>Cuộc gọi quốc tế</item>
-        <item>Cuộc gọi đi</item>
-    </string-array>
-    <string-array name="call_barring_incoming_display_values">
-        <item>Tắt</item>
-        <item>Chuyển vùng</item>
-        <item>Tất cả</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Tiếng Anh</item>

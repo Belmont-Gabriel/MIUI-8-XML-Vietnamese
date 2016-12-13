@@ -11,7 +11,6 @@
     <string name="cube_ptr_hours_ago"> giờ trước</string>
     <string name="app_name">Xiaomi VIP</string>
     <string name="level">Cấp</string>
-    <string name="level_exp_value" formatted="false">%d/%d</string>
     <string name="level_detail">Giới hạn nhệm vụ hàng ngày: %d</string>
     <string name="action">Xem</string>
     <string name="task">Nhiệm vụ</string>

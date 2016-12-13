@@ -35,7 +35,6 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Đã đăng nhập bằng Facebook</string>
     <string name="com_facebook_send_button_text">Gửi</string>
     <string name="com_facebook_share_button_text">Chia sẻ</string>
-    <string name="com_facebook_tooltip_default">Mới! Bạn đang có quyền kiểm soát - hãy chọn thông tin bạn muốn chia sẻ với các ứng dụng.</string>
     <string name="common_google_play_services_api_unavailable_text">%1$s yêu cầu một hoặc nhiều dịch vụ của Google Play hiện không có sẵn. Vui lòng liên hệ với nhà phát triển để được hỗ trợ.</string>
     <string name="common_google_play_services_enable_button">Bật dịch vụ của Google Play</string>
     <string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>

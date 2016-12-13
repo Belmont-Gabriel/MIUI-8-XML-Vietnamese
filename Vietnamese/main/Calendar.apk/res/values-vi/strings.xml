@@ -34,8 +34,6 @@
     <string name="online_reminder_header_text">Nhắc nhở</string>
     <string name="action_text_online">Tìm</string>
     <string name="text_year">Năm</string>
-    <string name="free_day_default_banner_title">Hãy tận hưởng kỳ nghỉ tuyệt vời này!</string>
-    <string name="work_day_default_banner_title">Làm thêm giờ là cách kiếm tiền hiệu quả nhất!</string>
     <string name="horoscope_card_comprehensive">Tử vi toàn diện:</string>
     <string name="horoscope_card_love">Tình cảm:</string>
     <string name="horoscope_card_financial">Tài chính:</string>
@@ -72,15 +70,10 @@
     <string name="credit_card_overdue">Hết hạn</string>
     <string name="subscribe_ed">Đã đăng ký rồi</string>
     <string name="my_subscribe_events">Đăng ký của tôi</string>
-    <string name="subscribe_card_more_default_text">Thêm</string>
-    <string name="subscribe_card_recommend_default_text">Đăng ký được đề nghị</string>
-    <string name="drop_down_list_header_default_text">Chạm để làm mới</string>
     <string name="drop_down_list_header_pull_text">Kéo xuống để làm mới</string>
     <string name="drop_down_list_header_release_text">Thả ra để làm mới</string>
     <string name="drop_down_list_header_loading_text">Vui lòng chờ…</string>
-    <string name="drop_down_list_footer_default_text">Thêm</string>
     <string name="drop_down_list_footer_no_more_text">Không có thêm kết quả khác</string>
-    <string name="subscribe_description_card_default_title">Tóm tắt đăng ký</string>
     <string name="subscribe_description_card_more_launch">Mở rộng</string>
     <string name="subscribe_description_card_more_cut">Thu gọn</string>
     <string name="str_hour_of_everyday">%s hàng ngày</string>

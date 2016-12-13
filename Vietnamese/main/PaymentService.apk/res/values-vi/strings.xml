@@ -40,7 +40,6 @@
     <string name="mibi_format_bill_date">d/M/yyyy</string>
     <string name="mibi_colon">": "</string>
     <string name="mibi_unit">Mi Credit</string>
-    <string name="mibi_unit_value">%1$s Mi Credit</string>
     <string name="mibi_illegal_intent">Yêu cầu nội dung bất hợp pháp</string>
     <string name="mibi_label_pay_remain">Số dư: %1$s Mi Credit</string>
     <string name="mibi_label_balance">Số dư</string>
@@ -109,10 +108,6 @@ Hãy liên hệ với dịch vụ khách hàng Xiaomi."</string>
     <string name="mibi_recharge_grid_money_picker_hint">Chọn mệnh giá</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Chọn mệnh giá</string>
     <string name="mibi_other_denomiantion">Chọn mệnh giá</string>
-    <string name="mibi_recharge_value_money">Mua %s Tệ mệnh giá của Mi Credit</string>
-    <string name="mibi_recharge_value_money_special_unit">Mua %1$s %2$s mệnh giá của Mi Credit</string>
-    <string name="mibi_recharge_value_money_with_tip">Mua %s Tệ mệnh giá của Mi Credit &lt;font color=red>(Không thể dùng Mi Credit tại Mi.com)&lt;/font></string>
-    <string name="mibi_recharge_value_money_with_tip_special_unit">Mua %1$s %2$s mệnh giá của Mi Credit &lt;font color=red>(Không thể dùng Mi Credit tại Mi.com)&lt;/font></string>
     <string name="mibi_recharge_grid_error_denomination">Số tiền Mi Credit phải là giữa %1$s và %2$s.</string>
     <string name="mibi_paytool_error_install">Cài đặt Plugin %1$s bảo mật di động thất bại</string>
     <string name="mibi_paytool_error_msp">%1$s thất bại</string>
@@ -130,7 +125,6 @@ Hãy liên hệ với dịch vụ khách hàng Xiaomi."</string>
     <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">Mệnh giá được lựa chọn phải phù hợp với thẻ trả trước. Lựa chọn mệnh giá khác sẽ làm mất hiệu lực thẻ. Hành động này không thể hoàn tác được.</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Nếu mệnh giá của thẻ trả trước không phải là &lt;font color=red>%1$s Tệ&lt;/font>, thẻ sẽ bị vô hiệu. Xiaomi không chịu trách nhiệm cho bất kỳ tổn thất tiền tệ xảy ra do lỗi người dùng.</string>
-    <string name="mibi_prepaid_picker_title_default">Chọn mệnh giá</string>
     <string name="mibi_prepaid_picker_title_selected">mệnh giá</string>
     <string name="mibi_prepaid_number_edit_hint">Số</string>
     <string name="mibi_prepaid_password_edit_hint">Mật khẩu</string>
@@ -496,7 +490,6 @@ Vui lòng đăng nhập lại."</string>
     <string name="passport_registered_phone_user_name">Tên người dùng: %s</string>
     <string name="mibi_button_sms_code">Xác nhận</string>
     <string name="mibi_img_captcha_hint">Nhập mã xác nhận hình ảnh</string>
-    <string name="mibi_giftcard_value">Phiếu quà tặng %1$s Mi Credit</string>
     <string name="mibi_title_recharge">Nạp Mi Credit</string>
     <string name="mibi_recharge_prepaid_title">Thẻ trả trước</string>
     <string name="mibi_recharge_alipay_title">Alipay</string>

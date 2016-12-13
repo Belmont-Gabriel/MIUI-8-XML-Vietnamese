@@ -77,12 +77,4 @@
         <item>Tây</item>
         <item>Tây Bắc</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>Ưu</item>
-        <item>Tốt</item>
-        <item>Ô nhiễm nhẹ</item>
-        <item>Ô nhiễm vừa</item>
-        <item>Ô nhiễm nặng</item>
-        <item>Ô nhiễm nghiêm trọng</item>
-    </string-array>
 </resources>

@@ -102,8 +102,6 @@ Vui lòng chờ."</string>
     <string name="v2_app_pass_another_pass_active">Không thể kích hoạt %1$s trong khi %2$s đang hoạt động.</string>
     <string name="v2_app_pass_confirm_purchase">Chạm vào nút dưới đây để kích hoạt thẻ.</string>
     <string name="v2_app_pass_data_duration_format">%1$s, %2$s</string>
-    <string name="v2_app_pass_default_promo_intro">Lấy %1$s để tiết kiệm trên lưu lượng của %2$s.</string>
-    <string name="v2_app_pass_default_reminder_message">Tận hưởng %1$s miễn phí.</string>
     <string name="v2_app_pass_details_description_header">Mô tả</string>
     <string name="v2_app_pass_details_others_header">Các thẻ ứng dụng khác bạn có thể thích</string>
     <string name="v2_app_pass_details_terms_header">Điều khoản và điều kiện</string>
@@ -164,8 +162,6 @@ Vui lòng chờ."</string>
     <string name="v2_data_background_blocking_hint">Chạm bất cứ ứng dụng ở bên trái để chặn không cho nó sử dụng dữ liệu trên nền.</string>
     <string name="v2_data_saver">Trình tiết kiệm dữ liệu</string>
     <string name="v2_days_short">%dngày</string>
-    <string name="v2_default_operator">Nhà mạng của bạn</string>
-    <string name="v2_defaults">Mặc định</string>
     <string name="v2_dialog_adblock_warning_message">Bạn đã cài đặt Adblock, vì thế Opera Max có thể không hoạt động bình thường.</string>
     <string name="v2_dialog_adblock_warning_title">Đã cài đặt Adblock</string>
     <string name="v2_dialog_app_blocked_dialog_button_left_text">Tiếp tục chặn</string>
@@ -235,9 +231,6 @@ Bật Opera Max để cải thiện trải nghiệm của bạn và tiết ki�
     <string name="v2_first_run_about_savings_apps">Tiết kiệm với hầu hết các ứng dụng trên điện thoại Android của bạn</string>
     <string name="v2_first_run_about_savings_headline">Tiết kiệm dữ liệu bằng cách nén video, hình ảnh và trang web</string>
     <string name="v2_first_run_about_savings_videos">Xem nhiều video ít gián đoạn và ít chờ đợi hơn</string>
-    <string name="v2_first_run_cobrand_default_text_1">Các thẻ ứng dụng là các gói dữ liệu mini không định kỳ</string>
-    <string name="v2_first_run_cobrand_default_text_2">Hãy vào cửa hàng thẻ trong Opera Max để có các thẻ ứng dụng khác</string>
-    <string name="v2_first_run_cobrand_default_title">Mở rộng gói dữ liệu của bạn với những khuyến mại thẻ ứng dụng mới nhất từ %1$s</string>
     <string name="v2_first_run_oem_eula_button">Đồng ý &amp; Tiếp tục</string>
     <string name="v2_first_run_savings_item_installed">Đã cài đặt</string>
     <string name="v2_first_run_savings_msg">Mở rộng gói dữ liệu của bạn miễn phí tới 50%</string>
@@ -317,10 +310,8 @@ TRUNG BÌNH"</string>
     <string name="v2_launch">Khởi động</string>
     <string name="v2_launch_app">Khởi động %1$s</string>
     <string name="v2_media_savings_app_auto_quality_note">Nếu bạn đã thay đổi cài đặt chất lượng trong %1$s, vui lòng cài đặt lại nó về \"Tự động\". Nếu không Opera Max không thể thực hiện tính năng kì diệu của nó.</string>
-    <string name="v2_media_savings_app_default_quality_note">Nếu bạn đã thay đổi cài đặt chất lượng trong %1$s, vui lòng cài đặt lại nó về mặc định. Nếu không Opera Max không thể thực hiện tính năng kì diệu của nó.</string>
     <string name="v2_media_savings_auto_quality_note">Nếu bạn đã thay đổi cài đặt chất lượng trong ứng dụng này thì vui lòng cài đặt lại nó về \"Tự động\". Nếu không Opera Max không thể thực hiện tính năng kì diệu của nó.</string>
     <string name="v2_media_savings_compatibility_warning">Thiết bị Android của bạn chưa hỗ trợ tiết kiệm toàn bộ cho ứng dụng này. Tắt tiết kiệm đối với ứng dụng này nếu video ngừng chạy.</string>
-    <string name="v2_media_savings_default_quality_note">Nếu bạn đã thay đổi cài đặt chất lượng trong ứng dụng này thì vui lòng cài đặt lại nó về mặc định. Nếu không Opera Max không thể thực hiện tính năng kì diệu của nó.</string>
     <string name="v2_migration_continue">Tiếp tục</string>
     <string name="v2_migration_done_label">Chào mừng bạn đến với Opera Max mới và được cải thiện</string>
     <string name="v2_migration_done_text">Opera Max mới giữ lịch sử dữ liệu và cài đặt của bạn an toàn. Thoải mái gỡ cài đặt bản cũ.</string>
@@ -411,7 +402,6 @@ TRUNG BÌNH"</string>
     <string name="v2_see_all_apps">Xem tất cả ứng dụng</string>
     <string name="v2_see_details">Xem chi tiết</string>
     <string name="v2_service_not_available">Dịch vụ tạm thời không sẵn có.</string>
-    <string name="v2_share_app_pass_default_operator">nhà mạng của bạn</string>
     <string name="v2_share_app_pass_text">Cài đặt Opera Max và nhận các thẻ ứng dụng miễn phí từ %1$s.http://opr.as/maxsh</string>
     <string name="v2_share_app_pass_title">Kiểm tra các thẻ ứng dụng trong Opera Max</string>
     <string name="v2_share_now">Chia sẻ ngay bây giờ</string>

@@ -13,7 +13,6 @@
     <string name="com_facebook_loading">Đang tải…</string>
     <string name="com_facebook_internet_permission_error_title">Lỗi AndroidManifest</string>
     <string name="com_facebook_internet_permission_error_message">Đăng nhập WebView yêu cầu INTERNET cho phép</string>
-    <string name="com_facebook_tooltip_default">Mới! Bạn đang có quyền kiểm soát - hãy chọn thông tin bạn muốn chia sẻ với các ứng dụng.</string>
     <string name="com_facebook_image_download_unknown_error">Lỗi bất ngờ khi tải ảnh xuống.</string>
     <string name="com_facebook_share_button_text">Chia sẻ</string>
     <string name="com_facebook_send_button_text">Gửi</string>

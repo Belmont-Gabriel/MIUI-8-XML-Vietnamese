@@ -154,7 +154,6 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="datausage_ignore_app_list_count">Bỏ qua sử dụng dữ liệu của %d ứng dụng</string>
     <string name="free_traffic_settings">Cài đặt sử dụng dữ liệu miễn phí</string>
     <string name="free_time_traffic">Giới hạn dữ liệu miễn phí</string>
-    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_start_time_summary_na">Từ</string>
     <string name="power_save_on_time_end_time_summary_na">Đến</string>
     <string name="manual_input_traffic">Thiết lập sử dụng dữ liệu</string>
@@ -479,9 +478,6 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="tc_diagnostic_onekey_repair_botton">Sửa</string>
     <string name="tc_diagnostic_repair_and_continue">Sửa và tiếp tục</string>
     <string name="tc_diagnostic_upload_button">Báo cáo</string>
-    <string name="tc_diagnostic_fragment_default">"Giới thiệu chẩn đoán
-1. Thiết bị này sẽ kết nối với mạng nhà mạng, gửi một tin nhắn miễn phí, và chờ phản hồi. Điều này có thể mất đến 5 phút.
-2. Bạn có thể thoát khỏi trang này trong khi chẩn đoán, hệ thống sẽ tự động chẩn đoán trong nền."</string>
     <string name="sim_location_diagnostic">Chẩn đoán vị trí</string>
     <string name="operator_diagnostic">Chẩn đoán nhà mạng</string>
     <string name="brand_diagnostic">Chuẩn đoán thương hiệu nhà mạng</string>
@@ -1615,12 +1611,9 @@ Hãy chắc chắn rằng bạn biết nguồn gốc thiết bị và liên hệ
     <string name="sys_app_prot_cracked_login">Đăng nhập bằng Tài khoản Mi</string>
     <string name="confirmSecondSpacePassword">Xác nhận mật khẩu Không gian thứ hai</string>
     <string name="sponsored_sec_fb">Tài trợ</string>
-    <string name="power_center_custom_summary_default">Tối ưu thiết lập hệ thống kéo dài thời gian sử dụng Pin</string>
     <string name="power_center_low_battery_title">Tiết kiệm Pin</string>
-    <string name="power_center_low_battery_summary_default">Chuyển đổi chế độ sử dụng khi Pin yếu</string>
     <string name="power_center_low_battery_summary_dynamic">Khi Pin %1$d%% chuyển sang %2$s</string>
     <string name="power_center_on_time_title">Hẹn giờ chuyển đổi chế độ</string>
-    <string name="power_center_on_time_summary_default">Hẹn giờ chuyển đổi chế độ sử dụng Pin</string>
     <string name="power_center_on_time_summary_dynamic">%1$s - %2$s chuyển sang %3$s</string>
     <string name="power_chooser_title">Chế độ Pin</string>
     <string name="power_chooser_check_box_title">Chọn chế độ</string>
@@ -1898,6 +1891,4 @@ Kiểm tra tin nhắn nhận được từ nhà cung cấp của bạn để bi�
     <string name="xiaomi_traffic_pass_used">Đã sử dụng %s của kế hoạch dữ liệu Mi của bạn</string>
     <string name="xiaomi_traffic_pass_warning">Không có dữ liệu di động có sẵn trên kế hoạch dữ liệu Mi của bạn</string>
     <string name="xiaomi_traffic_return">Quay lại</string>
-    <string name="power_center_auto_shutdown_summary_default">Hẹn giờ tự động tắt mở máy</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">Bạn hiện đang dùng chế độ này.</string>
 </resources>

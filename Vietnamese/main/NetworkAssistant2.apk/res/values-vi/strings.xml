@@ -147,7 +147,6 @@ Kiểm tra tin nhắn nhận được từ nhà cung cấp của bạn để bi�
     <string name="lock_screen_warning_category">Thông báo màn hình khóa</string>
     <string name="lock_screen_warning_switch_summary">Hiển thị cảnh báo trên màn hình khóa khi sử dụng dữ liệu vượt giá giá trị nhất định</string>
     <string name="lock_screen_warning_switch_title">Hiển thị cảnh báo trên màn hình khóa</string>
-    <string name="lock_screen_warning_value">Cảnh báo sử dụng dữ liệu</string>
     <string name="main_alert_message_month_limit_error">Giới hạn dữ liệu không chính xác</string>
     <string name="main_alert_message_no_imsi">Không có thẻ SIM</string>
     <string name="main_alert_message_no_mobile_package">Thiết lập giới hạn dữ liệu</string>
@@ -240,7 +239,6 @@ Hàng ngày: %1$s%2$s | Đã dùng %3$s"</string>
     <string name="permit_running_network">Dữ liệu nền</string>
     <string name="person_hotpot">Điểm phát sóng di động</string>
     <string name="pkg_traffic">Thiết lập giới hạn sử dụng dữ liệu</string>
-    <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_end_time_summary">Tới</string>
     <string name="power_save_on_time_start_time_summary">Từ</string>
     <string name="pref_about">Giới thiệu</string>
@@ -314,7 +312,6 @@ Hàng ngày: %1$s%2$s | Đã dùng %3$s"</string>
     <string name="pref_traffic_saving_whitelist">Danh sách ngoại lệ</string>
     <string name="pref_traffic_saving_whitelist_hint">Không giới hạn sử dụng dữ liệu cho các ứng dụng đã chọn</string>
     <string name="pref_version">Phiên bản %s</string>
-    <string name="pref_warning_values">Mức độ cảnh báo việc sử dụng dữ liệu</string>
     <string name="pref_whitelist_setting">Quản lý danh sách ngoại lệ</string>
     <string name="privacy_declare_dialog_message">Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href=%s> Điều khoản Dịch vụ&lt;/a> của Opera.</string>
     <string name="privacy_declare_dialog_title">Điều khoản Dịch vụ</string>
@@ -323,8 +320,6 @@ Hàng ngày: %1$s%2$s | Đã dùng %3$s"</string>
     <string name="privacy_prompt_traffic_purchase_message">Chi tiết số điện thoại và nhà cung cấp của bạn sẽ được mã hóa và tải lên máy chủ Mi để nhận thêm thông tin về các tùy chọn mua dữ liệu.</string>
     <string name="privacy_prompt_upload">Tải lên</string>
     <string name="protocol_exception_title">Chẩn đoán giao thức mạng</string>
-    <string name="reach_daily_limit_value_body">Giảm sử dụng dữ liệu di động của bạn.</string>
-    <string name="reach_daily_limit_value_title">Đã đạt đến giới hạn dữ liệu hàng ngày</string>
     <string name="read_number">86 bài viết</string>
     <string name="read_unit">" bài viết"</string>
     <string name="repair">Sửa</string>
@@ -359,7 +354,6 @@ Hàng ngày: %1$s%2$s | Đã dùng %3$s"</string>
     <string name="system_app">Ứng dụng hệ thống</string>
     <string name="tc_sms_report_direction">Mã truy vấn SMS</string>
     <string name="tc_sms_report_do_report">Gửi</string>
-    <string name="tc_sms_report_get_default">Bạn sẽ không phải trả phí cho tin nhắn SMS được dùng để kiểm tra số dư dữ liệu sử dụng từ nhà cung cấp.</string>
     <string name="tc_sms_report_get_sms">Nhận SMS</string>
     <string name="tc_sms_report_get_sms2">Nhận SMS</string>
     <string name="tc_sms_report_get_sms_again">Làm mới SMS</string>
@@ -450,7 +444,6 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="traffic_saving_history_total_money">Tổng số tiết kiệm</string>
     <string name="traffic_saving_history_total_money_unit">NDT</string>
     <string name="traffic_saving_history_total_month">"Đã tiết kiệm tháng này: "</string>
-    <string name="traffic_saving_history_total_month_default">Tiết kiệm trung bình mỗi tháng</string>
     <string name="traffic_saving_history_total_rate">Tỷ lệ</string>
     <string name="traffic_saving_history_total_rate_unit">%</string>
     <string name="traffic_saving_history_total_traffic">Đã tiết kiệm dữ liệu</string>
@@ -567,7 +560,6 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="networkchanged_exception_title">Đã thay đổi kết nối</string>
     <string name="open_now">Cho phép ứng dụng sử dụng dữ liệu di động</string>
     <string name="protocol_loop_back_exception_summary">Kiểm tra vòng lặp trên máy thất bại. Để báo cáo vấn đề này với MIUI, truy cập ứng dụng Báo cáo Lỗi và gửi báo lỗi từ thiết bị của bạn.</string>
-    <string name="reach_daily_limit_value_body_open_traffic_saving">Chạm để bật Tiết kiệm dữ liệu.</string>
     <string name="renew_ip">Thử lại</string>
     <string name="roaming_limit_dialog_message">Đã đạt đến giới hạn dữ liệu chuyển vùng hàng ngày.</string>
     <string name="roaming_limit_network_notification_body">Chạm để xem mạng dữ liệu khả dụng</string>

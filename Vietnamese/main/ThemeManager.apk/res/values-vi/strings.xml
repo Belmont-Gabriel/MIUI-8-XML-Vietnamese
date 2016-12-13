@@ -408,11 +408,9 @@
     <string name="resource_search_color_hint_pink">Hồng</string>
     <string name="resource_search_color_hint_white">Trắng</string>
     <string name="short_ringtone_resource">Ngắn</string>
-    <string name="theme_provision_default_theme_title">Bình thường</string>
     <string name="theme_provision_loading_tips">Chờ 1 lát…</string>
     <string name="theme_provision_oper_button_next">Tiếp theo</string>
     <string name="theme_provision_title">Chọn chủ đề</string>
     <string name="third_party_pickers_activity_title">Đặt %1$s</string>
     <string name="title_system_resource">Đã tải xuống</string>
-    <string name="vip_level_value">Cấp %d</string>
 </resources>

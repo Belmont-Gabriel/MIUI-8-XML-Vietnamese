@@ -103,8 +103,6 @@
     <string name="default_folder_title_recommend">Ứ.dụng khác</string>
     <string name="default_folder_title_game">Trò chơi</string>
     <string name="default_folder_title_security">Hệ thống</string>
-    <string name="default_folder_title_telcel">Telcel</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="wallpaper_settings">Hình nền</string>
     <string name="choose_wallpaper">Chọn hình nền</string>
     <string name="current_preview">Xem trước</string>
@@ -120,7 +118,6 @@
     <string name="apply_both">Cả hai</string>
     <string name="enable_wallpaper_scroll">Bật cuộn ảnh hình nền</string>
     <string name="disable_wallpaper_scroll">Tắt cuộn ảnh hình nền</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="online_wallpaper">Trực tuyến</string>
     <string name="custom_wallpaper_picker">Duyệt</string>
     <string name="reset_scene_prompt">Màn hình sẽ được đặt lại về bố cục mặc định.</string>

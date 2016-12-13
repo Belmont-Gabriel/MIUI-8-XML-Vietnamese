@@ -128,7 +128,6 @@
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
     <string name="splash_tip">Kết nối MiKey</string>
-    <string name="default_action_title">Hành động mặc định</string>
     <string name="action_home">Quay lại</string>
     <string name="action_key_direction">Điều hướng</string>
     <string name="action_key_enter">Nhập</string>
@@ -183,7 +182,6 @@ Mở thanh công cụ, trượt từ phía trên cùng của màn hình xuống 
     <string name="setting_silent_mode">Chế độ im lặng</string>
     <string name="setting_proximity_text">Sử dụng cảm biến tiệm cận</string>
     <string name="setting_proximity_desc">Sử dụng cảm biến tiệm cận để ngăn chặn lạm dụng Mikey trong túi của bạn.</string>
-    <string name="setting_silent_mode_default">Chế độ tai nghe (chọn MiKey)</string>
     <string name="setting_silent_mode_dust_cap">Chế độ phích cắm</string>
     <string name="setting_silent_mode_desc">Nếu bạn muốn kết nối với tai nghe, chọn chế độ tai nghe và ngắt kết nối Mikey. Nếu không thì âm thanh phát ra sẽ không hoạt động đúng.</string>
     <string name="setting_instant_photo_desc">Trước khi chụp ảnh, máy ảnh lấy tiêu cự trước</string>
