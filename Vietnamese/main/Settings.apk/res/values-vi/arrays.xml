@@ -580,11 +580,6 @@
         <item>1,5 giây</item>
         <item>2 giây</item>
     </string-array>
-    <string-array name="long_press_volume_down_action">
-        <item>Không</item>
-        <item>Chế độ chụp nhanh (chọn trong Máy ảnh)</item>
-        <item>Lối tắt phương tiện công cộng</item>
-    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 giây</item>
         <item>2 giây</item>
