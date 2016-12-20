@@ -104,7 +104,6 @@
     <string name="no_more_result">Không còn mục nào</string>
     <string name="account_address">Địa chỉ</string>
     <string name="try_again">Thử lại</string>
-    <string name="navigation_search_default_hint">Tìm kiếm các mục ở đây</string>
     <string name="navigation_search_automatically_positioned_city">Nhận thông tin về thành phố bằng cách sử dụng vị trí hiện tại</string>
     <string name="navigation_search_positioning">Đang lấy thông tin vị trí…</string>
     <string name="navigation_search_positioning_failed">"Không thể lấy vị trí, vui lòng chọn thành phố bằng tay"</string>
