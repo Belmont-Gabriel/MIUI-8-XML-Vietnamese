@@ -4,7 +4,7 @@
     <string name="fw_blocked">Danh sách chặn</string>
     <string name="fw_blocked_count">"Đã chặn "</string>
     <string name="fw_blocked_join">" và "</string>
-    <string name="tab_title">Chống thư rác</string>
+    <string name="tab_title">Danh sách chặn</string>
     <string name="tab_block_log">Nhật ký chặn</string>
     <string name="tab_blacklist">Danh sách chặn</string>
     <string name="tab_sms">SMS</string>
@@ -254,8 +254,10 @@
     <string name="st_antispam_title_null_incoming">Số cá nhân</string>
     <string name="st_antispam_title_service_sms">Tin nhắn thông báo</string>
     <string name="st_summary_keywords_blacklist">Thêm từ khóa để khóa tin nhắn</string>
-    <string name="st_summary_blacklist_numbers">Khóa cuộc gọi và tin nhắn bằng số điện thoại và mã vùng</string>
+    <string name="st_summary_blacklist_numbers">Chặn cuộc gọi và tin nhắn từ số điện thoại và khu vực cụ thể</string>
     <string name="st_summary_whitelist_numbers">Cho phép cuộc gọi và tin nhắn từ số điện thoại và khu vực cụ thể</string>
+    <string name="st_summary_blacklist_numbers_international">Chặn cuộc gọi và tin nhắn từ số điện thoại cụ thể</string>
+    <string name="st_summary_whitelist_numbers_international">Cho phép cuộc gọi và tin nhắn từ số điện thoại cụ thể</string>
     <string name="st_summary_special_numbers">Khóa số điện thoại đã đánh dấu</string>
     <string name="st_antispam_mode_smart_sum">Số bị chặn bạn thêm thủ công và số bị chặn đã được báo cáo bởi người dùng khác</string>
     <string name="st_antispam_mode_blacklist_sum">Chặn cuộc gọi và SMS từ số điện thoại bạn đã thêm thủ công vào danh sách chặn</string>

@@ -27,8 +27,12 @@
     <string name="alarm_disabled">Tắt</string>
     <string name="alarm_ascending_mode_title">Âm lượng tăng dần</string>
     <string name="alarm_ascending_mode_summary">Âm báo thức tăng dần</string>
+    <string name="setting_alarm_arriving_title">Thông báo trước khi đổ chuông</string>
+    <string name="setting_alarm_arriving_summary">Gửi thông báo trước khi đổ chuông</string>
     <string name="close_alarm">Tắt báo thức</string>
     <string name="timer_notify_text">Báo lại sau hoặc bỏ hẹn giờ.</string>
+    <string name="upcoming_alarm">Báo thức sắp reo</string>
+    <string name="upcoming_alarm_hint">Bạn có thể đóng trước báo thức này</string>
     <string name="start">Bắt đầu</string>
     <string name="pause">Tạm dừng</string>
     <string name="reset">Đặt lại</string>
@@ -75,7 +79,7 @@
     <string name="birthday_alarm_summary">Phát bài hát \"Chúc mừng sinh nhật\" thay cho âm báo thức mặc định trong ngày sinh nhật của bạn</string>
     <string name="turn_off_a_repeat_alarm">Tắt lặp lại báo thức</string>
     <string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
-    <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">Tắt lặp lại báo thức này</string>
     <string name="today">Hôm nay</string>
     <string name="tomorrow">Ngày mai</string>
