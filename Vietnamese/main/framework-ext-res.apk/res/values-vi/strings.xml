@@ -107,7 +107,6 @@
     <string name="apply_password_confirm_dlg_title">Chế độ %s</string>
     <string name="apply_password_confirm_dlg_msg">Sử dụng mật khẩu màn hình khóa hiện tại để truy cập cài đặt cho %s.</string>
     <string name="apply_password_action">OK</string>
-    <string name="subinfo_default_name">SIM %d</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Đặt ngón tay trên phím Trang chính</string>
     <string name="maml_component_customization_title">Cài đặt</string>
     <string name="default_name">Mặc định</string>
