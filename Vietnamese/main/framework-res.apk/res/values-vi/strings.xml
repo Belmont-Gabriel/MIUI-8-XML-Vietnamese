@@ -779,7 +779,6 @@ Bạn có chắc chắn muốn điều hướng khỏi trang này không?"</stri
     <string name="aerr_mute">Tắt tiếng cho đến khi thiết bị khởi động lại</string>
     <string name="aerr_wait">Đợi</string>
     <string name="aerr_close_app">Đóng ứng dụng</string>
-    <string name="aerr_process">Rất tiếc, quá trình %1$s đã dừng lại.</string>
     <string name="anr_title" />
     <string name="anr_activity_application">%2$s không phản hồi</string>
     <string name="anr_activity_process">%1$s không phản hồi</string>
@@ -916,7 +915,6 @@ Bạn có muốn đóng trang không?"</string>
     <string name="decline_remote_bugreport_action">TỪ CHỐI</string>
     <string name="select_input_method">Thay đổi bàn phím</string>
     <string name="show_ime">Tiếp tục sử dụng ứng dụng trên màn hình trong khi bàn phím thực đang hoạt động</string>
-    <string name="show_ime">Hiển thị phương thức nhập</string>
     <string name="hardware">Hiển thị bàn phím ảo</string>
     <string name="select_keyboard_layout_notification_title">Định cấu hình bàn phím thực</string>
     <string name="select_keyboard_layout_notification_message">Nhấn để chọn ngôn ngữ và bố cục</string>
