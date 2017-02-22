@@ -107,8 +107,6 @@ Vui lòng thử lại sau %d giây."</string>
     <string name="MMRejectCause13">Chỉ gọi SOS/khẩn cấp</string>
     <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Kết nối Wi-Fi trực tiếp hiện hành sẽ bị ngắt khi bạn kết nối với thiết bị hiển thị không dây. Bạn muốn tiếp tục?</string>
     <string name="sdcard_ready_title">Thẻ SD sẵn sàng</string>
-    <string name="sdcard_select_default_path">Bạn muốn thay đổi đĩa ghi mặc định?</string>
-    <string name="sdcard_default_path_change">Đĩa ghi mặc định đã thay đổi.</string>
     <string name="sim_missing_card">Chưa tìm thấy thẻ</string>
     <string name="sim_missing_detail_card">Kiểm tra xem thẻ có sẵn chưa</string>
     <string name="confirm_flight_mode_title">Chế độ máy bay bật</string>
@@ -160,7 +158,6 @@ Vui lòng thử lại sau %d giây."</string>
     <string name="gps_time_sync_fail_str">Không thể truy cập giờ được cấp bởi GPS</string>
     <string name="tethered_notification_message_for_hotspot">Đã kết nối %1$d, đã chặn %2$d</string>
     <string name="tethered_notification_message_bandwidth_set">Đã cài dải tần</string>
-    <string name="default_wallpaper_name">Mặc định</string>
     <string name="description_direction_right">Trượt sang phải để loại bỏ</string>
     <string name="description_direction_left">Trượt sang trái để báo lại</string>
     <string name="description_direction_up">Trượt lên để loại bỏ</string>
@@ -192,7 +189,6 @@ Vui lòng thử lại sau %d giây."</string>
     <string name="wifi_display_wifi_network_disconnected">Đã ngắt kết nối mạng Wi-Fi %1$s.</string>
     <string name="wifi_display_channel_confliction">Xung đột kênh</string>
     <string name="wifi_display_wifi_network_cannot_coexist">Mạng Wi-Fi hiện hành không thể cùng tồn tại với kết nối màn hình đổi kiểu.</string>
-    <string name="default_label">Báo thức</string>
     <string name="power_on">Hủy và bật nguồn</string>
     <string name="power_off">Hủy và bật nguồn</string>
     <string name="alarm_alert_snooze_text">Báo lại</string>

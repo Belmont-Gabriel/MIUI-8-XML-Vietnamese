@@ -71,8 +71,6 @@
     <string name="legal_workday_message">" (Tắt báo thức vào ngày nghỉ)"</string>
     <string name="legal_off_day">Ngày nghỉ hợp pháp</string>
     <string name="legal_off_day_message">" (Tắt báo thức vào ngày làm việc)"</string>
-    <string name="default_alarm_alert">Đặt âm thanh báo thức mặc định</string>
-    <string name="default_alarm_title">Nhạc chuông mặc định</string>
     <string name="menu_item_sort_by_gmt_offset">Sắp xếp theo thời gian</string>
     <string name="menu_item_sort_by_name">Sắp xếp theo tên</string>
     <string name="birthday_alarm">Báo thức sinh nhật</string>
@@ -92,7 +90,6 @@
     <string name="delete_alarm">Xóa báo thức</string>
     <string name="delete_alarm_confirm">Xóa báo thức đã chọn?</string>
     <string name="label">Đặt nhãn</string>
-    <string name="default_label">Báo thức</string>
     <string name="set_alarm">Đặt báo thức</string>
     <string name="alarm_vibrate">Rung</string>
     <string name="alarm_repeat">Lặp lại</string>

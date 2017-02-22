@@ -202,9 +202,6 @@
     <string name="preferences_alerts_vibrateWhen_title">Rung</string>
     <string name="preferences_alerts_ringtone_title">Chọn nhạc chuông</string>
     <string name="preferences_alerts_popup_title">Thông báo bật lên</string>
-    <string name="preferences_default_reminder_title">Thời gian nhắc mặc định</string>
-    <string name="preferences_default_reminder_dialog">Thời gian nhắc mặc định</string>
-    <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Dùng múi giờ chính</string>
     <string name="preferences_use_home_tz_descrip">Hiện lịch và t.gian sự kiện trong múi giờ chính khi du lịch</string>
     <string name="preferences_home_tz_title">Múi giờ chính</string>
@@ -239,7 +236,6 @@
     <string name="menu_reminder_preferences">Nhắc nhở</string>
     <string name="account_and_calendar">Tài khoản</string>
     <string name="account_and_calendar_to_display">Lịch để hiển thị</string>
-    <string name="default_reminder_mode">Nhắc nhở</string>
     <string name="time_zone">Múi giờ</string>
     <string name="event_all_day_label">Cả ngày</string>
     <string name="today_no_events">Không có sự kiện</string>
@@ -298,7 +294,6 @@
     <string name="birthday_notification_title_days_later">Sắp đến %2$s của %1$s.</string>
     <string name="birthday_notification_text_days_later">%1$s ngày nữa là đến %4$s (%5$s)</string>
     <string name="birthday_event_description">Hôm nay là %4$s của %1$s !</string>
-    <string name="birthday_event_description_default">%4$s %3$s %2$s của %1$s</string>
     <string name="birthday_event_description_special">%5$s %4$s %3$s của %2$s %1$s</string>
     <string name="birthday_event_description_today">Hôm nay là</string>
     <string name="birthday_event_description_tomorrow">Ngày mai là</string>

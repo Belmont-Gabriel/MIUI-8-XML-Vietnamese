@@ -38,7 +38,6 @@
     <string name="pref_category_quick_pay">Thanh toán nhanh</string>
     <string name="pref_category_quick_settings">Cài đặt nhanh</string>
     <string name="pref_category_system">Cài đặt hệ thống</string>
-    <string name="restore_default">Khôi phục mặc định</string>
     <string name="restore_intro">Khôi phục về cài đặt mặc định, bao gồm lối tắt và thứ tự của chúng. Dữ liệu ứng dụng trên thiết bị của bạn sẽ không bị ảnh hưởng.</string>
     <string name="show_on_keyguard">Hiển thị trên Màn hình khóa</string>
 </resources>

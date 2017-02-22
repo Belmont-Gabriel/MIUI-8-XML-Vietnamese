@@ -7,7 +7,6 @@
     <string name="menu_text_power_analysis">Kiểm tra Pin</string>
     <string name="menu_text_power_configure">Cài đặt Pin</string>
     <string name="power_keeper">Tiết kiệm Pin</string>
-    <string name="invalid_size_value">Không thể đọc dung lượng gói cài đặt.</string>
     <string name="disabled">Tắt</string>
     <string name="no_applications">Trống</string>
     <string name="add_applications">Chọn ứng dụng</string>

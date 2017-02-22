@@ -4,8 +4,6 @@
     <string name="copy">Sao chép</string>
     <string name="copyUrl">Sao chép URL</string>
     <string name="cut">Cắt</string>
-    <string name="defaultVoiceMailAlphaTag">Thư thoại</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Không có số điện thoại nào)</string>
     <string name="httpErrorBadUrl">Không thể mở trang này vì URL không hợp lệ.</string>
     <string name="httpErrorUnsupportedScheme">Không hỗ trợ giao thức này.</string>
@@ -542,7 +540,6 @@
     <string name="keyguard_password_wrong_pin_code">Mã PIN không chính xác.</string>
     <string name="keyguard_label_text">Để mở khóa, hãy nhấn vào Menu sau đó nhấn 0.</string>
     <string name="emergency_call_dialog_number_for_display">Số khẩn cấp</string>
-    <string name="lockscreen_carrier_default">Không có dịch vụ</string>
     <string name="lockscreen_screen_locked">Màn hình đã khóa.</string>
     <string name="lockscreen_instructions_when_pattern_enabled">Nhấn vào Menu để mở khóa hoặc thực hiện cuộc gọi khẩn cấp.</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Nhấn vào Menu để mở khóa.</string>
@@ -641,7 +638,6 @@ Hãy truy cập "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_no_action">Không tìm thấy gói cung cấp tác vụ FACTORY_TEST.</string>
     <string name="factorytest_reboot">Khởi động lại</string>
     <string name="js_dialog_title">Trang tại \"%s\" cho biết:</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload_title">Xác nhận điều hướng</string>
     <string name="js_dialog_before_unload_positive_button">Rời khỏi trang này</string>
     <string name="js_dialog_before_unload_negative_button">Ở lại trang này</string>
@@ -836,8 +832,6 @@ Bạn có muốn đóng trang không?"</string>
     <string name="volume_icon_description_incall">Cuộc gọi</string>
     <string name="volume_icon_description_media">Phương tiện</string>
     <string name="volume_icon_description_notification">Thông báo</string>
-    <string name="ringtone_default">Nhạc chuông mặc định</string>
-    <string name="ringtone_default_with_actual">Nhạc chuông mặc định (%1$s)</string>
     <string name="ringtone_silent">Không</string>
     <string name="ringtone_picker_title">Nhạc chuông</string>
     <string name="ringtone_unknown">Nhạc chuông không xác định</string>
@@ -849,7 +843,6 @@ Bạn có muốn đóng trang không?"</string>
     <string name="wifi_watchdog_network_disabled_detailed">" có kết nối Internet không tốt."</string>
     <string name="wifi_connect_alert_title">Cho phép kết nối?</string>
     <string name="wifi_connect_alert_message">Ứng dụng %1$s muốn kết nối với Mạng Wifi %2$s</string>
-    <string name="wifi_connect_default_application">Ứng dụng</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Khởi động Wi-Fi Direct. Việc này sẽ tắt hoạt động của ứng dụng khách/điểm phát sóng Wi-Fi.</string>
     <string name="wifi_p2p_failed_message">Không thể khởi động Wi-Fi Direct.</string>
@@ -972,7 +965,6 @@ Bạn có muốn đóng trang không?"</string>
     <string name="ime_action_next">Tiếp theo</string>
     <string name="ime_action_done">Xong</string>
     <string name="ime_action_previous">Trước</string>
-    <string name="ime_action_default">Thực hiện</string>
     <string name="dial_number_using">"Quay số
 sử dụng %s"</string>
     <string name="create_contact_using">"Tạo liên hệ
@@ -1114,7 +1106,6 @@ cho tài khoản %s."</string>
     <string name="sha256_fingerprint">Tệp tham chiếu SHA-256:</string>
     <string name="sha1_fingerprint">Tệp tham chiếu SHA-1:</string>
     <string name="activity_chooser_view_see_all">Xem tất cả</string>
-    <string name="activity_chooser_view_dialog_title_default">Chọn hoạt động</string>
     <string name="share_action_provider_share_with">Chia sẻ với</string>
     <string name="sending">Đang gửi…</string>
     <string name="launchBrowserDefault">Chạy trình duyệt?</string>
@@ -1122,11 +1113,6 @@ cho tài khoản %s."</string>
     <string name="activity_resolver_use_always">Luôn chọn</string>
     <string name="activity_resolver_use_once">Chỉ một lần</string>
     <string name="activity_resolver_work_profiles_support">%1$s không hỗ trợ hồ sơ công việc</string>
-    <string name="default_audio_route_name">Điện thoại</string>
-    <string name="default_audio_route_name_headphones">Tai nghe</string>
-    <string name="default_audio_route_name_dock_speakers">Loa đế</string>
-    <string name="default_media_route_name_hdmi">HDMI</string>
-    <string name="default_audio_route_category_name">Hệ thống</string>
     <string name="bluetooth_a2dp_audio_route_name">Âm thanh Bluetooth</string>
     <string name="wireless_display_route_description">Hiển thị không dây</string>
     <string name="media_route_button_content_description">Truyền</string>
@@ -1337,9 +1323,6 @@ Trình tiết kiệm pin tự động tắt khi thiết bị của bạn đang s
     <string name="toolbar_collapse_description">Thu gọn</string>
     <string name="zen_mode_feature_name">Không làm phiền</string>
     <string name="zen_mode_downtime_feature_name">Thời gian ngừng hoạt động</string>
-    <string name="zen_mode_default_weeknights_name">Đêm trong tuần</string>
-    <string name="zen_mode_default_weekends_name">Cuối tuần</string>
-    <string name="zen_mode_default_events_name">Sự kiện</string>
     <string name="muted_by">Do %1$s tắt tiếng</string>
     <string name="system_error_wipe_data">Đã xảy ra sự cố nội bộ với thiết bị của bạn và thiết bị có thể sẽ không ổn định cho tới khi bạn thiết lập lại dữ liệu ban đầu.</string>
     <string name="system_error_manufacturer">Đã xảy ra sự cố nội bộ với thiết bị. Hãy liên hệ với nhà sản xuất của bạn để biết chi tiết.</string>

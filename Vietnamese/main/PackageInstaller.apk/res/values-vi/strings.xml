@@ -83,7 +83,6 @@ Tất cả dữ liệu người dùng trước của bạn sẽ được lưu."<
     <string name="no_permissions">Không có quyền</string>
     <string name="additional_permissions">Quyền khác</string>
     <string name="old_sdk_deny_warning">Ứng dụng này được thiết kế cho các phiên bản Android cũ hơn. Từ chối quyền có thể làm cho ứng dụng không còn hoạt động như mong muốn.</string>
-    <string name="default_permission_description">thực hiện hành động không xác định</string>
     <string name="app_permissions_group_summary">Đã cho phép %1$d trong số %2$d ứng dụng</string>
     <string name="menu_show_system">Hiển thị hệ thống</string>
     <string name="menu_hide_system">Ẩn hệ thống</string>

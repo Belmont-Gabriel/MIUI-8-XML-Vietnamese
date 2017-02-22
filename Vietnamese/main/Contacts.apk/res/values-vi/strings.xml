@@ -329,7 +329,6 @@
     <string name="importing_vcard_finished_title">Đã nhập xong vCard %s</string>
     <string name="importing_vcard_canceled_title">Quá trình nhập %s bị hủy</string>
     <string name="vcard_import_will_start_message">%s sẽ sớm được nhập.</string>
-    <string name="vcard_import_will_start_message_with_default_name">Tập tin sẽ sớm được nhập.</string>
     <string name="vcard_import_request_rejected_message">Yêu cầu nhập vCard bị từ chối. Hãy thử lại sau.</string>
     <string name="vcard_export_will_start_message">%s sẽ sớm được xuất.</string>
     <string name="vcard_export_request_rejected_message">Yêu cầu xuất vCard bị từ chối. Hãy thử lại sau.</string>
@@ -560,8 +559,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="delete_group_dialog_message">Xóa nhóm \"%1$s\", liên hệ sẽ không bị xóa.     </string>
     <string name="toast_join_with_empty_contact">Nhập tên liên hệ trước khi hợp nhất với liên hệ khác</string>
     <string name="copy_text">Sao chép vào bộ nhớ tạm</string>
-    <string name="set_default">Đặt mặc định</string>
-    <string name="clear_default">Xóa mặc định</string>
     <string name="toast_text_copied">Đã sao chép văn bản</string>
     <string name="cancel_confirmation_dialog_title">Hủy</string>
     <string name="cancel_confirmation_dialog_message">Hủy các thay đổi của bạn?</string>
@@ -935,14 +932,12 @@ Danh thiếp sẽ tắt"</string>
     <string name="preference_phone_more_title">Cài đặt cuộc gọi</string>
     <string name="preference_dial_pad_touch_tone_switch">Âm bàn phím quay số</string>
     <string name="preference_tone_title">Âm</string>
-    <string name="preference_dial_pad_touch_tone_default">Mặc định</string>
     <string name="preference_dial_pad_touch_tone_piano">Tiếng piano</string>
     <string name="preference_dial_pad_touch_tone_human">Giọng nói</string>
     <string name="ic_menu_done">Hoàn tất</string>
     <string name="cloud_antispam_title">ID Người gọi</string>
     <string name="share_over_limit">Không thể chia sẻ hơn 1000 liên hệ</string>
     <string name="preference_key_trash_bin_title">Khôi phục liên hệ</string>
-    <string name="account_default">Điện thoại</string>
     <string name="lunarBirthdayLabelsGroup">Ngày sinh âm lịch</string>
     <string name="option_view_contact">Xem</string>
     <string name="option_edit_contact">Sửa</string>
@@ -974,7 +969,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="today">Hôm nay</string>
     <string name="next_birthday">Sinh nhật tới: %s</string>
     <string name="ringLabelsGroup">Nhạc chuông</string>
-    <string name="default_ringtone">Nhạc chuông mặc định</string>
     <string name="recent_number">Gần đây</string>
     <string name="cloud_antispam_mark">Đánh dấu</string>
     <string name="antispam_mark_my_contribution">Chia sẻ thông tin đánh dấu</string>

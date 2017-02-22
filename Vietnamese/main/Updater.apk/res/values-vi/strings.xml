@@ -205,7 +205,6 @@ Bạn có thể tham gia vào Thứ hai tới."</string>
     <string name="comment_publish">Gửi</string>
     <string name="edit_comment_title">Sửa bình luận</string>
     <string name="edit_comment">Thêm bình luận</string>
-    <string name="edit_text_default">Viết bình luận</string>
     <string name="comment_sending">Đang gửi…</string>
     <string name="comment_upload_failed">Không thể gửi bình luận</string>
     <string name="comment_upload_hint">Cảm ơn phản hồi của bạn!</string>

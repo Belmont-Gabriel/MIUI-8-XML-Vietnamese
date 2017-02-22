@@ -434,12 +434,10 @@ Rời khỏi trang này?"</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Thẻ nhớ SD được yêu cầu để thay đổi đường dẫn này.</string>
     <string name="download_no_sdcard_dlg_title">Không có thẻ SD</string>
     <string name="download_no_sdcard_dlg_msg">Thẻ SD được yêu cầu để tải xuống %s.</string>
-    <string name="download_default_path_txt">Nhớ lựa chọn này</string>
     <string name="download_dialog_file_length_hint_txt">"Kích thước tập tin: "</string>
     <string name="download_dialog_file_length_nolength_txt">Vui lòng chờ…</string>
     <string name="download_dialog_file_length_nolength_error_txt">Không thể tải xuống</string>
     <string name="download_dialog_file_length_lessthan1kb">Nhỏ hơn 1K</string>
-    <string name="download_dialog_default_path_invalid">Vị trí tải xuống bạn đã chọn là không hợp lệ. Đang lưu vị trí mặc định…</string>
     <string name="cannot_download">Chỉ có thể tải xuống từ trang web có địa chỉ \"http\" hoặc \"https\"</string>
     <string name="download_pending">Đang bắt đầu tải xuống…</string>
     <string name="notif_install_successful">Tải xuống hoàn tất</string>
@@ -500,7 +498,6 @@ Rời khỏi trang này?"</string>
     <string name="quicklinks_most_visited">Thêm vào trang bắt đầu</string>
     <string name="quicklinks_most_visited_title">Thêm vào trang bắt đầu</string>
     <string name="quicklinks_most_visited_subtitle">Hiển thị các trang web đã truy cập gần đây trong thẻ mới</string>
-    <string name="quicklinks_group_default_subtitle">Trống</string>
     <string name="quicklink_saved_before">Trang web này đã được thêm</string>
     <string name="add_quicklink_to_popular">Thêm vào trang bắt đầu</string>
     <string name="add_to_quicklink">Trang bắt đầu</string>
@@ -578,12 +575,7 @@ Rời khỏi trang này?"</string>
     <string name="pref_setting_title">Cài đặt trang</string>
     <string name="pref_other_title">Khác</string>
     <string name="enter_developer_mode">Vào chế độ nhà phát triển</string>
-    <string name="pref_file_download_default_path_prefix">Vị trí mặc định: %s</string>
     <string name="pref_file_download_save_title">Tải xuống</string>
-    <string name="pref_file_downlaod_save_reset_default_settings">Khôi phục vị trí mặc định</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">Lưu tập tin vào vị trí mặc định của Trình duyệt</string>
-    <string name="pref_file_download_save_modify_default_path">Vị trí tải xuống</string>
-    <string name="pref_extras_reset_default_summary">Khôi phục cài đặt mặc định</string>
     <string name="pref_adblock_title">Chặn quảng cáo</string>
     <string name="pref_enable_adblock_notification">Hiển thị thông báo chặn quảng cáo</string>
     <string name="pref_clear_adblock_statistics">Xóa lịch sử chặn Quảng cáo</string>
@@ -659,8 +651,6 @@ Rời khỏi trang này?"</string>
     <string name="js_disable_confirm_title">Tắt JavaScript?</string>
     <string name="js_disable_confirm_message">Tắt JavaScript có thể làm một số trang web hiển thị không chính xác.</string>
     <string name="pref_extras_title">Nâng cao</string>
-    <string name="pref_extras_reset_default">Cài đặt về mặc định</string>
-    <string name="pref_extras_reset_default_dlg">Khôi phục cài đặt về mặc định?</string>
     <string name="pref_font_size_category">Kích cỡ chữ trang web</string>
     <string name="pref_key_gesture_title">Phím &amp; cử chỉ</string>
     <string name="pref_volume_key_action">Cuộn bằng phím âm lượng</string>
@@ -672,7 +662,6 @@ Rời khỏi trang này?"</string>
     <string name="pref_confirm_for_exit">Nhắc nhở trước khi thoát Trình duyệt</string>
     <string name="pref_save_bandwidth_mode_title">Giảm sử dụng dữ liệu</string>
     <string name="adjust_text_zoom_toast">Thay đổi thu phóng văn bản có thể làm một số trang web hiển thị không chính xác</string>
-    <string name="pref_extras_reset_default_title">Khác</string>
     <string name="pref_extras_send_feedback">Gửi phản hồi</string>
     <string name="pref_extras_title_version">Thông tin phiên bản</string>
     <string name="pref_auto_update_under_wifi">Cập nhật bằng Wi-Fi</string>
@@ -681,7 +670,6 @@ Rời khỏi trang này?"</string>
     <string name="skip_current_version">Bỏ qua phiên bản này</string>
     <string name="update_no_network_toast">Không thể kết nối mạng</string>
     <string name="version_check_failed">Kiểm tra cập nhật thất bại</string>
-    <string name="version_check_button_default">Kiểm tra cập nhật</string>
     <string name="version_check_button_checking">Đang kiểm tra…</string>
     <string name="version_check_button_downloading">Đang tải xuống…</string>
     <string name="version_check_button_newest">Không có bản cập nhật mới nào</string>

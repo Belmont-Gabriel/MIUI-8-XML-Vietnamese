@@ -99,10 +99,6 @@
     <string name="failed_to_delete_temporary">Không thể xóa</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Hủy</string>
-    <string name="default_folder_title_tools">Công cụ</string>
-    <string name="default_folder_title_recommend">Ứ.dụng khác</string>
-    <string name="default_folder_title_game">Trò chơi</string>
-    <string name="default_folder_title_security">Hệ thống</string>
     <string name="wallpaper_settings">Hình nền</string>
     <string name="choose_wallpaper">Chọn hình nền</string>
     <string name="current_preview">Xem trước</string>
@@ -244,7 +240,6 @@
     <string name="recommend_apps_notice">Ứng dụng đề cử</string>
     <string name="recommend_apps_switch_title">Ứng dụng đề cử</string>
     <string name="recommend_apps_notice_nodata">Ứng dụng đề cử (Không có dữ liệu)</string>
-    <string name="recommend_apps_default_title">Trống</string>
     <string name="recommend_apps_tips">Tính năng này cần kết nối internet để làm việc bình thường. Để tắt tính năng này, chạm vào tên của thư mục này.</string>
     <string name="children_folder_title">Trẻ em</string>
     <string name="children_mode_exit">Thoát</string>

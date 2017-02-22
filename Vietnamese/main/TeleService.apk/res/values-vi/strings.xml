@@ -32,9 +32,7 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="sim_card_activate">Kích hoạt thẻ SIM</string>
     <string name="feedback">Phản hồi</string>
     <string name="home_screen_shortcut">Lối tắt màn hình chính</string>
-    <string name="default_areacode">Mã vùng mặc định</string>
     <string name="area_code_preference_summary">Tự động quay số mã vùng</string>
-    <string name="default_area_code_setting">Mã vùng mặc định</string>
     <string name="dialog_no">Không</string>
     <string name="dialog_yes">Có</string>
     <string name="ensure_info">Đúng</string>
@@ -156,7 +154,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="advanced_settings">Cài đặt tùy chọn</string>
     <string name="auth_username_title">Xác thực tên người dùng</string>
     <string name="auth_username_summary">Tên người dùng được sử dụng để xác thực</string>
-    <string name="default_preference_summary">&lt;Chưa được đặt></string>
     <string name="display_name_summary">&lt;Giống như tên người dùng></string>
     <string name="optional_summary">&lt;Tùy chọn></string>
     <string name="advanced_settings_show">Chạm ▷ để hiển thị tất cả</string>
@@ -173,7 +170,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="description_delete_button">phím xóa</string>
     <string name="description_image_button_plus">cộng</string>
     <string name="description_voicemail_button">thư thoại</string>
-    <string name="default_notification_description">Âm thanh mặc định (%1$s)</string>
     <string name="callFailed_userBusy">Đường dây bận</string>
     <string name="callFailed_congestion">Mạng bận</string>
     <string name="callFailed_timedOut">Không có phản hồi, đã hết thời gian chờ</string>
@@ -308,7 +304,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="phone_accounts_all_calling_accounts">Tất cả tài khoản cuộc gọi</string>
     <string name="phone_accounts_all_calling_accounts_summary">Chọn tài khoản gọi</string>
     <string name="wifi_calling">Cuộc gọi Wi-Fi</string>
-    <string name="connection_service_default_label">Dịch vụ kết nối hệ thống</string>
     <string name="voicemail">Thư thoại</string>
     <string name="voicemail_settings_with_label">Thư thoại (%s)</string>
     <string name="voicemail_abbreviated">Thư thoại:</string>
@@ -325,7 +320,6 @@ Nạp tiền và bắt đầu ngay"</string>
     <string name="sum_loading_settings">Đang tải cài đặt…</string>
     <string name="sum_hide_caller_id">Ẩn số điện thoại khi gọi đi</string>
     <string name="sum_show_caller_id">Hiển thị số điện thoại khi gọi đi</string>
-    <string name="sum_default_caller_id">Sử dụng cài đặt mặc định của nhà cung cấp dịch vụ để hiển thị số điện thoại khi gọi đi</string>
     <string name="labelCW">Cuộc gọi chờ</string>
     <string name="sum_cw_enabled">Trong khi gọi, thông báo cho tôi khi có cuộc gọi đến</string>
     <string name="sum_cw_disabled">Trong khi gọi, thông báo cho tôi khi có cuộc gọi đến</string>
@@ -392,7 +386,6 @@ Liên hệ với nhà cung cấp dịch vụ của bạn nếu sự cố này v�
 Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="no_change">Không có thay đổi nào được thực hiện.</string>
     <string name="sum_voicemail_choose_provider">Chọn dịch vụ thư thoại</string>
-    <string name="voicemail_default">Nhà mạng của tôi</string>
     <string name="mobile_networks">Cài đặt mạng di động</string>
     <string name="label_available">Mạng có sẵn</string>
     <string name="load_networks_progress">Đang tìm…</string>
@@ -789,7 +782,6 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="enable_video_calling_dialog_close">Đóng</string>
     <string name="sim_label_emergency_calls">Cuộc gọi khẩn cấp</string>
     <string name="sim_description_emergency_calls">Chỉ cuộc gọi khẩn cấp</string>
-    <string name="sim_description_default">Thẻ SIM, khe cắm: %s</string>
     <string name="accessibility_settings_activity_title">Khả năng truy cập</string>
     <string name="status_hint_label_incoming_wifi_call">Cuộc gọi Wi-Fi đến</string>
     <string name="status_hint_label_wifi_call">Cuộc gọi Wi-Fi</string>
@@ -1024,7 +1016,6 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="other_settings_category">Khác</string>
     <string name="caller_id_title">ID người gọi</string>
     <string name="caller_id_summary">Ẩn số của tôi cho cuộc gọi đi (xác nhận rằng nhà mạng của bạn hỗ trợ tính năng này)</string>
-    <string name="clir_choices_network_default">Mạng mặc định</string>
     <string name="clir_choices_hide_number">Ẩn số</string>
     <string name="clir_choices_show_number">Hiển thị số</string>
     <string name="get_smsc_address_error">Không thể kết nối mạng.</string>
@@ -1055,7 +1046,6 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="preference_telocation_summary_teloc_off">Ẩn vị trí liên hệ</string>
     <string name="preference_telocation_summary_teloc_on">Hiển thị vị trí liên hệ</string>
     <string name="preference_telocation_summary_countrycode_on">Tự động thêm mã quốc gia</string>
-    <string name="preference_dial_pad_touch_tone_default">Mặc định</string>
     <string name="preference_dial_pad_touch_tone_piano">Tiếng piano</string>
     <string name="preference_dial_pad_touch_tone_off">Tắt</string>
     <string name="preference_telocation_summary_countrycode_off">Không tự động thêm mã quốc gia</string>
@@ -1063,7 +1053,6 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="msim_setting_screen_title">Thẻ SIM &amp; mạng di động</string>
     <string name="msim_setting_categery_title">Cài đặt thẻ SIM</string>
     <string name="msim_general_setting">Cài đặt</string>
-    <string name="msim_default_setting">Cài đặt mặc định</string>
     <string name="msim_setting_no_sim_indicator">Không có thẻ SIM</string>
     <string name="msim_setting_sim_info_editor_title">Sửa thông tin thẻ SIM</string>
     <string name="msim_setting_operator_network_title">Mạng di động</string>
@@ -1085,8 +1074,6 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="msim_switch_data_conn_toast">Đã đổi thẻ SIM. Loại mạng đã thay đổi. Xem thêm thông tin về thẻ SIM và mạng di động trong menu Cài đặt.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Khe cắm SIM 2 chỉ hỗ trợ mạng GSM. Loại mạng ưu tiên cho khe cắm này đã được thay đổi thành chỉ mạng 2G.</string>
     <string name="msim_disable_sim_card_title">Dừng sử dụng thẻ SIM</string>
-    <string name="msim_disable_sim_card_summary_non_default_card">Bạn không thể thực hiện cuộc gọi hoặc kết nối dữ liệu di động. Dùng sử dụng thẻ SIM %s?</string>
-    <string name="msim_disable_sim_card_summary_default_card">Thẻ SIM này hiện tại được đặt làm thẻ SIM mặc định. Nếu bạn dừng sử dụng, bạn sẽ không thể thực hiện được cuộc gọi hoặc kết nối dữ liệu di động. Bạn có thể dừng thẻ SIM này sau khi bạn đặt thẻ SIM khác làm thẻ SIM mặc định.</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Không giới hạn SIM hai trong trường hợp chế độ gọi lại khẩn cấp.</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
     <string name="msim_has_been_disabled">(Đã tắt)</string>
@@ -1132,7 +1119,6 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="respond_via_sms_setting_title">Trả lời nhanh</string>
     <string name="respond_via_sms_setting_summary">Sửa văn bản trả lời</string>
     <string name="respond_via_sms_edittext_dialog_title">Trả lời nhanh</string>
-    <string name="respond_via_sms_menu_reset_default_activity">Khôi phục mặc định</string>
     <string name="respond_via_sms_confirmation_format">Đã gửi tin nhắn đến %s.</string>
     <string name="sip_add_account_tip_text">Để sử dụng tính năng gọi qua internet, thêm một tài khoản SIP</string>
     <string name="callwait_open_hint">Tính năng \"Cuộc gọi chờ\" được cung cấp bởi nhà cung cấp dịch vụ. Nếu bạn nhận được thông báo lỗi, liên hệ với nhà cung cấp để đảm bảo rằng tính năng này được hỗ trợ.</string>
@@ -1210,8 +1196,6 @@ Còn lại %d lần thử."</string>
     <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
     <string name="network_type_3g_preferred_cmcc">3G/2G</string>
     <string name="network_unlock">Mở khóa</string>
-    <string name="change_default_data_card">Thẻ SIM kết nối dữ liệu di động mặc định</string>
-    <string name="change_default_data_card_summary">Dường như bạn đã thay đổi thẻ SIM. Thiết lập thẻ này làm thẻ SIM mặc định kết nối dữ liệu di động?</string>
     <string name="fdn_full">SQĐS không được cập nhật do danh sách đã đầy.</string>
     <string name="enhanced_4g_lte_mode_on_failed">Không thể bật VoLTE.</string>
     <string name="enhanced_4g_lte_mode_off_failed">Không thể tắt VoLTE.</string>
@@ -1223,12 +1207,10 @@ Còn lại %d lần thử."</string>
     <string name="go_to_virtual_sim_title">SIM Ảo</string>
     <string name="cdma_alert_title">Thẻ SIM phải là mặc định</string>
     <string name="cdma_alert_message">Nếu chọn thẻ khác làm mặc định cho sử dụng dữ liệu di động, bạn sẽ không thể sử dụng thẻ SIM China Telecom (trừ khi chuyển vùng).</string>
-    <string name="config_default_data_sim">Cài đặt</string>
     <string name="got_it">OK</string>
     <string name="can_not_use_for_not_data_sim">(Không thể sử dụng: Phải được đặt làm SIM dữ liệu mặc định)</string>
     <string name="network_settings_title">Mạng di động</string>
     <string name="call_background_setting">Nền hội thoại</string>
-    <string name="call_background_default">Mặc định</string>
     <string name="call_background_lock_wallpaper">Hình nền màn hình khóa</string>
     <string name="antispam_setting">Danh sách chặn</string>
     <string name="call_advanced_setting_title">Cài đặt nâng cao</string>
@@ -1243,7 +1225,6 @@ Còn lại %d lần thử."</string>
     <string name="change_data_preference_4g_only_prompt">Dường như bạn chỉ có thẻ SIM 4G. Đặt làm mặc định mạng dữ liệu di động?</string>
     <string name="purchase_list">Lịch sử mua hàng</string>
     <string name="sim_card_summary_no_sim_card">Vui lòng gắn thẻ SIM</string>
-    <string name="areacode_set_default">Mặc định</string>
     <string name="left_minutes">phút</string>
     <string name="error_type_network">Lỗi mạng</string>
     <string name="unable_dial_livetalk">Không thể hoàn tất cuộc gọi</string>
@@ -1397,7 +1378,6 @@ Còn lại %d lần thử."</string>
     <string name="notification_incoming_call">Cuộc gọi đến</string>
     <string name="notification_action_end_call">Cúp máy</string>
     <string name="new_sim_detected">Phát hiện thẻ SIM mới:</string>
-    <string name="default_sim_setting">Thẻ SIM mặc định:</string>
     <string name="mobile_data">"Dữ liệu di động: "</string>
     <string name="slot">Thẻ</string>
     <string name="carrier_name">(Tên nhà mạng)</string>

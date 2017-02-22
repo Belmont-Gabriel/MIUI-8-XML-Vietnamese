@@ -55,7 +55,6 @@
     <string name="permlab_startPrintServiceConfigActivity">bắt đầu hoạt động cấu hình dịch vụ in ấn</string>
     <string name="permdesc_startPrintServiceConfigActivity">Cho phép chủ sở hữu bắt đầu các hoạt động cấu hình của một dịch vụ in ấn. Không bao giờ cần cho các ứng dụng thông thường.</string>
     <string name="print_write_error_message">Không thể ghi vào tệp</string>
-    <string name="print_error_default_message">Rất tiếc, tính năng đó không hoạt động. Hãy thử lại.</string>
     <string name="print_error_retry">Thử lại</string>
     <string name="print_error_printer_unavailable">Máy in này hiện không khả dụng.</string>
     <string name="print_preparing_preview">Đang chuẩn bị xem trước…</string>

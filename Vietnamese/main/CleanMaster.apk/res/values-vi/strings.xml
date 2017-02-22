@@ -186,7 +186,6 @@
     <string name="toast_uninstall_success">Gỡ cài đặt hoàn tất</string>
     <string name="toast_app_no_residual_on_sdcard">Ứng dụng không có bất kỳ tập tin nào được lưu trữ trên thẻ SD</string>
     <string name="last_check_canceled">Quét trước đó đã bị hủy bỏ</string>
-    <string name="default_cache_type">Tập tin dữ liệu</string>
     <string name="deepclean_normal_title">Dọn dẹp tự động</string>
     <string name="deepclean_normal_item_desc1">Tập tin rác</string>
     <string name="deepclean_normal_item_desc2">Hoạt động dọn dẹp không ảnh hưởng đến hiệu suất hệ thống</string>
@@ -263,7 +262,6 @@
     <string name="hints_cleanfinish">Hoàn thành dọn dẹp</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">Dọn dẹp %s</string>
-    <string name="mainbtn_text_quick_cleanup_default">Dọn dẹp</string>
     <string name="pref_title_open_optimizer_memory_scan">Quét bộ nhớ ứng dụng</string>
     <string name="toast_select_white_need_remove">Chọn mục để xóa</string>
     <string name="network_not_available">Không thể kết nối mạng</string>

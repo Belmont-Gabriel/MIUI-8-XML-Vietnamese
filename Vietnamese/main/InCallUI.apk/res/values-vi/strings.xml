@@ -128,7 +128,6 @@
     <string name="pause_prompt_no">Không</string>
     <string name="waiting_close_airplane_mode">Vui lòng chờ…</string>
     <string name="select_voice_call_sim">Chọn thẻ SIM</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">Không thể sử dụng SIM %2$d, khi đang sử dụng SIM %1$d.</string>
     <string name="select_one_sim_title">Chỉ có thể sử dụng SIM %1$d</string>
     <string name="can_not_use">Không thể sử dụng</string>
@@ -166,8 +165,6 @@
     <string name="non_ivr_menu_collapse_menu">Thu gọn menu</string>
     <string name="livetalk_left_minute">%s phút còn lại</string>
     <string name="livetalk_dial">Sử dụng gói Tùy chọn</string>
-    <string name="areacode_set_default">Đặt làm mặc định</string>
-    <string name="default_area_code_setting">Mã vùng mặc định</string>
     <string name="not_activate_sim_card_content_title">Số điện thoại chưa được xác minh</string>
     <string name="not_activate_sim_card_content">Xác minh số điện thoại để bắt đầu sử dụng gói Tùy chọn. Bạn vẫn có thể thực hiện cuộc gọi thông thường nhưng bạn sẽ bị tính phí bởi nhà mạng.</string>
     <string name="not_activate_sim_card_content_with_operator">Xác minh SIM %1$s (%2$s) để thực hiện cuộc gọi sử dụng gói Tùy chọn. Bạn vẫn có thể thực hiện cuộc gọi thông thường nhưng bạn sẽ bị tính phí bởi nhà mạng.</string>

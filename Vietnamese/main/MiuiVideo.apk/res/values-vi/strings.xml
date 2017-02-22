@@ -464,7 +464,6 @@
     <string name="empty_tv_exiting">Đang thoát…</string>
     <string name="tv_cp_info_format">Hỗ trợ bởi %1$s</string>
     <string name="tv_channel_empty_hint">Không có kênh</string>
-    <string name="defaults">Mặc định</string>
     <string name="fullscreen">Toàn màn hình</string>
     <string name="ads_ignore">Bỏ qua</string>
     <string name="need_upgrade_title">Phát hiện phiên bản mới</string>

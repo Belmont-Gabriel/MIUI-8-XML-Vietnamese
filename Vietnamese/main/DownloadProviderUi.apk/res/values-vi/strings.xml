@@ -172,7 +172,6 @@
     <string name="version">Phiên bản %s</string>
     <string name="new_add">Tải xuống mới</string>
     <string name="pref_download_storage_path">Tạo thư mục lưu trữ tải xuống mặc định</string>
-    <string name="pref_download_revert_default">Mặc định</string>
     <string name="file_picker">Chọn vị trí</string>
     <string name="new_add_bt">Thêm torrent</string>
     <string name="pref_sniff_shortcut">Tạo lối tắt trên Màn hình chính để tìm kiếm web</string>
@@ -181,7 +180,6 @@
     <string name="third_web_filename_hint">Tên</string>
     <string name="third_web_filesize">Kích thước</string>
     <string name="third_web_savepath">Vị trí</string>
-    <string name="third_web_default">Nhớ vị trí này</string>
     <string name="third_web_cancel">Hủy</string>
     <string name="third_web_confirm">OK</string>
     <string name="creat_task_success">Đã thêm vào danh sách chờ tải xuống</string>
@@ -210,7 +208,6 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="do_not_support_url">Loại URL này không được hỗ trợ</string>
     <string name="edit_hint">Nhập địa chỉ http, torrent, hoặc eMule</string>
     <string name="revert_download_path">Sử dụng vị trí tải xuống mặc định?</string>
-    <string name="revert_default">Khôi phục cài đặt mặc định</string>
     <string name="save_path">"Lưu tải xuống đến: "</string>
     <string name="cancel">Huỷ</string>
     <string name="confirm">OK</string>

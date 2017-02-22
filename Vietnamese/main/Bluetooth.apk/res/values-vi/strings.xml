@@ -118,7 +118,6 @@
     <string name="auth_notif_ticker">Yêu cầu xác thực Obex</string>
     <string name="auth_notif_title">Khoá Phiên</string>
     <string name="auth_notif_message">Nhập khóa phiên cho %1$s</string>
-    <string name="defaultname">Bộ rảnh tay trên ô tô</string>
     <string name="unknownName">Tên không xác định</string>
     <string name="localPhoneName">Tên của tôi</string>
     <string name="bluetooth_sap_notif_title">Truy cập SIM Bluetooth</string>

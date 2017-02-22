@@ -9,10 +9,6 @@
     <string name="sdcard_not_mounted_dialog_message">"Lắp thẻ SD bây giờ.
 "</string>
     <string name="resource_mute">Không</string>
-    <string name="resource_default">Nhạc chuông mặc định</string>
-    <string name="resource_ringtone_default">Nhạc chuông</string>
-    <string name="resource_notification_default">Thông báo</string>
-    <string name="resource_alarm_default">Báo thức</string>
     <string name="resource_detail_header_theme_designer_title">Nhà thiết kế: %1$s</string>
     <string name="description_designer">Nhà thiết kế</string>
     <string name="description_author">Tác giả</string>
@@ -58,7 +54,6 @@
     <string name="download_preview_failed">Không thể tải xem trước</string>
     <string name="resource_delete_confirm">Xóa tài nguyên này?</string>
     <string name="all_resources">Tất cả</string>
-    <string name="resource_default_name">Tài nguyên</string>
     <string name="resource_detail">Chi tiết</string>
     <string name="resource_detail_window_title">%1$s chi tiết</string>
     <string name="resource_detail_update_log_title">Cập nhật</string>
@@ -179,9 +174,7 @@
     <string name="resource_comment_edit_title">Viết bình luận: %1$s</string>
     <string name="resource_comment_edit_comment">Thêm bình luận</string>
     <string name="resource_comment_edit_comment_waiting">Đang kiểm tra lịch sử…</string>
-    <string name="resource_comment_edit_text_default">Viết bình luận</string>
     <string name="resource_comment_publish">Đăng</string>
-    <string name="resource_comment_name_default">Người dùng %1$s</string>
     <string name="resource_comment_loading_list">Vui lòng chờ…</string>
     <string name="resource_comment_rate">Đánh giá:</string>
     <string name="resource_comment_entry_tips">Bình luận (%1$s)</string>
@@ -224,7 +217,6 @@
     <string name="backup_theme_success_message">Cài đặt chủ đề hiện tại của bạn đã được sao lưu.</string>
     <string name="backup_theme_fail_trial_rights_message">Không thể sao lưu nguồn dùng thử</string>
     <string name="backup_theme_name">Chủ đề sao lưu</string>
-    <string name="theme_description_title_default">Mặc định</string>
     <string name="theme_description_title_customized">Tùy chỉnh</string>
     <string name="component_category_finest_title">CHUNG</string>
     <string name="component_category_more_title">NÂNG CAO</string>
@@ -262,7 +254,6 @@
     <string name="apply_font_tip">Khởi động lại để áp dụng phông chữ của chủ đề này.</string>
     <string name="apply_font_btn_reboot">Khởi động lại</string>
     <string name="apply_font_btn_exclude">Không phải bây giờ</string>
-    <string name="apply_default_font_tip">Tiếp tục sử dụng phông chữ cũ?</string>
     <string name="theme_yes">Đồng ý</string>
     <string name="theme_no">Không</string>
     <string name="title_component">Tùy chỉnh chủ đề</string>
@@ -367,7 +358,6 @@
     <string name="provision_loading_tips">Vui lòng chờ…</string>
     <string name="provision_title">Chọn chủ đề</string>
     <string name="provision_second_title">Chọn một trong năm chủ đề mặc định</string>
-    <string name="provision_default_theme_title">Mặc định</string>
     <string name="theme_precast_create_notification_title">Đã cập nhật lên MIUI 7</string>
     <string name="theme_precast_create_notification_content">Chạm để xem chủ đề mới.</string>
     <string name="theme_precast_update_notification_title">Chủ đề MIUI 7 đã được cập nhật</string>
