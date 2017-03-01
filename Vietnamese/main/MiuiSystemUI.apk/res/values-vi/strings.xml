@@ -223,6 +223,7 @@ d MMMM"</string>
     <string name="torch_activity_hint">Giữ [icon] để bật đèn Pin ở màn hình khóa</string>
     <string name="torch_opened">Mở đèn Pin</string>
     <string name="torch_closed">Tắt đèn Pin</string>
+    <string name="lockscreen_carrier_default">Không có dịch vụ</string>
     <string name="chooseUsbActivity">Chọn một ứng dụng cho thiết bị USB</string>
     <string name="usb_storage_title">USB đã kết nối</string>
     <string name="usb_storage_message">Bạn đã kết nối với máy tính thông qua USB. Chạm vào phím bên dưới nếu bạn muốn sao chép các tập tin giữa máy tính và lưu trữ USB Android‘s của bạn.</string>

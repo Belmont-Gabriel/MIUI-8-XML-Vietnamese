@@ -28,6 +28,9 @@
     <string name="no_vm_number">Thiếu số thư thoại</string>
     <string name="no_vm_number_msg">Không có số thư thoại nào được lưu trữ trên thẻ SIM.</string>
     <string name="add_vm_number_str">Thêm số điện thoại</string>
+    <string name="change_default_dialer_dialog_title">Thay đổi ứng dụng Quay số mặc định?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Sử dụng %1$s thay thế %2$s làm ứng dụng quay số mặc định?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Sử dụng %s làm ứng dụng quay số mặc định?</string>
     <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_1_label">Market Wireless</string>
     <string name="test_account_2_label">Sonoma Circles Talk Plus</string>

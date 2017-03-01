@@ -39,6 +39,7 @@
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
     <string name="lockscreen_access_pattern_detected">Hình mở khóa hoàn tất</string>
+    <string name="default_lockscreen_unlock_hint_text">Trượt lên để mở khóa</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Bạn đã nhập sai mật khẩu %d lần. Sau %d lần thử sai nữa, bạn sẽ được yêu cầu để mở khóa điện thoại bằng cách đăng nhập tài khoản Mi của bạn.
 
  Thử lại sau %d giây."</string>
@@ -53,6 +54,7 @@
     <string name="unlock_string">Mở khóa</string>
     <string name="open_camera_hint_text">Trượt sang trái để mở %s</string>
     <string name="open_remote_center_hint_text">Trượt sang phải để mở %s</string>
+    <string name="left_action_default_hint_text">Điều khiển Mi</string>
     <string name="click_to_enter_text">Chạm để xem</string>
     <string name="fingerprint_try_again_text">Thử lại</string>
     <string name="fingerprint_not_identified_title">Nhập mật khẩu</string>

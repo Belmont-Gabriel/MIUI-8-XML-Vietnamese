@@ -10,6 +10,11 @@
     <string name="preference">Cài đặt</string>
     <string name="password_preference">Đặt mật khẩu</string>
     <string name="volume">Âm lượng</string>
+    <string name="ringer_value">Chuông %s%%</string>
+    <string name="notification_value">Thông báo %s%%</string>
+    <string name="media_value">Phương tiện %s%%</string>
+    <string name="alarm_value">Bác thức %s%%</string>
+    <string name="voice_call_value">Âm lượng cuộc gọi %s%%</string>
     <string name="settings">Cài đặt</string>
     <string name="phone">Điện thoại</string>
     <string name="create">Tạo</string>

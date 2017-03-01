@@ -26,6 +26,7 @@
     <string name="cta_declaration_ignore">Không hiển thị lại</string>
     <string name="cta_declaration_positive_text">Cho phép</string>
     <string name="cta_declaration_negative_text">Thoát</string>
+    <string name="default_hint">Tìm kiếm ứng dụng, nhạc, video, sách…</string>
     <string name="network_unavailable">Không thể kết nối vào mạng</string>
     <string name="connect_and_retry">Kết nối với internet và thử lại</string>
     <string name="applications_search_label">Ứng dụng</string>
@@ -61,6 +62,7 @@ Bạn có thể thay đổi điều này trong Cài đặt > Ứng dụng > Tìm
     <string name="switch_prompt_title">"Không thể tìm thấy %s?"</string>
     <string name="switch_prompt_ignore">Bỏ qua</string>
     <string name="switch_prompt_set">Xem tùy chọn</string>
+    <string name="switch_prompt_title_default">"Không thể tìm thấy thứ bạn cần?"</string>
     <string name="switch_online">Trực tuyến</string>
     <string name="switch_notes">Ghi chú</string>
     <string name="switch_application">Ứng dụng</string>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="sleep_duration_values">
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>45 phút</item>
+        <item>1 giờ</item>
+    </string-array>
     <string-array name="search_category_rbds_entries">
         <item>Tất cả các đài</item>
         <item>Bản hit cho người lớn</item>

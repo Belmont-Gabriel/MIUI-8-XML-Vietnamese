@@ -329,6 +329,7 @@
     <string name="match_data_error_tips">"Không thể nhận thông tin
 Quay lại để tiếp tục"</string>
     <string name="match_dataset_frame">%1$d/%2$d</string>
+    <string name="match_direction_default">Phím bấm điều hướng có hoạt động không?</string>
     <string name="match_dvd_intro_pause">Thả ra khi phát DVD tạm dừng</string>
     <string name="match_dvd_intro_play">Thả ra khi DVD bắt đầu phát</string>
     <string name="match_dvd_intro_stop">Thả ra khi phát DVD dừng lại</string>
@@ -352,6 +353,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="match_mibox_sencond">    · Điều khiển Mi TV của bạn bằng thiết bị này.</string>
     <string name="match_mibox_third">    · Thêm thiết bị Mi khác tự động</string>
     <string name="match_name_power">Pin</string>
+    <string name="match_number_default">Phím bấm số có hoạt động không?</string>
     <string name="match_power_confirm_tip_frame">%1$s đang bật?</string>
     <string name="match_power_main_tip_frame">%1$s đang bật?</string>
     <string name="match_stb_intro_left">Thả ra khi sang trái có phản hồi</string>
@@ -362,6 +364,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="match_stb_name_up">Lên</string>
     <string name="match_stb_seletion_des">Chọn vị trí của bạn</string>
     <string name="match_succuss">Chúc mừng bạn</string>
+    <string name="match_tip_default">Thiết bị có phản hồi không?</string>
     <string name="match_tip_eject">Phím đẩy ra có hoạt động không?</string>
     <string name="match_tip_exit">Phím thoát có hoạt động không?</string>
     <string name="match_tip_ff">Phím tua về trước có hoạt động không?</string>
@@ -521,6 +524,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="save_share_title">Lưu điều khiển trên thiết bị này?</string>
     <string name="scaning">Đang tìm…</string>
     <string name="scanning_milink">Tìm kiếm thiết bị…</string>
+    <string name="scene_default">Mặc định</string>
     <string name="scene_name_frame">%1$s %2$s%3$s</string>
     <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">Chụp màn hình</string>

@@ -78,6 +78,7 @@
     <string name="information_manager_information">Thông tin thời tiết</string>
     <string name="aqi_top_pollution">Chất ô nhiễm chính</string>
     <string name="aqi_detail_title">Chỉ số Chất lượng Không khí</string>
+    <string name="realtime_wind_default_title">Gió</string>
     <string name="realtime_humidity_title">Độ ẩm tương đối</string>
     <string name="realtime_aqi_title">Chỉ số Chất lượng Không khí</string>
     <string name="aqi_detail_sub_title">Chi tiết AQI</string>

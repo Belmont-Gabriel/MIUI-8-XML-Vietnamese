@@ -466,6 +466,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="create_new_album">Tạo một album</string>
     <string name="album_already_exists">Album cùng tên đã tồn tại</string>
     <string name="create_new_album_failed">Không thể tạo</string>
+    <string name="default_album_name">Album mới</string>
     <string name="new_album_invalid_prefix">Không sử dụng ký tự \".\" hoặc \"_\" để bắt đầu tên album.</string>
     <string name="new_album_invalid_char">Tên không thể chứa \"%s\", nhập một ký tự hoặc một số.</string>
     <string name="new_album_invalid_name">\"%s\" là album hệ thống, vui lòng đổi tên.</string>
@@ -590,6 +591,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="browse_category_title">Duyệt</string>
     <string name="show_hidden_album_title">Hiện album ẩn</string>
     <string name="slideshow_interval_title">Thời gian trình chiếu</string>
+    <string name="slideshow_interval_value">%1$d giây</string>
     <string name="slideshow_interval_dialog_title">Nhập khoản thời gian</string>
     <string name="slideshow_interval_invalid">Khoảng thời gian phải từ 3 đến 3600 giây</string>
     <string name="other_settings">Cài đặt bổ sung</string>

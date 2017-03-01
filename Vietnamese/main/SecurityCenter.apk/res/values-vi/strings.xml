@@ -135,6 +135,7 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="pref_avaible_traffic">Gói lưu lượng</string>
     <string name="pref_daily_traffic">Giới hạn dữ liệu hàng ngày</string>
     <string name="pref_data_usage_not_set">Thiết lập giới hạn sử dụng dữ liệu</string>
+    <string name="pref_warning_values">Mức độ cảnh báo việc sử dụng dữ liệu</string>
     <string name="pref_pkg_begin_date">Ngày bắt đầu sử dụng gói dữ liệu</string>
     <string name="pref_month_begin_date">Ngày bắt đầu sử dụng gói dữ liệu mỗi tháng</string>
     <string name="pref_more_traffic_settings">Cài đặt bổ sung</string>
@@ -297,6 +298,7 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="tc_sms_report_get_sms_failure">Không thể cập nhật SMS báo sử dụng dữ liệu</string>
     <string name="tc_sms_report_get_sms_timeout">Yêu cầu hết thời gian</string>
     <string name="tc_sms_report_get_sms_successs">Đã cập nhật tin nhắn SMS báo dữ liệu sử dụng</string>
+    <string name="tc_sms_report_get_default">Bạn sẽ không phải trả phí cho tin nhắn SMS được dùng để kiểm tra số dư dữ liệu sử dụng từ nhà cung cấp.</string>
     <string name="tc_sms_report_toast_text">Đang nhận thông tin…</string>
     <string name="privacy_declare_dialog_title">Điều khoản Dịch vụ</string>
     <string name="privacy_declare_dialog_message">Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href=%s> Điều khoản Dịch vụ&lt;/a> của Opera.</string>
@@ -341,6 +343,8 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="daily_limit_and_lock_screen">Giới hạn dữ liệu &amp; thông báo</string>
     <string name="pref_title_traffic_limit_number">Kích thước</string>
     <string name="pref_title_over_traffic_limit_warning">Khi vượt quá</string>
+    <string name="reach_daily_limit_value_title">Đã đạt đến giới hạn dữ liệu hàng ngày</string>
+    <string name="reach_daily_limit_value_body">Giảm sử dụng dữ liệu di động của bạn.</string>
     <string name="daily_limit_network_available_body">Chạm để xem thống kê sử dụng dữ liệu.</string>
     <string name="daily_limit_over_message">Bạn đã vượt quá giới hạn dữ liệu hàng ngày.</string>
     <string name="three_percent_total_pkg">%s (3%% của dữ liệu hàng tháng)</string>
@@ -349,6 +353,7 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="lock_screen_warning_category">Thông báo màn hình khóa</string>
     <string name="lock_screen_warning_switch_title">Hiển thị cảnh báo trên màn hình khóa</string>
     <string name="lock_screen_warning_switch_summary">Hiển thị cảnh báo trên màn hình khóa khi sử dụng dữ liệu vượt giá giá trị nhất định</string>
+    <string name="lock_screen_warning_value">Cảnh báo sử dụng dữ liệu</string>
     <string name="traffic_setting_completed">OK</string>
     <string name="traffic_setting_extra_pkg_title">Cài đặt bổ sung</string>
     <string name="traffic_setting_extra_pkg_summary">Điều chỉnh kế hoạch và giới hạn sử dụng dữ liệu</string>
@@ -841,6 +846,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="last_check_date_yesterday">Đã quét hôm qua</string>
     <string name="last_check_never_checked">Quét bây giờ</string>
     <string name="last_check_canceled">Quét trước đó đã bị hủy bỏ</string>
+    <string name="last_checked_default">Đã quét %s ngày trước</string>
     <string name="examination_score_100">Tất cả mọi thứ đều tốt!</string>
     <string name="examination_score_100_with_recommend">%d mục có thể tối ưu hóa</string>
     <string name="examination_score_80_100">Một số mục có thể được tối ưu hóa</string>
@@ -976,6 +982,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="menu_item_virus_install_monitor_title">Quét trước khi cài đặt</string>
     <string name="menu_item_virus_install_monitor_summary">Kiểm tra virus trước khi cài đặt ứng dụng</string>
     <string name="activity_title_virus_settings">Cài đặt</string>
+    <string name="hints_virus_lib_update_default_summary">Lần cập nhật cuối cùng: không xác định</string>
     <string name="menu_item_virus_lib_auto_update_summary">Đã cập nhật lúc %s</string>
     <string name="hints_virus_app_list_item_summary">ứng dụng</string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
@@ -1000,6 +1007,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="activity_title_perm_manager">Quyền</string>
     <string name="activity_title_auto_start_manager">Tự khởi chạy</string>
     <string name="activity_title_notification_bar_manager">Thông báo</string>
+    <string name="activity_title_default_apps_manager">Ứng dụng mặc định</string>
     <string name="activity_title_permission_manager">Quyền</string>
     <string name="activity_title_other_permission_manager">Quyền khác</string>
     <string name="activity_title_root_manager">Quyền root</string>
@@ -1175,6 +1183,9 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="pref_category_title_lock_screen_memory_clean">Dọn dẹp ở màn hình khóa</string>
     <string name="pref_title_lock_screen_memory_clean">Dọn dẹp ở màn hình khóa</string>
     <string name="pref_summary_lock_screen_memory_clean">Dọn dẹp tự động khi thiết bị bị khóa</string>
+    <string name="title_default_app">MIUI %s không được thiết lập như mặc định</string>
+    <string name="summary_default_app">%s không được thiết lập như là một ứng dụng hệ thống mặc định</string>
+    <string name="toast_default_app">%1$s được thiết lập làm %2$s mặc định hệ thống</string>
     <string name="notification_title_cmcc_app_check">%d ngày kể từ ngày kiểm tra cuối</string>
     <string name="notification_summary_cmcc_app_check">Chạm để xem chi tiết.</string>
     <string name="title_cmcc_app_check">Xác minh không hoàn chỉnh</string>
@@ -1430,6 +1441,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="button_text_disconnect_now">Ngắt kết nối</string>
     <string name="apps_item_sms_reset_button_text">Khôi phục mặc định</string>
     <string name="apps_item_sms_title">Cài đặt tin nhắn mặc định</string>
+    <string name="apps_item_sms_default_set_success">Đặt thành công</string>
     <string name="apps_item_virus_cleanup_text">Xóa</string>
     <string name="apps_item_virus_cleanup_success">Đã xóa thành công</string>
     <string name="apps_item_virus_summary_installed">Ứng dụng đã được cài đặt</string>
@@ -1486,6 +1498,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="safe_result_item_info_system_scan">Giám sát thanh toán đã bật</string>
     <string name="safe_result_item_info_system_antivirus">Bảo vệ chống virus lừa đảo</string>
     <string name="safe_result_item_info_sms_auth">Giới hạn ứng dụng bên thứ ba nhận mã xác minh</string>
+    <string name="safe_result_item_info_sms_default">Chuyển sang ứng dụng tin nhắn mặc định</string>
     <string name="safe_result_item_info_sms_url">Bảo vệ chống lại URL tin nhắn độc hại</string>
     <string name="safe_result_item_info_app_sign">Không tìm thấy ứng dụng không chính thức</string>
     <string name="safe_result_item_info_app_virus">Không tìm thấy ứng dụng rủi ro và virus</string>
@@ -1561,6 +1574,9 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="optimize_result_button_purchase_flow">Mua dữ liệu di động</string>
     <string name="optimize_result_button_purchase">Mua</string>
     <string name="optimize_result_button_cloudspace">Thêm lưu trữ Mi Cloud</string>
+    <string name="optimize_result_title_system_default_settings">Cài đặt mặc định đã được thay đổi</string>
+    <string name="optimize_result_summary_system_default_settings">Sử dụng ứng dụng MIUI mặc định tăng mức độ an toàn và ổn định của hệ thống.</string>
+    <string name="optimize_result_toast_system_default_settings">Đã khôi phục cài đặt mặc định</string>
     <string name="optimize_result_toast_system_no_item_selected">Không có mục nào được chọn</string>
     <string name="optimize_result_title_sucurity_risk">Đã tìm thấy rủi ro an toàn</string>
     <string name="optimize_result_summary_sucurity_risk">Vài tính năng an toàn đã bị tắt. Bật các tính năng này để thiết bị an toàn hơn:</string>
@@ -1697,6 +1713,7 @@ Hãy chắc chắn rằng bạn biết nguồn gốc thiết bị và liên hệ
     <string name="power_save_on_time_end_time_summary">Kết thúc</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">Trong giai đoạn này chuyển sang</string>
+    <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_goout_title">Sau giai đoạn này chuyển sang</string>
     <string name="power_save_choose_recovery_mode">Chọn chế độ</string>
     <string name="power_new_choose_mode">Chọn chế độ</string>
@@ -1779,6 +1796,7 @@ Kiểm tra tin nhắn nhận được từ nhà cung cấp của bạn để bi�
     <string name="pref_traffic_saving_title">Cài đặt tiết kiệm dữ liệu</string>
     <string name="pref_traffic_saving_whitelist">Danh sách ngoại lệ</string>
     <string name="pref_traffic_saving_whitelist_hint">Không giới hạn sử dụng dữ liệu cho các ứng dụng đã chọn</string>
+    <string name="reach_daily_limit_value_body_open_traffic_saving">Chạm để bật Tiết kiệm dữ liệu.</string>
     <string name="read_number">86 bài viết</string>
     <string name="read_unit">" bài viết"</string>
     <string name="resource_applicationlock">Khóa ứng dụng</string>
@@ -1812,6 +1830,7 @@ Kiểm tra tin nhắn nhận được từ nhà cung cấp của bạn để bi�
     <string name="traffic_saving_history_total_money">Tổng số tiết kiệm</string>
     <string name="traffic_saving_history_total_money_unit">Tệ</string>
     <string name="traffic_saving_history_total_month">"Đã tiết kiệm tháng này: "</string>
+    <string name="traffic_saving_history_total_month_default">Tiết kiệm trung bình mỗi tháng</string>
     <string name="traffic_saving_history_total_rate">Tỷ lệ</string>
     <string name="traffic_saving_history_total_traffic">Đã tiết kiệm dữ liệu</string>
     <string name="traffic_saving_mobile_usage">Tiết kiệm dữ liệu</string>

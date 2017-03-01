@@ -106,6 +106,7 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="activate_feature_verify_mx_token">Xác minh Tài khoản Mi</string>
     <string name="activate_feature_live_talk">Gói tùy chọn</string>
     <string name="activate_feature_remote_assist">Hỗ trợ từ xa</string>
+    <string name="activate_feature_default_name">Dịch vụ Mi</string>
     <string name="activate_history_title">Kích hoạt thẻ SIM</string>
     <string name="activate_history_overview">Thẻ SIM kích hoạt %1$s. Kích hoạt lần này do \"%2$s\".</string>
     <string name="activate_history_multisim_overview">Kích hoạt %1$s cho thẻ SIM %3$d. Kích hoạt lần này do \"%2$s\".</string>

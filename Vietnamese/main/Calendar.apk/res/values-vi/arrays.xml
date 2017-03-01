@@ -134,6 +134,12 @@
         <item>Nam</item>
         <item>Nữ</item>
     </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Đang chạy chỉ muộn vài phút.</item>
+        <item>Sẽ ở đó sau khoảng 10 phút.</item>
+        <item>Hãy tiến hành và bắt đầu mà không có tôi.</item>
+        <item>Rất tiếc, tôi không thu xếp được. Chúng ta phải lên lịch lại.</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Luôn luôn</item>
         <item>Chỉ khi ở chế độ im lặng</item>
@@ -144,6 +150,18 @@
         <item>Nền trắng</item>
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
+        <item>Không nhắc nhở</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
         <item>Không nhắc nhở</item>
         <item>Vào thời gian sự kiện</item>
         <item>Trước 5 phút</item>
@@ -248,6 +266,18 @@
         <item>Số lần</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>Không nhắc nhở</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
         <item>Không nhắc nhở</item>
         <item>Vào thời gian sự kiện</item>
         <item>Trước 5 phút</item>

@@ -71,5 +71,7 @@ Lý do khác
     <string name="passport_notification_need_unlock_again">Thử mở khóa lại</string>
     <string name="device_lost">Thiết bị này bị đánh mất</string>
     <string name="device_locked">Thiết bị này đã khóa</string>
+    <string name="default_lock_msg_words_with_phone">Xin chào! Tôi bị mất điện thoại. Bạn có thể liên lạc với tôi được không? Cám ơn!</string>
+    <string name="default_lock_msg_words">Thiết bị này đã liên kết với Tài khoản Mi có sẵn. Vì lý do an toàn, bạn cần nhập mật khẩu để xác minh thiết bị.</string>
     <string name="lock_msg_phone">Thông tin liên lạc: %s</string>
 </resources>

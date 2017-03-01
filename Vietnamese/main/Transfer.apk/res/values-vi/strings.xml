@@ -86,6 +86,8 @@
     <string name="file_not_exist">Tập tin không tồn tại</string>
     <string name="error_not_selected">Không có tập tin đã chọn</string>
     <string name="error_select">Tập tin bị lỗi hoặc không có tập tin đã chọn</string>
+    <string name="device_default_name">Điện thoại Xiaomi</string>
+    <string name="miui_device_default_name">MiDevice</string>
     <string name="history_receive">Lịch sử đã nhận</string>
     <string name="history_send">Lịch sử đã gửi</string>
     <string name="history_all">Tất cả lịch sử</string>

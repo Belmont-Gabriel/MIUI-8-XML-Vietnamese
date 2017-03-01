@@ -109,6 +109,7 @@
     <string name="apply_password_action">OK</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Đặt ngón tay trên phím Trang chính</string>
     <string name="maml_component_customization_title">Cài đặt</string>
+    <string name="default_name">Mặc định</string>
     <string name="resource_select">Chọn</string>
     <string name="group_name_contacts">Liên hệ</string>
     <string name="group_name_friends">Bạn bè</string>

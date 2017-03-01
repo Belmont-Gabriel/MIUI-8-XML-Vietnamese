@@ -276,6 +276,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="permission_group_title_media_related">Đa phương tiện</string>
     <string name="permission_group_title_settings_related">Cài đặt</string>
     <string name="ok">OK</string>
+    <string name="default_permission_description">Thực hiện hành động không rõ</string>
     <string name="location_settings">Cài đặt Vị trí</string>
     <string name="location_warning">%1$s là nhà cung cấp dịch vụ vị trí cho thiết bị này. Bạn có thể chỉnh sửa truy cập vị trí trong cài đặt.</string>
     <string name="permission_request_title">Yêu cầu cấp phép</string>

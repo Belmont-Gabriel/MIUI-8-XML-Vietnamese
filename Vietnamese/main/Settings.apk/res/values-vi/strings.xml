@@ -144,6 +144,7 @@
     <string name="deny">Từ chối</string>
     <string name="dlg_close">Đóng</string>
     <string name="dlg_switch">Chuyển đổi</string>
+    <string name="device_info_default">Không xác định</string>
     <string name="show_dev_on">Bạn đã là nhà phát triển!</string>
     <string name="show_dev_already">Không cần, bạn đã là nhà phát triển.</string>
     <string name="header_category_wireless_networks">Mạng</string>
@@ -274,6 +275,7 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="proxy_clear_text">Xóa</string>
     <string name="proxy_port_label">Cổng</string>
     <string name="proxy_exclusionlist_label">Không sử dụng địa chỉ mạng</string>
+    <string name="proxy_defaultView_text">Khôi phục mặc định</string>
     <string name="proxy_action_text">Xong</string>
     <string name="proxy_hostname_label">Tên máy chủ</string>
     <string name="proxy_error">Chú ý</string>
@@ -567,6 +569,8 @@ Dấu vân tay đã lưu của bạn cũng sẽ bị xóa khỏi thiết bị n�
     <string name="bluetooth_pairing_key_msg">Mã ghép nối Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Nhập mã ghép nối, sau đó nhấn Quay lại hoặc Enter</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN chứa các ký tự hoặc biểu tượng</string>
+    <string name="bluetooth_pin_values_hint">Thương là 0000 hoặc 1234</string>
+    <string name="bluetooth_pin_values_hint_16_digits">Phải có 16 chữ số</string>
     <string name="bluetooth_enter_pin_other_device">Bạn cũng có thể cần nhập mã PIN này trên thiết bị khác.</string>
     <string name="bluetooth_enter_passkey_other_device">Bạn cũng có thể cần nhập mã xác nhận này trên thiết bị khác.</string>
     <string name="bluetooth_confirm_passkey_msg">Để ghép nối với:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Hãy đảm bảo thiết bị đang hiển thị mã xác nhận này:&lt;br>&lt;b>%2$s&lt;/b></string>
@@ -1205,7 +1209,9 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="error_apn_empty">APN không được để trống.</string>
     <string name="error_mcc_not3">Trường MCC phải có 3 chữ số.</string>
     <string name="error_mnc_not23">Trường MNC phải có 2 hoặc 3 chữ số.</string>
+    <string name="restore_default_apn">Đang khôi phục cài đặt APN mặc định.</string>
     <string name="menu_restore">Đặt lại</string>
+    <string name="restore_default_apn_completed">Đặt lại cài đặt APN mặc định đã hoàn tất.</string>
     <string name="reset_network_title">Đã đặt lại cài đặt mạng</string>
     <string name="reset_network_desc">"Điều này sẽ đặt lại tất cả cài đặt mạng, bao gồm:
 
@@ -1277,6 +1283,9 @@ Có người dùng khác trên thiết bị này.
     <string name="network_settings_title">Mạng di động</string>
     <string name="manage_mobile_plan_title">Gói dịch vụ di động</string>
     <string name="sms_application_title">Ứng dụng SMS</string>
+    <string name="sms_change_default_dialog_title">Thay đổi ứng dụng SMS?</string>
+    <string name="sms_change_default_dialog_text">Sử dụng %1$s thay vì %2$s làm ứng dụng SMS của bạn?</string>
+    <string name="sms_change_default_no_previous_dialog_text">Sử dụng %s làm ứng dụng SMS của bạn?</string>
     <string name="network_scorer_change_active_dialog_title">Thay đổi trình hỗ trợ Wi‑Fi?</string>
     <string name="network_scorer_change_active_dialog_text">Sử dụng %1$s thay cho %2$s để quản lý các kết nối mạng của bạn?</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Sử dụng %s để quản lý các kết nối mạng của bạn?</string>
@@ -1429,6 +1438,7 @@ Có người dùng khác trên thiết bị này.
     <string name="sort_order_size">Sắp xếp theo kích thước</string>
     <string name="show_running_services">Hiện dịch vụ đang chạy</string>
     <string name="show_background_processes">Hiện quá trình lưu trong cache</string>
+    <string name="default_emergency_app">Ứng dụng khẩn cấp</string>
     <string name="reset_app_preferences">Đặt lại tùy chọn ứng dụng</string>
     <string name="reset_app_preferences_title">Đặt lại tùy chọn ứng dụng?</string>
     <string name="reset_app_preferences_desc">"Thao tác này sẽ đặt lại tất cả tùy chọn cho:
@@ -1476,6 +1486,7 @@ Có người dùng khác trên thiết bị này.
     <string name="security_settings_billing_desc">Bạn có thể phải trả tiền cho ứng dụng này:</string>
     <string name="security_settings_premium_sms_desc">Gửi SMS cao cấp</string>
     <string name="computing_size">Đang tính toán…</string>
+    <string name="invalid_size_value">Không thể tính toán kích thước gói.</string>
     <string name="empty_list_msg">Bạn chưa cài đặt ứng dụng của bên thứ ba nào.</string>
     <string name="version_text">phiên bản %1$s</string>
     <string name="move_app">Chuyển</string>
@@ -1503,6 +1514,7 @@ Có người dùng khác trên thiết bị này.
     <string name="app_ops_settings">Hoạt động của ứng dụng</string>
     <string name="app_ops_running">Ðang chạy</string>
     <string name="app_ops_never_used">(Chưa bao giờ dùng)</string>
+    <string name="no_default_apps">Không có Ứng dụng mặc định.</string>
     <string name="storageuse_settings_title">Sử dụng bộ nhớ</string>
     <string name="storageuse_settings_summary">Xem dung lượng lưu trữ mà các ứng dụng sử dụng</string>
     <string name="runningservices_settings_title">Các dịch vụ đang hoạt động</string>
@@ -1570,6 +1582,7 @@ Có người dùng khác trên thiết bị này.
     <string name="keyboard_layout_dialog_title">Chọn bố cục bàn phím</string>
     <string name="keyboard_layout_dialog_setup_button">Thiết lập bố cục bàn phím</string>
     <string name="keyboard_layout_dialog_switch_hint">Để chuyển, nhấn Control-Phím cách</string>
+    <string name="keyboard_layout_default_label">Mặc định</string>
     <string name="keyboard_layout_picker_title">Bố cục bàn phím</string>
     <string name="user_dict_settings_title">Từ điển cá nhân</string>
     <string name="user_dict_settings_summary" />
@@ -1753,6 +1766,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="captioning_typeface">Họ phông chữ</string>
     <string name="captioning_preview_text">๖ۣۜßεℓ™ - MIUI.VN</string>
     <string name="captioning_preview_characters">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="locale_default">Mặc định</string>
     <string name="color_title">Màu</string>
     <string name="color_unspecified">Mặc định</string>
     <string name="color_none">Không có</string>
@@ -1778,6 +1792,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="disable_service_title">Dừng %1$s?</string>
     <string name="disable_service_message">Chạm vào OK sẽ ngừng %1$s.</string>
     <string name="accessibility_no_services_installed">Chưa có dịch vụ nào được cài đặt</string>
+    <string name="accessibility_service_default_description">Không có mô tả nào được cung cấp.</string>
     <string name="settings_button">Cài đặt</string>
     <string name="print_settings">In</string>
     <string name="print_settings_title">Dịch vụ in</string>
@@ -1961,8 +1976,19 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="voice_interaction_security_warning">Dịch vụ nhập bằng giọng nói này có thể thực hiện theo dõi bằng giọng nói luôn bật và kiểm soát các ứng dụng hỗ trợ giọng nói thay mặt cho bạn. Dịch vụ này đến từ %s. Cho phép sử dụng dịch vụ này?</string>
     <string name="tts_settings">Cài đặt chuyển văn bản thành giọng nói</string>
     <string name="tts_settings_title">Đầu ra v.bản thành giọng nói</string>
+    <string name="use_default_tts_settings_title">Luôn sử dụng cài đặt của tôi</string>
+    <string name="use_default_tts_settings_summary">Cài đặt mặc định dưới đây ghi đè cài đặt ứng dụng</string>
+    <string name="tts_default_settings_section">Cài đặt mặc định</string>
+    <string name="tts_default_synth_title">Công cụ mặc định</string>
+    <string name="tts_default_synth_summary">Đặt công cụ tổng hợp giọng nói được sử dụng cho văn bản nói</string>
+    <string name="tts_default_rate_title">Tốc độ nói</string>
+    <string name="tts_default_rate_summary">Tốc độ đọc văn bản</string>
+    <string name="tts_default_pitch_title">Độ cao</string>
+    <string name="tts_default_pitch_summary">Ảnh hưởng đến âm của văn bản nói</string>
+    <string name="tts_default_lang_title">Ngôn ngữ</string>
     <string name="tts_lang_use_system">Sử dụng ngôn ngữ hệ thống</string>
     <string name="tts_lang_not_selected">Không thể chọn ngôn ngữ</string>
+    <string name="tts_default_lang_summary">Đặt giọng nói ngôn ngữ cụ thể cho văn bản nói</string>
     <string name="tts_play_example_title">Nghe ví dụ</string>
     <string name="tts_play_example_summary">Phát minh hoạ ngắn về tổng hợp giọng nói</string>
     <string name="tts_install_data_title">Cài đặt dữ liệu thoại</string>
@@ -1974,6 +2000,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="tts_engine_error_reselect">Chọn công cụ khác</string>
     <string name="tts_engine_security_warning">Công cụ tổng hợp tiếng nói này có thể thu thập tất cả nội dụng sẽ được nói, bao gồm dữ liệu cá nhân như mật khẩu và số thẻ tín dụng. Công cụ này xuất phát từ công cụ %s. Cho phép sử dụng công cụ tổng hợp tiếng nói này?</string>
     <string name="tts_engine_network_required">Ngôn ngữ này yêu cầu phải có kết nối mạng hoạt động để có thể phát âm thanh được chuyển từ văn bản sang giọng nói.</string>
+    <string name="tts_default_sample_string">Đây là một ví dụ về tổng hợp tiếng nói</string>
     <string name="tts_status_title">Trạng thái ngôn ngữ mặc định</string>
     <string name="tts_status_ok">%1$s được hỗ trợ đầy đủ</string>
     <string name="tts_status_requires_network">%1$s yêu cầu kết nối mạng</string>
@@ -2051,6 +2078,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="auto_restore_title">Tự động khôi phục</string>
     <string name="auto_restore_summary">Khi cài đặt lại một ứng dụng, khôi phục dữ liệu và cài đặt đã sao lưu</string>
     <string name="backup_inactive_title">Dịch vụ sao lưu không hoạt động.</string>
+    <string name="backup_configure_account_default_summary">Hiện không có tài khoản nào lưu trữ dữ liệu được sao lưu</string>
     <string name="local_backup_password_title">Mật khẩu sao lưu của máy tính</string>
     <string name="local_backup_password_summary_none">Sao lưu toàn bộ máy tính hiện không được bảo vệ</string>
     <string name="local_backup_password_summary_change">Chạm để thay đổi hoặc xóa mật khẩu dành cho bộ sao lưu toàn bộ tới máy tính</string>
@@ -2475,13 +2503,20 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="nfc_payment_settings_title">Nhấn và thanh toán</string>
     <string name="nfc_payment_how_it_works">Cách thức hoạt động</string>
     <string name="nfc_payment_no_apps">Thanh toán bằng điện thoại của bạn trong cửa hàng</string>
+    <string name="nfc_payment_default">Mặc định thanh toán</string>
+    <string name="nfc_payment_default_not_set">Chưa đặt</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
+    <string name="nfc_payment_use_default">Sử dụng mặc định</string>
+    <string name="nfc_payment_favor_default">Luôn luôn</string>
     <string name="nfc_payment_favor_open">Trừ khi một ứng dụng thanh toán khác đang mở</string>
     <string name="nfc_payment_pay_with">Ở một cổng Nhấn và thanh toán, thanh toán bằng:</string>
     <string name="nfc_how_it_works_title">Thanh toán tại thiết bị đầu cuối</string>
     <string name="nfc_how_it_works_content">Thiết lập ứng dụng thanh toán. Sau đó chỉ cần giữ mặt sau điện thoại của bạn gần với thiết bị đầu cuối bất kỳ có biểu tượng không tiếp xúc.</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_more_title">Thêm…</string>
+    <string name="nfc_payment_set_default_label">Đặt làm tùy chọn của bạn?</string>
+    <string name="nfc_payment_set_default">Luôn sử dụng %1$s khi bạn Nhấn và thanh toán?</string>
+    <string name="nfc_payment_set_default_instead_of">Luôn sử dụng %1$s thay vì %2$s khi bạn Chạm và thanh toán?</string>
     <string name="restriction_settings_title">Hạn chế</string>
     <string name="restriction_menu_reset">Xóa các hạn chế</string>
     <string name="restriction_menu_change_pin">Đổi mã PIN</string>
@@ -2574,6 +2609,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="search_recents_queries_label">Tìm kiếm gần đây</string>
     <string name="search_results_label">Kết quả</string>
     <string name="keywords_wifi">wifi wi-fi kết nối mạng</string>
+    <string name="keywords_more_default_sms_app">tin nhắn văn bản nhắn tin tin nhắn nhắn tin</string>
     <string name="keywords_more_mobile_networks">di động điện thoại nhà cung cấp không dây dữ liệu 4g 3g 2g lte</string>
     <string name="keywords_wifi_calling">gọi điện qua Wi-Fi</string>
     <string name="keywords_home">trình chạy</string>
@@ -2603,8 +2639,10 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="keywords_keyboard_and_ime">sửa văn bản sửa âm thanh rung tự động ngôn ngữ cử chỉ đề xuất đề xuất chủ đề từ xúc phạm nhập biểu tượng cảm xúc quốc tế</string>
     <string name="keywords_reset_apps">đặt lại tùy chọn về mặc định</string>
     <string name="keywords_emergency_app">mặc định ứng dụng trong trường hợp khẩn cấp</string>
+    <string name="keywords_default_phone_app">trình quay số điện thoại mặc định</string>
     <string name="keywords_all_apps">hệ thống ứng dụng tải xuống ứng dụng</string>
     <string name="keywords_app_permissions">bảo mật giấy phép ứng dụng</string>
+    <string name="keywords_default_apps">ứng dụng mặc định</string>
     <string name="keywords_ignore_optimizations">bỏ qua tối ưu hóa ngủ gật ứng dụng chế độ chờ</string>
     <string name="keywords_lockscreen">trượt mật khẩu hình mẫu mã Pin</string>
     <string name="setup_wifi_nfc_tag">Thiết lập thẻ NFC Wi-Fi</string>
@@ -2614,6 +2652,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="status_write_success">Thành công!</string>
     <string name="status_failed_to_write">Không thể ghi dữ liệu vào thẻ NFC. Nếu sự cố tiếp diễn, hãy thử một thẻ khác</string>
     <string name="status_tag_not_writable">Thẻ NFC không thể ghi được. Vui lòng sử dụng một thẻ khác.</string>
+    <string name="default_sound">Âm thanh mặc định</string>
     <string name="notification_settings">Âm thanh và thông báo</string>
     <string name="media_volume_option_title">Âm lượng phương tiện</string>
     <string name="alarm_volume_option_title">Âm lượng báo thức</string>
@@ -2792,11 +2831,13 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="encrypt_talkback_dialog_message_password">Khi bạn nhập mật khẩu của mình để khởi động thiết bị này, các dịch vụ trợ năng như %1$s sẽ chưa khả dụng.</string>
     <string name="imei_information_summary">Thông tin liên quan đến IMEI</string>
     <string name="slot_number">(Khe %1$d)</string>
+    <string name="launch_by_default">Mở theo mặc định</string>
     <string name="storage_summary_format">%1$s đã được sử dụng trong %2$s</string>
     <string name="app_launch_domain_links_title">Liên kết ứng dụng</string>
     <string name="app_launch_open_domain_urls_title">Mở các liên kết được hỗ trợ</string>
     <string name="app_launch_open_domain_urls_summary">Mở không cần hỏi</string>
     <string name="app_launch_supported_domain_urls_title">Các liên kết được hỗ trợ</string>
+    <string name="app_launch_other_defaults_title">Cài đặt mặc định khác</string>
     <string name="storage_type_internal">Bộ nhớ trong</string>
     <string name="storage_type_external">Bộ nhớ ngoài</string>
     <string name="app_data_usage">Dữ liệu ứng dụng</string>
@@ -2814,6 +2855,8 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Chưa được cấp quyền nào</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Không yêu cầu quyền</string>
+    <string name="launch_defaults_some">Đã đặt một số ứng dụng chạy mặc định</string>
+    <string name="launch_defaults_none">Chưa đặt mặc định</string>
     <string name="filter_all_apps">Tất cả ứng dụng</string>
     <string name="filter_enabled_apps">Đã bật</string>
     <string name="filter_personal_apps">Cá nhân</string>
@@ -2841,13 +2884,20 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="app_link_open_ask">Luôn hỏi</string>
     <string name="app_link_open_never">Không mở trong ứng dụng này</string>
     <string name="fingerprint_not_recognized">Không nhận dạng được</string>
+    <string name="default_apps_title">Ứng dụng mặc định</string>
     <string name="assist_and_voice_input_title">Trợ lý và nhập liệu</string>
+    <string name="default_assist_title">Ứng dụng trợ lý</string>
+    <string name="default_assist_none">Không có</string>
     <string name="choose_assist_title">Chọn ứng dụng Trợ lý</string>
     <string name="assistant_security_warning_title">Đặt %s làm trợ lý của bạn?</string>
     <string name="assistant_security_warning">Trợ lý sẽ có thể đọc thông tin về ứng dụng đang được sử dụng trên hệ thống của bạn, bao gồm thông tin hiển thị trên màn hình của bạn hoặc thông tin có thể truy cập trong ứng dụng.</string>
     <string name="assistant_security_warning_agree">Đồng ý</string>
     <string name="assistant_security_warning_disagree">Không đồng ý</string>
     <string name="choose_voice_input_title">Chọn nhập bằng giọng nói</string>
+    <string name="default_browser_title">Ứng dụng trình duyệt</string>
+    <string name="default_browser_title_none">Không có trình duyệt mặc định</string>
+    <string name="default_phone_title">Ứng dụng Điện thoại</string>
+    <string name="default_app">(Mặc định)</string>
     <string name="apps_storage">Bộ nhớ Apps</string>
     <string name="usage_access">Quyền truy cập sử dụng</string>
     <string name="permit_usage_access">Cho phép quyền truy cập sử dụng</string>
@@ -3541,6 +3591,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="power_hide_mode_summary">Tiết kiệm Pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
     <string name="power_usage_history">Sử dụng Pin</string>
+    <string name="default_usb_mode">Kết nối USB</string>
     <string name="wifi_tether_settings_title">Điểm phát sóng cá nhân</string>
     <string name="tether_and_hotspot_title">Chia sẻ mạng và điểm phát sóng</string>
     <string name="lock_settings">Màn hình khóa &amp; mật khẩu</string>
@@ -3602,6 +3653,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="wifi_disabled_help">Wi-Fi bị ngắt do kết nối kém</string>
     <string name="wifi_wps_overlap_error">Đã phát hiện Wi-Fi khác được bảo vệ. Hãy thử lại sau ít phút.</string>
     <string name="wifi_p2p_wps_setup">Thiết lập bảo mật Wi-Fi</string>
+    <string name="default_input_method">Chọn bàn phím mặc định</string>
     <string name="locale_settings">Khu vực</string>
     <string name="country_name">%s (hệ thống)</string>
     <string name="install_preinstall_app">Đang tải ứng dụng…</string>
@@ -4066,6 +4118,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="wifi_required_info_text">Để hoàn tất cài đặt, thiết bị của bạn cần truy cập Wi-Fi. Sau khi cài đặt, bạn có thể chuyển đổi giữa dữ liệu di động và Wi-Fi.</string>
     <string name="toast_need_login">Đăng nhập vào Tài khoản Mi của bạn</string>
     <string name="preferred_app_settings">Mặc định</string>
+    <string name="preferred_app_settings_default">Mặc định</string>
     <string name="preferred_app_settings_not_selected">Chưa chọn</string>
     <string name="preferred_app_settings_reset">Cài đặt về mặc định</string>
     <string name="preferred_app_settings_reset_message">Khôi phục cài đặt ứng dụng mặc định về dữ liệu gốc.</string>

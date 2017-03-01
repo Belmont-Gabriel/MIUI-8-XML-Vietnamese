@@ -26,6 +26,7 @@
     <string name="toast_mark_privacy_notes_count">Ẩn %1$s thành công</string>
     <string name="toast_unmark_privacy_notes_count">Bỏ ẩn %1$s thành công</string>
     <string name="privacy_hint">Riêng tư</string>
+    <string name="theme_title_default">Mặc định</string>
     <string name="theme_title_invitation">Thư mời</string>
     <string name="theme_title_arty">Nghệ thuật</string>
     <string name="theme_title_antique">Mùa thu</string>
@@ -95,6 +96,7 @@ Chạm vào dấu cộng để tạo thư mục"</string>
     <string name="search_setting_description">Tìm văn bản trong ghi chú của bạn</string>
     <string name="search">Ghi chú </string>
     <string name="button_new_note">Mới</string>
+    <string name="default_folder_name">Thư mục Ghi chú</string>
     <string name="attachment_gallery">Chọn từ Thư viện</string>
     <string name="attachment_camera">Chụp ảnh</string>
     <string name="attachment_contact">Liên hệ</string>
@@ -135,6 +137,7 @@ Chạm vào dấu cộng để tạo thư mục"</string>
     <string name="sns_footer_text">Tạo ra với Ghi chú Mi</string>
     <string name="dlg_info_creating_message">Đang tạo tin nhắn…</string>
     <string name="sns_message_disconnect">Không thể kết nối mạng. Hãy kiểm tra và thử lại.</string>
+    <string name="sns_content_default">Chia sẻ ảnh</string>
     <string name="sns_toast_empty">Không thể gửi tin nhắn trống</string>
     <string name="sns_toast_over_limit">Đã gửi như là ảnh</string>
     <string name="sns_desc_preview_weibo">Xem trước tin nhắn Weibo</string>
