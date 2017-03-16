@@ -535,8 +535,6 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="power_consume_rank_title">Sử dụng Pin</string>
     <string name="power_consume_rank_software">Ứng dụng</string>
     <string name="power_consume_rank_hardware">Phần cứng</string>
-    <string name="power_consume_total_software">Ứng dụng: %1$d%%</string>
-    <string name="power_consume_total_hardware">Phần cứng: %1$d%%</string>
     <string name="power_consume_other">Khác</string>
     <string name="battery_desc_other_apps">Điện năng tiêu thụ bởi các ứng dụng khác</string>
     <string name="power_settings_title">Đặt</string>
