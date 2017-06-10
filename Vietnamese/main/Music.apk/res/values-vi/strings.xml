@@ -940,4 +940,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="online_service_open_tip">Dịch vụ âm nhạc trực tuyến bật</string>
     <string name="online_play_tips">Bài hát này chỉ có sẵn trực tuyến. Bật dịch vụ trực tuyến trong cài đặt để nghe.</string>
     <string name="upgrade_vip">Nâng cấp Gói Bài hát Thu phí</string>
+    <string name="metered_disallow">Hủy</string>
+    <string name="metered_play_toast">Sử dụng mạng di động để phát nhạc</string>
 </resources>

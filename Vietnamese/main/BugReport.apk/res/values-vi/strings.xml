@@ -61,6 +61,7 @@
     <string name="michat_skillset_product_title">Chọn sản phẩm</string>
     <string name="michat_skillset_business_type_title">Chọn dịch vụ</string>
     <string name="michat_close_text">Đã kết thúc trò chuyện</string>
+    <string name="default_text_view">TextView</string>
     <string name="michat_message_robot_welcome">Tôi tên là Mi Bunny. Tôi là robot hỗ trợ trực tuyến.</string>
     <string name="michat_message_join_again">Rất vui bạn đã quay lại!</string>
     <string name="michat_invalid_url">URL không hợp lệ</string>
@@ -160,7 +161,6 @@
     <string name="cta_not_show_again">Không hiển thị lại</string>
     <string name="cta_cancel">Hủy</string>
     <string name="cta_confirm">OK</string>
-    <string name="bugreport_feedback_from">Từ: %s</string>
     <string name="submit_dialog_title">Gửi báo cáo</string>
     <string name="submit_dialog_content">Phản hồi của bạn cùng với đính kèm và nhật ký sẽ được gửi đến máy chủ MIUI. Chúng có thể chứa thông tin cá nhân.</string>
     <string name="submit_dialog_cancel">Hủy</string>
@@ -171,8 +171,8 @@
     <string name="modem_tool_log">Lấy modem log</string>
     <string name="modem_tool_log_start">Bắt đầu</string>
     <string name="modem_tool_log_stop">Dừng</string>
-    <string name="modem_tool_log_start_toast">Bắt đầu lưu modem log đến %s</string>
-    <string name="modem_tool_log_stop_toast">Dừng lưu modem log từ %s</string>
+    <string name="modem_tool_log_start_toast">Đang lưu modem log vào %s</string>
+    <string name="modem_tool_log_stop_toast">Đã dừng lưu modem log vào %s</string>
     <string name="bugreport_dialog_not_show_again">Không hiển thị lại</string>
     <string name="bugreport_dialog_submit_content">Phản hồi của bạn có thể chứa thông tin cá nhân.</string>
     <string name="bugreport_dump_start_notification_title">Đang tạo báo cáo lỗi…</string>
@@ -191,13 +191,14 @@
     <string name="feedback_collect_log_failed">Không thể nhận nhật ký</string>
     <string name="feedback_package_log_failed">Không thể nén nhật ký</string>
     <string name="submit_feedback_info_failed">Không thể gửi báo cáo</string>
-    <string name="post_miui_bbs_failed">Không thể đăng lên Diễn đàn</string>
+    <string name="post_miui_bbs_failed">Không thể đăng lên Diễn đàn MIUI</string>
     <string name="upload_log_failed">Không thể gửi nhật ký</string>
     <string name="feedback_detail_tile">Tiến độ</string>
     <string name="feedback_tracking">Theo dỗi vấn đề</string>
     <string name="feedback_status_more">Chi tiết</string>
+    <string name="feedback_status_supplement_more">Thêm bình luận</string>
     <string name="feedback_submit_succ">Đã gửi thành công</string>
-    <string name="feedback_submitting">Đang gửi…</string>
+    <string name="feedback_submitting">Đang gửi</string>
     <string name="feedback_submit_hint1">Chúng tôi sẽ thông báo cho bạn về tiến độ báo cáo</string>
     <string name="feedback_submit_hint2">Vào \"Báo cáo của tôi\" để xem chi tiết</string>
     <string name="feedback_submit_succ_button">Hoàn tất</string>
@@ -221,6 +222,8 @@
     <string name="feedback_description_bugreport_hint">Trong trường hợp (…) điện thoại của tôi xuất hiện bất thường (…).</string>
     <string name="toast_title_required">Mô tả vấn đề</string>
     <string name="toast_problem_class_required">Chọn thể loại</string>
+    <string name="feedback_third_packagename_hint">Ứng dụng nào của bên thứ ba là nguyên nhân gây ra vấn đề?</string>
+    <string name="toast_third_packagename_required">Nhập tên ứng dụng</string>
     <string name="feedback_status_commit_succ_title">Đã gửi</string>
     <string name="feedback_status_commit_uploading_title">Đang gửi…</string>
     <string name="feedback_status_commit_failed_title">Không thể gửi báo cáo</string>
@@ -231,6 +234,7 @@
     <string name="feedback_status_answered">Đã trả lời</string>
     <string name="feedback_status_replyed">Đã trả lời</string>
     <string name="feedback_status_jira_comment">Thêm bình luận</string>
+    <string name="feedback_status_forum_reply">Trả lời</string>
     <string name="feedback_status_change_notification_title">Tiến độ báo cáo của bạn đã được cập nhật</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s vấn đề \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s đề nghị \"%2$s\"</string>
@@ -283,6 +287,10 @@
     <string name="module_search">Tìm kiếm</string>
     <string name="feedback_submit_hint">Báo cáo lỗi mỗi khi bạn gặp vấn đề để giúp chúng tôi sửa lỗi nhanh hơn.</string>
     <string name="toast_post_deleted">Chủ đề này không tồn tại, đã bị xóa, hoặc đã sửa.</string>
+    <string name="toast_log_not_exists">Nhật ký yêu cầu đã bị xóa hoặc không tồn tại</string>
+    <string name="toast_pic_not_exists">Ảnh bộ nhớ đệm đã bị xóa</string>
+    <string name="bugreport_feedback_from">Từ: %s</string>
     <string name="michat_mesage_resend_error_network">Không thể kết nối mạng</string>
     <string name="michat_mesage_send_error_network">Không thể gửi, kiểm tra kết nối mạng</string>
+    <string name="title_bbs_feedback_main">Tìm hiểu thêm về Điện thoại Mi</string>
 </resources>
