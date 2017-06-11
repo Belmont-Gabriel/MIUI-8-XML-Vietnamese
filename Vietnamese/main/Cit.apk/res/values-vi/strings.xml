@@ -21,6 +21,7 @@
     <string name="cit_accelermeter_sensor_check_title">Gia tốc kế</string>
     <string name="cit_magnetic_sensor_check_title">Cảm biến từ tính</string>
     <string name="cit_proximity_sensor_check_title">Cảm biến tiệm cận</string>
+    <string name="cit_fpc_sensor_check_title">Cảm biến vân tay FPC</string>
     <string name="cit_light_sensor_check_title">Cảm biến ánh sáng</string>
     <string name="cit_pressure_sensor_check_title">Cảm biến áp suất</string>
     <string name="cit_gyroscope_sensor_check_title">Con quay hồi chuyển</string>
@@ -30,11 +31,10 @@
     <string name="cit_audio_loopback_check_two_title">Kiểm tra phản hồi loa micrô phụ</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Kiểm tra giảm ồn xung quanh</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Kiểm tra phản hồi loa micrô sau</string>
+    <string name="cit_audio_lb_frontmic_to_speaker_title">Kiểm tra phản hồi loa micrô sau trước</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Kiểm tra phản hồi loa micrô chính</string>
-    <string name="cit_x5_audio_lb_topmic_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
     <string name="cit_audio_lb_phonecall_title">Kiểm tra cuộc gọi mô phỏng</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
-    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Kiểm tra phản hồi micrô trước</string>
     <string name="cit_headset_plug_detect_title">Phát hiện tai nghe (kết nối)</string>
     <string name="cit_headset_button_check_title">Phím tai nghe</string>
     <string name="cit_headset_loopback_check_title">Kiểm tra phản hồi micrô tai nghe</string>
@@ -42,6 +42,8 @@
     <string name="cit_charger_plugin_check_title">Bộ sạc (kết nối)</string>
     <string name="cit_charger_plugout_check_title">Bộ sạc (ngắt kết nối)</string>
     <string name="cit_main_camera_check_title">Máy ảnh sau</string>
+    <string name="cit_rear_dual_camera_check_title">Máy ảnh kép phía sau</string>
+    <string name="cit_rear_sub_camera_check_title">Máy ảnh phụ phía sau</string>
     <string name="cit_front_camera_check_title">Máy ảnh trước</string>
     <string name="cit_sd_plugin_check_title">Thẻ SD (phát hiện)</string>
     <string name="cit_sd_plugout_check_title">Thẻ SD (xóa)</string>
@@ -55,9 +57,27 @@
     <string name="cit_tool_modem_offline_log">Mở/Đóng Nhật ký Ngoại tuyến</string>
     <string name="cit_tool_modem_exit_ftm">Thoát chế độ FTM</string>
     <string name="cit_tool_modem_bugreport">Bắt buộc kết suất bộ nhớ MODEM</string>
-    <string name="cit_tool_modem_mbn">Thay đổi cấu hình môđem</string>
+    <string name="cit_tool_modem_mbn">Thay đổi cấu hình Modem</string>
+    <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+    <string name="cit_tool_modem_cu_volte_yes">Bật CU VoLTE</string>
+    <string name="cit_tool_modem_cu_volte_no">Tắt CU VoLTE</string>
+    <string name="cit_tool_modem_cu_volte_yes_confirm">Bật CU VoLTE, cần khởi động lại để có hiệu lực.</string>
+    <string name="cit_tool_modem_cu_volte_no_confirm">Tắt CU VoLTE, cần khởi động lại để có hiệu lực.</string>
+    <string name="cit_tool_rf_ant">Công cụ RF/Antenna</string>
+    <string name="cit_tool_prx_drx">PRx+DRx</string>
+    <string name="cit_tool_prx_only">PRX</string>
+    <string name="cit_tool_drx_only">DRX</string>
+    <string name="cit_tool_prx_drx_select_rat">Chọn RAT:</string>
+    <string name="cit_tool_prx_drx_select_mode">Chọn chế độ:</string>
+    <string name="cit_tool_prx_drx_start_test">Bắt đầu kiểm tra</string>
+    <string name="cit_tool_prx_drx_stop_test">Dừng kiểm tra</string>
+    <string name="cit_tool_radio_infor">Thông tin vô tuyến đầu cuối</string>
+    <string name="cit_tool_radio_infor_voiceNetworkTech">Thông tin vô tuyến đầu cuối</string>
     <string name="cit_tool_nfc">Công cụ kiểm tra NFC</string>
     <string name="cit_tool_nfc_st">Nfc ST: </string>
+    <string name="cit_tool_nfc_ce_status">Trạng thái Ce:</string>
+    <string name="cit_tool_nfc_ce_enable">Bật Ce</string>
+    <string name="cit_tool_nfc_ce_disable">Tắt Ce</string>
     <string name="cit_tool_nfc_st_confreq">tần số:</string>
     <string name="cit_tool_nfc_st_run">Chạy</string>
     <string name="cit_tool_nfc_st_stop">Dừng</string>
@@ -67,9 +87,11 @@
     <string name="cit_touch_calib_pass">Hiệu chỉnh cảm ứng đã xong, Hãy sử dụng bình thường</string>
     <string name="cit_touch_calib_fail">Hiệu chỉnh cảm ứng không thành công, Vui lòng thử lại</string>
     <string name="cit_touch_calib_instruction">bắt đầu hiệu chỉnh</string>
+    <string name="cit_finger_check_title">Kiểm tra cảm biến vân tay (FPC)</string>
     <string name="cit_version_check_summary">Bên dưới là thông tin về thiết bị. Hãy xác nhận rằng thông tin được đánh dấu màu xanh lá cây là đúng.</string>
     <string name="cit_proximity_sensor_check_summary">"Dùng tay che bộ cảm biến tiệm cận (nằm ở trên cùng của điện thoại gần bộ thu), sau đó di chuyển tay ra xa. Giá trị sẽ tăng từ 0,0 khi bạn di chuyển tay ra xa thiết bị hơn.
 Trong khi hiệu chỉnh, đảm bảo rằng không có gì nằm giữa bộ cảm biến và tay của bạn (ví dụ: bảo vệ màn hình hoặc găng tay)."</string>
+    <string name="cit_fpc_sensor_check_summary">Kiểm tra cảm biến vân tay, nhấn nút và chờ thông tin vượt qua được đánh dấu màu xanh lá cây là đúng.</string>
     <string name="cit_magnetic_sensor_check_summary">Các giá trị tọa độ X, Y, Z sẽ xuất hiện bên dưới</string>
     <string name="cit_light_sensor_check_summary">Giá trị DAC sẽ xuất hiện bên dưới.</string>
     <string name="cit_gyroscope_sensor_check_summary">Các giá trị tọa độ X, Y, Z sẽ xuất hiện bên dưới</string>
@@ -103,18 +125,15 @@ Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói 
     <string name="cit_audio_lb_summary_backmic_to_speaker">"Kiểm tra phản hồi micrô sau với loa. 
 
 Xoay điện thoại, nói vào micrô phía sau, bạn sẽ nghe thấy giọng nói trong loa."</string>
-    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Kiểm tra phản hồi của micrô trên cùng với loa.
+    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Kiểm tra phản hồi micrô trước với loa. 
 
- Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa."</string>
+Nói vào micrô phía trước, bạn sẽ nghe thấy giọng nói trong loa."</string>
     <string name="cit_audio_lb_summary_phonecall">"Kiểm tra cuộc gọi mô phỏng.
 
 Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói vào micrô chính, bạn sẽ nghe thấy giọng nói trong bộ thu. Hãy thực hiện kiểm tra trong môi trường yên tĩnh"</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"Kiểm tra phản hồi của micrô trên cùng với loa.
 
- Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa."</string>
-    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Kiểm tra phản hồi của micrô trước.
-
- Nói vào micrô ở vị trí loa trong, bạn sẽ nghe thấy giọng nói loa phát ra ở loa ngoài."</string>
+Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa."</string>
     <string name="cit_sd_plugin_check_summary">Dòng chữ \"Đã phát hiện thẻ SD, rút thẻ SD bây giờ\" sẽ hiển thị bên dưới.</string>
     <string name="cit_sd_plugout_check_summary">Khi bạn rút thẻ SD, dòng chữ \"Thẻ SD đã được rút ra, gắn thẻ SD bây giờ\" sẽ hiển thị bên dưới.</string>
     <string name="cit_keyboard_test_summary">Khi bạn bấm phím, dòng chữ tương ứng trên màn hình sẽ chuyển thành màu xanh lá cây (lưu ý: phím Trang chính và phím Nguồn không nằm trong phạm vi kiểm tra).</string>
@@ -153,6 +172,15 @@ Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói 
     <string name="cit_audio_cali_failed">Hiệu chỉnh thất bại, vui lòng thử lại!</string>
     <string name="cit_aud_spkcal">Hiệu chỉnh</string>
     <string name="cit_audio_calibrating">Đang hiệu chỉnh…</string>
+    <string name="cit_audio_left_caldata">"Dữ liệu đã được hiệu chỉnh PA bên trái:
+"</string>
+    <string name="cit_audio_right_caldata">"Dữ liệu đã được hiệu chỉnh PA bên phải:
+"</string>
+    <string name="cit_audio_left_calfail">Hiệu chỉnh PA bên trái thất bại!</string>
+    <string name="cit_audio_right_calfail">Hiệu chỉnh PA bên phải thất bại!</string>
+    <string name="cit_audio_get_temp_fail">Lấy dữ liệu nhiệt độ thất bại!</string>
+    <string name="cit_proximity_us_summary">Hiệu chỉnh cảm biến tiệm cận siêu âm</string>
+    <string name="cit_proximity_us_sensitivity">Cảm biến:</string>
     <string name="cit_OTG_plugin_check_summary">Khi bạn kết nối thiết bị OTG, dòng chữ \"Đã phát hiện thiết bị USB OTG\" sẽ hiển thị bên dưới.</string>
     <string name="cit_OTG_plugout_check_summary">Khi bạn rút thiết bị OTG ra, dòng chữ \"Đã rút thiết bị USB OTG\" sẽ hiển thị bên dưới.</string>
     <string name="cit_vibrator_short">Rung ngắn</string>
@@ -248,6 +276,7 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="cit_batterylight_blue">Xanh lam</string>
     <string name="cit_torch_on">Bật đèn flash</string>
     <string name="cit_torch_off">Tắt đèn flash</string>
+    <string name="cit_torch_modify">Đổi đèn flash</string>
     <string name="cit_blue_torch_on">Bật đèn flash xanh</string>
     <string name="cit_yellow_torch_on">Bật đèn flash vàng</string>
     <string name="cit_button_light_on">Bật đèn phím bấm</string>
@@ -280,7 +309,8 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="cit_calibration_fail">Hiệu chỉnh không thành công</string>
     <string name="cit_tool_log">Nhận nhật ký</string>
     <string name="cit_tool_log_logcat">Nhật ký ADB</string>
-    <string name="cit_tool_enable_3A_log">Bật chuyển đổi 3A log</string>
+    <string name="cit_tool_enable_3A_log">Bật chuyển đổi nhật ký 3A</string>
+    <string name="cit_tool_enable_display_3A_log">Bật hiển thị nhật ký 3A</string>
     <string name="cit_tool_log_ril">Nhật ký RIL</string>
     <string name="cit_tool_log_dmesg">DMESG</string>
     <string name="cit_tool_log_modem">Nhật ký modem</string>
@@ -329,8 +359,68 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
     <string name="cit_tool_wifi_rxbg_test_channel">Kênh:</string>
     <string name="cit_tool_wifi_rxn_test">Rx: n</string>
+    <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
     <string name="cit_tool_wifi_rxn_test_channel">Kênh:</string>
     <string name="cit_tool_wifi_rxn_test_bw">Băng thông:</string>
     <string name="cit_tool_wifi_tx_n_bandwidth">Băng thông:</string>
     <string name="cit_tool_wifi_tx_st_chan">Kênh:</string>
+    <string name="cit_signature_check_label">Kiểm tra chữ ký:</string>
+    <string name="cit_build_finger_passed">Tạo dấu vân tay thành công!</string>
+    <string name="cit_build_finger_failed">Tạo dấu vân tay thất bại!</string>
+    <string name="cit_apk_signature_passed">Chữ ký apk thành công!</string>
+    <string name="cit_apk_signature_failed">Chữ ký  apk thất bại!</string>
+    <string name="cit_recovery_signature_passed">Khôi phục chữ ký thành công!</string>
+    <string name="cit_recovery_signature_failed">Khôi phục chữ ký thất bại</string>
+    <string name="cit_get_signature_failed">Lấy chữ ký thất bại!</string>
+    <string name="cit_aud_spk_l">spk_L</string>
+    <string name="cit_aud_spk_r">spk_R</string>
+    <string name="cit_aud_test_result">Kết quả kiểm tra:</string>
+    <string name="cit_aud_current_state">Trạng thái hiện tại:</string>
+    <string name="cit_aud_spk_vendor">Nhà cung cấp Loa:</string>
+    <string name="cit_fpc_selftest">TỰ KIỂM TRA</string>
+    <string name="cit_fpc_checkerboard_test">Kiểm tra bảng kiểm tra</string>
+    <string name="testing">Tự kiểm tra đang chạy…</string>
+    <string name="tp_version">Phiên bản TP:</string>
+    <string name="tp_color">Màu TP:</string>
+    <string name="lcminfo">Thông tin LCM</string>
+    <string name="camerainfo">Thông tin máy ảnh</string>
+    <string name="waiting">Vui lòng chờ 4 giây.</string>
+    <string name="keyboard">KEY</string>
+    <string name="mic1test">MIC1</string>
+    <string name="start">Bắt đầu</string>
+    <string name="speak_from_mic">Hãy nói vào micrô, giọng nói của bạn sẽ được phát lại qua loa. Hãy thử đánh giá xem liệu có âm thanh phát ra hay không?</string>
+    <string name="mic1_spk_loop">Micrô phát lặp lại</string>
+    <string name="remove_headset_and_starttest">Hãy tháo tai nghe và nhấn bắt đầu để kiểm tra</string>
+    <string name="testagain">Bạn có thể Nhấn phím HOME để kiểm tra lại</string>
+    <string name="error_sdcard_access">Không thể truy cập không gian hệ thống!</string>
+    <string name="error_app_internal">Lỗi ứng dụng nội bộ</string>
+    <string name="error_app_unsupported">Định dạng không được hỗ trợ</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Hủy</string>
+    <string name="micphone_test">Micrô ＆ Loa</string>
+    <string name="SD_INTERNAL_SDCard_unmounted">Thẻ SD nội bộ không khả dụng</string>
+    <string name="SD_INTERNAL_SDCard_mounted">Phát hiện thẻ SD nội bộ</string>
+    <string name="SD_SDCard_total_size">Tổng dung lượng</string>
+    <string name="SD_SDCard_available_szie">Dung lượng khả dụng</string>
+    <string name="SD_SDCard_mounted">Phát hiện thẻ SD</string>
+    <string name="SD_SDCard_unmounted">Thẻ SD không khả dụng</string>
+    <string name="SDCard">Thẻ SD</string>
+    <string name="touch_auto">Màn hình cảm ứng đang tự kiểm tra, vui lòng chờ…</string>
+    <string name="magnetic_info_hint">Hãy xoay thiết bị như 8 hình dạng</string>
+    <string name="cit_flash_life_check_title">Tuổi thọ đèn flash</string>
+    <string name="cit_flash_life_check_summary">Ước lượng thời gian sử dụng đèn flash thiết bị</string>
+    <string name="cit_battery_check_title">Thông tin Pin</string>
+    <string name="cit_battery_check_summary">Thống kê Pin thiết bị</string>
+    <string name="cit_tfcard_support_title">Hỗ trợ thẻ TF</string>
+    <string name="cit_tfcard_support_summary">Kiểm tra xem nếu thẻ TF được hỗ trợ trên thiết bị này</string>
+    <string name="cit_hardware_info_title">Thông tin phần cứng</string>
+    <string name="cit_hardware_info_summary">Vui lòng chờ… Hiển thị thông tin phần cứng của thiết bị này</string>
+    <string name="cit_x5_audio_lb_topmic_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
+    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Kiểm tra phản hồi micrô trước</string>
+    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Kiểm tra phản hồi của micrô trên cùng với loa.
+
+ Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa."</string>
+    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Kiểm tra phản hồi của micrô trước.
+
+ Nói vào micrô ở vị trí loa trong, bạn sẽ nghe thấy giọng nói loa phát ra ở loa ngoài."</string>
 </resources>

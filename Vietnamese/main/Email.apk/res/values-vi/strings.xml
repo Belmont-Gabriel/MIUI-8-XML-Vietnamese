@@ -23,8 +23,9 @@
     <string name="account_setting_message_body_load_head_only">Chỉ tiêu đề</string>
     <string name="account_setting_message_body_load_text">Chỉ nội dung</string>
     <string name="account_settings_action">Cài đặt tài khoản</string>
-    <string name="account_settings_background_attachments_label">"        Tải xuống tập tin đính kèm"</string>
+    <string name="account_settings_background_attachments_label">Tải xuống tập tin đính kèm</string>
     <string name="account_settings_background_attachments_summary">Tải xuống tập tin đính kèm bằng Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary_inter">Tải xuống tập tin đính kèm bằng Wi-Fi</string>
     <string name="account_settings_data_usage">Cài đặt đồng bộ</string>
     <string name="account_settings_description_label">Tên tài khoản</string>
     <string name="account_settings_edit_quick_responses_label">Trả lời nhanh</string>
@@ -200,11 +201,21 @@
     <string name="auto_advance_help_title">Sau khi xóa một tin nhắn, xem…</string>
     <string name="auto_advance_label">Tự động di chuyển</string>
     <string name="auto_advance_summary">Chọn tin nhắn di chuyển đến sau khi xóa một tin nhắn</string>
+    <string name="auto_remind_bind">Thêm</string>
+    <string name="auto_remind_discribe_text">Bật để nhận nhắc nhở tự động</string>
+    <string name="auto_remind_text">Nhắc nhở tự động</string>
+    <string name="auto_remind_unbind">Dừng</string>
     <string name="auto_sync_off">Đã tắt tự động đồng bộ.</string>
+    <string name="bank_card_detail">Chi tiết thẻ tín dụng</string>
     <string name="battery_saver">Tiết kiệm pin</string>
     <string name="battery_saver_keywords">tiết kiệm pin;pin mail</string>
     <string name="bcc">Bcc</string>
     <string name="bcc_heading">"Bcc: "</string>
+    <string name="bill_center_setting">Cài đặt hóa đơn</string>
+    <string name="bill_center_setting_head">Nhập thông tin từ các tài khoản này</string>
+    <string name="bill_cycle_text">Chu kỳ hóa đơn</string>
+    <string name="bill_remind">Nhắc nhở thanh toán</string>
+    <string name="bill_remind_due">Kỳ hạn thanh toán vào %s, chạm để xem</string>
     <string name="blank_feedback_toast">Bạn cần viết phản hồi</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Soạn email</string>
@@ -302,6 +313,8 @@
     <string name="copy_email">Sao chép địa chỉ email</string>
     <string name="copy_number">Sao chép số điện thoại</string>
     <string name="create_action">Mới</string>
+    <string name="credit_limit_text">Giới hạn tín dụng</string>
+    <string name="cur_debt">Số dư tài khoản</string>
     <string name="custom_from_account_label">Gửi thư từ địa chỉ:</string>
     <string name="date_heading">"Ngày: "</string>
     <string name="date_message_received">%1$s %2$s</string>
@@ -351,9 +364,13 @@
     <string name="download_confirm_title">Tải xuống tập tin đính kèm</string>
     <string name="download_message_failed_for_too_large">Thư quá lớn để có thể tải xuống.</string>
     <string name="draft_count_format"> (%1$s)</string>
+    <string name="drawer_bank_bill">Hóa đơn ngân hàng</string>
+    <string name="drawer_classification">Phân loại</string>
     <string name="drawer_close">Đóng bảng điều hướng</string>
     <string name="drawer_contacts">Liên hệ</string>
     <string name="drawer_open">Mở bảng điều hướng</string>
+    <string name="due">Đến hạn</string>
+    <string name="due_date_text">Thanh toán lần cuối</string>
     <string name="edit_quick_response_dialog">Trả lời nhanh</string>
     <string name="email_netease">NetEase Mail</string>
     <string name="email_qq">QQ Mail</string>
@@ -367,6 +384,7 @@
     <string name="empty_trash">Xóa sạch Thùng rác</string>
     <string name="empty_trash_dialog_title">Xóa sạch Thùng rác?</string>
     <string name="enable_sync_in_account_settings">"Mở trong  %1$s ."</string>
+    <string name="error">Lỗi</string>
     <string name="exception_cancel">"
         Sự kiện này đã bị hủy
         vào:
@@ -385,6 +403,7 @@
     <string name="feedback_sent">Cảm ơn phản hồi của bạn</string>
     <string name="feedback_user_edit_hint">Mô tả vấn đề tại đây. Chúng tôi sẽ gửi email cho bạn sau khi chúng tôi kiểm tra.</string>
     <string name="feedback_user_edit_tag">Từ MIUI</string>
+    <string name="fetch_bank_sender_list_failure">Không nhận được thông tin</string>
     <string name="fetching_attachment">Đang nhận tập tin đính kèm</string>
     <string name="file_deleted_success">Đã xóa tập tin</string>
     <string name="file_not_found">Không thể tìm thấy tập tin</string>
@@ -404,6 +423,7 @@
     <string name="forward_attribution_no_headers">---------- Thư chuyển tiếp ----------</string>
     <string name="forward_download_failed_ticker">Không thể chuyển tiếp một hoặc nhiều tập tin đính kèm.</string>
     <string name="forward_download_failed_title">Tập tin đính kèm không được chuyển tiếp</string>
+    <string name="free_period_text">Thời gian miễn lãi suất</string>
     <string name="from_heading">"Từ: "</string>
     <string name="general_preference_confirm_delete_label">Xác nhận trước khi xóa</string>
     <string name="general_preference_confirm_send_label">Xác nhận trước khi gửi</string>
@@ -432,13 +452,17 @@
     <string name="hide_elided">▼ Ẩn nội dung trích dẫn</string>
     <string name="hint_quick_reply_all">Trả lời tất cả</string>
     <string name="imap_name">IMAP</string>
+    <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Mật khẩu của máy chủ thư đến không chính xác</string>
+    <string name="import_button_text">Nhập</string>
+    <string name="import_from_other_account">Nhập từ tài khoản khác</string>
     <string name="info_actionbar_normal_detail">Mail đề xuất</string>
-    <string name="info_item_hide">Ẩn</string>
+    <string name="info_item_hide">Xóa</string>
     <string name="info_switch_summary">Hiển thị mail đề xuất trên đầu trang của hộp thư đến</string>
     <string name="info_switch_title">Mail đề xuất</string>
     <string name="inline_picture_deleted">Đang tải xuống ảnh còn thiếu…</string>
     <string name="input_password_prompt">Nhập mật khẩu của bạn</string>
+    <string name="interact_with_server_error">Không thể kết nối với máy chủ</string>
     <string name="invalid_recipient">Địa chỉ %s không hợp lệ.</string>
     <string name="invalid_recipient_title">Lỗi người nhận</string>
     <string name="kilobytes">%s KB</string>
@@ -451,6 +475,7 @@
     <string name="local_search">Tìm kiếm trên máy</string>
     <string name="local_search_result">%s kết quả trong tin nhắn đã đồng bộ</string>
     <string name="login">Đăng nhập</string>
+    <string name="login139">Đăng nhập bằng China Mobile</string>
     <string name="login_failed_ticker">%s đăng nhập thất bại.</string>
     <string name="login_failed_title">Không thể đăng nhập</string>
     <string name="long_press_to_select_tip">Chạm &amp; giữ để chọn một hội thoại, sau đó chạm để chọn nhiều hơn.</string>
@@ -458,7 +483,8 @@
     <string name="mail_body_turncated">Email này là quá lớn để tải, chỉ hiển thị một phần và vui lòng tải bản đầy đủ trên PC sau</string>
     <string name="mail_header_network_not_available">Bạn không có kết nối mạng.</string>
     <string name="mailbox_list_account_selector_combined_view">Đã kết hợp Tài khoản</string>
-    <string name="mailbox_name_display_ad">Quảng cáo &amp; thông báo</string>
+    <string name="mailbox_name_display_ad">Quảng cáo</string>
+    <string name="mailbox_name_display_circular">Thông báo</string>
     <string name="mailbox_name_display_drafts">Thư nháp</string>
     <string name="mailbox_name_display_inbox">Hộp thư đến</string>
     <string name="mailbox_name_display_junk">Thư rác</string>
@@ -540,7 +566,7 @@
     <string name="menu_search">Tìm kiếm</string>
     <string name="menu_settings">Cài đặt</string>
     <string name="merged_mailbox_compose_select_account">Chọn Tài khoản</string>
-    <string name="message_body_load_set_description">Kích thước tải email mới khi sử dụng dữ liệu di động</string>
+    <string name="message_body_load_set_description">Tải email khi sử dụng dữ liệu di động</string>
     <string name="message_compose_insert_quick_response_list_title">Chèn trả lời nhanh</string>
     <string name="message_decode_error">Không thể giải mã thư</string>
     <string name="message_details_title">Chi tiết thư</string>
@@ -557,12 +583,14 @@
     <string name="mibill_privacy_policy_description">Cho phép Mi Wallet phân tích và quản lý hóa đơn tự động. Tính năng này được tắt mặc định cho các địa chỉ email công việc.</string>
     <string name="mibill_privacy_policy_link">Bằng cách sử dụng tính năng này, bạn đồng ý với <a href="https://www.mipay.com/res/doc/eula/email.html"> Điều khoản Dịch vụ</a> của chúng tôi</string>
     <string name="mibill_privacy_policy_title">Quản lý hóa đơn tự động</string>
+    <string name="min_payment_text">Thanh toán tối thiểu</string>
     <string name="more_atts_remaining">Còn lại hơn %1$d</string>
     <string name="more_context">Thêm</string>
     <string name="move_to_selection_dialog_title">Chuyển sang thư mục khác</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Tắt tiếng</string>
     <string name="network_error">Không kết nối</string>
+    <string name="network_invaild">Không có mạng</string>
     <string name="network_not_available">Không thể kết nối mạng</string>
     <string name="network_try_again">Kiểm tra kết nối mạng và thử lại</string>
     <string name="network_unavailable">Mạng không khả dụng</string>
@@ -572,11 +600,16 @@
     <string name="no">Không</string>
     <string name="no_application_found">Không tìm thấy ứng dụng để mở tập tin đính kèm này.</string>
     <string name="no_application_found_title">Mở tập tin đính kèm này.</string>
+    <string name="no_bill_discribe">"Không tìm thấy bất kỳ hóa đơn nào.
+Hãy thử chuyển sang tài khoản email khác."</string>
     <string name="no_contacts">Không có liên hệ.</string>
-    <string name="no_content_in_body">[No Body]</string>
+    <string name="no_content_in_body">[Không có nội dung]</string>
     <string name="no_conversations">Không có thư nào</string>
+    <string name="no_filtrable_email_account">Không có tài khoản để lọc</string>
     <string name="no_mails">Không có thư nào.</string>
     <string name="no_matched_attachment">Không có kết quả nào.</string>
+    <string name="no_recognize_describe">"Không tìm thấy email chứa thông tin vé hoặc đặt chỗ.
+Hãy thử hộp thư khác."</string>
     <string name="not_subject">(Không có chủ đề)</string>
     <string name="not_synced_title">Tài khoản chưa đồng bộ</string>
     <string name="notification_action_archive">Lưu trữ</string>
@@ -591,6 +624,7 @@
     <string name="oauth_error_description">Không thể xác thực</string>
     <string name="oauth_gmail_login_notify">Nhập tên người dùng và mật khẩu Tài khoản Google của bạn trên trang đăng nhập.</string>
     <string name="oauth_login_continue">Tiếp tục</string>
+    <string name="oauth_login_continue_qq">Nhận mã và đăng nhập ></string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
     <string name="outbox_alert_button_no_resend">Không gửi</string>
@@ -614,7 +648,10 @@
     <string name="outbox_alert_select_operation">Vui lòng chọn thao tác</string>
     <string name="outbox_alert_title_sent_failed">Không thể gửi thư</string>
     <string name="outbox_no_mails">Trống</string>
+    <string name="over_due">Quá hạn</string>
     <string name="parase_setup_data">Đang nhận dữ liệu…</string>
+    <string name="parse_bill_discribe">Đang xử lý hóa đơn thẻ tín dụng…</string>
+    <string name="parse_recognize_describe">Đang phân tích email…</string>
     <string name="password_expire_warning_content_title">Mật khẩu khóa màn hình hết hạn</string>
     <string name="password_expire_warning_dialog_content_fmt">Bạn cần thay đổi PIN hoặc mật khẩu màn hình khóa của bạn sớm, hoặc dữ liệu %s sẽ bị xóa. Bạn muốn thay đổi ngay bây giờ không?</string>
     <string name="password_expire_warning_dialog_title">Mật khẩu khóa màn hình hết hạn</string>
@@ -647,6 +684,8 @@
     <string name="photo_load_failed">Không thể tải ảnh</string>
     <string name="photo_view_count" formatted="false">%d/%d</string>
     <string name="please_fill_in_your_mailbox_information2">Nhập thông tin hộp thư của bạn</string>
+    <string name="pls_parse_bill_discribe">"Phân tích hóa đơn và thông tin du lịch trên email của bạn
+để nhận nhắc nhở về thanh toán và du lịch"</string>
     <string name="policy_app_blacklist">Không cho phép những ứng dụng chỉ định</string>
     <string name="policy_app_whitelist">Chỉ cho phép ứng dụng chỉ định</string>
     <string name="policy_bluetooth_restricted">Giới hạn sử dụng Bluetooth</string>
@@ -664,6 +703,7 @@
     <string name="policy_dont_allow_unsigned_apps">Không cho phép ứng dụng chưa đăng ký</string>
     <string name="policy_dont_allow_unsigned_installers">Không cho phép cài đặt ứng dụng chưa đăng ký</string>
     <string name="policy_dont_allow_wifi">Không cho phép Wi-Fi</string>
+    <string name="policy_dont_allow_wifi_inter">Không cho phép Wi-Fi</string>
     <string name="policy_email_age">"Hạn chế số lượng email được đồng bộ "</string>
     <string name="policy_html_truncation">Giới hạn kích thước email HTML</string>
     <string name="policy_password_expiration">Đặt thời gian hết hạn cho mật khẩu</string>
@@ -688,6 +728,7 @@
     <string name="previous_action">Quay lại</string>
     <string name="print">In</string>
     <string name="prompt_title">Lời thoại</string>
+    <string name="protocol_setting_toast">Chạm vào góc phải phía trên để vào cài đặt sau khi bạn đồng ý</string>
     <string name="pull_to_refresh">Kéo xuống để làm mới</string>
     <string name="push_wps_better_confirm_download">Tải xuống</string>
     <string name="push_wps_better_confirm_exit">Không phải bây giờ</string>
@@ -699,6 +740,17 @@
     <string name="push_wps_confirm_message">Thử dùng WPS Office để mở tập tin đính kèm này.</string>
     <string name="push_wps_confirm_title">Thử dùng WPS Office</string>
     <string name="push_wps_no_response_app">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
+    <string name="qq_bar_open_imap">Trợ giúp</string>
+    <string name="qq_bar_send_message">Gửi SMS</string>
+    <string name="qq_login_basecode">Đang đăng nhập mail QQ nền tảng Web. Nhập mật khẩu độc lập.</string>
+    <string name="qq_login_get_auth">Bật bảo vệ mật khẩu nếu bạn không thể nhận SMS</string>
+    <string name="qq_login_open_imap">Chạm \"Trợ giúp\" để bật IMAP/SMTP</string>
+    <string name="qq_login_origin_setting">Nhập tên người dùng và mật khẩu để đăng nhập ></string>
+    <string name="qq_login_send_message">Chạm \"Gửi SMS\" để nhận mã xác minh</string>
+    <string name="qq_login_webview">Đang đăng nhập mail QQ nền tảng Web. Nhập mật khẩu của bạn.</string>
+    <string name="qq_next_generation_auth_toast">Bật bảo vệ mật khẩu trong trình duyệt</string>
+    <string name="qq_uthentication_failed">Không thể xác minh tài khoản, hãy đăng nhập lại</string>
+    <string name="qq_webview_loading">Vui lòng chờ…</string>
     <string name="questionnair_body_invisibility">Không đọc được thư</string>
     <string name="questionnair_confirm_delete">Xóa</string>
     <string name="questionnair_instability">Thường bị lỗi</string>
@@ -725,6 +777,32 @@
     <string name="read_string">Hội thoại đã đọc</string>
     <string name="recipient_needed">Thêm ít nhất 1 người nhận.</string>
     <string name="recipient_needed_title">Cảnh báo</string>
+    <string name="recognize_hotel_check_in_date">Thời gian check-in</string>
+    <string name="recognize_hotel_hotel_money">Giá %1$s</string>
+    <string name="recognize_hotel_notification_content">Chúc bạn thoải mái!</string>
+    <string name="recognize_hotel_notification_title">Bạn đã đặt phòng tại %1$s bắt đầu từ %3$s/%2$s. Hãy kiểm thông tin trước khi đến đó.</string>
+    <string name="recognize_hotel_order_money">Tổng</string>
+    <string name="recognize_hotel_other_money">Chi phí khác %1$s</string>
+    <string name="recognize_hotel_reverse_date">Check in trước %1$s:%2$s %3$s</string>
+    <string name="recognize_hotel_room_type">Phòng</string>
+    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+    <string name="recognize_hotel_title">Đặt phòng khách sạn</string>
+    <string name="recognize_hotel_user_names">Khách</string>
+    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+    <string name="recognize_setting_title">Cài đặt Du lịch</string>
+    <string name="recognize_ticket_air_notification_content">Chúc bạn có chuyến đi vui vẻ!</string>
+    <string name="recognize_ticket_air_notification_title">Chuyến bay %3$s (%2$s/%1$s) sắp cất cánh. Vui lòng kiểm tra lại thông tin chuyến bay.</string>
+    <string name="recognize_ticket_air_state_stopover">Điểm dừng chân</string>
+    <string name="recognize_ticket_air_state_transfer">Trung chuyển</string>
+    <string name="recognize_ticket_air_user_name">Hành khách:</string>
+    <string name="recognize_ticket_title">Vé máy bay &amp; tàu hỏa</string>
+    <string name="recognize_ticket_train_alter">Đã đổi vé</string>
+    <string name="recognize_ticket_train_depart_date">Khởi hành vào %3$s:%4$s ngày %2$s/%1$s</string>
+    <string name="recognize_ticket_train_notification_content">Chúc thượng lộ bình an!</string>
+    <string name="recognize_ticket_train_notification_title">Chuyến xe %3$s (%2$s/%1$s) sắp khởi hành. Vui lòng kiểm tra lại vé.</string>
+    <string name="recognize_ticket_train_return">Đã trả vé</string>
+    <string name="recognize_ticket_train_user_name">Hành khách: %1$s</string>
+    <string name="recognize_title">Thông tin Du lịch</string>
     <string name="reduce_the_receiving_frequencye_summary">Giảm tần suất đồng bộ email khi không làm phiền được bật</string>
     <string name="reduce_the_receiving_frequencye_title">Giảm tần suất đồng bộ e-mail</string>
     <string name="refresh">Làm mới</string>
@@ -792,6 +870,8 @@
     <string name="ser_resp_err_map_pserr">Tên người dùng hoặc mật khẩu không chính xác</string>
     <string name="ser_resp_err_map_serclosed">%s máy chủ đã đóng</string>
     <string name="ser_resp_err_map_ssl">Chọn \"SSL/TLS (Chấp nhận tất cả chứng nhận)\" trong \"Loại bảo mật\"</string>
+    <string name="service_protocol_discribe"><u>Tôi đã đọc và đồng ý với Thỏa thuận Dịch vụ Thư WPS</u></string>
+    <string name="service_protocol_title">Thỏa thuận Dịch vụ</string>
     <string name="set_network">Thiết lập mạng</string>
     <string name="settings_activity_title">Cài đặt</string>
     <string name="share_choose">Chọn tập tin để chia sẻ</string>
@@ -835,6 +915,7 @@
     <string name="toast_bar_invalid_account">Bạn cần phải đăng nhập lại</string>
     <string name="toast_bar_no_connection_network">Bạn không có kết nối internet</string>
     <string name="toast_bar_open_gmail_synchronization">Chạm để sử dụng máy chủ proxy cho Gmail</string>
+    <string name="today_text">Hôm nay</string>
     <string name="too_large_to_attach_additional">Dung lượng tập tin không thể vượt quá %1$s.</string>
     <string name="too_large_to_attach_multiple">Một hoặc nhiều tập tin không được tải lên. Dung lượng không thể vượt quá %1$s.</string>
     <string name="too_large_to_attach_single">Không thể đính kèm tập tin lớn hơn %1$s.</string>
@@ -854,7 +935,10 @@
     giữa các trang web, các thiết bị khác và %1$s của bạn."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Bật</string>
     <string name="turn_auto_sync_on_dialog_title">Mở tự động đồng bộ?</string>
+    <string name="unbind_dialog_text">"Bạn sẽ không nhận được nhắc nhở sau khi bạn dừng phân tích hóa đơn.
+Dừng ngay?"</string>
     <string name="undo">Hoàn tác</string>
+    <string name="unknow">Không rõ</string>
     <string name="unread_string">Hội thoại chưa đọc</string>
     <string name="unsent_messages_in_outbox">%1$s chưa gửi trong %2$s</string>
     <string name="unzip_file_failed">Không thể giải nén tập tin</string>
@@ -870,11 +954,21 @@
     <string name="upload_logs_keywords">tải lên bản ghi</string>
     <string name="uploading_logs">Vui lòng chờ…</string>
     <string name="validation_failed_prompt">Không thể xác minh tài khoản, kiểm tra cài đặt máy chủ %s</string>
+    <string name="veiled_address" />
+    <string name="veiled_alternate_text" />
+    <string name="veiled_alternate_text_unknown_person" />
+    <string name="veiled_summary_unknown_person" />
     <string name="via_domain">qua %1$s</string>
     <string name="view_more_conversations">Xem thêm hội thoại</string>
     <string name="wait_for_manual_sync_body">"Tài khoản này không được thiết lập để đồng bộ tự động.
 Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, hoặc <b>Thay đổi Cài đặt Đồng bộ</b> để thiết lập tài khoản này tự động đồng bộ.</string>
     <string name="wait_for_sync_title">Đang chờ đồng bộ</string>
+    <string name="webview_logout">Bạn có thể thử đăng nhập lại</string>
+    <string name="webview_logout_cancel">Lần tới</string>
+    <string name="webview_logout_sure">Thử lại</string>
+    <string name="webview_sslerror_handle_cancel">Hủy</string>
+    <string name="webview_sslerror_handle_continue">Tiếp tục</string>
+    <string name="webview_sslerror_handle_hitmessage">Xảy ra lỗi xác minh, vẫn tiếp tục?</string>
     <string name="widget_all_mail">Tất cả Email</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Khác</string>

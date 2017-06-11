@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="slider_text">Trượt lên để yên lặng</string>
-    <string name="snooze_confirm_cancel">Hủy báo lại</string>
+    <string name="slider_text">Trượt lên để tắt</string>
+    <string name="snooze_confirm_cancel">Bỏ qua báo thức</string>
     <string name="timer_alarm_cancel_pad">Chạm vào màn hình để tắt báo thức</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="common_settings">Cài đặt</string>
     <string name="alarm_settings">Cài đặt báo thức</string>
     <string name="edit_systemtime">Thiết lập thời gian hệ thống</string>
-    <string name="more_settings">Thêm cài đặt</string>
+    <string name="more_settings">Cài đặt</string>
     <string name="vibrate_pref_summary">Rung khi báo thức</string>
     <string name="label_pref_summary">Nhãn</string>
     <string name="force_touch_add_alarm">Thêm báo thức</string>
@@ -29,7 +29,7 @@
     <string name="alarm_ascending_mode_summary">Âm báo thức tăng dần</string>
     <string name="setting_alarm_arriving_title">Thông báo trước khi đổ chuông</string>
     <string name="setting_alarm_arriving_summary">Gửi thông báo trước khi đổ chuông</string>
-    <string name="close_alarm">Tắt báo thức</string>
+    <string name="close_alarm">Tắt</string>
     <string name="timer_notify_text">Báo lại sau hoặc bỏ hẹn giờ.</string>
     <string name="upcoming_alarm">Báo thức sắp reo</string>
     <string name="upcoming_alarm_hint">Bạn có thể đóng trước báo thức này</string>
@@ -40,6 +40,7 @@
     <string name="timer_continue">Tiếp tục</string>
     <string name="worldclock_empty_text">Không có đồng hồ</string>
     <string name="alarmclock_empty_text">Không có báo thức</string>
+    <string name="alarmclock_silent_hint">Báo thức đã im lặng</string>
     <string name="stopwatch_lap_empty_text">Không có lần nào</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">Hết giờ!</string>
@@ -71,7 +72,7 @@
     <string name="legal_workday_message">" (Tắt báo thức vào ngày nghỉ)"</string>
     <string name="legal_off_day">Ngày nghỉ hợp pháp</string>
     <string name="legal_off_day_message">" (Tắt báo thức vào ngày làm việc)"</string>
-    <string name="default_alarm_alert">Đặt âm thanh báo thức mặc định</string>
+    <string name="default_alarm_alert">Âm báo thức mặc định</string>
     <string name="default_alarm_title">Nhạc chuông mặc định</string>
     <string name="menu_item_sort_by_gmt_offset">Sắp xếp theo thời gian</string>
     <string name="menu_item_sort_by_name">Sắp xếp theo tên</string>
@@ -85,6 +86,27 @@
     <string name="tomorrow">Ngày mai</string>
     <string name="oneshot_alarm">Xóa sau khi đã báo thức</string>
     <string name="alarm_in_silent_mode_title">Báo khi ở chế độ im lặng</string>
+    <string name="system_time_settings_category_title">Cài đặt thời gian</string>
+    <string name="alarm_settings_category_title">Cài đặt báo thức</string>
+    <string name="life_post_weather_temperature_centigrade">°</string>
+    <string name="temperature_unit">%1$s°</string>
+    <string name="life_post_weather_degree_invalid">--</string>
+    <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
+    <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
+    <string name="life_post_weather_invalid">Không thể nhận thông tin thời tiết, chạm để thử lại</string>
+    <string name="life_post_wake_up_time_title">Thời gian thức</string>
+    <string name="life_post_wake_up_acumu_day_title">Số ngày</string>
+    <string name="life_post_wake_up_percentage_title">Mi Fan luôn bên bạn</string>
+    <string name="life_post_wake_up_percentage_sign">%</string>
+    <string name="life_post_wake_up_item_time_title">Thời gian thức</string>
+    <string name="life_post_wake_up_item_percentage_title">Mi Fan luôn bên bạn</string>
+    <string name="life_post_wake_up_item_acumu_day_title">Số ngày</string>
+    <string name="life_post_wake_up_item_acumu_day">%1$s ngày</string>
+    <string name="life_post_setting">Thông tin buổi sáng</string>
+    <string name="life_post_setting_open_title">Nhận thông tin buổi sáng</string>
+    <string name="life_post_setting_open_subtitle">Nhận thông tin về thời tiết khi bạn tắt báo thức từ 4:00 đến 9:30</string>
+    <string name="life_post_setting_wake_up_list_title">Lịch sử thức dậy</string>
+    <string name="percentage_sign">%</string>
     <string name="app_label">Đồng hồ</string>
     <string name="alarm_list_title">Báo thức</string>
     <string name="add_alarm">Thêm báo thức</string>
@@ -102,11 +124,11 @@
     <string name="timer_alert_alert_silenced">Hẹn giờ im lặng sau %d phút.</string>
     <string name="alarm_alert_snooze_set">Báo lại sau %d phút.</string>
     <string name="day">1 ngày</string>
-    <string name="days">%s ngày</string>
+    <string name="days">%d ngày</string>
     <string name="hour">1 giờ</string>
-    <string name="hours">%s giờ</string>
+    <string name="hours">%d giờ</string>
     <string name="minute">1 phút</string>
-    <string name="minutes">%s phút</string>
+    <string name="minutes">%d phút</string>
     <string name="every_day">Mỗi ngày</string>
     <string name="never">Một lần</string>
     <string name="day_concat">", "</string>
