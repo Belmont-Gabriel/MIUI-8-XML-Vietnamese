@@ -785,10 +785,8 @@ Hãy thử hộp thư khác."</string>
     <string name="recognize_hotel_other_money">Chi phí khác %1$s</string>
     <string name="recognize_hotel_reverse_date">Check in trước %1$s:%2$s %3$s</string>
     <string name="recognize_hotel_room_type">Phòng</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">Đặt phòng khách sạn</string>
     <string name="recognize_hotel_user_names">Khách</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">Cài đặt Du lịch</string>
     <string name="recognize_ticket_air_notification_content">Chúc bạn có chuyến đi vui vẻ!</string>
     <string name="recognize_ticket_air_notification_title">Chuyến bay %3$s (%2$s/%1$s) sắp cất cánh. Vui lòng kiểm tra lại thông tin chuyến bay.</string>
