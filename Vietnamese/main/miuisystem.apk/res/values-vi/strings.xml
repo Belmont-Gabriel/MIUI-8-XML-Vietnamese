@@ -119,6 +119,7 @@
     <string name="carousel">Carousel</string>
     <string name="toyrobot">ToyRobot</string>
     <string name="daydream">Daydream</string>
+    <string name="miclassic">MiClassic</string>
     <string name="cta_permission_delimiter">, </string>
     <string name="cta_permission_and"> và </string>
     <string name="cta_title">Điều khoản Sử dụng</string>
@@ -127,7 +128,7 @@
     <string name="cta_check_reminder">Không hiển thị lại</string>
     <string name="cta_button_quit">Thoát</string>
     <string name="cta_button_continue">Đồng ý</string>
-	<string name="app_name_which_call">Ứng dụng: %s</string>
+    <string name="app_name_which_call">Ứng dụng: %s</string>
     <string name="app_version_which_call">Phiên bản: %s</string>
     <string name="group_name_contacts">Liên hệ</string>
     <string name="group_name_coworkers">Đồng nghiệp</string>

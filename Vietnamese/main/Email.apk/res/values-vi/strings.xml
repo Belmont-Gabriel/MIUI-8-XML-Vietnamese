@@ -783,7 +783,7 @@ Hãy thử hộp thư khác."</string>
     <string name="recognize_hotel_notification_title">Bạn đã đặt phòng tại %1$s bắt đầu từ %3$s/%2$s. Hãy kiểm thông tin trước khi đến đó.</string>
     <string name="recognize_hotel_order_money">Tổng</string>
     <string name="recognize_hotel_other_money">Chi phí khác %1$s</string>
-    <string name="recognize_hotel_reverse_date">Check in trước %1$s:%2$s %3$s</string>
+    <string name="recognize_hotel_reverse_date">Check in trước %1$s: %2$s %3$s</string>
     <string name="recognize_hotel_room_type">Phòng</string>
     <string name="recognize_hotel_title">Đặt phòng khách sạn</string>
     <string name="recognize_hotel_user_names">Khách</string>
@@ -837,10 +837,8 @@ Hãy thử hộp thư khác."</string>
     <string name="search_txt_size_limit_prompt">Từ tìm kiếm phải lớn hơn 3 ký tự</string>
     <string name="security_changed_ticker_fmt">Tài khoản \"%s\" đã thay đổi cài đặt bảo mật; Không có hành động người dùng được yêu cầu.</string>
     <string name="security_needed_ticker_fmt">Tài khoản \"%s\" yêu cầu cập nhật cài đặt bảo mật.</string>
-    <string name="security_notification_content_change_title">"Chính sách bảo mật
-         đã thay đổi"</string>
-    <string name="security_notification_content_unsupported_title">"Yêu cầu bảo mật không thể được
-         đáp ứng"</string>
+    <string name="security_notification_content_change_title">"Chính sách bảo mật đã thay đổi"</string>
+    <string name="security_notification_content_unsupported_title">"Yêu cầu bảo mật không thể được đáp ứng"</string>
     <string name="security_notification_content_update_title">Yêu cầu cập nhật bảo mật</string>
     <string name="security_unsupported_ticker_fmt">Tài khoản \"%s\" không thể đồng bộ do yêu cầu bảo mật.</string>
     <string name="select_attachment_type">Chọn tập tin đính kèm từ</string>

@@ -13,7 +13,7 @@
     <string name="beam_complete">Đã chuyển thành công</string>
     <string name="beam_failed">Không thể chuyển</string>
     <string name="beam_canceled">Đã hủy chuyển</string>
-    <string name="cancel">Huỷ</string>
+    <string name="cancel">Hủy</string>
     <string name="beam_touch_to_view">Chạm để xem</string>
     <string name="beam_handover_not_supported">Thiết bị người nhận không hỗ trợ nhận tập tin với dung lượng lớn.</string>
     <string name="beam_try_again">Hãy đặt hai thiết bị tiếp xúc với nhau</string>
@@ -36,6 +36,7 @@
     <string name="could_not_use_app">Không thể sử dụng %1$s.</string>
     <string name="pay_with">Thanh toán bằng</string>
     <string name="complete_with">Hoàn tất với</string>
+    <string name="default_pay_app_removed">Dịch vụ ưu tiên Chạm &amp; Thanh toán đã bị xóa. Chọn dịch vụ khác?</string>
     <string name="ask_nfc_tap">Chạm thiết bị khác để hoàn tất</string>
     <string name="wifi_connect">Kết nối</string>
     <string name="status_unable_to_connect">Không thể kết nối mạng</string>
