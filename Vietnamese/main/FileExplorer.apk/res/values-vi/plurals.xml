@@ -12,9 +12,6 @@
     <plurals name="numSelectedFile">
         <item quantity="other">Đã chọn %1$d</item>
     </plurals>
-    <plurals name="items_file">
-        <item quantity="other"> (%1$d mục)</item>
-    </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d mục)</item>
     </plurals>
@@ -81,15 +78,6 @@
     <plurals name="video_play_num">
         <item quantity="other">%1$s lượt xem</item>
     </plurals>
-    <plurals name="video_num">
-        <item quantity="other">%1$s video</item>
-    </plurals>
-    <plurals name="follower_num">
-        <item quantity="other">người theo dõi</item>
-    </plurals>
-    <plurals name="user_upload_items">
-        <item quantity="other">video</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> video</item>
     </plurals>
@@ -129,6 +117,27 @@
     <plurals name="more_gems">
         <item quantity="other">Thu thập &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> nhiều đá quý hơn để tham gia rút thăm trúng thưởng</item>
     </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">Đã check in %1$s ngày liên tục</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">Bạn nhận được &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> điểm</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Đã check in %1$s ngày liên tục, hãy tiếp tục phấn đấu!</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s chủ đề</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s người</item>
+    </plurals>
+    <plurals name="follower_num">
+        <item quantity="other">người theo dõi</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d mục)</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s bình luận</item>
     </plurals>
@@ -140,6 +149,12 @@
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
         <item quantity="other">%1$d tập tin còn lại cần tải lên</item>
+    </plurals>
+    <plurals name="user_upload_items">
+        <item quantity="other">video</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s video</item>
     </plurals>
     <plurals name="user_follow_me_items">
         <item quantity="other">người theo dõi</item>
