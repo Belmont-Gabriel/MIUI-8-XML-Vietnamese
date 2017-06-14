@@ -12,9 +12,10 @@
     <string name="normal_app">Không gian thứ nhất</string>
     <string name="hidden_app">Không gian thứ hai</string>
     <string name="public_app">Cả hai không gian</string>
-    <string name="switch_in_hidden_space">Nhập dữ liệu vào Không gian thứ hai</string>
-    <string name="summary_switch_apps_settings">Chọn ứng dụng sử dụng trong Không gian thứ hai</string>
-    <string name="switch_out_hidden_space">Xuất dữ liệu từ Không gian thứ hai</string>
+    <string name="current_space">Không gian hiện tại</string>
+    <string name="switch_in_hidden_space">Nhập dữ liệu vào không gian hiện tại</string>
+    <string name="summary_switch_apps_settings">Chọn ứng dụng sử dụng trong không gian hiện tại</string>
+    <string name="switch_out_hidden_space">Xuất dữ liệu từ không gian hiện tại</string>
     <string name="switch_out_contacts">Xuất liên hệ</string>
     <string name="switch_out_privacy_contacts">Xuất liên hệ cá nhân</string>
     <string name="switch_out_photos">Xuất ảnh</string>
@@ -247,4 +248,33 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="scanner_fingerprint">Đang quét vân tay…</string>
     <string name="scanner_fingerprint_enter_second">"Quét vân tay Không gian thứ hai
 để vào Không gian thứ hai từ Màn hình khóa"</string>
+    <string name="xspace_guide_title">Tạo Ứng dụng kép cho %s</string>
+    <string name="xspace_guide_des">Sử dụng 2 tài khoản mà không cần chuyển đổi</string>
+    <string name="xpsace_guide_button">Tạo</string>
+    <string name="space_name_default">Không gian Làm việc</string>
+    <string name="space_des_default">Không gian cách ly với dữ liệu được mã hóa</string>
+    <string name="create_work_space">Tạo Không gian Làm việc</string>
+    <string name="switch_download_space">Chuyển đổi Không gian Làm việc</string>
+    <string name="confirm_airspace_password">Xác nhận mật khẩu %s</string>
+    <string name="air_space_created">Đã tạo Không gian Làm việc thành công</string>
+    <string name="enter_air_space">Vào Không gian Làm việc</string>
+    <string name="invalid_qr_code">Mã QR không hợp lệ</string>
+    <string name="need_network_when_create">Kết nối mạng trước khi tạo Không gian Làm việc</string>
+    <string name="downloading_space">Đang tải xuống…</string>
+    <string name="air_space_deleted">Đã xóa Không gian Làm việc thành công</string>
+    <string name="need_reset_passwd">Đặt lại mật khẩu Không gian Làm việc trước khi vào</string>
+    <string name="reset_passwd_success">Mật khẩu đã được đặt lại thành công</string>
+    <string name="air_space_exit">Thoát không gian</string>
+    <string name="air_space_setting">Cài đặt Không gian</string>
+    <string name="other">Khác</string>
+    <string name="airspace_users_full">Không thể tạo thêm Không gian Làm việc</string>
+    <string name="same_qr_code_title">%s đã tồn tại</string>
+    <string name="same_qr_code_des">Dường như Không gian Làm việc đã tồn tại. Bạn có thể sử dụng lối tắt Màn hình chính và Thanh thông báo để vào. Vào ngay?</string>
+    <string name="same_qr_code_enter_space">Vào Không gian Làm việc</string>
+    <string name="same_qr_code_create_space">Tạo không gian khác</string>
+    <string name="not_support_air_space">Tính năng này không được hỗ trợ trên điện thoại của bạn</string>
+    <string name="loading">Vui lòng chờ…</string>
+    <string name="contact_us">Liên hệ chúng tôi</string>
+    <string name="space_deleted">Không gian này đã bị xóa</string>
+    <string name="function_not_support">Chưa hỗ trợ trên thiết bị này</string>
 </resources>

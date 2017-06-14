@@ -12,7 +12,6 @@
     <string name="no_applications">Trống</string>
     <string name="add_applications">Chọn ứng dụng</string>
     <string name="add_apps_title">Ứng dụng</string>
-    <string name="select_items">Đã chọn %d</string>
     <string name="settings_safetylegal_activity_loading">Vui lòng chờ…</string>
     <string name="power_chooser_user_define_title">Chế độ mới</string>
     <string name="power_event_user_define_title">Sự kiện mới</string>
@@ -113,7 +112,6 @@
     <string name="power_config_apps">Tiết kiệm Pin trong nền</string>
     <string name="app_list_title">Chọn ứng dụng</string>
     <string name="power_hide_mode_app_list_summary">Cài đặt ứng dụng</string>
-    <string name="app_list_total">%d ứng dụng</string>
     <string name="power_config_mode_title">Chế độ tiết kiệm Pin</string>
     <string name="power_config_disable_title">Tắt</string>
     <string name="power_config_disable_description">MIUI sẽ không hạn chế hoạt động nền</string>
@@ -153,6 +151,23 @@ Tiết kiệm Pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="ragment_sys_listempty">Không có ứng dụng hệ thống</string>
     <string name="fragment_nonesys_listempty">Không có ứng dụng đã cài đặt</string>
     <string name="app_invisible_title">Ẩn ứng dụng</string>
+    <string name="google_base_app_install_choice">\"%s\" yêu cầu ứng dụng Google Service Framwork (Khung dịch vụ Google) để hoạt động bình thường, tải xuống và cài đặt?</string>
+    <string name="power_checker_partial_wakelock_title">%1$s ngăn chặn MIUI vào chế độ ngủ</string>
+    <string name="power_checker_wifi_scan_title">%1$s tìm kiếm Wi-Fi thường xuyên</string>
+    <string name="power_checker_background_gps_title">%1$s nhận thông tin vị trí thường xuyên</string>
+    <string name="power_checker_background_cpu_title">%1$s hoạt động bất thường</string>
+    <string name="power_checker_wakeup_alarm_title">%1$s khởi chạy thường xuyên</string>
+    <string name="power_checker_mobile_radio_title">%1$s truy cập mạng thường xuyên</string>
+    <string name="power_checker_partial_wakelock_multi_apps_title">%1$s ngăn chặn MIUI vào chế độ ngủ</string>
+    <string name="power_checker_wifi_scan_multi_apps_title">%1$s tìm kiếm Wi-Fi thường xuyên</string>
+    <string name="power_checker_background_gps_multi_apps_title">%1$s nhận thông tin vị trí thường xuyên</string>
+    <string name="power_checker_background_cpu_multi_apps_title">%1$s hoạt động bất thường</string>
+    <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s khởi chạy thường xuyên</string>
+    <string name="power_checker_mobile_radio_multi_apps_title">%1$s truy cập mạng thường xuyên</string>
+    <string name="power_checker_multi_apps_title">Ứng dụng hao pin: %2$s</string>
+    <string name="power_checker_notify_summary">Tối ưu ứng dụng hao Pin</string>
+    <string name="app_list_total">%d ứng dụng</string>
     <string name="power_config_normal_description">Hạn chế truy cập nền đến dịch vụ vị trí và kết nối mạng</string>
     <string name="power_config_normal_title">Tiêu chuẩn</string>
+    <string name="select_items">Đã chọn %d</string>
 </resources>
